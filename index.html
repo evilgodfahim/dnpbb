@@ -40,17 +40,26 @@ async function fetchAll() {
 
   allItems.forEach(item => {
     const li = document.createElement("li");
-    const a = document.createElement("a");
 
+    // Title link
+    const a = document.createElement("a");
     a.textContent = item.title || "No title";
     a.href = baseURL + (item.url_path || "/");
     a.target = "_blank";
     li.appendChild(a);
 
+    // Publication date
     if (item.first_published_at) {
       const span = document.createElement("span");
       span.textContent = " - " + new Date(item.first_published_at).toLocaleDateString();
       li.appendChild(span);
+    }
+
+    // Summary / snippet
+    if (item.summary) {
+      const p = document.createElement("p");
+      p.textContent = item.summary;
+      li.appendChild(p);
     }
 
     postList.appendChild(li);
