@@ -24,10 +24,15 @@ jobs:
       - name: Generate RSS feed
         run: python generate_rss.py
 
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add feed.xml
-          git commit -m "Update RSS feed" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/evilgodfahim/bb-rss.git HEAD:main
+      - name: Commit and push RSS feed updates
+  run: |
+    git config user.name "github-actions[bot]"
+    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+    git add feed.xml
+
+    if git diff --staged --quiet; then
+      echo "No changes to commit"
+    else
+      git commit -m "Update RSS feed - $(date '+%Y-%m-%d %H:%M:%S')"
+      git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/evilgodfahim/bb-rss.git HEAD:main
+    fi
