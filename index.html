@@ -47,14 +47,11 @@ async function fetchAll() {
 
     a.textContent = item.title || "No title";
 
-    // ✅ Fix for wrong /home duplication
+    // ✅ Force-remove "/home" from url_path
     let fullLink = item.url_path || "/";
-    if (fullLink.startsWith("/home")) {
-      a.href = baseURL + fullLink; // keep as-is if starts with /home
-    } else {
-      a.href = baseURL + "/" + fullLink.replace(/^\/+/, "");
-    }
+    fullLink = fullLink.replace(/^\/home/, "");  
 
+    a.href = baseURL + fullLink;
     a.target = "_blank";
     li.appendChild(a);
 
