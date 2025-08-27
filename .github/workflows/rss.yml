@@ -30,4 +30,4 @@ jobs:
           git config user.email "actions@github.com"
           git add feed.xml
           git commit -m "Update RSS feed" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/evilgodfahim/bb-rss.git HEAD:main 
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/evilgodfahim/bb-rss.git HEAD:main
