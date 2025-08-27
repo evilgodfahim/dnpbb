@@ -10,56 +10,54 @@
 
 <script>
 const apiURLs = [
-"https://bonikbarta.com/api/post-filters/41?root_path=00000000010000000001",
-"https://bonikbarta.com/api/post-filters/52?root_path=00000000010000000001"
+  "https://bonikbarta.com/api/post-filters/41?root_path=00000000010000000001",
+  "https://bonikbarta.com/api/post-filters/52?root_path=00000000010000000001"
 ];
 const baseURL = "https://bonikbarta.com";
 
 async function fetchAll() {
-let allItems = [];
+  let allItems = [];
 
-for (let url of apiURLs) {
-try {
-const response = await fetch(url);
-const data = await response.json();
-const items = (data.content && data.content.items) || [];
-allItems = allItems.concat(items);
-} catch (err) {
-console.error("Failed to load from", url, err);
-}
-}
+  for (let url of apiURLs) {
+    try {
+      const response = await fetch("https://api.allorigins.win/raw?url=" + encodeURIComponent(url));
+      const data = await response.json();
+      const items = data.posts || [];
+      allItems = allItems.concat(items);
+    } catch (err) {
+      console.error("Failed to load from", url, err);
+    }
+  }
 
-// Sort by published date (newest first)
-allItems.sort((a, b) => new Date(b.first_published_at) - new Date(a.first_published_at));
+  allItems.sort((a, b) => new Date(b.first_published_at) - new Date(a.first_published_at));
 
-const postList = document.getElementById("posts");
+  const postList = document.getElementById("posts");
 
-if (allItems.length === 0) {
-postList.textContent = "❌ No posts found.";
-return;
-}
+  if (allItems.length === 0) {
+    postList.textContent = "❌ No posts found.";
+    return;
+  }
 
-allItems.forEach(item => {
-const li = document.createElement("li");
-const a = document.createElement("a");
+  allItems.forEach(item => {
+    const li = document.createElement("li");
+    const a = document.createElement("a");
 
-a.textContent = item.title || "No title";
-a.href = baseURL + (item.url_path || "/");
-a.target = "_blank";
-li.appendChild(a);
+    a.textContent = item.title || "No title";
+    a.href = baseURL + (item.url_path || "/");
+    a.target = "_blank";
+    li.appendChild(a);
 
-if (item.first_published_at) {
-const span = document.createElement("span");
-span.textContent = " - " + new Date(item.first_published_at).toLocaleDateString();
-li.appendChild(span);
-}
+    if (item.first_published_at) {
+      const span = document.createElement("span");
+      span.textContent = " - " + new Date(item.first_published_at).toLocaleDateString();
+      li.appendChild(span);
+    }
 
-postList.appendChild(li);
-});
+    postList.appendChild(li);
+  });
 }
 
 fetchAll();
 </script>
 </body>
-
 </html>
