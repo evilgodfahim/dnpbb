@@ -1,4 +1,3 @@
-# .github/workflows/update-rss.yml
 name: Update RSS Feed
 
 on:
@@ -98,7 +97,7 @@ jobs:
           async function main() {
             try {
               const items = await fetchAll();
-              const rssContent = generateRSS(items.slice(0, 50)); // Limit to 50 items
+              const rssContent = generateRSS(items.slice(0, 50));
               fs.writeFileSync('feed.xml', rssContent);
               console.log('RSS feed generated with ' + items.length + ' articles');
             } catch (error) {
@@ -119,7 +118,7 @@ jobs:
           </Files>
           HTACCESS_EOF
           
-        - name: Commit and push changes
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
