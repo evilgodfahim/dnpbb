@@ -2,12 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bonikbarta Combined Feed</title>
-    <link>https://evilgodfahim.github.io/bb-rss/</link>
-    <atom:link href="https://evilgodfahim.github.io/bb-rss/feed.xml?v=20250828T073" rel="self" type="application/rss+xml" />
+    <link>https://harmonious-froyo-665879.netlify.app/</link>
+    <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 28 Aug 2025 07:33:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 07:57:44 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>দেশের সব প্রকৌশল বিশ্ববিদ্যালয়ে চলছে 'কমপ্লিট শাটডাউন'</title>
+      <link>https://bonikbarta.com/bangladesh/dnrm5sAFaA6xZnHo/</link>
+      <description><![CDATA[গতকাল বুধবার রাতে কমপ্লিট শাটডাউন কর্মসূচি ঘোষণা করে আন্দোলনরত শিক্ষার্থীদের প্ল্যাটফর্ম প্রকৌশল অধিকার আন্দোলন। আজ সকালে বুয়েটের কোনো বিভাগের কোথাও শিক্ষার্থীরা আসেননি। কর্মকর্তা–কর্মচারীরা জানান, গতকাল থেকেই শাটডাউন কর্মসূচি পালন করছেন শিক্ষার্থীরা।]]></description>
+      <pubDate>Thu, 28 Aug 2025 07:35:19 GMT</pubDate>
+      <guid isPermaLink="false">097e8d99d94b64d390dda747c266b763</guid>
+    </item>
     <item>
       <title>রূপালী ব্যাংকের ইজিএম ও এজিএম অনুষ্ঠিত</title>
       <link>https://bonikbarta.com/economy/ebhW2CmeXEwiVDEq/</link>
@@ -32,9 +39,9 @@
     <item>
       <title>সাবেক এমপি মাসুদ উদ্দিনসহ ৩৩ জনের বিরুদ্ধে ১০০ কোটি টাকার মানিলন্ডারিং মামলা</title>
       <link>https://bonikbarta.com/bangladesh/Ct3XOBFyeLLnu3Ii/</link>
-      <description><![CDATA[No description available]]></description>
-      <pubDate>Thu, 28 Aug 2025 06:35:33 GMT</pubDate>
-      <guid isPermaLink="false">6a305764d8719e8cd556ed1ccbb9c65f</guid>
+      <description><![CDATA[সরকার নির্ধারিত ফি ৭৮,৯৯০ টাকার অতিরিক্ত জনপ্রতি ১ লাখ ৫০ হাজার টাকা আদায় করা হয়। এছাড়া পাসপোর্ট, কভিড-১৯ টেস্ট, মেডিকেল ও পোশাক বাবদ অতিরিক্ত ৩৬,৫০০ টাকা আদায় করার প্রমাণ পাওয়া গেছে।]]></description>
+      <pubDate>Thu, 28 Aug 2025 06:35:00 GMT</pubDate>
+      <guid isPermaLink="false">f916fec953a62f9d715b382dc8535194</guid>
     </item>
     <item>
       <title>সারাদেশে অপরিবর্তিত থাকতে পারে দিন ও রাতের তাপমাত্রা</title>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">ecbb15b81ea3e6dab6544d5339555c16</guid>
     </item>
     <item>
-      <title>এশিয়ার শেয়ারবাজারে বেশির ভাগ সূচক ঊর্ধ্বমুখী</title>
-      <link>https://bonikbarta.com/economy/m1IFAM0gNQNwUQwE/</link>
-      <description><![CDATA[এশিয়ার শেয়ারবাজারে প্রধান প্রধান সূচকগুলোর বেশির ভাগই ঊর্ধ্বমুখী ছিল গতকাল।]]></description>
-      <pubDate>Wed, 27 Aug 2025 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">8ddccea21196fd927311ae25a3800c61</guid>
+      <title>অলাভজনক বৈশিষ্ট্য ধরে রাখতে বেসরকারি বিশ্ববিদ্যালয়ের করছাড় ভর্তুকি ও নীতিসহায়তা প্রয়োজন</title>
+      <link>https://bonikbarta.com/magazine/issue3/QoZLdtfkwOFMAYIv/</link>
+      <description><![CDATA[অন্যান্য খাত যেমন নির্বাচন, স্বাস্থ্য বা প্রশাসন সংস্কারে কমিশন থাকা সত্ত্বেও উচ্চশিক্ষায় কোনো কমিশন গঠন করা হয়নি। ‘হায়ার এডুকেশন রিফর্ম কমিশন’ গঠন করা দরকার ছিল, বিশেষ করে বেসরকারি বিশ্ববিদ্যালয়গুলোর মানোন্নয়ন ও স্বচ্ছতা নিশ্চিত করতে।]]></description>
+      <pubDate>Wed, 27 Aug 2025 19:59:07 GMT</pubDate>
+      <guid isPermaLink="false">079fcf2b0b35b29f1a64d22d90f1842d</guid>
     </item>
     <item>
       <title>২ লাখ ৭০ হাজার কর্মীর তথ্য ফাঁস</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[দেশে নগদ অর্থের চাহিদা প্রতি বছর প্রায় ১০ শতাংশ করে বাড়ছে। এ চাহিদা মেটাতে গিয়ে টাকা ছাপানো, সংগ্রহ ও বিনষ্টে বছরে প্রায় ২০ হাজার কোটি টাকা খরচ হচ্ছে।]]></description>
       <pubDate>Wed, 27 Aug 2025 19:36:39 GMT</pubDate>
       <guid isPermaLink="false">d912c29e4912b201506e467b90bcf2a6</guid>
-    </item>
-    <item>
-      <title>চন্দ্রনাথ পাহাড় ঘিরে উসকানিমূলক কার্যক্রম দেখামাত্র ব্যবস্থার নির্দেশ</title>
-      <link>https://bonikbarta.com/bangladesh/PnEXNXMDmip7vdcP/</link>
-      <description><![CDATA[চট্টগ্রামের সীতাকুণ্ডের চন্দ্রনাথ পাহাড় ঘিরে উসকানিমূলক কার্যক্রমের চিহ্ন দেখামাত্র ব্যবস্থা নেয়ার নির্দেশ দিয়েছেন অন্তর্বর্তী সরকারের তিন উপদেষ্টা।]]></description>
-      <pubDate>Wed, 27 Aug 2025 19:35:53 GMT</pubDate>
-      <guid isPermaLink="false">06a6bba610ad6e41a6eec91bd53165c0</guid>
     </item>
   </channel>
 </rss>
