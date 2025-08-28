@@ -1,4 +1,4 @@
-name: Update RSS Feed and Deploy to Netlify
+name: Update RSS Feed and PolitePol HTML
 
 on:
   schedule:
@@ -62,8 +62,8 @@ jobs:
               '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n' +
               '  <channel>\n' +
               '    <title>Bonikbarta Combined Feed</title>\n' +
-              '    <link>https://harmonious-froyo-665879.netlify.app/</link>\n' +
-              '    <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>\n' +
+              '    <link>https://your-repo.github.io/bb-rss/</link>\n' +
+              '    <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>\n' +
               '    <description>Latest articles from Bonikbarta</description>\n' +
               '    <language>bn</language>\n' +
               '    <lastBuildDate>' + nowUTC + '</lastBuildDate>\n' +
@@ -163,8 +163,3 @@ jobs:
             git commit -m "Update RSS feed and PolitePol HTML - $(date)"
             git push
           fi
-
-      - name: Deploy to Netlify
-        run: |
-          npm install netlify-cli -g
-          netlify deploy --dir=. --prod --site=$NETLIFY_SITE_ID --auth=$NETLIFY_AUTH_TOKEN
