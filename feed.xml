@@ -2,12 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bonikbarta Combined Feed</title>
-    <link>https://harmonious-froyo-665879.netlify.app/</link>
-    <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://your-repo.github.io/bb-rss/</link>
+    <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 28 Aug 2025 10:44:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 10:48:01 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>চীন সফর শেষে দেশে ফিরলেন সেনাপ্রধান</title>
+      <link>https://bonikbarta.com/bangladesh/HbLGv23CbGmHokc3/</link>
+      <description><![CDATA[সাক্ষাৎকালে তারা দুই দেশের মধ্যে কৌশলগত সহযোগিতা, জনগণের মধ্যে পারস্পরিক যোগাযোগ, জোরপূর্বক বাস্তুচ্যুত মিয়ানমার নাগরিকদের প্রত্যাবর্তনে সহায়তা ইত্যাদি বিষয়ে আলোচনা করেন।]]></description>
+      <pubDate>Thu, 28 Aug 2025 10:45:10 GMT</pubDate>
+      <guid isPermaLink="false">947977e666402a77c7ad520ea6eb61cb</guid>
+    </item>
     <item>
       <title>ভুলে যাওয়াটা আমার একটা অসুখ, বিবাহবার্ষিকীতে চঞ্চল</title>
       <link>https://bonikbarta.com/talkies/QXBac3LrVTQd26pl/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">89be934e1aeb27bd2838356ae9ea47c7</guid>
     </item>
     <item>
-      <title>ব্যাংক খাতে ফরেনসিক অডিট প্রাতিষ্ঠানিকীকরণ জরুরি</title>
-      <link>https://bonikbarta.com/bangladesh/7uIg7QnsSthaxZ2V/</link>
-      <description><![CDATA[দীর্ঘদিন ধরে আর্থিক অনিয়মে ঘুরপাক খাচ্ছে বাংলাদেশের ব্যাংক খাত। জালিয়াতি, অর্থ আত্মসাৎ ও অব্যবস্থাপনার মতো সমস্যা এসব প্রতিষ্ঠানের স্থিতিশীলতা নষ্ট করে জনগণের আস্থা ক্ষুণ্ন ও সামগ্রিক অর্থনৈতিক কাঠামোর জন্য হুমকি তৈরি করছে।]]></description>
-      <pubDate>Wed, 27 Aug 2025 21:28:00 GMT</pubDate>
-      <guid isPermaLink="false">9f114326c14112b52f77d62f3e5d6580</guid>
+      <title>হাজার কোটি টাকা ব্যয়ে প্রধান কার্যালয়ের জন্য ভবন কিনবে ডাচ্-বাংলা ব্যাংক</title>
+      <link>https://bonikbarta.com/economy/CxWeDl1FPLp0YbdT/</link>
+      <description><![CDATA[করপোরেট প্রধান কার্যালয়ের জন্য রাজধানী মতিঝিলে একটি বাণিজ্যিক ভবন কেনার সিদ্ধান্ত নিয়েছে পুঁজিবাজারে তালিকাভুক্ত ডাচ্-বাংলা ব্যাংক পিএলসি।]]></description>
+      <pubDate>Wed, 27 Aug 2025 21:18:00 GMT</pubDate>
+      <guid isPermaLink="false">4189029a974ad07a34d8b95ae4c8f616</guid>
     </item>
     <item>
       <title>প্রকৌশল শিক্ষার্থীদের ওপর পুলিশের লাঠিচার্জ</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[আজকের স্মার্টফোননির্ভর যুগে আলাদা করে একটি ডাম্ব ফোন বা ফিচার ফোন বহন করা অনেকের কাছে অপ্রয়োজনীয় বা সেকেলে মনে হতে পারে।]]></description>
       <pubDate>Wed, 27 Aug 2025 19:54:58 GMT</pubDate>
       <guid isPermaLink="false">61ac9c961515b2052206b8e0f3a13488</guid>
-    </item>
-    <item>
-      <title>শিক্ষা খাতে সংস্কারের জন্য জ্ঞান ও দক্ষতাভিত্তিক শিক্ষার সংমিশ্রণে নতুন পদ্ধতি তৈরি করতে হবে</title>
-      <link>https://bonikbarta.com/magazine/issue3/bkPejwX6UZiM7vBa/</link>
-      <description><![CDATA[শিক্ষা খাতে দ্রুত সংস্কার করাটা কঠিন কাজ। বর্তমান সরকারের প্রথম চার-পাঁচ মাস লেগেছে থিতু হতেই। সিলেবাস বা পাঠ্যবইয়ের কন্টেন্ট পরিবর্তনের মতো কিছু কাজ এ সময়ে হয়েছে, কিন্তু শিক্ষা খাতে কাঠামোগত সংস্কার নিয়ে কোনো উদ্যোগ দৃশ্যমান হয়নি।]]></description>
-      <pubDate>Wed, 27 Aug 2025 19:54:21 GMT</pubDate>
-      <guid isPermaLink="false">ef131b4dfe3ea6a151f9c33e26098c4f</guid>
     </item>
   </channel>
 </rss>
