@@ -58,17 +58,19 @@ jobs:
           }
 
           function generateRSS(items) {
-            const now = new Date().toUTCString();
-            
+            const now = new Date();
+            const timestamp = now.toISOString().replace(/[-:.]/g, '').slice(0, 12); // YYYYMMDDHHMM
+            const nowUTC = now.toUTCString();
+
             let rss = '<?xml version="1.0" encoding="UTF-8"?>\n' +
             '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n' +
             '  <channel>\n' +
             '    <title>Bonikbarta Combined Feed</title>\n' +
             '    <link>https://evilgodfahim.github.io/bb-rss/</link>\n' +
-            '    <atom:link href="https://evilgodfahim.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml" />\n' +
+            '    <atom:link href="https://evilgodfahim.github.io/bb-rss/feed.xml?v=' + timestamp + '" rel="self" type="application/rss+xml" />\n' +
             '    <description>Latest articles from Bonikbarta</description>\n' +
             '    <language>bn</language>\n' +
-            '    <lastBuildDate>' + now + '</lastBuildDate>\n' +
+            '    <lastBuildDate>' + nowUTC + '</lastBuildDate>\n' +
             '    <generator>GitHub Actions RSS Generator</generator>\n';
 
             items.forEach(item => {
@@ -78,7 +80,7 @@ jobs:
               
               const pubDate = item.first_published_at 
                 ? new Date(item.first_published_at).toUTCString() 
-                : now;
+                : nowUTC;
               
               const title = (item.title || "No title")
                 .replace(/&/g, '&amp;')
