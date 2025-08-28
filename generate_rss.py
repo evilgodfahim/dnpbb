@@ -3,29 +3,31 @@ import datetime
 import xml.etree.ElementTree as ET
 from email.utils import formatdate
 
-# URL of Bonik Barta JSON API
-API_URL = "https://bonikbarta.com/api/post-filters/41?root_path=00000000010000000001"
+# Multiple API URLs like your index.html
+API_URLS = [
+    "https://bonikbarta.com/api/post-filters/41?root_path=00000000010000000001",
+    "https://bonikbarta.com/api/post-filters/52?root_path=00000000010000000001"
+]
 
 def get_current_time_rfc2822():
     """Get current time in RFC2822 format for RSS."""
     return formatdate()
 
 def parse_date(date_string):
-    """Parse various date formats and return RFC2822 format for RSS."""
+    """Parse date string and return RFC2822 format for RSS."""
     if not date_string:
         return get_current_time_rfc2822()
     
     try:
-        # Try parsing ISO format first
+        # Parse ISO format date
         dt = datetime.datetime.fromisoformat(date_string.replace('Z', '+00:00'))
         return formatdate(dt.timestamp())
     except:
         try:
-            # Try other common formats
+            # Try other formats
             dt = datetime.datetime.strptime(date_string, "%Y-%m-%d %H:%M:%S")
             return formatdate(dt.timestamp())
         except:
-            # Return current time if parsing fails
             return get_current_time_rfc2822()
 
 def escape_xml(text):
@@ -39,15 +41,36 @@ def escape_xml(text):
             .replace('"', "&quot;")
             .replace("'", "&apos;"))
 
-# Try multiple approaches to get data
-data = {}
-posts = []
+def fetch_posts_from_api(url, headers):
+    """Fetch posts from a single API URL."""
+    try:
+        print(f"Fetching from: {url}")
+        response = requests.get(url, headers=headers, timeout=15)
+        print(f"Status: {response.status_code}")
+        
+        if response.status_code == 200:
+            data = response.json()
+            # Handle different response structures
+            posts = []
+            if isinstance(data, dict):
+                posts = data.get("posts", [])
+                if not posts and "content" in data and "items" in data["content"]:
+                    posts = data["content"]["items"]
+            elif isinstance(data, list):
+                posts = data
+            
+            print(f"Found {len(posts)} posts")
+            return posts
+        else:
+            print(f"HTTP {response.status_code}: {response.text[:200]}")
+            return []
+    except Exception as e:
+        print(f"Error fetching from {url}: {e}")
+        return []
 
-print("Attempting to fetch data from Bonik Barta API...")
-
-# Headers to mimic a real browser request
+# Headers to mimic browser request (same as your HTML would send)
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
     'Accept': 'application/json, text/plain, */*',
     'Accept-Language': 'en-US,en;q=0.9,bn;q=0.8',
     'Accept-Encoding': 'gzip, deflate, br',
@@ -56,158 +79,126 @@ headers = {
     'Sec-Fetch-Dest': 'empty',
     'Sec-Fetch-Mode': 'cors',
     'Sec-Fetch-Site': 'same-origin',
+    'Cache-Control': 'no-cache'
 }
 
-try:
-    print("Trying with browser headers...")
-    resp = requests.get(API_URL, headers=headers, timeout=15)
-    print(f"Response status: {resp.status_code}")
-    resp.raise_for_status()
-    data = resp.json()
-    posts = data.get("posts", [])
-    print(f"Successfully fetched {len(posts)} posts")
-except requests.exceptions.HTTPError as e:
-    print(f"HTTP Error {resp.status_code}: {e}")
-    if resp.status_code == 403:
-        print("Access forbidden. The API might be blocking automated requests.")
-    print("Trying alternative approaches...")
-except requests.exceptions.RequestException as e:
-    print(f"Request failed: {e}")
-except ValueError as e:
-    print(f"Failed to parse JSON: {e}")
+print("🚀 Starting Bonik Barta RSS Generator...")
+print("📡 Fetching from multiple API endpoints...")
 
-# Try alternative API endpoints if main one fails
-if not posts:
-    alternative_urls = [
-        "https://bonikbarta.com/api/posts",
-        "https://bonikbarta.com/api/latest-posts",
-        "https://bonikbarta.com/wp-json/wp/v2/posts",
-    ]
-    
-    for alt_url in alternative_urls:
-        try:
-            print(f"Trying alternative URL: {alt_url}")
-            resp = requests.get(alt_url, headers=headers, timeout=10)
-            if resp.status_code == 200:
-                alt_data = resp.json()
-                if isinstance(alt_data, list):
-                    posts = alt_data[:10]  # Take first 10
-                elif isinstance(alt_data, dict) and "posts" in alt_data:
-                    posts = alt_data["posts"][:10]
-                
-                if posts:
-                    print(f"Found {len(posts)} posts from alternative endpoint")
-                    break
-        except Exception as e:
-            print(f"Alternative URL failed: {e}")
-            continue
+# Fetch from all APIs (same as your index.html)
+all_posts = []
+for api_url in API_URLS:
+    posts = fetch_posts_from_api(api_url, headers)
+    all_posts.extend(posts)
 
-# Build XML RSS
+print(f"\n📊 Total posts collected: {len(all_posts)}")
+
+# Sort by published date (newest first) - same as your index.html
+if all_posts:
+    all_posts.sort(key=lambda x: x.get("first_published_at", ""), reverse=True)
+    print(f"📅 Latest post date: {all_posts[0].get('first_published_at', 'Unknown')}")
+
+# Build RSS feed
+print("\n🔧 Building RSS feed...")
 rss = ET.Element("rss", version="2.0")
 rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
 
 channel = ET.SubElement(rss, "channel")
-ET.SubElement(channel, "title").text = "Bonik Barta RSS Feed"
+ET.SubElement(channel, "title").text = "Bonik Barta Combined Feed"
 ET.SubElement(channel, "link").text = "https://bonikbarta.com/"
-ET.SubElement(channel, "description").text = "Auto-generated RSS feed from Bonik Barta - Latest news and updates"
+ET.SubElement(channel, "description").text = "Combined RSS feed from Bonik Barta - Latest news from multiple categories"
 ET.SubElement(channel, "language").text = "bn"
 ET.SubElement(channel, "lastBuildDate").text = get_current_time_rfc2822()
-ET.SubElement(channel, "generator").text = "GitHub Actions RSS Generator"
+ET.SubElement(channel, "generator").text = "Bonik Barta RSS Generator"
 
-# Add self-referencing link
+# Self-referencing link
 atom_link = ET.SubElement(channel, "atom:link")
 atom_link.set("href", "https://evilgodfahim.github.io/bb-rss/feed.xml")
 atom_link.set("rel", "self")
 atom_link.set("type", "application/rss+xml")
 
-if not posts:
-    print("No posts found from any source, creating fallback content...")
-    # Add a more informative placeholder item
+# Process posts
+if not all_posts:
+    print("⚠️  No posts found, creating status item...")
     item = ET.SubElement(channel, "item")
-    ET.SubElement(item, "title").text = "RSS Feed Status - Unable to fetch posts"
+    ET.SubElement(item, "title").text = "Bonik Barta RSS - No Posts Available"
     ET.SubElement(item, "link").text = "https://bonikbarta.com/"
     ET.SubElement(item, "pubDate").text = get_current_time_rfc2822()
-    ET.SubElement(item, "description").text = f"Unable to fetch posts from API at {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}. The API may be temporarily unavailable or blocking automated requests. This feed will retry automatically."
+    ET.SubElement(item, "description").text = f"Unable to fetch posts from Bonik Barta APIs at {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}. APIs may be temporarily unavailable. Feed will retry automatically every hour."
     
     guid = ET.SubElement(item, "guid")
-    guid.text = f"https://bonikbarta.com/status-{datetime.datetime.now().strftime('%Y%m%d%H')}"
+    guid.text = f"status-{datetime.datetime.now().strftime('%Y%m%d%H')}"
     guid.set("isPermaLink", "false")
 else:
-    print(f"Processing {len(posts)} posts...")
-    for i, post in enumerate(posts):
+    # Limit to 50 most recent posts to keep feed manageable
+    recent_posts = all_posts[:50]
+    print(f"📝 Processing {len(recent_posts)} most recent posts...")
+    
+    for i, post in enumerate(recent_posts):
         try:
             item = ET.SubElement(channel, "item")
             
-            # Handle different possible field names for title
-            title = post.get("title") or post.get("post_title") or post.get("name") or f"Post {i+1}"
-            ET.SubElement(item, "title").text = escape_xml(title)
-            print(f"Processing: {title[:50]}...")
-
-            # Handle different possible field names for URL
-            url_path = post.get("url_path") or post.get("link") or post.get("url") or post.get("permalink")
-            if url_path:
-                if url_path.startswith("http"):
-                    link = url_path
-                else:
-                    clean_url = url_path.replace("/home", "")
-                    if not clean_url.startswith("/"):
-                        clean_url = "/" + clean_url
-                    link = "https://bonikbarta.com" + clean_url
-            else:
-                link = "https://bonikbarta.com/"
+            # Title
+            title = escape_xml(post.get("title", f"Post {i+1}"))
+            ET.SubElement(item, "title").text = title
             
-            ET.SubElement(item, "link").text = link
-
-            # Handle different possible field names for date
-            pub_date_raw = (post.get("first_published_at") or 
-                          post.get("published_at") or 
-                          post.get("date") or 
-                          post.get("created_at"))
-            pub_date = parse_date(pub_date_raw)
+            # URL - same logic as your index.html
+            url_path = post.get("url_path", "/")
+            # Force remove "/home" prefix like in your HTML
+            clean_url = url_path.replace("/home", "")
+            if not clean_url.startswith("/"):
+                clean_url = "/" + clean_url
+            
+            full_link = "https://bonikbarta.com" + clean_url
+            ET.SubElement(item, "link").text = full_link
+            
+            # Publication date
+            pub_date = parse_date(post.get("first_published_at"))
             ET.SubElement(item, "pubDate").text = pub_date
-
-            # Handle different possible field names for description
-            description = (post.get("summary") or 
-                         post.get("excerpt") or 
-                         post.get("description") or 
-                         post.get("content", "")[:200] or
-                         "No description available")
-            ET.SubElement(item, "description").text = escape_xml(description)
-
-            # Add GUID
+            
+            # Description
+            description = escape_xml(post.get("summary", post.get("excerpt", "Read full article at Bonik Barta")))
+            ET.SubElement(item, "description").text = description
+            
+            # GUID
             guid = ET.SubElement(item, "guid")
-            guid.text = link
+            guid.text = full_link
             guid.set("isPermaLink", "true")
-
-            # Add category if available
-            category = post.get("category") or post.get("categories")
-            if category:
-                if isinstance(category, list) and category:
-                    category = category[0]
+            
+            # Category if available
+            if "category" in post and post["category"]:
+                category = post["category"]
                 if isinstance(category, dict):
                     category = category.get("name", "")
-                if category:
-                    ET.SubElement(item, "category").text = escape_xml(str(category))
-
+                ET.SubElement(item, "category").text = escape_xml(str(category))
+            
+            if i < 3:  # Show first 3 processed
+                print(f"  ✓ {title[:60]}...")
+                
         except Exception as e:
-            print(f"Error processing post {i}: {e}")
+            print(f"❌ Error processing post {i}: {e}")
             continue
 
-# Save to feed.xml with proper formatting
+# Save RSS feed
+print("\n💾 Saving RSS feed...")
 tree = ET.ElementTree(rss)
+
+# Pretty print if available
 try:
-    ET.indent(tree, space="  ", level=0)  # Pretty print (Python 3.9+)
+    ET.indent(tree, space="  ", level=0)
 except AttributeError:
-    pass  # Skip pretty printing for older Python versions
+    pass
 
 tree.write("feed.xml", encoding="utf-8", xml_declaration=True)
 
-print(f"\n✅ RSS feed generated successfully!")
-print(f"📊 Total items in feed: {len(posts) if posts else 1}")
-print(f"📁 File saved as: feed.xml")
-print(f"🔗 Feed URL: https://evilgodfahim.github.io/bb-rss/feed.xml")
+print("\n🎉 RSS Feed Generated Successfully!")
+print(f"📊 Total items in feed: {len(all_posts) if all_posts else 1}")
+print(f"📁 File: feed.xml")
+print(f"🔗 RSS URL: https://evilgodfahim.github.io/bb-rss/feed.xml")
+print(f"📱 Add this URL to Inoreader: https://evilgodfahim.github.io/bb-rss/feed.xml")
 
-if not posts:
-    print("\n⚠️  Note: Feed contains placeholder content due to API access issues")
+if all_posts:
+    print(f"\n📰 Latest article: '{all_posts[0].get('title', 'Unknown')}'")
+    print(f"📅 Published: {all_posts[0].get('first_published_at', 'Unknown')}")
 else:
-    print(f"📰 Latest post: {posts[0].get('title', 'Unknown') if posts else 'None'}")
+    print("\n⚠️  Feed contains status message - will retry next hour")
