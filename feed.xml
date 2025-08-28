@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bonik Barta RSS Feed</title>
+    <title>Bonik Barta Combined Feed</title>
     <link>https://bonikbarta.com/</link>
-    <description>Auto-generated RSS feed from Bonik Barta - Latest news and updates</description>
+    <description>Combined RSS feed from Bonik Barta - Latest news from multiple categories</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 28 Aug 2025 04:20:20 -0000</lastBuildDate>
-    <generator>GitHub Actions RSS Generator</generator>
+    <lastBuildDate>Thu, 28 Aug 2025 04:33:18 -0000</lastBuildDate>
+    <generator>Bonik Barta RSS Generator</generator>
     <atom:link href="https://evilgodfahim.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>RSS Feed Status - Unable to fetch posts</title>
+      <title>Bonik Barta RSS - No Posts Available</title>
       <link>https://bonikbarta.com/</link>
-      <pubDate>Thu, 28 Aug 2025 04:20:20 -0000</pubDate>
-      <description>Unable to fetch posts from API at 2025-08-28 04:20:20. The API may be temporarily unavailable or blocking automated requests. This feed will retry automatically.</description>
-      <guid isPermaLink="false">https://bonikbarta.com/status-2025082804</guid>
+      <pubDate>Thu, 28 Aug 2025 04:33:18 -0000</pubDate>
+      <description>Unable to fetch posts from Bonik Barta APIs at 2025-08-28 04:33:18. APIs may be temporarily unavailable. Feed will retry automatically every hour.</description>
+      <guid isPermaLink="false">status-2025082804</guid>
     </item>
   </channel>
 </rss>
