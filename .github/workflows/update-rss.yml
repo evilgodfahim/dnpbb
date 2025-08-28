@@ -56,10 +56,11 @@ jobs:
             const now = new Date().toUTCString();
             
             let rss = '<?xml version="1.0" encoding="UTF-8"?>' + '\n' +
-            '<rss version="2.0">' + '\n' +
+            '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">' + '\n' +
             '  <channel>' + '\n' +
             '    <title>Bonikbarta Combined Feed</title>' + '\n' +
             '    <link>https://evilgodfahim.github.io/bb-rss/</link>' + '\n' +
+            '    <atom:link href="https://evilgodfahim.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml" />' + '\n' +
             '    <description>Latest articles from Bonikbarta</description>' + '\n' +
             '    <language>bn</language>' + '\n' +
             '    <lastBuildDate>' + now + '</lastBuildDate>' + '\n' +
@@ -110,14 +111,22 @@ jobs:
           
           node generate-rss.js
           
-      - name: Commit and push changes
+          # Add .htaccess for proper content-type headers
+          cat > .htaccess << 'HTACCESS_EOF'
+          <Files "feed.xml">
+              Header set Content-Type "application/rss+xml; charset=UTF-8"
+              Header set Cache-Control "max-age=3600"
+          </Files>
+          HTACCESS_EOF
+          
+        - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add feed.xml
+          git add feed.xml .htaccess
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Update RSS feed - $(date)"
             git push
-          fi 
+          fi
