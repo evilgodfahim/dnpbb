@@ -12,7 +12,7 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Setup Node.js
@@ -20,83 +20,17 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Generate RSS Feed and PolitePol HTML
+      - name: Install Dependencies
         run: |
-          cat > generate-all.js << 'EOF'
-          const fs = require('fs');
-          const crypto = require('crypto');
-          const apiURLs = [
-            "https://bonikbarta.com/api/post-filters/41?root_path=00000000010000000001",
-            "https://bonikbarta.com/api/post-filters/52?root_path=00000000010000000001"
-          ];
-          const baseURL = "https://bonikbarta.com";
+          npm install netlify-cli -g
 
-          async function fetchAll() {
-            let allItems = [];
-            for (let url of apiURLs) {
-              try {
-                const res = await fetch(url);
-                const data = await res.json();
-                const items = (data.posts && Array.isArray(data.posts)) ? data.posts
-                              : ((data.content && data.content.items) || []);
-                allItems = allItems.concat(items);
-              } catch (err) { console.error("Failed fetch:", url, err); }
-            }
-            allItems.sort((a,b)=> new Date(b.first_published_at) - new Date(a.first_published_at));
-            return allItems;
-          }
+      - name: Generate RSS Feed
+        run: node generate-rss.js
 
-          function generateGUID(item) {
-            const str = (item.title||'')+(item.excerpt||'')+(item.first_published_at||'');
-            return crypto.createHash('md5').update(str).digest('hex');
-          }
+      - name: Generate PolitePol-friendly HTML
+        run: node generate-plain-index.js
 
-          function generateRSS(items) {
-            const nowUTC = new Date().toUTCString();
-            let rss = '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n  <channel>\n';
-            rss += `    <title>Bonikbarta Combined Feed</title>\n    <link>https://harmonious-froyo-665879.netlify.app/</link>\n`;
-            rss += `    <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>\n`;
-            rss += `    <description>Latest articles from Bonikbarta</description>\n    <language>bn</language>\n    <lastBuildDate>${nowUTC}</lastBuildDate>\n`;
-            rss += '    <generator>GitHub Actions RSS Generator</generator>\n';
-            items.forEach(item=>{
-              const link = baseURL + (item.url_path||"/").replace(/^\/home/,"");
-              const pub = item.first_published_at ? new Date(item.first_published_at).toUTCString() : nowUTC;
-              const title = (item.title||'No title').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-              const desc = item.excerpt || item.summary || "No description available";
-              rss += `    <item>\n      <title>${title}</title>\n      <link>${link}</link>\n      <description><![CDATA[${desc}]]></description>\n      <pubDate>${pub}</pubDate>\n      <guid isPermaLink="false">${generateGUID(item)}</guid>\n    </item>\n`;
-            });
-            rss += '  </channel>\n</rss>';
-            return rss;
-          }
-
-          function generatePolitePolHTML(items) {
-            let html = `<!DOCTYPE html>
-<html lang="bn">
-<head><meta charset="UTF-8"><title>Bonikbarta Plain Feed</title></head>
-<body>
-<h1>Bonikbarta Latest Posts</h1>
-<ul>\n`;
-            items.forEach(item=>{
-              const link = baseURL + (item.url_path||"/").replace(/^\/home/,"");
-              html += `<li><a href="${link}">${item.title||"No title"}</a></li>\n`;
-            });
-            html += '</ul></body></html>';
-            return html;
-          }
-
-          async function main() {
-            const items = await fetchAll();
-            fs.writeFileSync('feed.xml', generateRSS(items.slice(0,50)), 'utf8');
-            fs.writeFileSync('index-plain.html', generatePolitePolHTML(items.slice(0,50)), 'utf8');
-            console.log('✅ feed.xml and index-plain.html updated');
-          }
-
-          main();
-          EOF
-
-          node generate-all.js
-
-      - name: Commit updated files
+      - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -104,10 +38,12 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update feed.xml & PolitePol HTML - $(date +'%Y-%m-%d %H:%M:%S')"
+            git commit -m "Update RSS feed and PolitePol HTML - $(date)"
             git push
 
       - name: Deploy to Netlify
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
         run: |
-          npm install netlify-cli -g
           netlify deploy --dir=. --prod --site=$NETLIFY_SITE_ID --auth=$NETLIFY_AUTH_TOKEN
