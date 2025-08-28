@@ -53,16 +53,15 @@ jobs:
           function generateRSS(items) {
             const now = new Date().toUTCString();
             
-            let rss = \`<?xml version="1.0" encoding="UTF-8"?>
-          <rss version="2.0">
-            <channel>
-              <title>Bonikbarta Combined Feed</title>
-              <link>https://evilgodfahim.github.io/bb-rss/</link>
-              <description>Latest articles from Bonikbarta</description>
-              <language>bn</language>
-              <lastBuildDate>\${now}</lastBuildDate>
-              <generator>GitHub Actions RSS Generator</generator>
-          \`;
+            let rss = '<?xml version="1.0" encoding="UTF-8"?>' + '\n' +
+            '<rss version="2.0">' + '\n' +
+            '  <channel>' + '\n' +
+            '    <title>Bonikbarta Combined Feed</title>' + '\n' +
+            '    <link>https://evilgodfahim.github.io/bb-rss/</link>' + '\n' +
+            '    <description>Latest articles from Bonikbarta</description>' + '\n' +
+            '    <language>bn</language>' + '\n' +
+            '    <lastBuildDate>' + now + '</lastBuildDate>' + '\n' +
+            '    <generator>GitHub Actions RSS Generator</generator>' + '\n';
 
             items.forEach(item => {
               let fullLink = item.url_path || "/";
@@ -80,20 +79,16 @@ jobs:
               
               const description = item.excerpt || item.summary || "No description available";
               
-              rss += \`
-              <item>
-                <title>\${title}</title>
-                <link>\${articleUrl}</link>
-                <description><![CDATA[\${description}]]></description>
-                <pubDate>\${pubDate}</pubDate>
-                <guid isPermaLink="true">\${articleUrl}</guid>
-              </item>\`;
+              rss += '    <item>' + '\n' +
+                     '      <title>' + title + '</title>' + '\n' +
+                     '      <link>' + articleUrl + '</link>' + '\n' +
+                     '      <description><![CDATA[' + description + ']]></description>' + '\n' +
+                     '      <pubDate>' + pubDate + '</pubDate>' + '\n' +
+                     '      <guid isPermaLink="true">' + articleUrl + '</guid>' + '\n' +
+                     '    </item>' + '\n';
             });
 
-            rss += \`
-            </channel>
-          </rss>\`;
-
+            rss += '  </channel>' + '\n' + '</rss>';
             return rss;
           }
 
@@ -102,7 +97,7 @@ jobs:
               const items = await fetchAll();
               const rssContent = generateRSS(items.slice(0, 50)); // Limit to 50 items
               fs.writeFileSync('feed.xml', rssContent);
-              console.log(\`RSS feed generated with \${items.length} articles\`);
+              console.log('RSS feed generated with ' + items.length + ' articles');
             } catch (error) {
               console.error('Error generating RSS:', error);
             }
