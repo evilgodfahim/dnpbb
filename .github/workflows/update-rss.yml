@@ -24,6 +24,7 @@ jobs:
         run: |
           cat > generate-rss.js << 'EOF'
           const fs = require('fs');
+          const crypto = require('crypto');
 
           const apiURLs = [
             "https://bonikbarta.com/api/post-filters/41?root_path=00000000010000000001",
@@ -51,19 +52,24 @@ jobs:
             return allItems;
           }
 
+          function generateGUID(item) {
+            const str = (item.title || '') + (item.excerpt || '') + (item.first_published_at || '');
+            return crypto.createHash('md5').update(str).digest('hex');
+          }
+
           function generateRSS(items) {
             const now = new Date().toUTCString();
             
-            let rss = '<?xml version="1.0" encoding="UTF-8"?>' + '\n' +
-            '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">' + '\n' +
-            '  <channel>' + '\n' +
-            '    <title>Bonikbarta Combined Feed</title>' + '\n' +
-            '    <link>https://evilgodfahim.github.io/bb-rss/</link>' + '\n' +
-            '    <atom:link href="https://evilgodfahim.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml" />' + '\n' +
-            '    <description>Latest articles from Bonikbarta</description>' + '\n' +
-            '    <language>bn</language>' + '\n' +
-            '    <lastBuildDate>' + now + '</lastBuildDate>' + '\n' +
-            '    <generator>GitHub Actions RSS Generator</generator>' + '\n';
+            let rss = '<?xml version="1.0" encoding="UTF-8"?>\n' +
+            '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n' +
+            '  <channel>\n' +
+            '    <title>Bonikbarta Combined Feed</title>\n' +
+            '    <link>https://evilgodfahim.github.io/bb-rss/</link>\n' +
+            '    <atom:link href="https://evilgodfahim.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml" />\n' +
+            '    <description>Latest articles from Bonikbarta</description>\n' +
+            '    <language>bn</language>\n' +
+            '    <lastBuildDate>' + now + '</lastBuildDate>\n' +
+            '    <generator>GitHub Actions RSS Generator</generator>\n';
 
             items.forEach(item => {
               let fullLink = item.url_path || "/";
@@ -80,17 +86,19 @@ jobs:
                 .replace(/>/g, '&gt;');
               
               const description = item.excerpt || item.summary || "No description available";
+
+              const guid = generateGUID(item);
               
-              rss += '    <item>' + '\n' +
-                     '      <title>' + title + '</title>' + '\n' +
-                     '      <link>' + articleUrl + '</link>' + '\n' +
-                     '      <description><![CDATA[' + description + ']]></description>' + '\n' +
-                     '      <pubDate>' + pubDate + '</pubDate>' + '\n' +
-                     '      <guid isPermaLink="true">' + articleUrl + '</guid>' + '\n' +
-                     '    </item>' + '\n';
+              rss += '    <item>\n' +
+                     '      <title>' + title + '</title>\n' +
+                     '      <link>' + articleUrl + '</link>\n' +
+                     '      <description><![CDATA[' + description + ']]></description>\n' +
+                     '      <pubDate>' + pubDate + '</pubDate>\n' +
+                     '      <guid isPermaLink="false">' + guid + '</guid>\n' +
+                     '    </item>\n';
             });
 
-            rss += '  </channel>' + '\n' + '</rss>';
+            rss += '  </channel>\n</rss>';
             return rss;
           }
 
@@ -98,7 +106,7 @@ jobs:
             try {
               const items = await fetchAll();
               const rssContent = generateRSS(items.slice(0, 50));
-              fs.writeFileSync('feed.xml', rssContent);
+              fs.writeFileSync('feed.xml', rssContent, { encoding: 'utf8' });
               console.log('RSS feed generated with ' + items.length + ' articles');
             } catch (error) {
               console.error('Error generating RSS:', error);
@@ -110,19 +118,11 @@ jobs:
           
           node generate-rss.js
           
-          # Add .htaccess for proper content-type headers
-          cat > .htaccess << 'HTACCESS_EOF'
-          <Files "feed.xml">
-              Header set Content-Type "application/rss+xml; charset=UTF-8"
-              Header set Cache-Control "max-age=3600"
-          </Files>
-          HTACCESS_EOF
-          
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add feed.xml .htaccess
+          git add feed.xml
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
