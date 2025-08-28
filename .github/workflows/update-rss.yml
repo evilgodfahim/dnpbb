@@ -57,6 +57,7 @@ jobs:
 
           function generateRSS(items) {
             const nowUTC = new Date().toUTCString();
+
             let rss = '<?xml version="1.0" encoding="UTF-8"?>\n' +
               '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n' +
               '  <channel>\n' +
@@ -109,6 +110,7 @@ jobs:
         run: |
           cat > generate-plain-index.js << 'EOF'
           const fs = require('fs');
+
           const apiURLs = [
             "https://bonikbarta.com/api/post-filters/41?root_path=00000000010000000001",
             "https://bonikbarta.com/api/post-filters/52?root_path=00000000010000000001"
@@ -125,21 +127,24 @@ jobs:
                   ? data.posts
                   : ((data.content && data.content.items) || []);
                 allItems = allItems.concat(items);
-              } catch(err){ console.error(err);}
+              } catch (err) {
+                console.error("Failed to load from", url, err);
+              }
             }
-            allItems.sort((a,b)=> new Date(b.first_published_at)-new Date(a.first_published_at));
+            allItems.sort((a,b)=> new Date(b.first_published_at) - new Date(a.first_published_at));
             return allItems;
           }
 
           async function main() {
             const items = await fetchAll();
-            let html = '<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Bonikbarta Combined Feed</title></head><body><h1>Latest Posts</h1><ul>';
-            items.forEach(item=>{
-              const fullLink = (item.url_path||"/").replace(/^\/home/,"");
-              html += '<li><a href="'+baseURL+fullLink+'" target="_blank">'+(item.title||"No title")+'</a> - '+(item.first_published_at ? new Date(item.first_published_at).toLocaleDateString():"")+'</li>';
+            let html = '<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Bonikbarta Feed</title></head><body>';
+            html += '<h1>Bonikbarta Latest Posts</h1><ul>';
+            items.slice(0,50).forEach(item => {
+              const fullLink = (item.url_path || "/").replace(/^\/home/,"");
+              html += `<li><a href="${baseURL+fullLink}" target="_blank">${item.title || 'No title'}</a> - ${item.first_published_at ? new Date(item.first_published_at).toLocaleDateString() : ''}</li>`;
             });
             html += '</ul></body></html>';
-            fs.writeFileSync('index-plain.html', html, { encoding:'utf8' });
+            fs.writeFileSync('index-plain.html', html, { encoding: 'utf8' });
           }
 
           main();
@@ -157,14 +162,9 @@ jobs:
           else
             git commit -m "Update RSS feed and PolitePol HTML - $(date)"
             git push
+          fi
 
       - name: Deploy to Netlify
-        env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
         run: |
-          mkdir -p deploy
-          cp feed.xml deploy/
-          cp index-plain.html deploy/
           npm install netlify-cli -g
-          netlify deploy --dir=deploy --prod --site=$NETLIFY_SITE_ID --auth=$NETLIFY_AUTH_TOKEN
+          netlify deploy --dir=. --prod --site=$NETLIFY_SITE_ID --auth=$NETLIFY_AUTH_TOKEN
