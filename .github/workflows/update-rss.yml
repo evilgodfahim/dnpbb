@@ -1,0 +1,126 @@
+# .github/workflows/update-rss.yml
+name: Update RSS Feed
+
+on:
+  schedule:
+    # Run every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Generate RSS Feed
+        run: |
+          cat > generate-rss.js << 'EOF'
+          const fs = require('fs');
+
+          const apiURLs = [
+            "https://bonikbarta.com/api/post-filters/41?root_path=00000000010000000001",
+            "https://bonikbarta.com/api/post-filters/52?root_path=00000000010000000001"
+          ];
+          const baseURL = "https://bonikbarta.com";
+
+          async function fetchAll() {
+            let allItems = [];
+
+            for (let url of apiURLs) {
+              try {
+                const response = await fetch(url);
+                const data = await response.json();
+                const items = (data.posts && Array.isArray(data.posts)) 
+                  ? data.posts 
+                  : ((data.content && data.content.items) || []);
+                allItems = allItems.concat(items);
+              } catch (err) {
+                console.error("Failed to load from", url, err);
+              }
+            }
+
+            allItems.sort((a, b) => new Date(b.first_published_at) - new Date(a.first_published_at));
+            return allItems;
+          }
+
+          function generateRSS(items) {
+            const now = new Date().toUTCString();
+            
+            let rss = \`<?xml version="1.0" encoding="UTF-8"?>
+          <rss version="2.0">
+            <channel>
+              <title>Bonikbarta Combined Feed</title>
+              <link>https://evilgodfahim.github.io/bb-rss/</link>
+              <description>Latest articles from Bonikbarta</description>
+              <language>bn</language>
+              <lastBuildDate>\${now}</lastBuildDate>
+              <generator>GitHub Actions RSS Generator</generator>
+          \`;
+
+            items.forEach(item => {
+              let fullLink = item.url_path || "/";
+              fullLink = fullLink.replace(/^\/home/, "");
+              const articleUrl = baseURL + fullLink;
+              
+              const pubDate = item.first_published_at 
+                ? new Date(item.first_published_at).toUTCString() 
+                : now;
+              
+              const title = (item.title || "No title")
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;');
+              
+              const description = item.excerpt || item.summary || "No description available";
+              
+              rss += \`
+              <item>
+                <title>\${title}</title>
+                <link>\${articleUrl}</link>
+                <description><![CDATA[\${description}]]></description>
+                <pubDate>\${pubDate}</pubDate>
+                <guid isPermaLink="true">\${articleUrl}</guid>
+              </item>\`;
+            });
+
+            rss += \`
+            </channel>
+          </rss>\`;
+
+            return rss;
+          }
+
+          async function main() {
+            try {
+              const items = await fetchAll();
+              const rssContent = generateRSS(items.slice(0, 50)); // Limit to 50 items
+              fs.writeFileSync('feed.xml', rssContent);
+              console.log(\`RSS feed generated with \${items.length} articles\`);
+            } catch (error) {
+              console.error('Error generating RSS:', error);
+            }
+          }
+
+          main();
+          EOF
+          
+          node generate-rss.js
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add feed.xml
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update RSS feed - $(date)"
+            git push
+          fi
