@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 29 Aug 2025 09:25:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 09:42:34 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>৮ বিভাগেই বৃষ্টির আভাস, তাপমাত্রা কমবে</title>
+      <link>https://bonikbarta.com/bangladesh/cZKLqtg8Z05Jm6ai/</link>
+      <description><![CDATA[সারাদেশের কোথাও কোথাও মাঝারি ধরনের ভারী থেকে ভারী বর্ষণ হতে পারে।]]></description>
+      <pubDate>Fri, 29 Aug 2025 09:35:33 GMT</pubDate>
+      <guid isPermaLink="false">08ea1ff1bad37e8566b5c643e0ecf26a</guid>
+    </item>
     <item>
       <title>হাতিরঝিলে দুই হাজারেরও বেশি রানারের অংশগ্রহণে মিনি ম্যারাথন অনুষ্ঠিত</title>
       <link>https://bonikbarta.com/sports/WyBbsJczPibG2zdT/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">6e50b194b3c7e75b8e80fb5646fadd70</guid>
     </item>
     <item>
-      <title>তুলা আমদানিতে শুল্কছাড়ের সময়সীমা বাড়িয়েছে ভারত</title>
-      <link>https://bonikbarta.com/economy/MR7TZVDFwYNyQo61/</link>
-      <description><![CDATA[মার্কিন শুল্কে বড় ধরনের চাপের মুখে পড়েছে ভারতের তৈরি পোশাক খাত।]]></description>
-      <pubDate>Thu, 28 Aug 2025 20:52:00 GMT</pubDate>
-      <guid isPermaLink="false">155f58e047de31b2e97038d7e89e2ad0</guid>
+      <title>জিডিটি নিলামে দুগ্ধজাত পণ্যের দরপতন</title>
+      <link>https://bonikbarta.com/economy/3WiRPLAUWYZM3Vyo/</link>
+      <description><![CDATA[নিউজিল্যান্ডের গ্লোবাল ডেইরি ট্রেডের (জিডিটি) সর্বশেষ আন্তর্জাতিক নিলামে দুগ্ধজাত পণ্যের মূল্যসূচক দশমিক ৩ শতাংশ কমেছে।]]></description>
+      <pubDate>Thu, 28 Aug 2025 20:51:54 GMT</pubDate>
+      <guid isPermaLink="false">e76f4db4f6eeca51cb7ee42fc4cfc06e</guid>
     </item>
     <item>
       <title>মিডল্যান্ড ব্যাংক পিএলসিতে এএমএল ও সিএফটি বিষয়ে অধিবেশন</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[চলতি বছরের প্রথমার্ধে (জানুয়ারি-জুন) সৌদি আরবের রিয়েল এস্টেট খাতে লেনদেন হয়েছে প্রায় ৩৩ বিলিয়ন বা ৩ হাজার ৩০০ কোটি ডলার।]]></description>
       <pubDate>Thu, 28 Aug 2025 20:20:57 GMT</pubDate>
       <guid isPermaLink="false">e4820748a863a094d76df75000fe271b</guid>
-    </item>
-    <item>
-      <title>জনপ্রিয় স্পোর্টস কার উৎপাদন বন্ধ করল নিশান</title>
-      <link>https://bonikbarta.com/economy/DOts8IsJGBrCT0kR/</link>
-      <description><![CDATA[নিশানের বহুল জনপ্রিয় স্পোর্টস কার মডেল জিটি-আর।]]></description>
-      <pubDate>Thu, 28 Aug 2025 20:20:57 GMT</pubDate>
-      <guid isPermaLink="false">6a667b07ece2aceb6bd06d683356d4b2</guid>
     </item>
   </channel>
 </rss>
