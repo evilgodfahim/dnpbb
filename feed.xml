@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 29 Aug 2025 14:43:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 15:22:27 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>কাকরাইলে জাতীয় পার্টি ও গণঅধিকার পরিষদের নেতাকর্মীদের সংঘর্ষ</title>
+      <link>https://bonikbarta.com/bangladesh/qFWQ3F3Ds0qGUdcd/</link>
+      <description><![CDATA[গণঅধিকার পরিষদের দাবি, তাদের মিছিলে পেছন থেকে হামলা করেছে জাতীয় পার্টি। অন্যদিকে জাতীয় পার্টির পাল্টা অভিযোগ, ওই মিছিল থেকে তাদের প্রধান কার্যালয়ে হামলা হয়েছে।]]></description>
+      <pubDate>Fri, 29 Aug 2025 15:08:00 GMT</pubDate>
+      <guid isPermaLink="false">6449ba9b4137110e92f9ed84860c9551</guid>
+    </item>
     <item>
       <title>বুয়েটশিক্ষার্থী শাদিদের চিকিৎসার খোঁজ নিতে ঢামেকে প্রধান উপদেষ্টার দুই প্রতিনিধি</title>
       <link>https://bonikbarta.com/bangladesh/Qlh6sJbsgUcZOV0J/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">964290dee36b48263d03af0fbb9c8976</guid>
     </item>
     <item>
-      <title>রাইট শেয়ার বাতিলের সিদ্ধান্ত পুনর্বিবেচনা করেনি বিএসইসি</title>
-      <link>https://bonikbarta.com/economy/ELqKFxjYHYHf3fQJ/</link>
-      <description><![CDATA[কনফিডেন্স সিমেন্ট পিএলসির রাইট শেয়ার ইস্যুর প্রস্তাব গত ২৯ জুলাই বাতিল করে বাংলাদেশ সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ কমিশন (বিএসইসি)।]]></description>
-      <pubDate>Thu, 28 Aug 2025 22:20:00 GMT</pubDate>
-      <guid isPermaLink="false">7a02cb0a2be3378537fdf0a47319b897</guid>
+      <title>মার্কিন-ভারত শুল্কযুদ্ধের পেছনে কি ব্রিকসের উত্থান</title>
+      <link>https://bonikbarta.com/editorial/rJgknPU28x1qUQxq/</link>
+      <description><![CDATA[ডোনাল্ড ট্রাম্প সম্প্রতি ভারতীয় পণ্যের ওপর ২৫ শতাংশ শুল্ক আরোপ করে হুমকি দিয়েছেন, যদি ভারত রাশিয়ার তেল আমদানি বন্ধ না করে তাহলে ২৭ আগস্ট থেকে শুল্কের হার ৫০ শতাংশে উন্নীত করা হবে।]]></description>
+      <pubDate>Thu, 28 Aug 2025 22:00:00 GMT</pubDate>
+      <guid isPermaLink="false">bb578a010af8c35210c95ebd1d178a62</guid>
     </item>
     <item>
       <title>মুরগির খাদ্য উপাদান ভুট্টা ও পানিতে ভারী ধাতুর উপস্থিতি</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[স্ট্যান্ডার্ড ব্যাংক সিকিউরিটিজ লিমিটেডের ৫০তম বোর্ড সভা অনুষ্ঠিত হয়েছে।]]></description>
       <pubDate>Thu, 28 Aug 2025 20:46:50 GMT</pubDate>
       <guid isPermaLink="false">b17c4f42483e316bc0c77c72c46c5275</guid>
-    </item>
-    <item>
-      <title>জনতা ব্যাংকে অ্যাসেট-লায়াবিলিটি ম্যানেজমেন্ট কমিটির সভা</title>
-      <link>https://bonikbarta.com/economy/4BFl6YSI3hLcyjts/</link>
-      <description><![CDATA[জনতা ব্যাংক পিএলসিতে অ্যাসেট-লায়াবিলিটি ম্যানেজমেন্ট কমিটির (অ্যালকো) সভা অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Thu, 28 Aug 2025 20:46:50 GMT</pubDate>
-      <guid isPermaLink="false">cd4738519b1e6f23641cd8d0ffde4f82</guid>
     </item>
   </channel>
 </rss>
