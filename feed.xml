@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 29 Aug 2025 07:23:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 07:40:11 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>শিশু যৌন নির্যাতনের আশঙ্কাজনক বৃদ্ধি শিশু অধিকার সংগঠনগুলোর গভীর উদ্বেগ</title>
+      <link>https://bonikbarta.com/bangladesh/Tvs1cGfiypYaNHLA/</link>
+      <description><![CDATA['বাংলাদেশের ভবিষ্যৎ নির্ভর করছে শিশুদের নিরাপত্তা ও কল্যাণের ওপর। নিরাপদ পরিবেশের অভাবে শিশুর সর্বাঙ্গীণ বিকাশ বাধাগ্রস্ত হয় ।]]></description>
+      <pubDate>Fri, 29 Aug 2025 07:28:17 GMT</pubDate>
+      <guid isPermaLink="false">6059f0b6cde49583db132133cf83d911</guid>
+    </item>
     <item>
       <title>নির্বাচন কমিশনের বটম লাইন হলো পেশাদারিত্ব ও নিরপেক্ষতা: সিইসি</title>
       <link>https://bonikbarta.com/bangladesh/l4fWXxRjZo8EyxvL/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">b876629fa53be7b0655a0a906c993c0c</guid>
     </item>
     <item>
-      <title>স্ট্যান্ডার্ড ব্যাংক সিকিউরিটিজ লিমিটেডের বোর্ড সভা অনুষ্ঠিত</title>
-      <link>https://bonikbarta.com/economy/WDYTSrn6FPVmcsBX/</link>
-      <description><![CDATA[স্ট্যান্ডার্ড ব্যাংক সিকিউরিটিজ লিমিটেডের ৫০তম বোর্ড সভা অনুষ্ঠিত হয়েছে।]]></description>
+      <title>জনতা ব্যাংকে অ্যাসেট-লায়াবিলিটি ম্যানেজমেন্ট কমিটির সভা</title>
+      <link>https://bonikbarta.com/economy/4BFl6YSI3hLcyjts/</link>
+      <description><![CDATA[জনতা ব্যাংক পিএলসিতে অ্যাসেট-লায়াবিলিটি ম্যানেজমেন্ট কমিটির (অ্যালকো) সভা অনুষ্ঠিত হয়েছে।]]></description>
       <pubDate>Thu, 28 Aug 2025 20:46:50 GMT</pubDate>
-      <guid isPermaLink="false">b17c4f42483e316bc0c77c72c46c5275</guid>
+      <guid isPermaLink="false">cd4738519b1e6f23641cd8d0ffde4f82</guid>
     </item>
     <item>
       <title>আইইউবিএটিতে টেকসই উন্নয়ন অলিম্পিয়াড আয়োজিত</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[বিএনপি চেয়ারপারসন খালেদা জিয়া স্বাস্থ্য পরীক্ষা শেষে বাসায় ফিরেছেন। মেডিকেল বোর্ডের তত্ত্বাবধায়নে স্বাস্থ্য পরীক্ষা শেষে হাসপাতাল থেকে গতকাল রাত ১১টায় বাসার উদ্দেশে রওনা করেন তিনি।]]></description>
       <pubDate>Thu, 28 Aug 2025 20:20:56 GMT</pubDate>
       <guid isPermaLink="false">9087599958fe34a93ff09cbd509bed09</guid>
-    </item>
-    <item>
-      <title>চীন সফর শেষে দেশে ফিরেছেন সেনাপ্রধান</title>
-      <link>https://bonikbarta.com/bangladesh/i9KkNRtc4lI3KHyS/</link>
-      <description><![CDATA[চীন সফর শেষে বুধবার রাতে দেশে ফিরেছেন সেনাবাহিনী প্রধান জেনারেল ওয়াকার-উজ-জামান।]]></description>
-      <pubDate>Thu, 28 Aug 2025 20:20:56 GMT</pubDate>
-      <guid isPermaLink="false">56fca9fa5bc96ee81fcfd4cbd8d811a7</guid>
     </item>
   </channel>
 </rss>
