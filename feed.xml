@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 29 Aug 2025 01:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 03:05:40 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ট্রাম্পের বিরুদ্ধে মামলা করলেন মার্কিন কেন্দ্রীয় ব্যাংকের গভর্নর</title>
+      <link>https://bonikbarta.com/international/WdvxN4Arlx7TaWNT/</link>
+      <description><![CDATA[প্রেসিডেন্ট তার বৈধ ক্ষমতা প্রয়োগ করেছেন। তার ভাষায়, ‘একজন গভর্নরকে আর্থিক নথিতে মিথ্যা বলার অভিযোগের কারণে সরানো হয়েছে। এতে ফেড বোর্ডের জবাবদিহি ও বিশ্বাসযোগ্যতা আরো বাড়বে।’]]></description>
+      <pubDate>Fri, 29 Aug 2025 02:59:25 GMT</pubDate>
+      <guid isPermaLink="false">964290dee36b48263d03af0fbb9c8976</guid>
+    </item>
     <item>
       <title>রাইট শেয়ার বাতিলের সিদ্ধান্ত পুনর্বিবেচনা করেনি বিএসইসি</title>
       <link>https://bonikbarta.com/economy/ELqKFxjYHYHf3fQJ/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">d965b29872f7aac188d56bb81f343146</guid>
     </item>
     <item>
-      <title>বিস্ফোরক সংকটে দিনাজপুরের মধ্যপাড়া খনি থেকে পাথর উত্তোলন বন্ধ</title>
-      <link>https://bonikbarta.com/economy/LCRATxrGldQep1UU/</link>
-      <description><![CDATA[বিস্ফোরক দ্রব্যের (অ্যামালসন এক্সপ্লোসিভ) সংকটের কারণে দিনাজপুরের মধ্যপাড়া গ্রানাইট মাইনিং বা পাথর খনি থেকে পাথর উত্তোলন সাময়িকভাবে বন্ধ হয়ে গেছে।]]></description>
-      <pubDate>Thu, 28 Aug 2025 20:26:45 GMT</pubDate>
-      <guid isPermaLink="false">dffb8e2ebee00a92fd07476d415d5943</guid>
+      <title>পাইলটদের অবসরসীমা ৬৭ বছরে উন্নীতের প্রস্তাব</title>
+      <link>https://bonikbarta.com/economy/wCJtqfyNNhp9L3zr/</link>
+      <description><![CDATA[আন্তর্জাতিক রুটে বাণিজ্যিক ফ্লাইটে পাইলটদের অবসরের বয়সসীমা ৬৫ থেকে বাড়িয়ে ৬৭ বছর করার প্রস্তাব দিয়েছে ইন্টারন্যাশনাল এয়ার ট্রান্সপোর্ট অ্যাসোসিয়েশন (আইএটিএ)।]]></description>
+      <pubDate>Thu, 28 Aug 2025 20:21:03 GMT</pubDate>
+      <guid isPermaLink="false">eb183523e133aa66088006c3bdc1b9a5</guid>
     </item>
     <item>
       <title>সমুদ্রতলের সম্পদ ঘিরে বাড়ছে বিলিয়ন ডলারের প্রতিরক্ষা ব্যবসা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[চ্যাটজিপিটিতে প্যারেন্টাল কন্ট্রোল নামে নতুন নিরাপত্তা ব্যবস্থা ও জরুরি যোগাযোগ সুবিধা আনার ঘোষণা দিয়েছে ওপেনএআই।]]></description>
       <pubDate>Thu, 28 Aug 2025 20:20:49 GMT</pubDate>
       <guid isPermaLink="false">846f791120cdc402aa55b3c31f7f1b99</guid>
-    </item>
-    <item>
-      <title>এনভিডিয়ায় নির্ভরতা কমাতে এআই চিপ উৎপাদন তিন গুণ বাড়াবে চীন</title>
-      <link>https://bonikbarta.com/scitech/yuytfiltw8GKS9YP/</link>
-      <description><![CDATA[আগামী বছরের মধ্যে চীনে কৃত্রিম বুদ্ধিমত্তা (এআই) চিপ উৎপাদন তিন গুণ বাড়ানোর লক্ষ্য নিয়ে কাজ করছে দেশটির চিপ নির্মাতারা।]]></description>
-      <pubDate>Thu, 28 Aug 2025 20:20:49 GMT</pubDate>
-      <guid isPermaLink="false">0b7837277e93e572e5be93efe8cca406</guid>
     </item>
   </channel>
 </rss>
