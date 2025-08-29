@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 29 Aug 2025 03:05:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 03:49:42 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>টাইফয়েডের টিকাদান শুরু ১২ অক্টোবর, ডিএসসিসিতে পাবে ১০ লাখ শিশু</title>
+      <link>https://bonikbarta.com/bangladesh/rkI6N1DYMPrVbGTF/</link>
+      <description><![CDATA[দেশব্যাপী ৯ মাস থেকে ১৫ বছর বয়সী সকল শিশুকে এক ডোজ টাইফয়েড কনজুগেট ভ্যাকসিন (টিসিবি) টিকা প্রদানের অংশ হিসেবে ডিএসসিসি এলাকায় ১২ অক্টোবর থেকে এই টিকা প্রদান শুরু হবে।]]></description>
+      <pubDate>Fri, 29 Aug 2025 03:06:56 GMT</pubDate>
+      <guid isPermaLink="false">61d3e6de9357207e1be6f7cd57138b40</guid>
+    </item>
     <item>
       <title>ট্রাম্পের বিরুদ্ধে মামলা করলেন মার্কিন কেন্দ্রীয় ব্যাংকের গভর্নর</title>
       <link>https://bonikbarta.com/international/WdvxN4Arlx7TaWNT/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">f88a2505301e4a44d1dab36c4c2a539e</guid>
     </item>
     <item>
-      <title>বেনাপোল বন্দর দিয়ে ভারত থেকে এল আরো ৪২০  টন চাল</title>
-      <link>https://bonikbarta.com/economy/TgttS00gcutymY77/</link>
-      <description><![CDATA[যশোরের শার্শা উপজেলার বেনাপোল স্থলবন্দর দিয়ে তৃতীয় চালানে এল আরো ৪২০ টন চাল।]]></description>
-      <pubDate>Thu, 28 Aug 2025 20:46:50 GMT</pubDate>
-      <guid isPermaLink="false">d965b29872f7aac188d56bb81f343146</guid>
+      <title>বিস্ফোরক সংকটে দিনাজপুরের মধ্যপাড়া খনি থেকে পাথর উত্তোলন বন্ধ</title>
+      <link>https://bonikbarta.com/economy/LCRATxrGldQep1UU/</link>
+      <description><![CDATA[বিস্ফোরক দ্রব্যের (অ্যামালসন এক্সপ্লোসিভ) সংকটের কারণে দিনাজপুরের মধ্যপাড়া গ্রানাইট মাইনিং বা পাথর খনি থেকে পাথর উত্তোলন সাময়িকভাবে বন্ধ হয়ে গেছে।]]></description>
+      <pubDate>Thu, 28 Aug 2025 20:26:45 GMT</pubDate>
+      <guid isPermaLink="false">dffb8e2ebee00a92fd07476d415d5943</guid>
     </item>
     <item>
       <title>পাইলটদের অবসরসীমা ৬৭ বছরে উন্নীতের প্রস্তাব</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[ঈদে মিলাদুন্নবী (সা.) উপলক্ষে সাধারণ ছুটির তারিখ পুনর্নির্ধারণ করেছে সরকার। গতকাল জনপ্রশাসন মন্ত্রণালয় থেকে এ বিষয়ে প্রজ্ঞাপন জারি করা হয়।]]></description>
       <pubDate>Thu, 28 Aug 2025 20:20:56 GMT</pubDate>
       <guid isPermaLink="false">0eed89af7a6664e9e0a9dc828d1c4996</guid>
-    </item>
-    <item>
-      <title>চ্যাটজিপিটিতে আসছে প্যারেন্টাল কন্ট্রোল ও জরুরি যোগাযোগ সুবিধা</title>
-      <link>https://bonikbarta.com/scitech/2KWEYj3V4FaBdmj7/</link>
-      <description><![CDATA[চ্যাটজিপিটিতে প্যারেন্টাল কন্ট্রোল নামে নতুন নিরাপত্তা ব্যবস্থা ও জরুরি যোগাযোগ সুবিধা আনার ঘোষণা দিয়েছে ওপেনএআই।]]></description>
-      <pubDate>Thu, 28 Aug 2025 20:20:49 GMT</pubDate>
-      <guid isPermaLink="false">846f791120cdc402aa55b3c31f7f1b99</guid>
     </item>
   </channel>
 </rss>
