@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 29 Aug 2025 11:19:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 11:39:55 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>এখনো পাবলিক বাসে উঠি, টং দোকানে চা খাই: আফরান নিশো</title>
+      <link>https://bonikbarta.com/talkies/AoRZH2FVPAMDmrbM/</link>
+      <description><![CDATA[‘মানুষ হিসেবে আমি সাধারণ থাকতে চাই, কিন্তু আমার কাজগুলো অসাধারণ হোক। তখন হয়তো অসাধারণ পার্সোনালিটি নিয়েই দীর্ঘদিন মানুষের মনে বেঁচে থাকা সম্ভব হবে।’]]></description>
+      <pubDate>Fri, 29 Aug 2025 11:22:00 GMT</pubDate>
+      <guid isPermaLink="false">01beb3aec3da6e03bf25f84fc1195d13</guid>
+    </item>
     <item>
       <title>মাছরাঙায় নিজের গল্প শোনাবেন অপি করিম</title>
       <link>https://bonikbarta.com/talkies/heWg0PdYwQQLprt2/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">b24881d76a118b762a30c9bde922e090</guid>
     </item>
     <item>
-      <title>দুদকের অভিযান</title>
-      <link>https://bonikbarta.com/bangladesh/JbLtV8Wl73uBIP2K/</link>
-      <description><![CDATA[পিরোজপুরের নাজিরপুর উপজেলা স্বাস্থ্য কমপ্লেক্সে অনিয়মের অভিযোগ তদন্তে অভিযান পরিচালনা করেছে দুর্নীতি দমন কমিশন (দুদক)।]]></description>
-      <pubDate>Thu, 28 Aug 2025 21:10:03 GMT</pubDate>
-      <guid isPermaLink="false">31fb8ee115be5227a2cd92807d7bc3c7</guid>
+      <title>যশোরে ৩৬ স্বর্ণবারসহ তিন যুবক আটক</title>
+      <link>https://bonikbarta.com/bangladesh/7HFetSTslOf7P5L6/</link>
+      <description><![CDATA[যশোরে ৩৬টি স্বর্ণবারসহ তিন যুবককে আটক করেছে বিজিবি।]]></description>
+      <pubDate>Thu, 28 Aug 2025 21:08:55 GMT</pubDate>
+      <guid isPermaLink="false">0b85d0d6d4d5dc072ff9cf881b00b544</guid>
     </item>
     <item>
       <title>গাজীপুরে আবাসিক এলাকায় কারখানা স্থাপন করে নিষিদ্ধ পলিথিন উৎপাদন</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[মাইক্রোসফটের দুই কর্মীকে বরখাস্ত করা হয়েছে।]]></description>
       <pubDate>Thu, 28 Aug 2025 20:20:57 GMT</pubDate>
       <guid isPermaLink="false">3c549c9a9b7aa8abad0edb13e90960d9</guid>
-    </item>
-    <item>
-      <title>ওয়ালটন বাজারে আনল নতুন প্রিমিয়াম অ্যান্ড্রয়েড ট্যাব</title>
-      <link>https://bonikbarta.com/scitech/w9MiSee8otg5xnri/</link>
-      <description><![CDATA[ওয়ালটন ডিজি-টেক ইন্ডাস্ট্রিজ লিমিটেড বাজারে এনেছে নতুন প্রিমিয়াম অ্যান্ড্রয়েড ট্যাবলেট ওয়ালপ্যাড ১১জি।]]></description>
-      <pubDate>Thu, 28 Aug 2025 20:20:57 GMT</pubDate>
-      <guid isPermaLink="false">a6884eb4c21eef79006540aca650cc95</guid>
     </item>
   </channel>
 </rss>
