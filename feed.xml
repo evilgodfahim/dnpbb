@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 30 Aug 2025 04:26:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 04:42:56 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>শুরু হয়েছে বণিক বার্তা আয়োজিত হেলথ কনক্লেভ-২০২৫</title>
+      <link>https://bonikbarta.com/bangladesh/B20K8br5PZKmtkTS/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Sat, 30 Aug 2025 04:36:28 GMT</pubDate>
+      <guid isPermaLink="false">014b207e2547b9410a7b5b933e2b0543</guid>
+    </item>
     <item>
       <title>ব্যালন ডি'অরের স্বপ্ন নিয়ে মাদ্রিদে এসে কি বেঞ্চ গরম করবেন আলেকজান্ডার-আর্নল্ড</title>
       <link>https://bonikbarta.com/sports/R43SSHlZ0sUI9hD6/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">a87566556fb33140fa01c1d2b7eefbff</guid>
     </item>
     <item>
-      <title>জুলাইয়ে টয়োটার উৎপাদন ও বিক্রিতে রেকর্ড</title>
-      <link>https://bonikbarta.com/economy/MbBJV4cJrUOvItGN/</link>
-      <description><![CDATA[যেকোনো জুলাইয়ের তুলনায় বৈশ্বিক উৎপাদন ও বিক্রিতে গত মাসে রেকর্ড গড়েছে টয়োটা মোটর করপোরেশন।]]></description>
+      <title>আর্কটিকের নতুন রুটে চীন থেকে পণ্য যাবে ইউরোপে</title>
+      <link>https://bonikbarta.com/economy/SrVpqg0NHFwez4IM/</link>
+      <description><![CDATA[বরফাচ্ছন্ন আর্কটিক সাগরের মাধ্যমে রাশিয়া ও চীনের মধ্যে কয়েক বছর ধরে সীমিত গন্তব্যভিত্তিক কনটেইনার শিপিং পরিচালিত হয়ে আসছে।]]></description>
       <pubDate>Fri, 29 Aug 2025 20:32:37 GMT</pubDate>
-      <guid isPermaLink="false">351c601a95581929c7dd4f2c1278e875</guid>
+      <guid isPermaLink="false">c67498a1712e6cce701c8edb7f1ad171</guid>
     </item>
     <item>
       <title>সংগীতে ২৫ বছর পূর্ণ, অস্ট্রেলিয়া মাতাবেন তাহসান</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[দাম কিছুটা বেড়ে গেলেও ভারতে স্বর্ণের ক্রয় চাহিদা বাড়ছে।]]></description>
       <pubDate>Fri, 29 Aug 2025 20:32:24 GMT</pubDate>
       <guid isPermaLink="false">c200d2eb0be649a2cfa9f60fd4257b89</guid>
-    </item>
-    <item>
-      <title>ইউরোপে বাড়তে পারে এলএনজি সরবরাহ</title>
-      <link>https://bonikbarta.com/economy/XmVCOv4HYCpln59T/</link>
-      <description><![CDATA[কয়েক বছর ধরেই শীতের আগে প্রাকৃতিক গ্যাসের মজুদ পূরণে তৎপর ছিলেন ইউরোপের ব্যবসায়ীরা।]]></description>
-      <pubDate>Fri, 29 Aug 2025 20:32:24 GMT</pubDate>
-      <guid isPermaLink="false">c2ec85a13098fdfcd5d0d6319483903a</guid>
     </item>
   </channel>
 </rss>
