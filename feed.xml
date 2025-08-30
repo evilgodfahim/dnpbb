@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 30 Aug 2025 01:47:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 02:59:44 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>কাকরাইলে দুটি রাজনৈতিক দলের সংঘর্ষ নিয়ে আইএসপিআরের বিবৃতি</title>
+      <link>https://bonikbarta.com/bangladesh/0GsKDhvf9mt6vEsl/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Sat, 30 Aug 2025 02:33:24 GMT</pubDate>
+      <guid isPermaLink="false">7f30bc56d956e6816c2d65cca3db0ec1</guid>
+    </item>
     <item>
       <title>এলডিসি উত্তরণের সময়রেখা পেছানো বাংলাদেশের জন্য যৌক্তিক হবে না</title>
       <link>https://bonikbarta.com/editorial/nxhmng31pHE5u0c8/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">9fba7bf4e3747d0ed238e76f72454c56</guid>
     </item>
     <item>
-      <title>জোভান-নিহার ইউটিউব ফিল্ম ‘সহযাত্রী’</title>
-      <link>https://bonikbarta.com/talkies/2Ll1fZyBgDzHBWBw/</link>
-      <description><![CDATA[নির্মাতা মুহাম্মদ মোস্তফা কামাল রাজের নতুন ইউটিউব ফিল্ম ‘সহযাত্রী’।]]></description>
+      <title>ফাহমিদা নবীর নতুন গান ‘মেঘলা আকাশ’</title>
+      <link>https://bonikbarta.com/talkies/iQcu0WOnMBLJ5AcF/</link>
+      <description><![CDATA[বাংলাদেশের সংগীতাঙ্গনের এক অনন্য নাম ফাহমিদা নবী। দীর্ঘ চার দশকেরও বেশি সময় ধরে তার কণ্ঠে অসংখ্য জনপ্রিয় গান উপহার দিয়েছেন।]]></description>
       <pubDate>Fri, 29 Aug 2025 20:32:31 GMT</pubDate>
-      <guid isPermaLink="false">d2619321153916cedba898a07f9f1212</guid>
+      <guid isPermaLink="false">06308fb37357006753e4a1752f17a8dd</guid>
     </item>
     <item>
       <title>৫ কোটি রুপির অ্যাপার্টমেন্ট কিনলেন অনীল-হর্ষবর্ধন</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[মেটলাইফ বাংলাদেশ ও ছুটি রিসোর্টের মধ্যে একটি সমঝোতা স্মারক (এমওইউ) স্বাক্ষর হয়েছে।]]></description>
       <pubDate>Fri, 29 Aug 2025 20:32:24 GMT</pubDate>
       <guid isPermaLink="false">686d56cab58c51506266b2d86d656b09</guid>
-    </item>
-    <item>
-      <title>এবি ব্যাংকের উদ্যোগে বরিশালে মাসব্যাপী উদ্যোক্তা উন্নয়ন কর্মসূচি শুরু</title>
-      <link>https://bonikbarta.com/economy/EfRI9v8PH68lM7DX/</link>
-      <description><![CDATA[এবি ব্যাংকের উদ্যোগে ও বাংলাদেশ ব্যাংকের এসএমই অ্যান্ড স্পেশাল প্রোগ্রামস ডিপার্টমেন্টের এসআইসিআইপি প্রকল্পের অধীনে বরিশালে মাসব্যাপী উদ্যোক্তা উন্নয়ন কর্মসূচি শুরু হয়েছে।]]></description>
-      <pubDate>Fri, 29 Aug 2025 20:32:24 GMT</pubDate>
-      <guid isPermaLink="false">253bd321367f34663befb2c75f36ca20</guid>
     </item>
   </channel>
 </rss>
