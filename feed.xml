@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 30 Aug 2025 02:59:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 03:35:03 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ট্রাম্পের অধিকাংশ শুল্কই অবৈধ, মার্কিন আপিল আদালতের রায়</title>
+      <link>https://bonikbarta.com/international/lpcYojcGL3v2oWfh/</link>
+      <description><![CDATA[সম্প্রতি একটি আপিল আদালত এক রায়ে বলেছে, প্রেসিডেন্ট তার ক্ষমতা অতিক্রম করে শুল্ক আরোপ করেছেন। এর আগে নিউইয়র্কভিত্তিক ইউ.এস. কোর্ট অব ইন্টারন্যাশনাল ট্রেডও একই ধরনের রায় দিয়েছিল। একইসঙ্গে ওয়াশিংটনের আরেকটি আদালতও রায় দিয়েছে যে, আন্তর্জাতিক জরুরি অর্থনৈতিক ক্ষমতা আইন ট্রাম্পকে এ ধরনের শুল্ক আরোপের ক্ষমতা দেয় না।]]></description>
+      <pubDate>Sat, 30 Aug 2025 03:18:53 GMT</pubDate>
+      <guid isPermaLink="false">bcae6492d701818ba2f595b87165bab6</guid>
+    </item>
     <item>
       <title>কাকরাইলে দুটি রাজনৈতিক দলের সংঘর্ষ নিয়ে আইএসপিআরের বিবৃতি</title>
       <link>https://bonikbarta.com/bangladesh/0GsKDhvf9mt6vEsl/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">4318d3bff283ce402909ce4160694323</guid>
     </item>
     <item>
-      <title>আজ শিল্পকলায় বঙ্গরঙ্গের নতুন নাটক ‘মৃত্যুহীন প্রাণ’</title>
-      <link>https://bonikbarta.com/talkies/qfsgDdMktSUlEHfT/</link>
-      <description><![CDATA[বঙ্গরঙ্গ নাট্যদলের নতুন প্রযোজনায় আজ শিল্পকলা একাডেমির এক্সপেরিমেন্টাল হলে মঞ্চস্থ হতে যাচ্ছে নাটক ‘মৃত্যুহীন প্রাণ’।]]></description>
+      <title>জোভান-নিহার ইউটিউব ফিল্ম ‘সহযাত্রী’</title>
+      <link>https://bonikbarta.com/talkies/2Ll1fZyBgDzHBWBw/</link>
+      <description><![CDATA[নির্মাতা মুহাম্মদ মোস্তফা কামাল রাজের নতুন ইউটিউব ফিল্ম ‘সহযাত্রী’।]]></description>
       <pubDate>Fri, 29 Aug 2025 20:32:31 GMT</pubDate>
-      <guid isPermaLink="false">9fba7bf4e3747d0ed238e76f72454c56</guid>
+      <guid isPermaLink="false">d2619321153916cedba898a07f9f1212</guid>
     </item>
     <item>
       <title>ফাহমিদা নবীর নতুন গান ‘মেঘলা আকাশ’</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[স্টেট ইউনিভার্সিটি অব বাংলাদেশে (এসইউবি) সম্প্রতি স্বাস্থ্য সচেতনতামূলক একটি সেমিনার ও স্তন ক্যান্সার স্ক্রিনিং কর্মসূচি অনুষ্ঠিত হয়েছে।]]></description>
       <pubDate>Fri, 29 Aug 2025 20:32:24 GMT</pubDate>
       <guid isPermaLink="false">5e09f9e789ffb0c10016bd416ccd4251</guid>
-    </item>
-    <item>
-      <title>মেটলাইফের গ্রাহকরা বিশেষ ছাড় পাবেন ছুটি রিসোর্টে</title>
-      <link>https://bonikbarta.com/economy/h7fYcBI1nwyEmHTC/</link>
-      <description><![CDATA[মেটলাইফ বাংলাদেশ ও ছুটি রিসোর্টের মধ্যে একটি সমঝোতা স্মারক (এমওইউ) স্বাক্ষর হয়েছে।]]></description>
-      <pubDate>Fri, 29 Aug 2025 20:32:24 GMT</pubDate>
-      <guid isPermaLink="false">686d56cab58c51506266b2d86d656b09</guid>
     </item>
   </channel>
 </rss>
