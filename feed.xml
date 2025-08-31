@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 31 Aug 2025 05:21:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 05:41:33 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ভারতের ওপর শাস্তিমূলক শুল্ক আরোপে ইউরোপকে চাপ দিচ্ছে যুক্তরাষ্ট্র</title>
+      <link>https://bonikbarta.com/international/8gabWYATxFJWGALH/</link>
+      <description><![CDATA[মার্কিন প্রশাসন ইউরোপকে ভারতের কাছ থেকে সব ধরনের তেল ও গ্যাস কেনা বন্ধ করতে বলেছে। পাশাপাশি, ওয়াশিংটন ইউরোপের কাছে দাবি জানিয়েছে যেন তারা ভারতের ওপর অতিরিক্ত শুল্ক বসায়, ঠিক যেমনটা যুক্তরাষ্ট্র আরোপ করেছে।]]></description>
+      <pubDate>Sun, 31 Aug 2025 05:25:41 GMT</pubDate>
+      <guid isPermaLink="false">467cdfc8faecdb319ceb285c3d3ab529</guid>
+    </item>
     <item>
       <title>বাংলাদেশ কৃষি ব্যাংক এর খুলনা বিভাগের ব্যবসায়িক সম্মেলন অনুষ্ঠিত</title>
       <link>https://bonikbarta.com/economy/LYVRJIMjLTBhcqy9/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">b506b69a398613f08c7fd850e25ed02e</guid>
     </item>
     <item>
-      <title>কক্সবাজারে হোটেল-মোটেলের বর্জ্য সাগর-নদী দূষণ করছে —নৌ-পরিবহন উপদেষ্টা</title>
-      <link>https://bonikbarta.com/bangladesh/qFdP0wbeNGOKVXog/</link>
-      <description><![CDATA[নৌ-পরিবহন এবং শ্রম ও কর্মসংস্থান মন্ত্রণালয়ের উপদেষ্টা ব্রিগেডিয়ার জেনারেল (অব.) ড. এম সাখাওয়াত হোসেন বলেছেন, ‘দেশের সবচেয়ে বড় পর্যটন কেন্দ্র কক্সবাজারে বর্জ্য ব্যবস্থাপনা অত্যন্ত নাজুক অবস্থায় রয়েছে।]]></description>
-      <pubDate>Sat, 30 Aug 2025 21:14:25 GMT</pubDate>
-      <guid isPermaLink="false">217856dd39c0683a90dae1a688a2fe6d</guid>
+      <title>আমদানির পর হিলিতে কমেছে চালের দাম</title>
+      <link>https://bonikbarta.com/bangladesh/3OPpY6XxT37Hzhn3/</link>
+      <description><![CDATA[বন্ধের চার মাস পর দিনাজপুরের হিলি স্থলবন্দর দিয়ে ভারত থেকে চাল আমদানি শুরু হয়েছে।]]></description>
+      <pubDate>Sat, 30 Aug 2025 21:10:44 GMT</pubDate>
+      <guid isPermaLink="false">45fb19731405ab1ff7c11a00bad0296b</guid>
     </item>
     <item>
       <title>পাঁচ দফা সময় বাড়িয়েও শেষ হয়নি গঙ্গাঋদ্ধি জাদুঘর নির্মাণকাজ</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[আগামী মাসে আরেকটি ‘আনপ্যাকড’ ইভেন্ট আয়োজন করতে যাচ্ছে স্যামসাং।]]></description>
       <pubDate>Sat, 30 Aug 2025 20:43:59 GMT</pubDate>
       <guid isPermaLink="false">a8c360c5f434289d9324b31556d5a9c6</guid>
-    </item>
-    <item>
-      <title>১০ কোটির ওপেনিং পেল পরম সুন্দরী</title>
-      <link>https://bonikbarta.com/talkies/QMk2MhZIEmPlgExT/</link>
-      <description><![CDATA[বলিউডের নতুন সিনেমা পরম সুন্দরী। এতে অভিনয় করেছেন সিদ্ধার্থ মালহোত্রা ও জাহ্নবী কাপুর। সিনেমাটি পরিচালনা করেছেন তুষার জালোটা।]]></description>
-      <pubDate>Sat, 30 Aug 2025 20:43:59 GMT</pubDate>
-      <guid isPermaLink="false">9045059197c247da2c7582f9a91549fe</guid>
     </item>
   </channel>
 </rss>
