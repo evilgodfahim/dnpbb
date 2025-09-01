@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 01 Sep 2025 07:24:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 07:41:02 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>দেশের কোথাও কোথাও বজ্রসহ বৃষ্টি বা ভারি বর্ষণের পূর্বাভাস</title>
+      <link>https://bonikbarta.com/bangladesh/ZUJQdTjbVGsvSsmm/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Mon, 01 Sep 2025 07:34:41 GMT</pubDate>
+      <guid isPermaLink="false">98638b95786664c645b0382a19e35507</guid>
+    </item>
     <item>
       <title>নুরুল হক নুরের শারীরিক অবস্থার খোঁজ নিতে ঢামেকে নৌপরিবহন উপদেষ্টা</title>
       <link>https://bonikbarta.com/bangladesh/mcAUANI0i1SSKls3/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">2d3b156b78d448469058c1a5b99cdf88</guid>
     </item>
     <item>
-      <title>করণ জোহরের প্রযোজনায় পর্দায় আসছেন বরুণ-জাহ্নবী</title>
-      <link>https://bonikbarta.com/talkies/Xva1JzhPz9dkYXxO/</link>
-      <description><![CDATA[বলিউডে আবারো ফিরছে ধর্মা প্রডাকশনস। প্রযোজক করণ জোহরের হাত ধরে আসছে নতুন সিনেমা ‘সানি সংস্কারি কি তুলসি কুমারি’, যেখানে প্রধান চরিত্রে আছেন বরুণ ধাওয়ান ও জাহ্নবী কাপুর।]]></description>
-      <pubDate>Sun, 31 Aug 2025 20:44:05 GMT</pubDate>
-      <guid isPermaLink="false">48a8c89b0c1e8c562984026ff0076af4</guid>
+      <title>ডিআইইউতে এআই ইঞ্জিনিয়ারিং কর্মশালা অনুষ্ঠিত</title>
+      <link>https://bonikbarta.com/common-room/rHyu4adf8vrDgY09/</link>
+      <description><![CDATA[ড্যাফোডিল ইন্টারন্যাশনাল ইউনিভার্সিটিতে (ডিআইইউ) কৃত্রিম বুদ্ধিমত্তা (এআই) ইঞ্জিনিয়ারিং ক্যারিয়ার অ্যান্ড কর্মশালা অনুষ্ঠিত হয়েছে।]]></description>
+      <pubDate>Sun, 31 Aug 2025 20:42:35 GMT</pubDate>
+      <guid isPermaLink="false">964819e2b8cf24b5bdcb236d14082fdf</guid>
     </item>
     <item>
       <title>আইইএলটিএস বৃত্তি পেলেন এনএসইউ শিক্ষার্থী</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[সিলেট ইন্টারন্যাশনাল ক্রিকেট স্টেডিয়ামে আজ নেদারল্যান্ডসের বিপক্ষে দ্বিতীয় টি-টোয়েন্টি ম্যাচ খেলতে নামছে বাংলাদেশ। প্রথম ম্যাচ জিতে নেয়ায় স্বাগতিক দলের সামনে এক ম্যাচ হাতে রেখেই সিরিজ জিতে নেয়ার সুযোগ এসেছে।]]></description>
       <pubDate>Sun, 31 Aug 2025 20:42:26 GMT</pubDate>
       <guid isPermaLink="false">3efa52baaafb9bc117a56916fc58157d</guid>
-    </item>
-    <item>
-      <title>বাংলাদেশ বিশ্বের হাতে গোনা কয়েকটি দেশের একটি যার শতভাগ ওষুধ আসে দেশীয় কোম্পানি থেকে</title>
-      <link>https://bonikbarta.com/editorial/9LjfskSZ7digJd4J/</link>
-      <description><![CDATA[বাংলাদেশ স্বাধীনতার পর থেকে গত ৫৫ বছরে স্বাস্থ্য খাতে যে অসাধারণ অগ্রগতি হয়েছে, সেটি আজ আমরা উদযাপন করতে এসেছি। এ অর্জনের পেছনে রাজনৈতিক নেতৃত্ব যেমন কাজ করেছে, তেমনি বেসরকারি খাত ও স্বাস্থ্য বিশেষজ্ঞরাও অসামান্য অবদান রেখেছেন।]]></description>
-      <pubDate>Sun, 31 Aug 2025 20:42:26 GMT</pubDate>
-      <guid isPermaLink="false">c92c32ec5768a70db23f08c08d7e7413</guid>
     </item>
   </channel>
 </rss>
