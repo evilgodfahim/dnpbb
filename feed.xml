@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 02 Sep 2025 05:24:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 05:42:56 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>গার্ডিওলার ক্যারিয়ারের সবচেয়ে বাজে সূচনা: ম্যানচেস্টার সিটির জন্য কতটা দুশ্চিন্তার</title>
+      <link>https://bonikbarta.com/sports/bKuijYMQjNoN2U1X/</link>
+      <description><![CDATA[গত মৌসুমের মাঝামাঝি সময়ে যে ছন্দপতন ঘটেছিল, সিটি হয়তো ভেবেছিল গ্রীষ্মের বিরতিতেই তা ঠিক হয়ে যাবে। কিন্তু অন্যান্য দল সেই দুর্বলতা ভুলে যায়নি, বরং এটিকে কাজে লাগাতে চাইছে। একসময়ের অপরাজেয় সিটির রক্ষণ এখন আর অটুট নেই।]]></description>
+      <pubDate>Tue, 02 Sep 2025 05:34:53 GMT</pubDate>
+      <guid isPermaLink="false">deae26fd3eb87bd25be52708c37796eb</guid>
+    </item>
     <item>
       <title>সুদানে ভয়াবহ ভূমিধসে ১,০০০-এর বেশি প্রাণহানি, পুরো গ্রাম নিশ্চিহ্ন</title>
       <link>https://bonikbarta.com/international/YAxqJpcc4rgB7Hv1/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">a01b6b6ba38f5774273d51ae9a051298</guid>
     </item>
     <item>
-      <title>স্পট মার্কেটে ১৪ বছরের সর্বোচ্চে রুপার দাম</title>
-      <link>https://bonikbarta.com/economy/g0p181iTgCEMX6Eq/</link>
-      <description><![CDATA[যুক্তরাষ্ট্রের কেন্দ্রীয় ব্যাংক ফেডারেল রিজার্ভের (ফেড) সুদহার কমানোর সম্ভাবনা ক্রমেই জোরালো হয়ে উঠেছে।]]></description>
-      <pubDate>Mon, 01 Sep 2025 20:45:43 GMT</pubDate>
-      <guid isPermaLink="false">72a4552bbb99ed765ea8a25eabb07ed9</guid>
+      <title>ওয়ালটন লিফটের ব্র্যান্ড অ্যাম্বাসেডর হলেন সংগীতশিল্পী তাহসান খান</title>
+      <link>https://bonikbarta.com/economy/iU6UqNQ8r4LwCk9i/</link>
+      <description><![CDATA[ওয়ালটন লিফটের ব্র্যান্ড অ্যাম্বাসেডর হিসেবে যুক্ত হয়েছেন সংগীতশিল্পী তাহসান খান।]]></description>
+      <pubDate>Mon, 01 Sep 2025 20:42:53 GMT</pubDate>
+      <guid isPermaLink="false">1bb997e0bea460f054003bff545532f2</guid>
     </item>
     <item>
       <title>চবিতে স্যানিটারি ন্যাপকিন ভেন্ডিং মেশিন স্থাপন করল ফ্রেশ অনন্যা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[অন্তর্বর্তী সরকার দায়িত্ব নিয়ে বেশ কয়েকটি সংস্কার কমিশন, টাস্কফোর্স ও কমিটি গঠন করে। এসব কমিটি নির্ধারিত সময়ে তাদের প্রতিবেদন জমা দিলেও সংস্কারের প্রক্রিয়া শুরু না হওয়ায় নির্বাচনের আগে এ সরকার সেগুলো কতটুকু বাস্তবায়ন করতে পারবে, সে প্রশ্ন তুলেছেন বিশ্লেষকরা।]]></description>
       <pubDate>Mon, 01 Sep 2025 20:24:21 GMT</pubDate>
       <guid isPermaLink="false">18f5d559c645a53964ba6eb0aa585189</guid>
-    </item>
-    <item>
-      <title>হাইকোর্টের আদেশ চেম্বার আদালতে স্থগিত, ডাকসু নির্বাচনে বাধা নেই</title>
-      <link>https://bonikbarta.com/bangladesh/09sU1R0lkMVcDGGz/</link>
-      <description><![CDATA[অলস দুপুর; তবু বিশ্রাম নেই ঢাকা বিশ্ববিদ্যালয়ের একদল শিক্ষার্থীর। দীর্ঘ ছয় বছর পর অনুষ্ঠিতব্য ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্র সংসদ (ডাকসু) নির্বাচনে অংশ নিতে যাচ্ছেন তারা।]]></description>
-      <pubDate>Mon, 01 Sep 2025 20:24:21 GMT</pubDate>
-      <guid isPermaLink="false">e9cc8ed967f218372af026af286eb4e2</guid>
     </item>
   </channel>
 </rss>
