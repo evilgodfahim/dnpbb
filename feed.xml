@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 02 Sep 2025 11:19:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 11:40:06 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>জুলাইয়ের ঘটনার জন্য আমি অনুতপ্ত, লজ্জিত ও ক্ষমাপ্রার্থী : সাবেক আইজিপি</title>
+      <link>https://bonikbarta.com/bangladesh/RNem2QitchrpHXOo/</link>
+      <description><![CDATA[মামলার ১১তম দিনের সাক্ষীর সাক্ষ্যগ্রহণ হয়েছে। এর আগে এ মামলায় ৩৫ জনের সাক্ষ্যগ্রহণ সম্পন্ন হয়।]]></description>
+      <pubDate>Tue, 02 Sep 2025 11:19:54 GMT</pubDate>
+      <guid isPermaLink="false">bf8fc9a028eb1c931864ed5807764899</guid>
+    </item>
     <item>
       <title>নুরকে দেখতে হাসপাতালে মির্জা ফখরুল</title>
       <link>https://bonikbarta.com/bangladesh/Menm9rReJwKMK9ZG/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">deae26fd3eb87bd25be52708c37796eb</guid>
     </item>
     <item>
-      <title>সুদানে ভয়াবহ ভূমিধসে ১,০০০-এর বেশি প্রাণহানি, পুরো গ্রাম নিশ্চিহ্ন</title>
-      <link>https://bonikbarta.com/international/YAxqJpcc4rgB7Hv1/</link>
-      <description><![CDATA[No description available]]></description>
-      <pubDate>Tue, 02 Sep 2025 05:03:13 GMT</pubDate>
-      <guid isPermaLink="false">f215e695e11751b23bca212dd0fd5301</guid>
+      <title>ইসরায়েলের বোমায় ধ্বংস সিরিয়ার স্থাপনায় ইউরেনিয়ামের সন্ধান</title>
+      <link>https://bonikbarta.com/international/QgTshhY6X7tiX3e2/</link>
+      <description><![CDATA[আইএইএ এই তিনটি স্থানের মধ্যে একটিতে উল্লেখযোগ্য সংখ্যক প্রাকৃতিক ইউরেনিয়ামের কণা’ খুঁজে পেয়েছে। এই কণাগুলো বিশ্লেষণ করে দেখা গেছে, ইউরেনিয়ামগুলো মানুষের তৈরি, অর্থাৎ রাসায়নিক প্রক্রিয়াকরণের ফল।]]></description>
+      <pubDate>Tue, 02 Sep 2025 04:39:36 GMT</pubDate>
+      <guid isPermaLink="false">857e3b6c2da64bbc12642e71df4958db</guid>
     </item>
     <item>
       <title>ট্রাম্পকে পাশে ঠেলে বেইজিংয়ে পুতিন-কিম বৈঠক, শি জিনপিংয়ের নতুন শক্তি প্রদর্শন</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[রাজধানী ঢাকার অন্যতম সমস্যা হলো তীব্র যানজট। যানজট কমাতে সাম্প্রতিক দশকগুলোয় অনেক উদ্যোগ নেয়া হয়েছে। কিন্তু কোনো উদ্যোগই সেভাবে কার্যকর হতে পারেনি। এর মধ্যে একটি ছিল স্বয়ংক্রিয় ট্রাফিক সিগন্যাল বাতি স্থাপন।]]></description>
       <pubDate>Mon, 01 Sep 2025 21:00:00 GMT</pubDate>
       <guid isPermaLink="false">9881fab3890cdc8b3ba58941bda1ba77</guid>
-    </item>
-    <item>
-      <title>হাসপাতাল-ক্লিনিক ও ডায়াগনস্টিক সেন্টারগুলোকে একটি চেইন অব কমান্ডের আওতায় আনতে হবে</title>
-      <link>https://bonikbarta.com/editorial/Fe6i9ZIhPmS28taT/</link>
-      <description><![CDATA[প্রথমেই আমাদের ভাবতে হবে কভিড-১৯ আমাদের কী শিক্ষা দিয়েছে? আমরা কি সে শিক্ষা গ্রহণ করতে পেরেছি? নাকি এখনো কেবল আলোচনা পর্যায়েই সীমাবদ্ধ রয়েছি?]]></description>
-      <pubDate>Mon, 01 Sep 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="false">33c984f5336315b0d4b73366020e7d43</guid>
     </item>
   </channel>
 </rss>
