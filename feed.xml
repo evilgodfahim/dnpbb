@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 02 Sep 2025 04:28:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 04:47:06 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ইসরায়েলের বোমায় ধ্বংস সিরিয়ার স্থাপনায় ইউরেনিয়ামের সন্ধান</title>
+      <link>https://bonikbarta.com/international/QgTshhY6X7tiX3e2/</link>
+      <description><![CDATA[আইএইএ এই তিনটি স্থানের মধ্যে একটিতে উল্লেখযোগ্য সংখ্যক প্রাকৃতিক ইউরেনিয়ামের কণা’ খুঁজে পেয়েছে। এই কণাগুলো বিশ্লেষণ করে দেখা গেছে, ইউরেনিয়ামগুলো মানুষের তৈরি, অর্থাৎ রাসায়নিক প্রক্রিয়াকরণের ফল।]]></description>
+      <pubDate>Tue, 02 Sep 2025 04:39:36 GMT</pubDate>
+      <guid isPermaLink="false">857e3b6c2da64bbc12642e71df4958db</guid>
+    </item>
     <item>
       <title>ট্রাম্পকে পাশে ঠেলে বেইজিংয়ে পুতিন-কিম বৈঠক, শি জিনপিংয়ের নতুন শক্তি প্রদর্শন</title>
       <link>https://bonikbarta.com/international/UK3yJr7FdgisIEml/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">1bb997e0bea460f054003bff545532f2</guid>
     </item>
     <item>
-      <title>চবিতে স্যানিটারি ন্যাপকিন ভেন্ডিং মেশিন স্থাপন করল ফ্রেশ অনন্যা</title>
-      <link>https://bonikbarta.com/economy/sKQ83uTNE5WmSjlD/</link>
-      <description><![CDATA[ফ্রেশ অনন্যা স্যানিটারি ন্যাপকিন দেশব্যাপী বিশেষ ক্যাম্পেইন পরিচালনা করছে।]]></description>
-      <pubDate>Mon, 01 Sep 2025 20:41:49 GMT</pubDate>
-      <guid isPermaLink="false">971268effd6476b00141676f83510965</guid>
+      <title>চর আলেকজান্ডারে ওয়াটার অ্যাক্সেস হাব ও স্যানিটেশন সুবিধা চালু করল এমটিবি ফাউন্ডেশন</title>
+      <link>https://bonikbarta.com/economy/m1l81SFQ4zgx6rPM/</link>
+      <description><![CDATA[লক্ষ্মীপুরের চর আলেকজান্ডারে প্রান্তিক জনগোষ্ঠীর জন্য একটি ওয়াটার অ্যাক্সেস হাব ও আধুনিক স্যানিটেশন সুবিধা চালু করেছে এমটিবি ফাউন্ডেশন।]]></description>
+      <pubDate>Mon, 01 Sep 2025 20:40:41 GMT</pubDate>
+      <guid isPermaLink="false">cb5663c25e6975ebba09ec391c14f446</guid>
     </item>
     <item>
       <title>প্রগতি ইন্স্যুরেন্স ও ব্র্যাক ব্যাংকের মধ্যে চুক্তি স্বাক্ষর</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[রাজধানীর উপকণ্ঠে পূর্বাচল নতুন শহর প্রকল্পের বিভিন্ন সেক্টর থেকে রাতের আঁধারে মাটি চুরি হচ্ছে। এ নিয়ে সংশ্লিষ্ট থানায় অভিযোগ জানিয়ে চিঠি দিয়েছে রাজধানী উন্নয়ন কর্তৃপক্ষ (রাজউক)।]]></description>
       <pubDate>Mon, 01 Sep 2025 20:24:21 GMT</pubDate>
       <guid isPermaLink="false">a5844d5ce04d77c1f27922456c85ebf9</guid>
-    </item>
-    <item>
-      <title>বিএনপি রাষ্ট্র পরিচালনার দায়িত্ব পেলে দেশ এগিয়ে যাবে —মির্জা ফখরুল ইসলাম</title>
-      <link>https://bonikbarta.com/bangladesh/LIyJNbndquYTZouF/</link>
-      <description><![CDATA[বিএনপি মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর বলেছেন, ‘আমাদের সামনে যে চ্যালেঞ্জ রয়েছে, সেটি হলো ছাব্বিশের ফেব্রুয়ারিতে যে নির্বাচন অনুষ্ঠানের কথা আছে, সে নির্বাচন সুষ্ঠুভাবে সম্পন্ন করায় সর্বাত্মক সহযোগিতা করা, সাহায্য করা।’]]></description>
-      <pubDate>Mon, 01 Sep 2025 20:24:21 GMT</pubDate>
-      <guid isPermaLink="false">4c2ed4ddfa08795fa62f7fd90496cc1a</guid>
     </item>
   </channel>
 </rss>
