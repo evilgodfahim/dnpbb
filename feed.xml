@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 04 Sep 2025 20:24:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 20:41:08 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>মূর্তিসহ আটক</title>
+      <link>https://bonikbarta.com/bangladesh/D9HwnqBRjN6NQLs6/</link>
+      <description><![CDATA[রংপুর কষ্টি পাথরের মূর্তিসহ তিনজনকে আটক করেছে র‌্যাব। গতকাল বিকালে এ তথ্য নিশ্চিত করেছেন র‌্যাব-১৩-এর সিনিয়র সহকারী পরিচালক বিপ্লব কুমার গোস্বামী।]]></description>
+      <pubDate>Thu, 04 Sep 2025 20:40:42 GMT</pubDate>
+      <guid isPermaLink="false">9ec1e335cfe4f0d652cbba3cc37b2a65</guid>
+    </item>
     <item>
       <title>আফগানিস্তানে মানবিক সহায়তা পাঠাবে বাংলাদেশ</title>
       <link>https://bonikbarta.com/bangladesh/YHjnb363crK3DN0s/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">8207ec310d619ded284c6186c09c6475</guid>
     </item>
     <item>
-      <title>শেখ হাসিনার মামলায় মামুনের জেরা শেষ, ফের সাক্ষ্যগ্রহণ ৮ সেপ্টেম্বর</title>
-      <link>https://bonikbarta.com/bangladesh/HbFYKFy8LzoADSnh/</link>
-      <description><![CDATA[দুপুর সোয়া ১টার পর কিছুক্ষণ বিরতি দিয়ে আড়াইটা থেকে ফের জেরা শুরু হয়ে বিকেল প্রায় ৫টা পর্যন্ত চলে।]]></description>
-      <pubDate>Thu, 04 Sep 2025 11:56:32 GMT</pubDate>
-      <guid isPermaLink="false">dfa11dbda2b70521401c3e3e0bbc7631</guid>
+      <title>ডেঙ্গুতে ২৪ ঘণ্টায় আরো ৩ জনের মৃত্যু, হাসপাতালে ভর্তি ৩৬৩</title>
+      <link>https://bonikbarta.com/bangladesh/eCYXNMuwXzWNmaH9/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Thu, 04 Sep 2025 11:52:19 GMT</pubDate>
+      <guid isPermaLink="false">53bd901d32dbe4674fd28d004ed32e90</guid>
     </item>
     <item>
       <title>ডাকসু নির্বাচন নিয়ে কোনো রিট শুনব না : হাইকোর্ট</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[No description available]]></description>
       <pubDate>Thu, 04 Sep 2025 07:21:06 GMT</pubDate>
       <guid isPermaLink="false">b79779998471dea425f648bf22e2ef21</guid>
-    </item>
-    <item>
-      <title>যুদ্ধোত্তর ইউক্রেনে সেনা পাঠানো নিয়ে আলোচনার আগেই বিভক্ত ইউরোপ</title>
-      <link>https://bonikbarta.com/international/vLeoqTvYGhxZGv0i/</link>
-      <description><![CDATA[এই জোট মোটামুটি তিনটি ভাগে বিভক্ত—  সৈন্য মোতায়েনে ইচ্ছুক গোষ্ঠী: এর মধ্যে যুক্তরাজ্য অন্যতম। আছে সৈন্য না পাঠানোর সিদ্ধান্ত নেয়া গোষ্ঠী: এর মধ্যে অন্যতম ইতালি। এছাড়া, জার্মানির মতো অধিকাংশ দেশ এখনো সিদ্ধান্তহীনতায় ভুগছে।]]></description>
-      <pubDate>Thu, 04 Sep 2025 07:03:39 GMT</pubDate>
-      <guid isPermaLink="false">df1f577a830be35a0f6938dc0ddfd996</guid>
     </item>
   </channel>
 </rss>
