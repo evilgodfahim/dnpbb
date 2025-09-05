@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 05 Sep 2025 08:30:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 09:25:01 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>শিশুর দাঁতের যত্নে যা করা দরকার</title>
+      <link>https://bonikbarta.com/healthcare/Fdqg2ofj5dPABELW/</link>
+      <description><![CDATA[দাঁত ওঠার পর থেকেই সঠিক যত্ন নিলে দাঁত ও মাড়ি আজীবন সুস্থ থাকবে। বড়দের যেমন নিয়মিত দাঁতের যত্ন নেয়া প্রয়োজন, তেমনি শিশুদেরও দাঁত, মাড়ি সুস্থ এবং দাঁত ক্ষয়মুক্ত রাখতে নিয়মিত যত্নের প্রয়োজন।]]></description>
+      <pubDate>Fri, 05 Sep 2025 09:05:00 GMT</pubDate>
+      <guid isPermaLink="false">5461da9a7aaa40ca6e27c7ba04f0998e</guid>
+    </item>
     <item>
       <title>অন্তর্বর্তী সরকার শ্রমিকবান্ধব না হলে আর কে হবে: উপ-প্রেস সচিব</title>
       <link>https://bonikbarta.com/bangladesh/bRVwmSxyP66fe0dn/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">b75987b6c95fa59766c505c5b3c8be08</guid>
     </item>
     <item>
-      <title>ব্যবসায়িক পরিকল্পনা প্রতিযোগিতার উদ্বোধন</title>
-      <link>https://bonikbarta.com/economy/TOkkqyJ6WKxMTXMW/</link>
-      <description><![CDATA[প্লাস্টিকের জন্য বৃত্তাকার ও ক্লিন টেকসই সমাধানের জন্য স্ট্যার্টআপ ও এসএমই উদ্যোক্তাদের নিয়ে শুরু হচ্ছে ব্যবসায়িক পরিকল্পনা প্রতিযোগিতা।]]></description>
+      <title>২০ শ্রমিক নিয়ে ইউনিয়ন গঠনের প্রস্তাব কর্মক্ষেত্রের স্থিতিশীলতাকে ঝুঁকিতে ফেলবে</title>
+      <link>https://bonikbarta.com/economy/0DnhCm8HDNpi8x1R/</link>
+      <description><![CDATA[প্রতিষ্ঠানের আকার যা-ই হোক না কেন মাত্র ২০ জন শ্রমিককে নিয়ে ইউনিয়ন গঠন করা যাবে।]]></description>
       <pubDate>Thu, 04 Sep 2025 20:55:39 GMT</pubDate>
-      <guid isPermaLink="false">b73b95c0aeddb5fc69836f9eaaeba493</guid>
+      <guid isPermaLink="false">efe1199a4498382b91e9061a1bbbadc7</guid>
     </item>
     <item>
       <title>কম বয়সীদের কাছে এনার্জি ড্রিংক বিক্রি নিষিদ্ধ হচ্ছে যুক্তরাজ্যে</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্র সংসদ (ডাকসু) নির্বাচনে ১৪ দফা ইশতেহার ঘোষণা করেছে ছাত্র অধিকার পরিষদের নির্বাচনী প্যানেল ‘ডাকসু ফর চেঞ্জ, ভোট ফর চেঞ্জ’।]]></description>
       <pubDate>Thu, 04 Sep 2025 20:55:21 GMT</pubDate>
       <guid isPermaLink="false">7a09cb5af221f8b9329e14f6dd172cd4</guid>
-    </item>
-    <item>
-      <title>অধিকাংশ সবজির কেজি ৮০ টাকার ওপরে, বেড়েছে মুরগি-মাছের দাম</title>
-      <link>https://bonikbarta.com/bangladesh/fo0R0iWlwzfM5n6F/</link>
-      <description><![CDATA[রাজধানীর বাজারে নিত্যপণ্যের দামে নাভিশ্বাস ক্রেতাদের। অধিকাংশ সবজির দাম ৮০ টাকার ওপরে। গত সপ্তাহের তুলনায় দু-একটির দাম কমলেও বেশির ভাগেরই বেড়েছে। দাম বেড়েছে মাছ-মুরগিরও।]]></description>
-      <pubDate>Thu, 04 Sep 2025 20:55:20 GMT</pubDate>
-      <guid isPermaLink="false">c516f7c8cc4ad35d4840fe37f3cbd322</guid>
     </item>
   </channel>
 </rss>
