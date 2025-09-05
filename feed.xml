@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 05 Sep 2025 03:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 03:48:05 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>জোড়া গোলে শেষ ম্যাচ রাঙালেন মেসি</title>
+      <link>https://bonikbarta.com/sports/yY92OcEunLlsKIYU/</link>
+      <description><![CDATA[চওড়া মুখের হাসি নিয়েই বুয়েন্স আয়ার্সের মাঠটিতে এদিন পা রেখেছিলেন মেসি। ওয়ার্ম-আপ এবং জাতীয় সঙ্গীত চলাকালেও সতীর্থদের সঙ্গে তাকে বেশ আবেগী দেখা গেল। খানিক বাদেই দর্শকদের করতালি ও উচ্চশব্দে অভ্যর্থনা দৃশ্যপট বদলে দিয়ে মেসির চোখে আনন্দাশ্রু এনে দেয়।]]></description>
+      <pubDate>Fri, 05 Sep 2025 03:35:50 GMT</pubDate>
+      <guid isPermaLink="false">15791c3ca93a6756156dccb850b30258</guid>
+    </item>
     <item>
       <title>আফগানিস্তানে ফের শক্তিশালী ভূমিকম্প</title>
       <link>https://bonikbarta.com/international/XXTbLNDiR0msyu4W/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">9b02be897928763f1d658b9e9bf1c9fc</guid>
     </item>
     <item>
-      <title>ডেঙ্গুতে তিনজনের মৃত্যু হাসপাতালে ভর্তি ৩৬৩</title>
-      <link>https://bonikbarta.com/bangladesh/2FoQuP2zgfYzABjq/</link>
-      <description><![CDATA[বাংলাদেশে গত একদিনে ডেঙ্গু আক্রান্ত হয়ে তিনজন মারা গেছে এবং হাসপাতালে ভর্তি হয়েছে ৩৬৩ জন। এ বছর ডেঙ্গুতে ভর্তি রোগীর সংখ্যা বেড়ে হয়েছে ৩৩ হাজার ৩০৯।]]></description>
+      <title>সাবেক ভূমিমন্ত্রী সাইফুজ্জামানের বিরুদ্ধে সিআইডির মামলা</title>
+      <link>https://bonikbarta.com/bangladesh/6w3AbH9JIM7D0Pij/</link>
+      <description><![CDATA[দুবাইয়ে প্রায় ১২০০ কোটি টাকা পাচারের অভিযোগে সাবেক ভূমিমন্ত্রী সাইফুজ্জামান চৌধুরী ও তার স্ত্রী রুকমীলা জামানের বিরুদ্ধে মানি লন্ডারিং প্রতিরোধ আইনে মামলা করেছে পুলিশের অপরাধ তদন্ত বিভাগ (সিআইডি)।]]></description>
       <pubDate>Thu, 04 Sep 2025 20:55:21 GMT</pubDate>
-      <guid isPermaLink="false">13661ec82586e361116d537e5a04da31</guid>
+      <guid isPermaLink="false">b0f46fd5d701655f1f2b858c0ad97a4b</guid>
     </item>
     <item>
       <title>৪৬টিতে পরিবর্তন এনে ৩০০ সংসদীয় আসনের সীমানা চূড়ান্ত করে ইসির প্রজ্ঞাপন</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[বিএনপির ভারপ্রাপ্ত চেয়ারম্যান তারেক রহমান দেশে ফেরার সিদ্ধান্ত নিলে সরকার ভ্রমণ-সংক্রান্ত কাগজপত্র প্রদানে প্রয়োজনীয় সহায়তা করবে বলে জানিয়েছেন পররাষ্ট্র উপদেষ্টা মো. তৌহিদ হোসেন।]]></description>
       <pubDate>Thu, 04 Sep 2025 20:55:03 GMT</pubDate>
       <guid isPermaLink="false">be92380d0fd5ceca06c04952593e98c1</guid>
-    </item>
-    <item>
-      <title>শেখ হাসিনা ও জয়ের বিরুদ্ধে ইন্টারপোলের রেড নোটিস চেয়ে দুদকের চিঠি</title>
-      <link>https://bonikbarta.com/bangladesh/oExDFFs2g5ifEtj4/</link>
-      <description><![CDATA[ছাত্র-জনতার অভ্যুত্থানে ক্ষমতাচ্যুত সাবেক প্রধানমন্ত্রী শেখ হাসিনা ও তার ছেলে সজীব ওয়াজেদ জয়ের বিরুদ্ধে ইন্টারপোলের রেড নোটিস জারির পদক্ষেপ নিতে পুলিশ সদর দপ্তরে চিঠি পাঠিয়েছে দুর্নীতি দমন কমিশন (দুদক)।]]></description>
-      <pubDate>Thu, 04 Sep 2025 20:55:03 GMT</pubDate>
-      <guid isPermaLink="false">14ce9298b76977c91cbe6767aeaac54f</guid>
     </item>
   </channel>
 </rss>
