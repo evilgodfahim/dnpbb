@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 05 Sep 2025 05:41:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 06:34:46 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>আফগানিস্তানে ১১ টন ত্রাণ পাঠাচ্ছে বাংলাদেশ</title>
+      <link>https://bonikbarta.com/bangladesh/9kmMG2QAXYjvd4c2/</link>
+      <description><![CDATA[বাংলাদেশ বিমান বাহিনীর একটি পরিবহন বিমান জরুরি ত্রাণ সামগ্রীসহ আফগানিস্তানের কাবুলের উদ্দেশ্যে গমন করে।]]></description>
+      <pubDate>Fri, 05 Sep 2025 06:14:20 GMT</pubDate>
+      <guid isPermaLink="false">6b23f1a35e0963ae0ddb4acb69b88f03</guid>
+    </item>
     <item>
       <title>মারাকানায় ব্রাজিলের উৎসব, চিলিকে হারাল ৩-০ গোলে</title>
       <link>https://bonikbarta.com/sports/8mCfpKjXHbusLYLE/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">d4ec6ea9294315a0fdecb55996c8368c</guid>
     </item>
     <item>
-      <title>তরুণদের জন্য আর্থিক সাক্ষরতা কর্মসূচির উদ্বোধন করেছে ঢাকা ব্যাংক</title>
-      <link>https://bonikbarta.com/economy/JWLyMqxOXDZBl1F2/</link>
-      <description><![CDATA[তরুণদের জন্য আর্থিক সাক্ষরতা কর্মসূচির উদ্বোধন করেছে ঢাকা ব্যাংক পিএলসি।]]></description>
+      <title>জনতা ব্যাংক ও এসএসএলের মধ্যে বিলার পেমেন্ট সার্ভিস চালুর বিষয়ে চুক্তি</title>
+      <link>https://bonikbarta.com/economy/W6VIUUIxU0hcPgXI/</link>
+      <description><![CDATA[জনতা ব্যাংক পিএলসি ও এসএসএল ওয়্যারলেসের মধ্যে বিলার পেমেন্ট সার্ভিস চালুর বিষয়ে একটি চুক্তি হয়েছে।]]></description>
       <pubDate>Thu, 04 Sep 2025 20:55:21 GMT</pubDate>
-      <guid isPermaLink="false">d217a40fcb974d32cc5954d2e39553b7</guid>
+      <guid isPermaLink="false">d3cf539a7234bf9d81ba4f9ae170850f</guid>
     </item>
     <item>
       <title>ইউআইইউতে স্কিন’ও বিজনেস ইন্টেলিজেন্স অনুষ্ঠিত</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[গাইবান্ধায় প্লাস্টিক ও পলিথিনের ব্যবহার বন্ধে সচেতনতামূলক শোভাযাত্রা অনুষ্ঠিত হয়েছে।]]></description>
       <pubDate>Thu, 04 Sep 2025 20:55:04 GMT</pubDate>
       <guid isPermaLink="false">f1f4f861ed8f006f1bb734664f958b66</guid>
-    </item>
-    <item>
-      <title>জলবায়ু সম্মেলন</title>
-      <link>https://bonikbarta.com/bangladesh/kJiF5eE0jJz34he0/</link>
-      <description><![CDATA[জলবায়ু সহনশীল নগর গঠনের দাবি জানিয়ে সাতক্ষীরায় অনুষ্ঠিত হয়েছে উপকূলীয় যুব জলবায়ু সম্মেলন-২০২৫।]]></description>
-      <pubDate>Thu, 04 Sep 2025 20:55:04 GMT</pubDate>
-      <guid isPermaLink="false">ceac307d2f5040c4b449dda5c1ad9f25</guid>
     </item>
   </channel>
 </rss>
