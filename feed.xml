@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 05 Sep 2025 07:22:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 07:39:20 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ফরিদপুরে আসন বিন্যাসের প্রতিবাদে দুই মহাসড়ক অবরোধ</title>
+      <link>https://bonikbarta.com/bangladesh/Czr7JnfmeDITpTDW/</link>
+      <description><![CDATA[বৃহস্পতিবার (৪ সেপ্টেম্বর) ত্রয়োদশ জাতীয় সংসদ নির্বাচনের জন্য ৩০০ সংসদীয় আসনের পুনর্নির্ধারিত সীমানার তালিকা প্রকাশ করেছে নির্বাচন কমিশন (ইসি)।]]></description>
+      <pubDate>Fri, 05 Sep 2025 07:35:29 GMT</pubDate>
+      <guid isPermaLink="false">a8cf1be9c22ffe531b8d4287d57fed91</guid>
+    </item>
     <item>
       <title>বিশ্বকাপে খেলার ব্যাপারে এখনো সিদ্ধান্ত নেননি মেসি</title>
       <link>https://bonikbarta.com/sports/ZvHfR743BHqhpos8/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">2e00a7b27842d154299bbf3b068cfc39</guid>
     </item>
     <item>
-      <title>আমেরিকান ঈগলের প্রচারণায় সিডনি সুইনি</title>
-      <link>https://bonikbarta.com/economy/6T4X0oWfdPudtcOJ/</link>
-      <description><![CDATA[মার্কিন খুচরা পোশাক বিক্রেতা ব্র্যান্ড আমেরিকান ঈগলের প্রচারণায় যোগ দিয়েছেন অভিনেত্রী সিডনি সুইনি।]]></description>
-      <pubDate>Thu, 04 Sep 2025 20:55:39 GMT</pubDate>
-      <guid isPermaLink="false">b62ab30df7e51ea1525bd29119a5c96e</guid>
+      <title>মিয়ানমারে জান্তাবিরোধী সশস্ত্র যুদ্ধ থেকে পিছু হটল প্রভাবশালী গোষ্ঠী</title>
+      <link>https://bonikbarta.com/international/Zw3SzILDw7HQgj9u/</link>
+      <description><![CDATA[মিয়ানমারের জান্তাবিরোধী যুদ্ধে সবচেয়ে বড় সশস্ত্র গোষ্ঠীগুলোর একটি ইউনাইটেড ওয়া স্টেট আর্মি (ইউডব্লিউএসএ)। গত কয়েক বছর উত্তর মিয়ানমারের শান রাজ্যের এ গোষ্ঠীটি বিভিন্ন জাতিগত সশস্ত্র সংগঠন ও প্রতিরোধ বাহিনীকে অস্ত্র, অর্থ ও নিরাপদ আশ্রয় দিয়ে সহায়তা করে আসছিল।]]></description>
+      <pubDate>Thu, 04 Sep 2025 20:55:21 GMT</pubDate>
+      <guid isPermaLink="false">2200deb446c5a6568175bd685f5a9c70</guid>
     </item>
     <item>
       <title>ওয়ালটন হাই-টেকের সঙ্গে একীভূত হবে ওয়ালটন ডিজি-টেক</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[বলিউডের গ্লোবাল আইকন দীপিকা পাড়ুকোন ছুঁলেন নতুন মাইলফলক।]]></description>
       <pubDate>Thu, 04 Sep 2025 20:55:04 GMT</pubDate>
       <guid isPermaLink="false">14bae9cd71696b222f722aaad15b8c42</guid>
-    </item>
-    <item>
-      <title>আজ মুক্তি পাচ্ছে ইংরেজি ভাষায় নির্মিত বাংলাদেশী চলচ্চিত্র ‘ডট’</title>
-      <link>https://bonikbarta.com/talkies/i3ecmv4UzxcUQdBV/</link>
-      <description><![CDATA[বাংলাদেশে নির্মিত ইংরেজি ভাষার পূর্ণদৈর্ঘ্য চলচ্চিত্র ‘ডট’। সিনেমাটি আজ থেকে দেশের বিভিন্ন প্রেক্ষাগৃহে মুক্তি পাচ্ছে।]]></description>
-      <pubDate>Thu, 04 Sep 2025 20:55:04 GMT</pubDate>
-      <guid isPermaLink="false">78f49b49565486857273391ee0624d0c</guid>
     </item>
   </channel>
 </rss>
