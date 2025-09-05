@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 05 Sep 2025 09:25:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 09:41:34 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ফেসবুকে আবারও ফিরছে ‘পোক’</title>
+      <link>https://bonikbarta.com/scitech/c38xuuq6WNsNKNf2/</link>
+      <description><![CDATA[ফেসবুকের পোক ফিচারটি মূলত তরুণ ব্যবহারকারীদের লক্ষ্য করে তৈরি করা হয়েছে। বিশেষ করে যারা সোশ্যাল অ্যাপে গেমিফিকেশন (গেমের মতো মজাদার ও আকর্ষণীয়) ফিচারের সঙ্গে বড় হয়েছে, যেমন—স্ন্যাপচ্যাট বা টিকটকের ‘স্ট্রিকস’।]]></description>
+      <pubDate>Fri, 05 Sep 2025 09:41:29 GMT</pubDate>
+      <guid isPermaLink="false">e9e5111b3948ef4f3710a128a44c4f43</guid>
+    </item>
     <item>
       <title>শিশুর দাঁতের যত্নে যা করা দরকার</title>
       <link>https://bonikbarta.com/healthcare/Fdqg2ofj5dPABELW/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">7c997533e40794e1a9a2ffb06ca41612</guid>
     </item>
     <item>
-      <title>পূবালী ব্যাংকের কোনাপাড়া শাখা উদ্বোধন</title>
-      <link>https://bonikbarta.com/economy/b3XEH6nTvqAMYN8w/</link>
-      <description><![CDATA[ঢাকার কোনাপাড়ায় পূবালী ব্যাংক পিএলসির ৫১০তম শাখা উদ্বোধন করা হয়েছে।]]></description>
+      <title>ব্যবসায়িক পরিকল্পনা প্রতিযোগিতার উদ্বোধন</title>
+      <link>https://bonikbarta.com/economy/TOkkqyJ6WKxMTXMW/</link>
+      <description><![CDATA[প্লাস্টিকের জন্য বৃত্তাকার ও ক্লিন টেকসই সমাধানের জন্য স্ট্যার্টআপ ও এসএমই উদ্যোক্তাদের নিয়ে শুরু হচ্ছে ব্যবসায়িক পরিকল্পনা প্রতিযোগিতা।]]></description>
       <pubDate>Thu, 04 Sep 2025 20:55:39 GMT</pubDate>
-      <guid isPermaLink="false">b75987b6c95fa59766c505c5b3c8be08</guid>
+      <guid isPermaLink="false">b73b95c0aeddb5fc69836f9eaaeba493</guid>
     </item>
     <item>
       <title>২০ শ্রমিক নিয়ে ইউনিয়ন গঠনের প্রস্তাব কর্মক্ষেত্রের স্থিতিশীলতাকে ঝুঁকিতে ফেলবে</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[১১ সেপ্টেম্বর অনুষ্ঠিত হবে জাহাঙ্গীরনগর বিশ্ববিদ্যালয় কেন্দ্রীয় শিক্ষার্থী সংসদ (জাকসু) নির্বাচন। এ নির্বাচনকে ঘিরে প্রার্থীদের প্রচারণা চলছে পুরোদমে। সমর্থন পেতে শিক্ষার্থীদের কাছে যাচ্ছেন প্রার্থীরা।]]></description>
       <pubDate>Thu, 04 Sep 2025 20:55:21 GMT</pubDate>
       <guid isPermaLink="false">af79ce4274a66cf2fb790ce84f1dc69f</guid>
-    </item>
-    <item>
-      <title>ছাত্র অধিকার পরিষদ প্যানেলের ১৪ দফা ইশতেহার</title>
-      <link>https://bonikbarta.com/bangladesh/V7zpD7kTEZ6y1Zjp/</link>
-      <description><![CDATA[ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্র সংসদ (ডাকসু) নির্বাচনে ১৪ দফা ইশতেহার ঘোষণা করেছে ছাত্র অধিকার পরিষদের নির্বাচনী প্যানেল ‘ডাকসু ফর চেঞ্জ, ভোট ফর চেঞ্জ’।]]></description>
-      <pubDate>Thu, 04 Sep 2025 20:55:21 GMT</pubDate>
-      <guid isPermaLink="false">7a09cb5af221f8b9329e14f6dd172cd4</guid>
     </item>
   </channel>
 </rss>
