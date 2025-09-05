@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 05 Sep 2025 04:44:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 05:22:18 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>দাবি আদায়ে অনশনে শিক্ষার্থীরা, পাশে মশারি টানিয়ে ঘুমালেন উপাচার্য</title>
+      <link>https://bonikbarta.com/bangladesh/IO7UhXKGIGGU8cri/</link>
+      <description><![CDATA[আমরা দীর্ঘদিন ধরে যৌক্তিক তিন দাবিতে সড়ক অবরোধসহ নানা কর্মসূচি পালন করছি। দাবি মানার বিষয়ে বিশ্ববিদ্যালয় মঞ্জুরি কমিশন (ইউজিসি) এ পর্যন্ত আমাদের সঙ্গে কোনো রকমের যোগাযোগ করেনি।]]></description>
+      <pubDate>Fri, 05 Sep 2025 05:13:34 GMT</pubDate>
+      <guid isPermaLink="false">5d0d946125e8463ad1f498617e8013c9</guid>
+    </item>
     <item>
       <title>যুক্তরাষ্ট্রে জাপানি গাড়ির শুল্ক প্রায় অর্ধেক কমালেন ট্রাম্প</title>
       <link>https://bonikbarta.com/international/BP2iqxoXyrkKXdcO/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">5f16fae3c3f405cd86b29ea32574b4b3</guid>
     </item>
     <item>
-      <title>পেশাদার কোর্স চালুর জন্য ইডব্লিউইউ ও ডিসিসিআইয়ের মধ্যে চুক্তি</title>
-      <link>https://bonikbarta.com/economy/SSz1LWCy8SvWMNyq/</link>
-      <description><![CDATA[ইস্ট ওয়েস্ট ইউনিভার্সিটি (ইডব্লিউইউ) এবং ঢাকা চেম্বার অব কমার্স অ্যান্ড ইন্ডাস্ট্রির (ডিসিসিআই) মধ্যে ব্যবসা ও অর্থনৈতিক উন্নয়নসংশ্লিষ্ট বিষয়ে পেশাদার কোর্স চালুর বিষয়ে সহযোগিতা স্মারক স্বাক্ষরিত হয়েছে।]]></description>
+      <title>ট্রাস্ট ব্যাংক ও ডেলিফ্রান্সের মধ্যে সমঝোতা স্মারক স্বাক্ষর</title>
+      <link>https://bonikbarta.com/economy/UZkPtJwSGkdcZ4xY/</link>
+      <description><![CDATA[ট্রাস্ট ব্যাংক পিএলসি ও লেস ব্লিউস লিমিটেডের (ডেলিফ্রান্স) মধ্যে একটি সমঝোতা স্মারক স্বাক্ষর হয়েছে।]]></description>
       <pubDate>Thu, 04 Sep 2025 20:55:21 GMT</pubDate>
-      <guid isPermaLink="false">e363954c78c94cabab46b09f8a9a6db5</guid>
+      <guid isPermaLink="false">9b02be897928763f1d658b9e9bf1c9fc</guid>
     </item>
     <item>
       <title>ডেঙ্গুতে তিনজনের মৃত্যু হাসপাতালে ভর্তি ৩৬৩</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[দক্ষিণাঞ্চলের মানুষের ঢাকাসহ বিভিন্ন জেলায় যোগাযোগের প্রধান রুট দৌলতদিয়া-পাটুরিয়া নৌ-রুট।]]></description>
       <pubDate>Thu, 04 Sep 2025 20:55:03 GMT</pubDate>
       <guid isPermaLink="false">cf1e4c1f62eb55fd5a0420f5ea2be07f</guid>
-    </item>
-    <item>
-      <title>মানবতাবিরোধী মামলায় অভিযুক্তরা নির্বাচনে অযোগ্য</title>
-      <link>https://bonikbarta.com/bangladesh/m1ai8xKMx0dPsD6b/</link>
-      <description><![CDATA[মানবতাবিরোধী অপরাধের মামলায় কোনো ব্যক্তির বিরুদ্ধে অভিযোগপত্র আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে দাখিল করা হলেই তিনি নির্বাচন অযোগ্য হবেন। জনপ্রতিনিধি হয়ে থাকলে তিনি আর বহাল থাকতে পারবেন না।]]></description>
-      <pubDate>Thu, 04 Sep 2025 20:55:03 GMT</pubDate>
-      <guid isPermaLink="false">ca5a32a550f488a1bd8a9b680132b679</guid>
     </item>
   </channel>
 </rss>
