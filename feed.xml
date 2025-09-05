@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 05 Sep 2025 10:24:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 10:42:39 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>মুক্তিযুদ্ধ ও বাহাত্তরের সংবিধানের প্রশ্নে আপস করবে না সিপিবি: ড. এম এম আকাশ</title>
+      <link>https://bonikbarta.com/bangladesh/bk5ZQijLYYnzzluN/</link>
+      <description><![CDATA[সিপিবির এ নেতা বলেন, এ সরকার সংস্কারের নামে সাত হাজার পৃষ্ঠার দলিল রচনা করেছে। এ অবস্থায় দেশের মানুষ নির্বাচন নিয়ে হতাশ হতে লাগল, নির্বাচন হবে কী হবে না, সেই প্রশ্ন দেখা দিল।]]></description>
+      <pubDate>Fri, 05 Sep 2025 10:36:00 GMT</pubDate>
+      <guid isPermaLink="false">d61d112f4b0105ad71a2a0ffe8e415db</guid>
+    </item>
     <item>
       <title>কিউই ক্রিকেট গ্রেট রস টেলর এবার খেলবেন সামোয়ার হয়ে!</title>
       <link>https://bonikbarta.com/sports/c4clq9dSWejjZpYQ/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">b62e6ed907903225a75cd30873890401</guid>
     </item>
     <item>
-      <title>আফগানিস্তানে ফের শক্তিশালী ভূমিকম্প</title>
-      <link>https://bonikbarta.com/international/XXTbLNDiR0msyu4W/</link>
-      <description><![CDATA[বৃহস্পতিবার রাতের ভূমিকম্পটি এতটাই শক্তিশালী ছিল যে এটি ভারতের দিল্লি, জম্মু ও কাশ্মির এবং আশপাশের অঞ্চলে অনুভূত হয়েছে।]]></description>
-      <pubDate>Fri, 05 Sep 2025 02:56:24 GMT</pubDate>
-      <guid isPermaLink="false">3e95572e33470484173550c37e4f419a</guid>
+      <title>গোপালগঞ্জে সহিংসতা: তদন্ত কমিশনের মেয়াদ বাড়লো আরো ৩৪ দিন</title>
+      <link>https://bonikbarta.com/bangladesh/3uugXONuMBxuKwpB/</link>
+      <description><![CDATA[দ্য কমিশন অব ইনকোয়ারি অ্যাক্ট ১৯৫৬–এর সেকশন ৩–এর দেয়া ক্ষমতাবলে সরকার বাংলাদেশ সুপ্রিম কোর্টের সাবেক বিচারপতি ড. মো. আবু তারিককে সভাপতি করে গত ২৪ জুলাই ছয় সদস্যের এই তদন্ত কমিশন গঠন করে।]]></description>
+      <pubDate>Fri, 05 Sep 2025 02:47:12 GMT</pubDate>
+      <guid isPermaLink="false">b94aa32a6d2dd250486da28825265ac2</guid>
     </item>
     <item>
       <title>বিনামূল্যে প্রাথমিক ও প্রতিষেধক সেবা দিতে পারলে সামাজিক সুরক্ষায় খরচ কমে যাবে</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[শাহ্জালাল ইসলামী ব্যাংক পিএলসির নবনিযুক্ত অফিসারদের জন্য দুই দিনব্যাপী ইন্ডাকশন ট্রেনিং কোর্সের আয়োজন করা হয়েছে।]]></description>
       <pubDate>Thu, 04 Sep 2025 20:55:21 GMT</pubDate>
       <guid isPermaLink="false">3a0c8634109eb512bb0b73c8271f4f0d</guid>
-    </item>
-    <item>
-      <title>আল-আরাফাহ্ ইসলামী ব্যাংকের সঙ্গে নগদের চুক্তি</title>
-      <link>https://bonikbarta.com/economy/Nt56c01WVY3dpOmc/</link>
-      <description><![CDATA[আল-আরাফাহ্ ইসলামী ব্যাংকের সঙ্গে নগদের একটি চুক্তি হয়েছে।]]></description>
-      <pubDate>Thu, 04 Sep 2025 20:55:21 GMT</pubDate>
-      <guid isPermaLink="false">d4ec6ea9294315a0fdecb55996c8368c</guid>
     </item>
   </channel>
 </rss>
