@@ -6,7 +6,7 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 06 Sep 2025 05:20:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 05:40:28 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <item>
       <title>ভেনেজুয়েলায় মার্কিন হামলার আশংকা, মার্কিন ঘাঁটিতে এফ-৩৫ যুদ্ধবিমান মোতায়েন</title>
@@ -303,13 +303,6 @@
       <guid isPermaLink="false">c011e2ee4598aa668d8bf2ce9ee2b1f3</guid>
     </item>
     <item>
-      <title>বিশ্বজুড়ে সরকারি বন্ডের বিক্রয় চাপ বাড়ছে</title>
-      <link>https://bonikbarta.com/economy/C4FLRaWDcCgBsJZi/</link>
-      <description><![CDATA[বিশ্বের শীর্ষ অর্থনীতি যুক্তরাষ্ট্র। দেশটির ক্রমবর্ধমান মূল্যস্ফীতি ও সুদহারের মধ্যকার টানাপড়েন এখন গোটা বৈশ্বিক অর্থনীতিতেই প্রভাব ফেলতে শুরু করেছে।]]></description>
-      <pubDate>Fri, 05 Sep 2025 20:22:05 GMT</pubDate>
-      <guid isPermaLink="false">2e9e9cd00e986a5996ea62cb6ba0018f</guid>
-    </item>
-    <item>
       <title>রোববার চট্টগ্রাম বিশ্ববিদ্যালয়ে ক্লাস শুরু</title>
       <link>https://bonikbarta.com/bangladesh/9tWjxvHugI7aRugL/</link>
       <description><![CDATA[আগামীকাল থেকে চট্টগ্রাম বিশ্ববিদ্যালয়ে (চবি) ক্লাস ও পরীক্ষাসহ সব একাডেমিক কার্যক্রম শুরুর ঘোষণা দিয়েছে বিশ্ববিদ্যালয় কর্তৃপক্ষ।]]></description>
@@ -357,6 +350,13 @@
       <description><![CDATA[অন্তর্বর্তী সরকারের প্রধান ড. মুহাম্মদ ইউনূসের প্রতি আহ্বান জানিয়ে বাংলাদেশের কমিউনিস্ট পার্টির (সিপিবি) কেন্দ্রীয় নেতা অধ্যাপক ড. এমএম আকাশ বলেছেন, ‘আপনাকে দিয়ে আর কিছু হবে না।]]></description>
       <pubDate>Fri, 05 Sep 2025 20:22:05 GMT</pubDate>
       <guid isPermaLink="false">42c9617ab006059b91f0ffa56fcd6176</guid>
+    </item>
+    <item>
+      <title>বিশ্বজুড়ে সরকারি বন্ডের বিক্রয় চাপ বাড়ছে</title>
+      <link>https://bonikbarta.com/economy/C4FLRaWDcCgBsJZi/</link>
+      <description><![CDATA[বিশ্বের শীর্ষ অর্থনীতি যুক্তরাষ্ট্র। দেশটির ক্রমবর্ধমান মূল্যস্ফীতি ও সুদহারের মধ্যকার টানাপড়েন এখন গোটা বৈশ্বিক অর্থনীতিতেই প্রভাব ফেলতে শুরু করেছে।]]></description>
+      <pubDate>Fri, 05 Sep 2025 20:22:00 GMT</pubDate>
+      <guid isPermaLink="false">237de897748e5573f94bd2e226e5531e</guid>
     </item>
   </channel>
 </rss>
