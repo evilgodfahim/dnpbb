@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 06 Sep 2025 07:19:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 07:39:19 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>মাজার ভাঙা ও লাশ পুড়িয়ে দেয়া রাসুলের শিক্ষা নয় : রিজভী</title>
+      <link>https://bonikbarta.com/bangladesh/GXUigLUNmxmfHDlF/</link>
+      <description><![CDATA[আজ যে দেশে বাস করছি, সেই দেশের যিনি সাবেক প্রধানমন্ত্রী ছিলেন, তিনিও মুসলমান ছিলেন, কাজে না হলেও নামে ছিলেন।]]></description>
+      <pubDate>Sat, 06 Sep 2025 07:21:15 GMT</pubDate>
+      <guid isPermaLink="false">21b4a48cce4093fd309e28977a77e1fe</guid>
+    </item>
     <item>
       <title>বিশ্বের পরিচ্ছন্ন ৫ শহর</title>
       <link>https://bonikbarta.com/bangladesh/cA10Xiiph5rMoBqB/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">0604bbd5231db17862880f1f07fb7349</guid>
     </item>
     <item>
-      <title>তিন জেলায় সড়ক দুর্ঘটনায় নিহত ৫</title>
-      <link>https://bonikbarta.com/bangladesh/1C2UXpafSfqwrhtR/</link>
-      <description><![CDATA[মানিকগঞ্জে মোটরসাইকেল নিয়ন্ত্রণ হারিয়ে দুই আরোহী নিহত হয়েছেন।]]></description>
-      <pubDate>Fri, 05 Sep 2025 20:56:35 GMT</pubDate>
-      <guid isPermaLink="false">19c197187ef1385bed3fd0af5afec8f6</guid>
+      <title>খুলনায় মৎস্য ঘেরে বারোমাসি তরমুজ আবাদে বাড়তি আয়</title>
+      <link>https://bonikbarta.com/bangladesh/ebTH4oUaz5xFpr7d/</link>
+      <description><![CDATA[তরমুজ মূলত গ্রীষ্মকালীন ফল। ফেব্রুয়ারি থেকে এপ্রিল পর্যন্ত তরমুজ চাষের জন্য উপযুক্ত সময়।]]></description>
+      <pubDate>Fri, 05 Sep 2025 20:54:36 GMT</pubDate>
+      <guid isPermaLink="false">b7eb9b43cdc3c7c771cb23bc431331a8</guid>
     </item>
     <item>
       <title>বাঁকখালী নদী দখলমুক্ত অভিযানে বাধা, এক্সক্যাভেটর ভাংচুর, সড়ক অবরোধ</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[যুক্তরাজ্যের উপপ্রধানমন্ত্রী অ্যাঞ্জেলা রেইনার পদত্যাগ করেছেন। তার বিরুদ্ধে কর ফাঁকির অভিযোগ আনা হয়েছিল। গতকাল নিজের বিরুদ্ধে আনা অভিযোগ স্বীকার করে পদত্যাগ করেন রেইনার। খবর রয়টার্স।]]></description>
       <pubDate>Fri, 05 Sep 2025 20:22:05 GMT</pubDate>
       <guid isPermaLink="false">c008794c4c87e2cb54185a9d0f4cbe2c</guid>
-    </item>
-    <item>
-      <title>নরওয়ের সার্বভৌম তহবিলকে শুল্ক হুমকি যুক্তরাষ্ট্রের</title>
-      <link>https://bonikbarta.com/economy/0mvv8winafq801vE/</link>
-      <description><![CDATA[ইসরায়েলি কার্যক্রমের কারণে নির্মাণ সরঞ্জাম কোম্পানি ক্যাটারপিলারের শেয়ার বিক্রি করে দিয়েছে সার্বভৌম সম্পদ তহবিল নরওয়ে অয়েল ফান্ড।]]></description>
-      <pubDate>Fri, 05 Sep 2025 20:22:05 GMT</pubDate>
-      <guid isPermaLink="false">c011e2ee4598aa668d8bf2ce9ee2b1f3</guid>
     </item>
   </channel>
 </rss>
