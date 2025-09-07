@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 07 Sep 2025 01:56:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 03:06:23 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>গাইবান্ধায় নিখোঁজ বৃদ্ধার মরদেহ মিলল জঙ্গলে, তিন ছেলে ও স্ত্রীসহ ৫ জন আটক</title>
+      <link>https://bonikbarta.com/bangladesh/hStGEOh1DMUqao58/</link>
+      <description><![CDATA[এলাকাবাসীর অভিযোগ, দীর্ঘদিনের দ্বন্দ্বের জেরে তিন ছেলে পরিকল্পিতভাবে মাকে শ্বাসরোধে হত্যা করে মরদেহ জঙ্গলে ফেলে রাখে। কেউ কেউ দাবি করছেন, পুরনো বাড়িতে থাকার কারণে নুর আলম সরাসরি হত্যার সঙ্গে জড়িত।]]></description>
+      <pubDate>Sun, 07 Sep 2025 02:55:20 GMT</pubDate>
+      <guid isPermaLink="false">e12ef70cbb15bf36824834c6f6d08540</guid>
+    </item>
     <item>
       <title>বড় পর্দায় আসছে মেহজাবীনের দ্বিতীয় সিনেমা</title>
       <link>https://bonikbarta.com/talkies/yYnI8GZS6Ye7hdDJ/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">5714688dcc6058da3404af9f0cc7b144</guid>
     </item>
     <item>
-      <title>সুন্দরবন ও খুলনায় কোস্ট গার্ডের পৃথক অভিযানে দেশীয় অস্ত্রসহ ৬ জন আটক</title>
-      <link>https://bonikbarta.com/bangladesh/JFyn5V9mf04PyCHM/</link>
+      <title>কাকরাইলে মোবাইল কোর্ট অভিযান: কালোধোঁয়া নির্গমনে ৬টি মামলা, জরিমানা</title>
+      <link>https://bonikbarta.com/bangladesh/3av4o9sqVfNqsZjt/</link>
       <description><![CDATA[No description available]]></description>
-      <pubDate>Sat, 06 Sep 2025 15:57:19 GMT</pubDate>
-      <guid isPermaLink="false">4429e5c77e1d46bc10055b4d57700d7c</guid>
+      <pubDate>Sat, 06 Sep 2025 15:54:35 GMT</pubDate>
+      <guid isPermaLink="false">e4a2943a6c701ea8701869d926e748ff</guid>
     </item>
     <item>
       <title>রাজধানীতে আওয়ামী লীগের ৯ নেতাকর্মী গ্রেফতার</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[No description available]]></description>
       <pubDate>Sat, 06 Sep 2025 12:01:48 GMT</pubDate>
       <guid isPermaLink="false">c92f6da24d67c07d43dbbf4e9c04c0e1</guid>
-    </item>
-    <item>
-      <title>গোপন মিশনে উত্তর কোরিয়ার বেসামরিক নাগরিকদের হত্যা করেছে মার্কিন নেভি</title>
-      <link>https://bonikbarta.com/international/mpd0JXjDuz31bRZX/</link>
-      <description><![CDATA[সংবাদ মাধ্যমটির প্রতিবেদনে বলা হয়, ২০১৯ সালের শুরুতে যুক্তরাষ্ট্র ও উত্তর কোরিয়ার মধ্যে কূটনৈতিক অচলাবস্থার প্রেক্ষাপটে নেভি সিল টিম-৬ উত্তর কোরিয়ায় প্রবেশ করে। ওই টিমকে গোপনে একটি আড়িপাতার যন্ত্র বসানোর নির্দেশ দেয়া হয়েছিল।]]></description>
-      <pubDate>Sat, 06 Sep 2025 11:46:00 GMT</pubDate>
-      <guid isPermaLink="false">11c42969ea6a82ef4a973db936461184</guid>
     </item>
   </channel>
 </rss>
