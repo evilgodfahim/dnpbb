@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 07 Sep 2025 11:16:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 11:38:52 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>অন্ধকারে আলো ছড়াবে গাছ!</title>
+      <link>https://bonikbarta.com/feature/YzbwSR7yRrFUBWs2/</link>
+      <description><![CDATA[গবেষণার সহ-লেখক শুটিং লিউ জানিয়েছেন, তাদের ইচ্ছা ছিল ‘অ্যাভাটার’ সিনেমার মতো একটি পরিবেশ তৈরি করা, যেখানে গাছপালা পুরো বাস্তুতন্ত্রকে আলোকিত করে। তিনি বলেন, আমরা ল্যাবে ব্যবহৃত সাধারণ উপাদান দিয়েই সেই স্বপ্নকে বাস্তবে রূপ দিতে চেয়েছি।]]></description>
+      <pubDate>Sun, 07 Sep 2025 11:36:23 GMT</pubDate>
+      <guid isPermaLink="false">6ce44389448d5e8e425ad54ce7d0a092</guid>
+    </item>
     <item>
       <title>মাত্র ৮ মাসে দেশের ফিড ইন্ডাস্ট্রিতে নতুন মাইলফলক স্থাপন আকিজ ফিডের</title>
       <link>https://bonikbarta.com/economy/CEe3XZr6R81YRT0x/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">df009311801727292b6f5c1d153791d4</guid>
     </item>
     <item>
-      <title>বদরুদ্দীন উমর কণ্ঠহীন সময়ের অনিরুদ্ধ কণ্ঠস্বর</title>
-      <link>https://bonikbarta.com/editorial/TjfCZTaPE1wQCqL5/</link>
-      <description><![CDATA[(লেখাটি বণিক বার্তায় পুনঃপ্রকাশিত হলো। এর আগে, ২০২৫ সালের ৩১ জুলাই বণিক বার্তায় লেখাটি প্রথম প্রকাশ পায়।)]]></description>
-      <pubDate>Sun, 07 Sep 2025 06:09:00 GMT</pubDate>
-      <guid isPermaLink="false">c8c84235904164faabf8518d3e34b957</guid>
+      <title>বদরুদ্দীন উমর আর নেই</title>
+      <link>https://bonikbarta.com/bangladesh/EHvVsmz45O8y58Dd/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Sun, 07 Sep 2025 05:12:00 GMT</pubDate>
+      <guid isPermaLink="false">9dcf72a280c232c00db4fb5b3aabcbe8</guid>
     </item>
     <item>
       <title>গাজা যুদ্ধ নিয়ে নির্মিত ‘দ্য ভয়েস অব হিন্দ রজব’ জিতল সিলভার লায়ন</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[লক্ষ্মীপুর সদর উপজেলার চন্দ্রগঞ্জে একটি বাস নিয়ন্ত্রণ হারিয়ে রহমতখালী খালে পড়ে পাঁচ যাত্রী নিহত হয়েছেন। চন্দ্রগঞ্জ কফিল উদ্দিন ডিগ্রি কলেজের কাছে গতকাল সকাল সাড়ে ৮টার দিকে এ ঘটনা ঘটে।]]></description>
       <pubDate>Sat, 06 Sep 2025 18:32:32 GMT</pubDate>
       <guid isPermaLink="false">364f1b5c159a1c2bf03e2421c3bae692</guid>
-    </item>
-    <item>
-      <title>পল্লী বিদ্যুৎ কর্মীরা গণছুটিতে যাচ্ছেন আজ থেকে</title>
-      <link>https://bonikbarta.com/bangladesh/mH8mmFq1x143bLg1/</link>
-      <description><![CDATA[পল্লী বিদ্যুতের সংস্কার, চাকরিবৈষম্য দূরীকরণ ও হয়রানিমূলক পদক্ষেপ বন্ধসহ চার দফা দাবিতে আজ রোববার থেকে অনির্দিষ্টকালের জন্য গণছুটিতে যাওয়ার ঘোষণা দিয়েছেন পল্লী বিদ্যুৎ সমিতির কর্মকর্তা-কর্মচারী।]]></description>
-      <pubDate>Sat, 06 Sep 2025 18:32:32 GMT</pubDate>
-      <guid isPermaLink="false">21479c1e43fea1d7bfd7c896bf604898</guid>
     </item>
   </channel>
 </rss>
