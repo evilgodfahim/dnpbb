@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 07 Sep 2025 15:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 16:25:28 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>আ. লীগের অ্যান্টিথিসিস বদরুদ্দীন উমর ও তার গণ-অভ্যুত্থানবাদ</title>
+      <link>https://bonikbarta.com/editorial/Rm1juCSNpywnKKV4/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Sun, 07 Sep 2025 15:44:21 GMT</pubDate>
+      <guid isPermaLink="false">11a46b13aae3532b058e4a7af1cc0143</guid>
+    </item>
     <item>
       <title>ছাত্র সংসদ নির্বাচন: গণতন্ত্র নয়, আদর্শগত দাঙ্গার দিকে যাচ্ছে ক্যাম্পাস</title>
       <link>https://bonikbarta.com/editorial/0izDLwDEit6BurGC/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">013a941c2278bd5b5d7b967474ec987b</guid>
     </item>
     <item>
-      <title>বিজিবির অভিযানে আগস্ট মাসে ১৭৭ কোটি ২১ লক্ষাধিক টাকার পণ্যসামগ্রী জব্দ</title>
-      <link>https://bonikbarta.com/economy/Ks8EKAonpRE8ebqg/</link>
-      <description><![CDATA[৩টি দেশী/বিদেশী পিস্তল, ১টি রিভলভার, ১টি এসএমজি, ৩টি রাইফেল, ১৬টি ম্যাগাজিন, ৮১৫ রাউন্ড গোলাবারুদ এবং ৮টি অন্যান্য অস্ত্র।]]></description>
-      <pubDate>Sun, 07 Sep 2025 11:39:41 GMT</pubDate>
-      <guid isPermaLink="false">710015fa3c07da13276bfa954dec6afb</guid>
+      <title>অন্ধকারে আলো ছড়াবে গাছ!</title>
+      <link>https://bonikbarta.com/feature/YzbwSR7yRrFUBWs2/</link>
+      <description><![CDATA[গবেষণার সহ-লেখক শুটিং লিউ জানিয়েছেন, তাদের ইচ্ছা ছিল ‘অ্যাভাটার’ সিনেমার মতো একটি পরিবেশ তৈরি করা, যেখানে গাছপালা পুরো বাস্তুতন্ত্রকে আলোকিত করে। তিনি বলেন, আমরা ল্যাবে ব্যবহৃত সাধারণ উপাদান দিয়েই সেই স্বপ্নকে বাস্তবে রূপ দিতে চেয়েছি।]]></description>
+      <pubDate>Sun, 07 Sep 2025 11:36:23 GMT</pubDate>
+      <guid isPermaLink="false">6ce44389448d5e8e425ad54ce7d0a092</guid>
     </item>
     <item>
       <title>মাত্র ৮ মাসে দেশের ফিড ইন্ডাস্ট্রিতে নতুন মাইলফলক স্থাপন আকিজ ফিডের</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[বদরুদ্দীন উমর ছিলেন বাংলাদেশের রাজনীতির এক খোলা ইতিহাস। তিনি দেশের গণমানুষের মুক্তি ও আওয়ামী ফ্যাসীবাদের চরিত্র জাতির সামনে উন্মোচন করতে গুরুত্বপূর্ণ ভুমিকা পালন করেছেন।]]></description>
       <pubDate>Sun, 07 Sep 2025 07:34:23 GMT</pubDate>
       <guid isPermaLink="false">c6890d3ca296825717b03992ea9eca21</guid>
-    </item>
-    <item>
-      <title>বদরুদ্দীন উমরের মৃত্যুতে তারেক রহমান ও মির্জা ফখরুলের শোক</title>
-      <link>https://bonikbarta.com/bangladesh/ZlUBBUR4UsIK6q4B/</link>
-      <description><![CDATA[শোকবার্তায় বিএনপির দুই শীর্ষ নেতা আরো বলেন, ‘বদরুদ্দীন উমর ছিলেন চিন্তাশীল রাজনৈতিক অভিভাবক। তার মৃত্যুতে জাতীয় রাজনীতিতে যে শূন্যতা তৈরি হলো, তা পূরণ হবার নয়।]]></description>
-      <pubDate>Sun, 07 Sep 2025 07:13:45 GMT</pubDate>
-      <guid isPermaLink="false">226bc3381993520bdca3e1f6bc01f002</guid>
     </item>
   </channel>
 </rss>
