@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 07 Sep 2025 04:42:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 05:20:54 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>বদরুদ্দীন উমর আর নেই</title>
+      <link>https://bonikbarta.com/bangladesh/EHvVsmz45O8y58Dd/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Sun, 07 Sep 2025 05:12:00 GMT</pubDate>
+      <guid isPermaLink="false">9dcf72a280c232c00db4fb5b3aabcbe8</guid>
+    </item>
     <item>
       <title>গাজা যুদ্ধ নিয়ে নির্মিত ‘দ্য ভয়েস অব হিন্দ রজব’ জিতল সিলভার লায়ন</title>
       <link>https://bonikbarta.com/talkies/luHRqT3hQ5zbqZGl/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">de0ce4a831dc8991546b1939da0d3d37</guid>
     </item>
     <item>
-      <title>শ্রীলংকাকে গুঁড়িয়ে সমতা আনল জিম্বাবুয়ে</title>
-      <link>https://bonikbarta.com/sports/1nVsSXqDAIolJVyq/</link>
-      <description><![CDATA[মঙ্গলবার সিরিজ নির্ধারণী তৃতীয় ও শেষ ম্যাচ। এর আগে দুই ম্যাচের ওয়ানডে সিরিজ ২-০তে জিতে নেয় শ্রীলংকা।]]></description>
-      <pubDate>Sat, 06 Sep 2025 17:20:06 GMT</pubDate>
-      <guid isPermaLink="false">a0710d74ea534019c2e3c49249bfc8b1</guid>
+      <title>চট্টগ্রামের হাটহাজারীতে দুপক্ষের সংঘর্ষ, ১৪৪ ধারা জারি</title>
+      <link>https://bonikbarta.com/bangladesh/I0Rj9SwyQQkBxb5F/</link>
+      <description><![CDATA[সামাজিক যোগাযোগমাধ্যমে অশালীন ছবি পোস্ট করার প্রতিবাদে হাটহাজারী পৌর এলাকার গোলচত্বরে মাদ্রাসার শিক্ষার্থী ও স্থানীয়রা বিক্ষোভ করেন। এ সময় তারা সড়ক অবরোধ করে টায়ারে আগুন দেয় এবং বাস ভাঙচুর করেন। পরে জুলুস থেকে ফেরা সুন্নিপন্থীদের সঙ্গে হাটহাজারীর শিক্ষার্থী ও স্থানীয়দের সংঘর্ষ হয়।]]></description>
+      <pubDate>Sat, 06 Sep 2025 17:17:00 GMT</pubDate>
+      <guid isPermaLink="false">69abb410b658e4c59c64ccbe07dfdb26</guid>
     </item>
     <item>
       <title>টাঙ্গাইলে একই স্থানে কাদেরিয়া বাহিনী-ছাত্র সমাজের সমাবেশের ডাক, ১৪৪ ধারা জারি</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[ব্রডকমের সিইও সম্প্রতি জানিয়েছেন, কোম্পানিটি ‘নতুন এক ক্লায়েন্ট’ থেকে ১ হাজার কোটি ডলারের চিপের ক্রয়াদেশ পেয়েছে। যদিও কোনো গ্রাহকের নাম উল্লেখ করা হয়নি, তবে ব্রডকমের কিছু সূত্র নিশ্চিত করেছে, এটি ওপেনএআই।]]></description>
       <pubDate>Sat, 06 Sep 2025 12:50:14 GMT</pubDate>
       <guid isPermaLink="false">0473ac365c564afe40229e823b0f6c51</guid>
-    </item>
-    <item>
-      <title>সারা দেশে পুলিশের বিশেষ অভিযানে গ্রেফতার ১ হাজার ৮৬৬</title>
-      <link>https://bonikbarta.com/bangladesh/g38mjUIXAjkBGPHh/</link>
-      <description><![CDATA[এর মধ্যে বিভিন্ন মামলার ওয়ারেন্টভুক্ত আসামি ১ হাজার ৩২০ জন এবং অন্যান্য অপরাধে জড়িত ৫৪৬ জন রয়েছে।]]></description>
-      <pubDate>Sat, 06 Sep 2025 12:44:23 GMT</pubDate>
-      <guid isPermaLink="false">2868eba65bce8ec458d8e19080a48e85</guid>
     </item>
   </channel>
 </rss>
