@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 08 Sep 2025 04:29:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 04:46:03 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>আকবর আলি খানের তৃতীয় মৃত্যুবার্ষিকী আজ</title>
+      <link>https://bonikbarta.com/bangladesh/jScRJVL1dPXcJLsX/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Mon, 08 Sep 2025 04:32:00 GMT</pubDate>
+      <guid isPermaLink="false">5d5249fab7ac5f9e09d0c84a1852a6e6</guid>
+    </item>
     <item>
       <title>পূর্ণগ্রাস চন্দ্রগ্রহণে ‘ব্লাড মুন’-এর রক্তিম আভা</title>
       <link>https://bonikbarta.com/others/UWz5SjwXZp9rMg4v/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">6518377d240c4bdfc38b604394cb60c9</guid>
     </item>
     <item>
-      <title>নতুন মায়ের যত্ন</title>
-      <link>https://bonikbarta.com/healthcare/B0KQ9UVIbKpXdLUF/</link>
-      <description><![CDATA[জন্মের পর নবজাতকের যত্নের পাশাপাশি নতুন মায়েরও একটু বাড়তি যত্ন জরুরি।]]></description>
-      <pubDate>Sun, 07 Sep 2025 20:45:10 GMT</pubDate>
-      <guid isPermaLink="false">85689387fa0d24211bd23fb48c0496d8</guid>
+      <title>জন্মের পর শিশু কোন রোগে বেশি আক্রান্ত হয়</title>
+      <link>https://bonikbarta.com/healthcare/OidGGhHYZEvMAOWr/</link>
+      <description><![CDATA[জন্মগ্রহণ করার পর যেকোনো শিশুকে নবজাতক বলা হয়। নবজাতকের আদর্শ খাবার কেবল মায়ের দুধ।]]></description>
+      <pubDate>Sun, 07 Sep 2025 20:43:08 GMT</pubDate>
+      <guid isPermaLink="false">701ad4eaf423d53abd47f303b13f6e81</guid>
     </item>
     <item>
       <title>নবজাতকের যত্নে আছে যেসব প্রতিবন্ধকতা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[দেশের সামগ্রিক অর্থনৈতিক পরিস্থিতি বেশ কয়েক মাস ধরেই উত্থান-পতনের মধ্য দিয়ে যাচ্ছে।]]></description>
       <pubDate>Sun, 07 Sep 2025 20:32:50 GMT</pubDate>
       <guid isPermaLink="false">895491c6f86a15ee1757f7902bf3db4e</guid>
-    </item>
-    <item>
-      <title>ফিড বিক্রিতে রেকর্ড গড়েছে আকিজ এগ্রো ফিড</title>
-      <link>https://bonikbarta.com/economy/33Dr28rAnPEW7gMa/</link>
-      <description><![CDATA[আকিজ রিসোর্সের অঙ্গপ্রতিষ্ঠান আকিজ এগ্রো ফিড লিমিটেড যাত্রা শুরুর মাত্র আট মাসে দেশের লাইভস্টক ও অ্যাকুয়াকালচার ফিড খাতে নতুন ইতিহাস সৃষ্টি করেছে।]]></description>
-      <pubDate>Sun, 07 Sep 2025 20:32:50 GMT</pubDate>
-      <guid isPermaLink="false">5f8575bfef516accac2736f5e3725d5a</guid>
     </item>
   </channel>
 </rss>
