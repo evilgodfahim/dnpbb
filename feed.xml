@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 08 Sep 2025 05:23:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 05:42:21 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>যুক্তরাষ্ট্রে আটক ৩০০ শ্রমিক ফিরিয়ে আনছে দক্ষিণ কোরিয়া</title>
+      <link>https://bonikbarta.com/international/o2mScZ0hZirLvAM0/</link>
+      <description><![CDATA[মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প প্রথমে কঠোর অবস্থান জানালেও পরে কিছুটা নরম সুরে বলেন, ‘আপনাদের বিনিয়োগ আমরা স্বাগত জানাই, তবে যুক্তরাষ্ট্রের অভিবাসন আইন মেনে চলতে হবে।‘ একই সঙ্গে তিনি অভিবাসন আইন আরো কঠোরভাবে প্রয়োগ করার অঙ্গীকারও পুনর্ব্যক্ত করেন।]]></description>
+      <pubDate>Mon, 08 Sep 2025 05:34:52 GMT</pubDate>
+      <guid isPermaLink="false">4881392230a93ca36e8c49da4f14075b</guid>
+    </item>
     <item>
       <title>আকবর আলি খানের তৃতীয় মৃত্যুবার্ষিকী আজ</title>
       <link>https://bonikbarta.com/bangladesh/jScRJVL1dPXcJLsX/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">5c4649264f15c387f3d2627b760c0968</guid>
     </item>
     <item>
-      <title>ভেনিসে সেরা জিম জারমাশ ও বেনি সাফদি</title>
-      <link>https://bonikbarta.com/talkies/aqsVyqwbyDmtGg8G/</link>
-      <description><![CDATA[শেষ হলো ভেনিস চলচ্চিত্র উৎসব। যথারীতি এবারো পুরস্কারে দেখা গেল চমক। সেরা সিনেমা নির্বাচিত হয়েছে ‘ফাদার মাদার সিস্টার ব্রাদার’।]]></description>
-      <pubDate>Sun, 07 Sep 2025 20:54:21 GMT</pubDate>
-      <guid isPermaLink="false">6518377d240c4bdfc38b604394cb60c9</guid>
+      <title>নতুন মায়ের যত্ন</title>
+      <link>https://bonikbarta.com/healthcare/B0KQ9UVIbKpXdLUF/</link>
+      <description><![CDATA[জন্মের পর নবজাতকের যত্নের পাশাপাশি নতুন মায়েরও একটু বাড়তি যত্ন জরুরি।]]></description>
+      <pubDate>Sun, 07 Sep 2025 20:45:10 GMT</pubDate>
+      <guid isPermaLink="false">85689387fa0d24211bd23fb48c0496d8</guid>
     </item>
     <item>
       <title>জন্মের পর শিশু কোন রোগে বেশি আক্রান্ত হয়</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[নিউইয়র্কের ফ্লাশিং মিডোতে রোববার রাতে ইউএস ওপেনের ফাইনালে যুক্তরাষ্ট্রের আমান্ডা আনিসিমোভাকে ৬-৩, ৭-৬ (৭-৩) গেমে হারিয়ে টানা দ্বিতীয়ভারের মতো শিরোপা জিতলেন বেলারুশের আরিনা সাবালেঙ্কা।]]></description>
       <pubDate>Sun, 07 Sep 2025 20:32:50 GMT</pubDate>
       <guid isPermaLink="false">a315cf4b3d599872ff9f0619568dd826</guid>
-    </item>
-    <item>
-      <title>অর্থনীতির গতি আগস্টে আবারো কমেছে</title>
-      <link>https://bonikbarta.com/economy/MamFkNHI8oM8cupp/</link>
-      <description><![CDATA[দেশের সামগ্রিক অর্থনৈতিক পরিস্থিতি বেশ কয়েক মাস ধরেই উত্থান-পতনের মধ্য দিয়ে যাচ্ছে।]]></description>
-      <pubDate>Sun, 07 Sep 2025 20:32:50 GMT</pubDate>
-      <guid isPermaLink="false">895491c6f86a15ee1757f7902bf3db4e</guid>
     </item>
   </channel>
 </rss>
