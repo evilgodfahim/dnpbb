@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 08 Sep 2025 01:55:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 03:10:51 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>যাত্রীবেশে অটোরিকশা ছিনতাই, চক্রের ৬ সদস্য গ্রেফতার</title>
+      <link>https://bonikbarta.com/bangladesh/0P5FLzyCWJWX6REh/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Mon, 08 Sep 2025 02:51:00 GMT</pubDate>
+      <guid isPermaLink="false">306a6f5bff205d1d65fe1f77eda10149</guid>
+    </item>
     <item>
       <title>চাকরি গেল প্রকৌশলীর আরেকজনের কমল বেতন গ্রেড</title>
       <link>https://bonikbarta.com/bangladesh/JkwXobZ98tfk3czT/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">450e3d533cd7c96da849484e119c6371</guid>
     </item>
     <item>
-      <title>প্রথম সপ্তাহে শিশুকে রাখতে হবে বাড়তি সতর্কতায়</title>
-      <link>https://bonikbarta.com/healthcare/N7Cx7sSzrFyS9yRU/</link>
-      <description><![CDATA[হাসিব ও রুমানা দম্পতির প্রথম সন্তান এসেছে পৃথিবীতে। মেয়ের প্রসবের খবরে ছুটে এসেছেন রুমানার মা আমেনা বেগম।]]></description>
-      <pubDate>Sun, 07 Sep 2025 20:39:17 GMT</pubDate>
-      <guid isPermaLink="false">5a2df02563cc9ffc3c4ffca813cccc9b</guid>
+      <title>দক্ষিণ কোরিয়ার দাবি: চীনা রোবট ভ্যাকুয়ামে নিরাপত্তা ঝুঁকি শনাক্ত</title>
+      <link>https://bonikbarta.com/scitech/jvEokDr8tBvqoUAi/</link>
+      <description><![CDATA[দক্ষিণ কোরিয়ায় চারটি চীনা রোবট ভ্যাকুয়াম ক্লিনারের মধ্যে তিনটিতে গুরুতর নিরাপত্তা ঝুঁকি পাওয়া গেছে।]]></description>
+      <pubDate>Sun, 07 Sep 2025 20:32:57 GMT</pubDate>
+      <guid isPermaLink="false">e660d786692f1a331d0a64985cf4a8dd</guid>
     </item>
     <item>
       <title>স্মার্টফোনের ক্ষয়ক্ষতি বাড়ায় মানসিক চাপ</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[সম্প্রতি পুঁজিবাজারে তালিকাভুক্ত বিডিকম অনলাইন লিমিটেড ও বঙ্গজ লিমিটেডের শেয়ারদর ও লেনদেন অস্বাভাবিক হারে বাড়ছে।]]></description>
       <pubDate>Sun, 07 Sep 2025 20:32:49 GMT</pubDate>
       <guid isPermaLink="false">7d968c75c23c12a0b627ec1e2a794837</guid>
-    </item>
-    <item>
-      <title>নতুন দুটি মেশিন কিনবে হাক্কানী পাল্প</title>
-      <link>https://bonikbarta.com/economy/OCBVbk7Jj3vFkKHV/</link>
-      <description><![CDATA[গ্যাস খরচ কমাতে নতুন দুটি মেশিন কেনা ও স্থাপনের সিদ্ধান্ত নিয়েছে হাক্কানী পাল্প অ্যান্ড পেপার মিলস পিএলসির পর্ষদ।]]></description>
-      <pubDate>Sun, 07 Sep 2025 20:32:49 GMT</pubDate>
-      <guid isPermaLink="false">8460ba99ed1682b854ab9bae35d84e16</guid>
     </item>
   </channel>
 </rss>
