@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 08 Sep 2025 03:52:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 04:29:13 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>পূর্ণগ্রাস চন্দ্রগ্রহণে ‘ব্লাড মুন’-এর রক্তিম আভা</title>
+      <link>https://bonikbarta.com/others/UWz5SjwXZp9rMg4v/</link>
+      <description><![CDATA[রোববারের এই পূর্ণ চন্দ্রগ্রহণ দেখার জন্য এশিয়ার দেশগুলো, বিশেষ করে ভারত ও চীনের মানুষ সবচেয়ে ভালো অবস্থানে ছিলেন। পূর্ণ চন্দ্রগ্রহণটি বাংলাদেশ সময় রাত ১১টা ৩০ মিনিট থেকে মধ্যরাত ১২টা ৫২ মিনিট পর্যন্ত স্থায়ী ছিল।]]></description>
+      <pubDate>Mon, 08 Sep 2025 03:58:39 GMT</pubDate>
+      <guid isPermaLink="false">ed7a998841c0090de75bb1b905f4242d</guid>
+    </item>
     <item>
       <title>সিনারকে হারিয়ে আলকারাজ়ের ইউএস ওপেন জয়, ফিরলেন শীর্ষে</title>
       <link>https://bonikbarta.com/sports/sC4UrIGUPpaMUNiG/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">85689387fa0d24211bd23fb48c0496d8</guid>
     </item>
     <item>
-      <title>জন্মের পর শিশু কোন রোগে বেশি আক্রান্ত হয়</title>
-      <link>https://bonikbarta.com/healthcare/OidGGhHYZEvMAOWr/</link>
-      <description><![CDATA[জন্মগ্রহণ করার পর যেকোনো শিশুকে নবজাতক বলা হয়। নবজাতকের আদর্শ খাবার কেবল মায়ের দুধ।]]></description>
-      <pubDate>Sun, 07 Sep 2025 20:43:08 GMT</pubDate>
-      <guid isPermaLink="false">701ad4eaf423d53abd47f303b13f6e81</guid>
+      <title>নবজাতকের যত্নে আছে যেসব প্রতিবন্ধকতা</title>
+      <link>https://bonikbarta.com/healthcare/5MRT1m4bBGUu1cgq/</link>
+      <description><![CDATA[বাংলাদেশে শিশুদের এখন পঞ্চম জন্মদিন পেরিয়ে বেঁচে থাকার সম্ভাবনা আগের যেকোনো সময়ের তুলনায় বেশি।]]></description>
+      <pubDate>Sun, 07 Sep 2025 20:40:25 GMT</pubDate>
+      <guid isPermaLink="false">450e3d533cd7c96da849484e119c6371</guid>
     </item>
     <item>
       <title>প্রথম সপ্তাহে শিশুকে রাখতে হবে বাড়তি সতর্কতায়</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[আকিজ রিসোর্সের অঙ্গপ্রতিষ্ঠান আকিজ এগ্রো ফিড লিমিটেড যাত্রা শুরুর মাত্র আট মাসে দেশের লাইভস্টক ও অ্যাকুয়াকালচার ফিড খাতে নতুন ইতিহাস সৃষ্টি করেছে।]]></description>
       <pubDate>Sun, 07 Sep 2025 20:32:50 GMT</pubDate>
       <guid isPermaLink="false">5f8575bfef516accac2736f5e3725d5a</guid>
-    </item>
-    <item>
-      <title>সাউথইস্ট ব্যাংক উদ্যোক্তার শেয়ার হস্তান্তরের ঘোষণা</title>
-      <link>https://bonikbarta.com/economy/rWocMNksVQGJRItv/</link>
-      <description><![CDATA[সাউথইস্ট ব্যাংক পিএলসির উদ্যোক্তা ইফতেখার আজিম আহমেদ দুই লাখ শেয়ার হস্তান্তরের ঘোষণা দিয়েছেন।]]></description>
-      <pubDate>Sun, 07 Sep 2025 20:32:49 GMT</pubDate>
-      <guid isPermaLink="false">b2450bd4863587e8b0d3616c2248fde3</guid>
     </item>
   </channel>
 </rss>
