@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 09 Sep 2025 05:22:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 05:41:38 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ভোটটা উদযাপন করতে চাই : ছাত্রদল প্যানেলের ভিপিপ্রার্থী আবিদুল</title>
+      <link>https://bonikbarta.com/bangladesh/xkjPo8FKJbJHRWl2/</link>
+      <description><![CDATA[শিক্ষার্থীদের উদ্দেশে তিনি আরো বলেন, দীর্ঘ সময় পর গণতন্ত্রের দ্বার উন্মোচিত হচ্ছে। তাই শিক্ষার্থীরা যেন তাদের বিবেককে কাজে লাগিয়ে যোগ্য নেতৃত্বকে বেছে নেয়—এটাই আমার প্রত্যাশা।]]></description>
+      <pubDate>Tue, 09 Sep 2025 05:23:01 GMT</pubDate>
+      <guid isPermaLink="false">6ad999c88633ca841f7cf467afb6bf65</guid>
+    </item>
     <item>
       <title>‘প্রার্থীদের সবাই অনেক পরিশ্রম করেছে, তাদের জন্য শুভকামনা’</title>
       <link>https://bonikbarta.com/bangladesh/VMuYyZ562A4NY1J4/</link>
@@ -26,8 +33,8 @@
       <title>জয়ের ব্যাপারে আশাবাদী : উমামা ফাতেমা</title>
       <link>https://bonikbarta.com/bangladesh/jEJ8HMuFmYB6Y2cF/</link>
       <description><![CDATA[আমরা ভোটারদের থেকে ভালো সাড়া পাচ্ছি। শিক্ষার্থীরা আগ্রহ নিয়ে ভোট দিচ্ছেন।]]></description>
-      <pubDate>Tue, 09 Sep 2025 05:08:10 GMT</pubDate>
-      <guid isPermaLink="false">418476bb352038f2a704d500ca6b7929</guid>
+      <pubDate>Tue, 09 Sep 2025 05:08:00 GMT</pubDate>
+      <guid isPermaLink="false">a09c77266543e1f1221cb9ecdaddbfab</guid>
     </item>
     <item>
       <title>লং মার্চ থেকে দেশ শাসন: মাও সেতুংয়ের সংগ্রামী জীবনাবসান</title>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">76141df716e26dfd8a1e44a6f8a1132c</guid>
     </item>
     <item>
-      <title>সাংবাদিকের ওপর হামলা</title>
-      <link>https://bonikbarta.com/bangladesh/xcEmi1gdt0jbE3HD/</link>
-      <description><![CDATA[ঝালকাঠির নলছিটি প্রেস ক্লাবের সাধারণ সম্পাদক কেএম সবুজের ওপর হামলার ঘটনা ঘটেছে।]]></description>
-      <pubDate>Mon, 08 Sep 2025 20:54:12 GMT</pubDate>
-      <guid isPermaLink="false">4e4c4771b317000289ff95b01f2b0246</guid>
+      <title>সড়ক অবরোধ</title>
+      <link>https://bonikbarta.com/bangladesh/o5DgFOT8CvUA8uXb/</link>
+      <description><![CDATA[বকেয়া বেতন দাবিতে গাজীপুরে আলিফ ক্যাজুয়াল লিমিটেড পোশাক কারখানার শ্রমিকরা বিক্ষোভ করেছেন।]]></description>
+      <pubDate>Mon, 08 Sep 2025 20:53:03 GMT</pubDate>
+      <guid isPermaLink="false">0152eaeefffe970d70cffce256adc609</guid>
     </item>
     <item>
       <title>মাদারীপুরে জনবল সংকটে মাঠ পর্যায়ে ব্যাহত কৃষি কার্যক্রম</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[মার্কিন ফেডারেল রিজার্ভের (ফেড) পরবর্তী চেয়ারম্যানের সংক্ষিপ্ত তালিকায় নাম রয়েছে কেভিন হ্যাসেটের।]]></description>
       <pubDate>Mon, 08 Sep 2025 20:27:45 GMT</pubDate>
       <guid isPermaLink="false">353df5d0bd584ee5564addd5ac43e4a8</guid>
-    </item>
-    <item>
-      <title>লাবুবুর আধিপত্যে ভাগ বসাবে মিনিসোর ওয়াকুকু</title>
-      <link>https://bonikbarta.com/economy/sEYcd7qP7TaJ5cnL/</link>
-      <description><![CDATA[জস্ব কালেক্টিবল টয় বাজারে এনেছে মিনিসো, যেখানে উল্লেখযোগ্য একটি চরিত্র ওয়াকুকু।]]></description>
-      <pubDate>Mon, 08 Sep 2025 20:27:45 GMT</pubDate>
-      <guid isPermaLink="false">6f11a87e30d0154df2aed7ded3dac8b0</guid>
     </item>
   </channel>
 </rss>
