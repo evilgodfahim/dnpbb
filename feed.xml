@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 09 Sep 2025 10:26:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 10:45:09 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ভোটগ্রহণ শেষ, শুরু হচ্ছে গণনা</title>
+      <link>https://bonikbarta.com/bangladesh/vFzkhllEriMULpuV/</link>
+      <description><![CDATA[শিক্ষার্থীরা নির্ধারিত সময়ে, সকাল থেকে দুপুরের মধ্যে ভোটাধিকার প্রয়োগ করেন।]]></description>
+      <pubDate>Tue, 09 Sep 2025 10:31:00 GMT</pubDate>
+      <guid isPermaLink="false">05c11fae4368c46830b6bb466e862177</guid>
+    </item>
     <item>
       <title>জাকসু নির্বাচনে অমর্ত্য রায়ের প্রার্থিতা ফিরিয়ে দেয়ার নির্দেশ</title>
       <link>https://bonikbarta.com/bangladesh/lhSkKEMzJuL7tyPZ/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">8ec6ae2f6508d51c69b12170d18224ee</guid>
     </item>
     <item>
-      <title>ইউল্যাবে পবিত্র ঈদে মিলাদুন্নবী (সা.) উদযাপন</title>
-      <link>https://bonikbarta.com/economy/4PixuIRzVe0JJiwd/</link>
-      <description><![CDATA[এরপর দোয়া মাহফিল অনুষ্ঠিত হয়। এতে দেশ, জাতি ও মানবতার কল্যাণ কামনা করেন অংশগ্রহণকারীরা।]]></description>
-      <pubDate>Tue, 09 Sep 2025 07:07:01 GMT</pubDate>
-      <guid isPermaLink="false">9b93a5f6a6d1c77f69df38e8b907f350</guid>
+      <title>গৃহস্থালি কাজে নারীদের শ্রমের মূল্য ৬ লাখ ৭০ হাজার কোটি টাকা</title>
+      <link>https://bonikbarta.com/bangladesh/avt51KcbKAPbiEBI/</link>
+      <description><![CDATA[২০২১ সালে নারীদের গৃহস্থালি ও পরিচর্যা কাজের অবদান মোট দেশজ উৎপাদনের (জিডিপি) ১৮ দশমিক ৯ শতাংশ। যার আর্থিক মূল্য ৬ লাখ ৭০ হাজার কোটি টাকা। আর এ কাজের ৮৫ শতাংশই নারীরা করেন।]]></description>
+      <pubDate>Tue, 09 Sep 2025 07:05:32 GMT</pubDate>
+      <guid isPermaLink="false">98f90689368083bdedc405cd67c6aaa0</guid>
     </item>
     <item>
       <title>ডাকসু নির্বাচন: দায়িত্বপ্রাপ্ত এক পোলিং অফিসারকে অব্যাহতি</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[No description available]]></description>
       <pubDate>Tue, 09 Sep 2025 02:01:00 GMT</pubDate>
       <guid isPermaLink="false">353e1872003d6f4f50f71da8697aec7e</guid>
-    </item>
-    <item>
-      <title>সঠিক নীতি ও পদক্ষেপ নেয়া হলে এলডিসি গ্র্যাজুয়েশন-পরবর্তী চ্যালেঞ্জ মোকাবেলা করা সম্ভব</title>
-      <link>https://bonikbarta.com/editorial/HAxpdv1F4w7ymK5b/</link>
-      <description><![CDATA[স্বল্পোন্নত দেশ (এলডিসি) থেকে বাংলাদেশের উত্তরণ প্রক্রিয়া শুরু হয় ২০১৮ সালে। চূড়ান্তভাবে উত্তরণের জন্য প্রস্তুতির সময়সীমা শেষ হওয়ার কথা ছিল ২০২৪ সালে। কিন্তু কভিডের কারণে অতিরিক্ত সময় পাওয়া যায় দুই বছর।]]></description>
-      <pubDate>Mon, 08 Sep 2025 22:00:00 GMT</pubDate>
-      <guid isPermaLink="false">f71b186679e28ff60e4b03ed90f95a7f</guid>
     </item>
   </channel>
 </rss>
