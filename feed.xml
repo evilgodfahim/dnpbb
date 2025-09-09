@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 09 Sep 2025 04:28:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 04:45:27 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ডাকসুর মধ‍্য দিয়ে নির্বাচনের ট্রেনে উঠল বাংলাদেশ</title>
+      <link>https://bonikbarta.com/bangladesh/5BN44QS3TzBDEkEB/</link>
+      <description><![CDATA[সবাইকে নির্বাচন মোবারক!]]></description>
+      <pubDate>Tue, 09 Sep 2025 04:33:11 GMT</pubDate>
+      <guid isPermaLink="false">9be6a4cab23fca457b1d33d56a1e8adc</guid>
+    </item>
     <item>
       <title>নেপালজুড়ে ছড়িয়ে পড়েছে বিক্ষোভ, আজও রাস্তায় তরুণরা</title>
       <link>https://bonikbarta.com/international/fZniKc5xhDGa2XmL/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">d1182caf0887d0ba8b774e8ecdc29c43</guid>
     </item>
     <item>
-      <title>এমএফএসের অপব্যবহার প্রতিরোধে ময়মনসিংহ ও বান্দরবানে কর্মশালা করেছে বিকাশ</title>
-      <link>https://bonikbarta.com/economy/lRse5y33SfrRFPs7/</link>
-      <description><![CDATA[মোবাইল ফাইন্যান্সিয়াল সার্ভিসের (এমএফএস) অপব্যবহার প্রতিরোধে সচেতনতা বাড়াতে সম্প্রতি ময়মনসিংহ ও বান্দরবানে পৃথক দুটি কর্মশালা করেছে বিকাশ।]]></description>
-      <pubDate>Mon, 08 Sep 2025 20:39:36 GMT</pubDate>
-      <guid isPermaLink="false">ed15ee0abda1f32de2326ed70b005a8b</guid>
+      <title>মিডল্যান্ড ব্যাংক ও মিলভিক বাংলাদেশের মধ্যে এমওইউ স্বাক্ষর</title>
+      <link>https://bonikbarta.com/economy/T3lSlJRGZ4AWHDKY/</link>
+      <description><![CDATA[মিডল্যান্ড ব্যাংক ও মিলভিক বাংলাদেশের মধ্যে একটি সমঝোতা স্মারক (এমওইউ) স্বাক্ষর হয়েছে।]]></description>
+      <pubDate>Mon, 08 Sep 2025 20:38:03 GMT</pubDate>
+      <guid isPermaLink="false">d5df1b03123991146355c664f1d802da</guid>
     </item>
     <item>
       <title>দেশসেরা এজেন্সি কর্মীদের স্বীকৃতি দিল মেটলাইফ</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[ভা'রতীয় উপমহাদেশের ইতিহাসে শিখ গুরু নানকের ভ্রমণ ও ধর্মপ্রচার বিশেষ তাৎপর্যপূর্ণ। গুরু নানক শুধু শিখ ধর্মের প্রবর্তকই নন, বরং একজন মানবতাবাদী ও সত্য অনুসন্ধানী সাধক হিসেবেই খ্যাত। তার পূর্ব ভারতের গুরুত্বপূর্ণ অঞ্চল বিহার, আসাম ও পশ্চিমবঙ্গ সফরের মাধ্যমে নতুন ধর্মীয় ও সামাজিক জাগরণের সূচনা ঘটায়।]]></description>
       <pubDate>Mon, 08 Sep 2025 20:27:32 GMT</pubDate>
       <guid isPermaLink="false">4920f6f1a206e06944ae2a141ee79602</guid>
-    </item>
-    <item>
-      <title>আরিয়ানের সিরিজে অর্ধেক বলিউড</title>
-      <link>https://bonikbarta.com/talkies/g7nUL4NXt1KYUp5p/</link>
-      <description><![CDATA[আরিয়ান খান পরিচালিত সিরিজ ব্যাডস অব বলিউড। গতকাল এসেছে সিরিজের ট্রেলার।]]></description>
-      <pubDate>Mon, 08 Sep 2025 20:27:32 GMT</pubDate>
-      <guid isPermaLink="false">d727e8eda07ff6904bba1ab791b4e095</guid>
     </item>
   </channel>
 </rss>
