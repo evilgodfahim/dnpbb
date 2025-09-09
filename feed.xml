@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 09 Sep 2025 03:04:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 03:49:45 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>‘পরিশ্রম করেছি, নিজের সর্বোচ্চটুকু দিয়ে শিক্ষার্থীদের পাশে থেকেছি’</title>
+      <link>https://bonikbarta.com/bangladesh/mSfYRPb6oLuAgU0R/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Tue, 09 Sep 2025 03:30:10 GMT</pubDate>
+      <guid isPermaLink="false">fe32b25a980659bbc4109e7926bbbfaf</guid>
+    </item>
     <item>
       <title>উদয়ন স্কুল অ্যান্ড কলেজে ভোট দিলেন আবু সাদিক কায়েম</title>
       <link>https://bonikbarta.com/bangladesh/eEUL8cyJEvrbPkC6/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">876761beb63ba472380f29475dfcd9f2</guid>
     </item>
     <item>
-      <title>প্রাইম ব্যাংকের উদ্যোগে ডিআইইউতে তরুণদের আর্থিক ক্ষমতায়ন-বিষয়ক সেমিনার</title>
-      <link>https://bonikbarta.com/economy/ovDo2w1wGKZFhQqJ/</link>
-      <description><![CDATA[প্রাইম ব্যাংক পিএলসির উদ্যোগে ড্যাফোডিল ইন্টারন্যাশনাল ইউনিভার্সিটিতে (ডিআইইউ) ‘ফাইন্যান্সিয়াল ইনক্লুশন: এনগেজিং অ্যান্ড ইনস্পায়ারিং ইয়ুথ ইন ব্যাংকিং’ শীর্ষক একটি সেমিনার অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Mon, 08 Sep 2025 20:33:30 GMT</pubDate>
-      <guid isPermaLink="false">1d8e600d8f14818ccbeaf0ae28b50ab2</guid>
+      <title>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ের সঙ্গে কো-ব্র্যান্ডেড কার্ড এনেছে সাউথইস্ট ব্যাংক</title>
+      <link>https://bonikbarta.com/economy/d1PaDilhKMFkb2tx/</link>
+      <description><![CDATA[জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ের (জাবি) শিক্ষক ও কর্মকর্তাদের জন্য কো-ব্র্যান্ডেড ক্রেডিট কার্ড এবং শিক্ষার্থীদের জন্য কো-ব্র্যান্ডেড প্রিপেইড কার্ড চালু করেছে সাউথইস্ট ব্যাংক পিএলসি।]]></description>
+      <pubDate>Mon, 08 Sep 2025 20:32:24 GMT</pubDate>
+      <guid isPermaLink="false">9028b2178b6d7449c44db48e3adf79f1</guid>
     </item>
     <item>
       <title>বেপজা অর্থনৈতিক অঞ্চলে ৪৮ লাখ ডলার বিনিয়োগ করবে ওয়েসিস অ্যাকসেসরিজ</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[ব্যাটম্যান পর্দায় এসেছে বহুবার। নানাভাবে উপস্থাপিত হয়েছেন তিনি। এর মধ্যে সাম্প্রতিকতম ব্যাটম্যান রবার্ট প্যাটিনসন।]]></description>
       <pubDate>Mon, 08 Sep 2025 20:27:32 GMT</pubDate>
       <guid isPermaLink="false">cbf1cd190dfc95ec6321b738c8d9f8ed</guid>
-    </item>
-    <item>
-      <title>দুর্গা পূজায় আসছে ‘স্বপ্নে দেখা রাজকন্যা’</title>
-      <link>https://bonikbarta.com/talkies/BmxTUJucYBpqpN8R/</link>
-      <description><![CDATA[অবশেষে মুক্তির তারিখ ঘোষণা হলো বহুল প্রতীক্ষিত সিনেমা ‘স্বপ্নে দেখা রাজকন্যা’-এর।]]></description>
-      <pubDate>Mon, 08 Sep 2025 20:27:32 GMT</pubDate>
-      <guid isPermaLink="false">6f77cde65b0f734712138b18c6829808</guid>
     </item>
   </channel>
 </rss>
