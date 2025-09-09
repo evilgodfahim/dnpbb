@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 09 Sep 2025 16:30:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 16:50:05 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>হংকংকে ১৮৯ রানের টার্গেট দিল আফগানিস্তান</title>
+      <link>https://bonikbarta.com/sports/yFtprQ1lhW8Khu7U/</link>
+      <description><![CDATA[আজ আবুধাবিতে উদ্বোধনী ম্যাচে হংকংকে ১৮৯ রানের টার্গেট দিয়েছে আফগানিস্তান।]]></description>
+      <pubDate>Tue, 09 Sep 2025 16:46:00 GMT</pubDate>
+      <guid isPermaLink="false">24a13ec9c31a1017604f718dce1ced55</guid>
+    </item>
     <item>
       <title>আগামীকাল ঢাবির সব ক্লাস–পরীক্ষা বন্ধ</title>
       <link>https://bonikbarta.com/bangladesh/a4lM5sNCJhyVNPMj/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">123c7d41fafdac6938646a08a1ac402d</guid>
     </item>
     <item>
-      <title>১৬ বছর বয়সীরা এনআইডি পাবেন: ইসি সচিব</title>
-      <link>https://bonikbarta.com/bangladesh/JDMz1CEhFeUd880w/</link>
+      <title>চ্যাটজিপিটিকে ‘টক্কর’ দিতে নতুন এআই এজেন্ট আনছে ডিপসিক</title>
+      <link>https://bonikbarta.com/scitech/Ef750wNKGoVeSsmL/</link>
       <description><![CDATA[No description available]]></description>
-      <pubDate>Tue, 09 Sep 2025 11:58:30 GMT</pubDate>
-      <guid isPermaLink="false">7b579c1735b82f18a8e7a7a03c8294b4</guid>
+      <pubDate>Tue, 09 Sep 2025 11:52:04 GMT</pubDate>
+      <guid isPermaLink="false">5f6d6dc516faafc419e6fe6c8f5cd424</guid>
     </item>
     <item>
       <title>শিক্ষার্থী ও গবেষণা উন্নয়নে বাংলাদেশ ফাইন্যান্স ও ইউআইইউর চুক্তি স্বাক্ষর</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[No description available]]></description>
       <pubDate>Tue, 09 Sep 2025 09:43:00 GMT</pubDate>
       <guid isPermaLink="false">4d042fdac9a8f5abd6f36d49e89c5d3c</guid>
-    </item>
-    <item>
-      <title>নেপালে থাকা বাংলাদেশীদের নিজ আবাস বা হোটেলে অবস্থানের পরামর্শ</title>
-      <link>https://bonikbarta.com/international/0Of1xJ4QQfVJ3kKM/</link>
-      <description><![CDATA[No description available]]></description>
-      <pubDate>Tue, 09 Sep 2025 09:39:00 GMT</pubDate>
-      <guid isPermaLink="false">87dfc89653d9d054e673e159e0184623</guid>
     </item>
   </channel>
 </rss>
