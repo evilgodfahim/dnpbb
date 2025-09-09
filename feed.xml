@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 09 Sep 2025 17:20:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 17:39:56 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>নেপালের আইনশৃঙ্খলা পরিস্থিতির নিয়ন্ত্রণ নিল সেনাবাহিনী</title>
+      <link>https://bonikbarta.com/international/rQpYMftCUfJ5CJQ0/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Tue, 09 Sep 2025 17:26:00 GMT</pubDate>
+      <guid isPermaLink="false">4e7ca38d891f5d6da557c9154e1016b2</guid>
+    </item>
     <item>
       <title>নেপালের বিমানবন্দরে হামলা-আগুন</title>
       <link>https://bonikbarta.com/international/wPCHDz8CiAAADBq3/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">ca9a631aa4dc59912abb1d4f1c3669fe</guid>
     </item>
     <item>
-      <title>যুক্তরাষ্ট্রে বিদেশী কোম্পানিগুলোয় নতুন আতঙ্ক</title>
-      <link>https://bonikbarta.com/international/DMf6CXB3JytKZqu4/</link>
-      <description><![CDATA[অভিবাসন আইনজীবীদের ধারণা, গ্রেফতারদের অনেকেই বি-১ ভিসায় যুক্তরাষ্ট্রে প্রবেশ করেছিলেন, যা মূলত ব্যবসায়িক আলোচনার জন্য ব্যবহৃত হয়। কেউ কেউ ভিসা ওয়েভার প্রোগ্রামের মাধ্যমে প্রবেশ করেছিলেন। সমস্যাটি হলো—আটকদের অনেকেই সাবকন্ট্রাকটারের মাধ্যমে কাজ করছিলেন।]]></description>
-      <pubDate>Tue, 09 Sep 2025 12:39:00 GMT</pubDate>
-      <guid isPermaLink="false">cc331f0766ab006fce3e2b9d932297fb</guid>
+      <title>দেশের জিডিপিতে এসএমই খাতের অবদান প্রায় ৩০ শতাংশ</title>
+      <link>https://bonikbarta.com/bangladesh/PTSZ5kLPDduhfhl5/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Tue, 09 Sep 2025 12:17:35 GMT</pubDate>
+      <guid isPermaLink="false">a42bb241bd3a97f1277651e70935174b</guid>
     </item>
     <item>
       <title>নেপালের বিক্ষোভকারীদের সংযমের আহ্বান জানালেন কাঠমান্ডুর মেয়র</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[No description available]]></description>
       <pubDate>Tue, 09 Sep 2025 09:45:36 GMT</pubDate>
       <guid isPermaLink="false">e651b509cde675b17b067eb8a3249181</guid>
-    </item>
-    <item>
-      <title>নেপালে অবস্থানরত বাংলাদেশীদের বের না হওয়ার অনুরোধ</title>
-      <link>https://bonikbarta.com/bangladesh/L7SBU77cUQqIvDf2/</link>
-      <description><![CDATA[একই সঙ্গে বাংলাদেশী নাগরিকদের নেপাল ভ্রমণ না করার জন‌্য অনুরোধ করা হয়েছে।]]></description>
-      <pubDate>Tue, 09 Sep 2025 09:45:30 GMT</pubDate>
-      <guid isPermaLink="false">14e2e9220d0b70160bb2b764433c648f</guid>
     </item>
   </channel>
 </rss>
