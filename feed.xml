@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 10 Sep 2025 02:58:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 03:32:50 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ভিপি সাদিক কায়েম, জিএস ফরহাদ, এজিএস মহিউদ্দিন</title>
+      <link>https://bonikbarta.com/bangladesh/pFoN30wZ6VkXdrZE/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Wed, 10 Sep 2025 03:11:00 GMT</pubDate>
+      <guid isPermaLink="false">e5a621258df1899c45d2cdb9983e016d</guid>
+    </item>
     <item>
       <title>ডাকসু বর্জন করলাম: উমামা ফাতেমা</title>
       <link>https://bonikbarta.com/bangladesh/yNIiDStZ75LfZqum/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">bc6f5246f2d72d720ba97e8645e26e73</guid>
     </item>
     <item>
-      <title>কারণ ছাড়াই বাড়ছে দুই কোম্পানির শেয়ারদর</title>
-      <link>https://bonikbarta.com/economy/LrJABe5jadx4h1AG/</link>
-      <description><![CDATA[সম্প্রতি পুঁজিবাজারে তালিকাভুক্ত আইপিডিসি ফাইন্যান্স পিএলসি ও  বিবিএস কেবলস পিএলসির শেয়ারদর ও লেনদেন অস্বাভাবিক হারে বাড়ছে।]]></description>
+      <title>টানা তৃতীয় দিনের মতো মালয়েশীয় পাম অয়েলের মূল্যবৃদ্ধি</title>
+      <link>https://bonikbarta.com/economy/e0eHdS5F83NTqkyS/</link>
+      <description><![CDATA[মালয়েশীয় পাম অয়েলের ফিউচার মার্কেটে দাম টানা তৃতীয় দিনের মতো বেড়েছে।]]></description>
       <pubDate>Tue, 09 Sep 2025 21:22:46 GMT</pubDate>
-      <guid isPermaLink="false">b51fc9ad23541fe5c0ea930e631f9b25</guid>
+      <guid isPermaLink="false">25ed0ad9bf3ca554cadd25d05c48c5f4</guid>
     </item>
     <item>
       <title>দাম বাড়ছে আকরিক লোহার</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[নারায়ণগঞ্জের রূপগঞ্জে একটি রি-রোলিং মিলের শ্রমিকরা পাঁচ মাসের বকেয়া বেতনের দাবিতে ঢাকা-সিলেট মহাসড়ক অবরোধ করেছেন।]]></description>
       <pubDate>Tue, 09 Sep 2025 21:22:37 GMT</pubDate>
       <guid isPermaLink="false">c106f9720d7603d84e90ff8e608c6cc4</guid>
-    </item>
-    <item>
-      <title>উদ্বোধনের সাড়ে পাঁচ বছরেও চালু হয়নি অভ্যন্তরীণ সেবা</title>
-      <link>https://bonikbarta.com/bangladesh/AYNBUTxEoHyg8t60/</link>
-      <description><![CDATA[প্রান্তিক জনগোষ্ঠীর স্বাস্থ্যসেবা নিশ্চিত করার লক্ষ্যে ২০১৯ সালে ফরিদপুরের সালথা উপজেলা স্বাস্থ্য কমপ্লেক্সের বহির্বিভাগের কার্যক্রম চালু করা হয়।]]></description>
-      <pubDate>Tue, 09 Sep 2025 21:22:37 GMT</pubDate>
-      <guid isPermaLink="false">7854a5c32cfb80209b9aec2f2323d787</guid>
     </item>
   </channel>
 </rss>
