@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 10 Sep 2025 03:32:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 04:26:14 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>১২ সম্পাদকীয় পদের মধ্যে ছাত্রশিবিরের জয় ৯টিতে</title>
+      <link>https://bonikbarta.com/bangladesh/5GD4oLE4El9j6POE/</link>
+      <description><![CDATA[সহসভাপতি (ভিপি) নির্বাচিত হয়েছেন আবু সাদিক কায়েম। এছাড়া, সাধারণ সম্পাদক (জিএস) পদে এস এম ফরহাদ এবং সহসাধারণ সম্পাদক (এজিএস) পদে নির্বাচিত হয়েছেন মুহা. মহিউদ্দীন খান।]]></description>
+      <pubDate>Wed, 10 Sep 2025 04:18:20 GMT</pubDate>
+      <guid isPermaLink="false">677498050779f381bbbe0b463d6b0efe</guid>
+    </item>
     <item>
       <title>ভিপি সাদিক কায়েম, জিএস ফরহাদ, এজিএস মহিউদ্দিন</title>
       <link>https://bonikbarta.com/bangladesh/pFoN30wZ6VkXdrZE/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">993e010c4e4776051eca9fdeaf8bfc21</guid>
     </item>
     <item>
-      <title>এনআরবিসি ব্যাংক উদ্যোক্তার শেয়ার বিক্রির ঘোষণা</title>
-      <link>https://bonikbarta.com/economy/FONOTM9qhOy8DuiY/</link>
-      <description><![CDATA[তালিকাভুক্ত এনআরবিসি ব্যাংক পিএলসির উদ্যোক্তা সৈয়দ মুনসিফ আলীর হাতে ব্যাংকটির ১ কোটি ১৩ লাখ ৫৪ হাজার ৬৪৫টি শেয়ার রয়েছে।]]></description>
+      <title>কারণ ছাড়াই বাড়ছে দুই কোম্পানির শেয়ারদর</title>
+      <link>https://bonikbarta.com/economy/LrJABe5jadx4h1AG/</link>
+      <description><![CDATA[সম্প্রতি পুঁজিবাজারে তালিকাভুক্ত আইপিডিসি ফাইন্যান্স পিএলসি ও  বিবিএস কেবলস পিএলসির শেয়ারদর ও লেনদেন অস্বাভাবিক হারে বাড়ছে।]]></description>
       <pubDate>Tue, 09 Sep 2025 21:22:46 GMT</pubDate>
-      <guid isPermaLink="false">bc6f5246f2d72d720ba97e8645e26e73</guid>
+      <guid isPermaLink="false">b51fc9ad23541fe5c0ea930e631f9b25</guid>
     </item>
     <item>
       <title>টানা তৃতীয় দিনের মতো মালয়েশীয় পাম অয়েলের মূল্যবৃদ্ধি</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[গাজীপুরে একটি সুতা তৈরির কারখানায় অগ্নিকাণ্ডের ঘটনা ঘটেছে।]]></description>
       <pubDate>Tue, 09 Sep 2025 21:22:37 GMT</pubDate>
       <guid isPermaLink="false">d6ee5c86a822dce370e966da6af1e73b</guid>
-    </item>
-    <item>
-      <title>বকেয়া বেতন দাবিতে ঢাকা-সিলেট মহাসড়ক অবরোধ, যানজটে ভোগান্তি</title>
-      <link>https://bonikbarta.com/bangladesh/3GBcaWdQYHbpt8Va/</link>
-      <description><![CDATA[নারায়ণগঞ্জের রূপগঞ্জে একটি রি-রোলিং মিলের শ্রমিকরা পাঁচ মাসের বকেয়া বেতনের দাবিতে ঢাকা-সিলেট মহাসড়ক অবরোধ করেছেন।]]></description>
-      <pubDate>Tue, 09 Sep 2025 21:22:37 GMT</pubDate>
-      <guid isPermaLink="false">c106f9720d7603d84e90ff8e608c6cc4</guid>
     </item>
   </channel>
 </rss>
