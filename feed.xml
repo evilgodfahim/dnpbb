@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 10 Sep 2025 11:18:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 11:39:51 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>যাত্রা এখানেই শেষ নয় : আবিদ</title>
+      <link>https://bonikbarta.com/bangladesh/Ixv7krFs2QDnQWtT/</link>
+      <description><![CDATA[আবিদুল ইসলাম বলেন, মানুষ হিসেবে আমরা কেউ পরিপূর্ণ না। আমি জানি, আমি আপনাদের জন্য যথেষ্ট কাজ করতে পারিনি।]]></description>
+      <pubDate>Wed, 10 Sep 2025 11:34:02 GMT</pubDate>
+      <guid isPermaLink="false">10234f0c9d14db8b4dcee17c32b4c67b</guid>
+    </item>
     <item>
       <title>মোহাম্মদপুরে ছিনতাইকারী সন্দেহে গণপিটুনিতে ২ জনের মৃত্যু</title>
       <link>https://bonikbarta.com/bangladesh/EhTzmC0WJk5bNWl6/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">bc7a31029ba81b20501fec26d2503052</guid>
     </item>
     <item>
-      <title>গর্ভাবস্থায় ও প্রসবোত্তর ৭৭ শতাংশ নারী মানসিক সমস্যায় আক্রান্ত হন</title>
-      <link>https://bonikbarta.com/bangladesh/4jgkpudCh44ocYIf/</link>
-      <description><![CDATA[দেশে নারীদের মানসিক রোগে আক্রান্ত হওয়ার হার পুরুষের তুলনায় বেশি। অন্তঃসত্ত্বাকালীন ও প্রসবোত্তর সময়ে এ ঝুঁকি বেড়ে যায়। গর্ভাবস্থায় ও সন্তান জন্মের পর ৭৭ শতাংশ নারী বিষণ্নতা কিংবা উদ্বেগজনিত সমস্যায় আক্রান্ত হন।]]></description>
-      <pubDate>Tue, 09 Sep 2025 21:27:38 GMT</pubDate>
-      <guid isPermaLink="false">9fdc5e6dde5cdc35b4324d735d4a00f5</guid>
+      <title>তামাক নিয়ন্ত্রণ আইনের প্রস্তাবিত সংশোধনী দ্রুত পাসের দাবি</title>
+      <link>https://bonikbarta.com/bangladesh/S26L3SnSSMnK4BkI/</link>
+      <description><![CDATA[জনস্বাস্থ্য সুরক্ষায় তামাক নিয়ন্ত্রণ আইনের প্রস্তাবিত সংশোধনী দ্রুত পাস করার দাবি জানানো হয়েছে। গতকাল রাজধানীর সিরডাপ মিলনায়তনে ডেভেলপমেন্ট অর্গানাইজেশন অব দ্য রুরাল পূওর (ডর্‌প) আয়োজিত জাতীয় সেমিনারে এ দাবি জানানো হয়।]]></description>
+      <pubDate>Tue, 09 Sep 2025 21:27:03 GMT</pubDate>
+      <guid isPermaLink="false">404885515d53714f6d94728187cf1ff6</guid>
     </item>
     <item>
       <title>বিএফআইইউ প্রধান শাহীনুল ইসলামের নিয়োগ বাতিল</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[মালয়েশীয় পাম অয়েলের ফিউচার মার্কেটে দাম টানা তৃতীয় দিনের মতো বেড়েছে।]]></description>
       <pubDate>Tue, 09 Sep 2025 21:22:46 GMT</pubDate>
       <guid isPermaLink="false">25ed0ad9bf3ca554cadd25d05c48c5f4</guid>
-    </item>
-    <item>
-      <title>দাম বাড়ছে আকরিক লোহার</title>
-      <link>https://bonikbarta.com/economy/ko2SNRCTCPByhFgx/</link>
-      <description><![CDATA[গিনির সিমান্ডু প্রকল্প থেকে সরবরাহ নিয়ে অনিশ্চয়তা এবং চীনে চাহিদা বাড়ার প্রত্যাশায় গতকাল টানা ষষ্ঠ দিনের মতো বেড়েছে আকরিক লোহার দাম।]]></description>
-      <pubDate>Tue, 09 Sep 2025 21:22:46 GMT</pubDate>
-      <guid isPermaLink="false">c3bdd16f4fcb4ac6cbe5d2a5ddfdc4d5</guid>
     </item>
   </channel>
 </rss>
