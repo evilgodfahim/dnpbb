@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 10 Sep 2025 10:24:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 10:42:54 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ফ্রান্সের নতুন প্রধানমন্ত্রী সেবাস্তিয়ান লেকোর্নু</title>
+      <link>https://bonikbarta.com/international/lUJVuP5G1LBcf08I/</link>
+      <description><![CDATA[গত দুই বছরের মধ্যে ফ্রান্সের পঞ্চম প্রধানমন্ত্রী হতে যাচ্ছেন মাত্র ৩৯ বছর বয়সী লেকোর্নু। গণমাধ্যম রয়টার্স বলছে, আগামীতে তার সামনে চ্যালেঞ্জ, গভীর রাজনৈতিক সংকট মোকাবেলার পাশাপাশি আসন্ন দিনগুলোয় সম্ভাব্য বিক্ষোভ সামাল দেয়া।]]></description>
+      <pubDate>Wed, 10 Sep 2025 10:42:45 GMT</pubDate>
+      <guid isPermaLink="false">7718892e6b609191b232c891435e9c53</guid>
+    </item>
     <item>
       <title>ঢাকা–কাঠমান্ডু রুটে বিমানের ফ্লাইট পরিচালনা স্থগিত</title>
       <link>https://bonikbarta.com/bangladesh/o5F8KmrQW5tozxfT/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">002b6e72bd8839936d52b6cf4255e239</guid>
     </item>
     <item>
-      <title>কনকচাঁপার জন্মদিনে চ্যানেল আইয়ের বিশেষ আয়োজন</title>
-      <link>https://bonikbarta.com/talkies/5XDeM5EbSOPi6Je9/</link>
-      <description><![CDATA[বাংলাদেশের জনপ্রিয় কণ্ঠশিল্পী রুমানা মোর্শেদ কনকচাঁপা, যিনি কেবল কনকচাঁপা নামেই পরিচিত।]]></description>
+      <title>রহস্যঘেরা গল্পে তানজিন তিশার ‘ফান্দা’</title>
+      <link>https://bonikbarta.com/talkies/OBd5j3JWXiiWIsKw/</link>
+      <description><![CDATA[সাম্প্রতিক সময়ে নাটকে ব্যস্ত সময় পার করছেন অভিনেত্রী তানজিন তিশা। একের পর এক কাজের মাধ্যমে তিনি দর্শকের কাছে নিজেকে ভিন্ন ভিন্ন চরিত্রে উপস্থাপন করছেন।]]></description>
       <pubDate>Tue, 09 Sep 2025 21:22:56 GMT</pubDate>
-      <guid isPermaLink="false">1f20f499a03a8e0d5014565567a19157</guid>
+      <guid isPermaLink="false">05f13c7a6163715137c21a27dcd94a32</guid>
     </item>
     <item>
       <title>আদিত্য চোপড়াকে ধন্যবাদ দিলেন সিদ্ধার্থ আনন্দ</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[রাশিয়ার ওপর যুক্তরাষ্ট্র নতুন নিষেধাজ্ঞা আরোপ ও তা কার্যকর করলে দেশটি থেকে পর্যাপ্ত মাত্রায় জ্বালানি তেলের সরবরাহ বজায় থাকা নিয়ে জোর আশঙ্কা রয়েছে বাজারে।]]></description>
       <pubDate>Tue, 09 Sep 2025 21:22:46 GMT</pubDate>
       <guid isPermaLink="false">8c00974fe65d33d75b29e28083ddb8bb</guid>
-    </item>
-    <item>
-      <title>বিশ্ববাজারে স্বর্ণের দরবৃদ্ধি অব্যাহত</title>
-      <link>https://bonikbarta.com/economy/LgDydPzyuhxa8Y4z/</link>
-      <description><![CDATA[মার্কিন কেন্দ্রীয় ব্যাংক ফেডারেল রিজার্ভ (ফেড) আগামী সপ্তাহে সুদহার কমাতে পারে—এমন প্রত্যাশায় বিশ্ববাজারে বেড়েই চলেছে স্বর্ণের দাম।]]></description>
-      <pubDate>Tue, 09 Sep 2025 21:22:46 GMT</pubDate>
-      <guid isPermaLink="false">1cf77724dcda6a3b9b6927667d16eb2b</guid>
     </item>
   </channel>
 </rss>
