@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 10 Sep 2025 04:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 05:22:17 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ব্যক্তি ফরহাদের নয়, এ বিজয় ঢাবির সব শিক্ষার্থীর— এস এম ফরহাদ</title>
+      <link>https://bonikbarta.com/bangladesh/aOxzwC682zBhjUFF/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Wed, 10 Sep 2025 05:03:10 GMT</pubDate>
+      <guid isPermaLink="false">c9aaf9b81bac769bd10f244812e9f980</guid>
+    </item>
     <item>
       <title>ডাকসু নির্বাচনে জুলাই-প্রজন্ম নির্বাচিত হয়েছে: সাদিক কায়েম</title>
       <link>https://bonikbarta.com/bangladesh/6OTff49e1fm1hxxD/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">37ef03e265e0fa6a00e21f00c8ab7761</guid>
     </item>
     <item>
-      <title>দারাজের ১০ বছর পূর্তিতে ‘৯.৯ অ্যানিভার্সারি মেগা সেল’ ক্যাম্পেইন</title>
-      <link>https://bonikbarta.com/economy/ZHIxTXNSAuSQyQSj/</link>
-      <description><![CDATA[ই-কমার্স প্লাটফর্ম দারাজ বাংলাদেশের ১০ বছর পূর্তি উপলক্ষে ‘৯.৯ অ্যানিভার্সারি মেগা সেল’ শীর্ষক ক্যাম্পেইনের আয়োজন করা হয়েছে।]]></description>
+      <title>উত্তরা ব্যাংকের এএমডি হলেন মাকসুদুল হাসান</title>
+      <link>https://bonikbarta.com/economy/m96rVOfCEoHWMDTF/</link>
+      <description><![CDATA[উত্তরা ব্যাংক পিএলসির অতিরিক্ত ব্যবস্থাপনা পরিচালক (এএমডি) হিসেবে নিয়োগ পেয়েছেন মাকসুদুল হাসান।]]></description>
       <pubDate>Tue, 09 Sep 2025 21:22:47 GMT</pubDate>
-      <guid isPermaLink="false">5984a3105a6199fc6340a77ab832eae7</guid>
+      <guid isPermaLink="false">993e010c4e4776051eca9fdeaf8bfc21</guid>
     </item>
     <item>
       <title>এনআরবিসি ব্যাংক উদ্যোক্তার শেয়ার বিক্রির ঘোষণা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[ফরিদপুরে প্রান্তিক জনগোষ্ঠীর জীবনমান উন্নয়নে দুস্থ নারীদের পাটজাত পণ্য তৈরির বিষয়ে প্রশিক্ষণ শুরু হয়েছে।]]></description>
       <pubDate>Tue, 09 Sep 2025 21:22:37 GMT</pubDate>
       <guid isPermaLink="false">9adfa130d368b0c9dfa9c5eef59a90e1</guid>
-    </item>
-    <item>
-      <title>দুদকের অভিযান</title>
-      <link>https://bonikbarta.com/bangladesh/LX2U3zur8Dd4zVVq/</link>
-      <description><![CDATA[অনিয়ম ও অব্যবস্থাপনার অভিযোগে নরসিংদীর পলাশ উপজেলা স্বাস্থ্য কমপ্লেক্সে অভিযান পরিচালনা করেছে দুর্নীতি দমন কমিশন (দুদক)।]]></description>
-      <pubDate>Tue, 09 Sep 2025 21:22:37 GMT</pubDate>
-      <guid isPermaLink="false">b3590978acbd10d01e949bc38e933278</guid>
     </item>
   </channel>
 </rss>
