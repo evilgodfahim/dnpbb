@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 11 Sep 2025 07:23:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 07:39:35 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>চমক দিলেন নিশো</title>
+      <link>https://bonikbarta.com/talkies/QyhEYhKve9fOgclA/</link>
+      <description><![CDATA[রেদোয়ান রনি তার সামাজিক যোগযোগমাধ্যমে কয়েকটি ছবি পোস্ট করেছেন। এগুলো মূলত ‘দম’ সিনেমার শুটিং লোকেশনের ছবি]]></description>
+      <pubDate>Thu, 11 Sep 2025 07:30:19 GMT</pubDate>
+      <guid isPermaLink="false">a0d3bb7a4e889f39a5ab5601de585af4</guid>
+    </item>
     <item>
       <title>জীবনের প্রথম ভোট দিতে পেরে উচ্ছ্বসিত শিক্ষার্থীরা</title>
       <link>https://bonikbarta.com/bangladesh/g45rFwkqv7DBNbyp/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">b85863842e7cd4b863f617a58c136f5d</guid>
     </item>
     <item>
-      <title>নেপালে অন্তর্বর্তী সরকারের দায়িত্ব নিচ্ছেন সুশীলা কার্কি</title>
-      <link>https://bonikbarta.com/international/J3qOQjRZcfEJoEBp/</link>
-      <description><![CDATA[জেনারেশন জেড বা জেন-জিদের তীব্র আন্দোলনের মুখে সরকার পতনের একদিন পরও নেপালজুড়ে নৈরাজ্য বিরাজ করছে। প্রশাসনিক শূন্যতা, দেশজুড়ে কারফিউ, সরকারি-বেসরকারি অবকাঠামোয় ভাংচুর-আগুন, সব মিলিয়ে এক চরম অরাজক পরিস্থিতির মধ্য দিয়ে যাচ্ছে দেশটি।]]></description>
+      <title>ওয়ালটন ব্র্যান্ডের তাকিওন ই-বাইক বাজারে</title>
+      <link>https://bonikbarta.com/economy/mFuxCk0TIDJaRkCj/</link>
+      <description><![CDATA[দেশের ইলেকট্রিক বাইক বা ই-বাইক বাজারে নতুন মাত্রা যোগ করেছে ওয়ালটন।]]></description>
       <pubDate>Wed, 10 Sep 2025 20:35:25 GMT</pubDate>
-      <guid isPermaLink="false">303b76917f697e6a962db9136af57a20</guid>
+      <guid isPermaLink="false">08a08934e499bf108c63dc6fd83d5348</guid>
     </item>
     <item>
       <title>বিবিটিএর উদ্যোগে এসডিজি বিষয়ক সেমিনার অনুষ্ঠিত</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[এবার চরকিতে আসছে ফ্ল্যাশ ফিকশন ধারার নতুন কনটেন্ট ‘খুব কাছেরই কেউ’, যা আজ প্রকাশ হচ্ছে।]]></description>
       <pubDate>Wed, 10 Sep 2025 20:35:17 GMT</pubDate>
       <guid isPermaLink="false">4e80bc2f9bd235f7119f96e7b8863aec</guid>
-    </item>
-    <item>
-      <title>‘জীবনের বাকিটা সময় মানুষের জন্যই ব্যয়  করতে চাই’</title>
-      <link>https://bonikbarta.com/talkies/wlLf0e1u8HMMaOMf/</link>
-      <description><![CDATA[বাংলাদেশের সংগীতাঙ্গনের এক উজ্জ্বল নক্ষত্র রুমানা মোর্শেদ কনকচাঁপা, যিনি দেশের সিনেমা ও সংগীতজগতে যুগের পর যুগ শ্রদ্ধার সঙ্গে স্মরণীয় হয়ে আছেন।]]></description>
-      <pubDate>Wed, 10 Sep 2025 20:35:16 GMT</pubDate>
-      <guid isPermaLink="false">738d14a7a5bb7e3debce909344bcdfa4</guid>
     </item>
   </channel>
 </rss>
