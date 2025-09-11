@@ -6,14 +6,21 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 11 Sep 2025 14:23:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 14:42:59 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>সত্তরের দশকের লুকে মাতালেন শুভ</title>
+      <link>https://bonikbarta.com/talkies/YT3otDnaMm62if8o/</link>
+      <description><![CDATA[সিরিজটি আসছে সোনি লিভ ওটিটি প্লাটফর্মে। গতকাল তারা তাদের আসন্ন সিরিজের ফার্স্ট লুক প্রকাশ করেছে। এতেই তিন সেকেন্ডের মতো দেখা যায় শুভকে]]></description>
+      <pubDate>Thu, 11 Sep 2025 14:30:00 GMT</pubDate>
+      <guid isPermaLink="false">d0a81bbc0c2d9608d29e901e966547a7</guid>
+    </item>
     <item>
       <title>টস জিতে বোলিংয়ে বাংলাদেশ</title>
       <link>https://bonikbarta.com/bangladesh/llfHuIhX80wglUts/</link>
       <description><![CDATA[No description available]]></description>
-      <pubDate>Thu, 11 Sep 2025 14:18:42 GMT</pubDate>
-      <guid isPermaLink="false">563df366a50b76c6af361dc607bc66fb</guid>
+      <pubDate>Thu, 11 Sep 2025 14:18:00 GMT</pubDate>
+      <guid isPermaLink="false">af6b839eb8df69cf89a1529b5d2b59bb</guid>
     </item>
     <item>
       <title>সেনা কর্মকর্তাদের নির্বাহী ম্যাজিস্ট্রেসি ক্ষমতার মেয়াদ আরো দুইমাস বাড়ল</title>
@@ -206,11 +213,11 @@
       <guid isPermaLink="false">cc35a47021a69701b822b9a0bd4d3270</guid>
     </item>
     <item>
-      <title>জাকসু নির্বাচন: ৩ ঘন্টা পরও ভোটার উপস্থিতি কম</title>
-      <link>https://bonikbarta.com/bangladesh/QiEspd7hzxHHrebO/</link>
-      <description><![CDATA[সুফিয়া কামাল হলের পোলিং অফিসার আমিনা মোমী বলেন, আমরা এখনো পরিস্থিতি পর্যবেক্ষণ করছি। আশা করছি সময়ের সঙ্গে ভোটারের উপস্থিতিও বাড়বে।]]></description>
-      <pubDate>Thu, 11 Sep 2025 06:38:00 GMT</pubDate>
-      <guid isPermaLink="false">60e631ddc70b00302f9b9ed5e135a587</guid>
+      <title>জাকসুতে ভোটগ্রহণ চলছে, অব্যবস্থাপনার অভিযোগ কোনো কোনো প্রার্থীর</title>
+      <link>https://bonikbarta.com/bangladesh/MGZSxLgHlGnySuli/</link>
+      <description><![CDATA[আবদুর রশিদ বলেন, বীরপ্রতীক তারামন বিবি হলসহ বিভিন্ন কেন্দ্রে ভোট দেয়ার পর ভোটারদের আঙুলে অমোচনীয় কালির দাগ দেয়া হচ্ছে না। এতে করে অনেকেরই একাধিক ভোট দেয়ার সুযোগ সৃষ্টি হতে পারে।]]></description>
+      <pubDate>Thu, 11 Sep 2025 06:28:00 GMT</pubDate>
+      <guid isPermaLink="false">94e139f94b811bffe9a2bd9565905ac4</guid>
     </item>
     <item>
       <title>জাকসু নির্বাচনে ভুল ব্যালট</title>
@@ -351,13 +358,6 @@
       <description><![CDATA[চারটি সংসদীয় আসন বহাল রাখার দাবিতে টানা ৪৮ ঘণ্টার হরতালে অচল হয়ে পড়েছে বাগেরহাট।]]></description>
       <pubDate>Wed, 10 Sep 2025 20:42:46 GMT</pubDate>
       <guid isPermaLink="false">40b6317f292e6ba60591dd5bb5ee2d35</guid>
-    </item>
-    <item>
-      <title>দেড় দশকেও শতভাগ নিশ্চিত হয়নি ১৯ পণ্যে পাটের মোড়ক ব্যবহার</title>
-      <link>https://bonikbarta.com/bangladesh/5k9BUHHfd6JRi8B9/</link>
-      <description><![CDATA[ধান, চাল, গম, ভুট্টা, ডাল, আটা, ময়দাসহ ১৯ ধরনের পণ্য সংরক্ষণ, সরবরাহ ও মোড়কীকরণে পাটের বস্তা ব্যবহার বাধ্যতামূলক করে ২০১০ সালে আইন প্রণয়ন করে সরকার।]]></description>
-      <pubDate>Wed, 10 Sep 2025 20:40:56 GMT</pubDate>
-      <guid isPermaLink="false">d1f30e60d6ccb33efb66c53bdab46217</guid>
     </item>
   </channel>
 </rss>
