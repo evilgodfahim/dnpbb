@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 11 Sep 2025 15:21:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 15:40:20 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>৪৮তম বিসিএসের চূড়ান্ত ফল প্রকাশ</title>
+      <link>https://bonikbarta.com/bangladesh/p8oI7galIzvnpqpi/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Thu, 11 Sep 2025 15:34:01 GMT</pubDate>
+      <guid isPermaLink="false">1fb11688e12574e0265e35d2f2a76f9b</guid>
+    </item>
     <item>
       <title>রাজনৈতিক দলগুলোর কাছে আজই পাঠানো হচ্ছে চূড়ান্ত সনদ: আলী রীয়াজ</title>
       <link>https://bonikbarta.com/bangladesh/SifRZSsDNtog9BOQ/</link>
@@ -206,11 +213,11 @@
       <guid isPermaLink="false">4d0b74f0ddf69fd60d25dec85d1594c3</guid>
     </item>
     <item>
-      <title>চমক দিলেন নিশো</title>
-      <link>https://bonikbarta.com/talkies/QyhEYhKve9fOgclA/</link>
-      <description><![CDATA[রেদোয়ান রনি তার সামাজিক যোগযোগমাধ্যমে কয়েকটি ছবি পোস্ট করেছেন। এগুলো মূলত ‘দম’ সিনেমার শুটিং লোকেশনের ছবি]]></description>
-      <pubDate>Thu, 11 Sep 2025 07:30:19 GMT</pubDate>
-      <guid isPermaLink="false">a0d3bb7a4e889f39a5ab5601de585af4</guid>
+      <title>জীবনের প্রথম ভোট দিতে পেরে উচ্ছ্বসিত শিক্ষার্থীরা</title>
+      <link>https://bonikbarta.com/bangladesh/g45rFwkqv7DBNbyp/</link>
+      <description><![CDATA[তারমান বিবি হলের শিক্ষার্থী সাইমা বলেন, 'গত ১৬ বছরে দেশে কোনদিন ভোট দিতে পারিনি। এবার বিশ্ববিদ্যালয়ের শেষবর্ষে এসে ভোটে অংশ নিয়েছি। সবাই একসঙ্গে ভোট দিতে পেরেছি এটাই শান্তি।’]]></description>
+      <pubDate>Thu, 11 Sep 2025 07:11:00 GMT</pubDate>
+      <guid isPermaLink="false">192b9866f042f52d39fb81a3b4ff822f</guid>
     </item>
     <item>
       <title>এক হলে অন্ধকারেই ভোট দিচ্ছেন শিক্ষার্থীরা</title>
@@ -351,13 +358,6 @@
       <description><![CDATA[চট্টগ্রাম ও পার্বত্য চট্টগ্রামে পাহাড় ধসে প্রাণহানি ঠেকাতে স্থায়ী উচ্ছেদ, পুনর্বাসনসহ নানা সুপারিশ রয়েছে।]]></description>
       <pubDate>Wed, 10 Sep 2025 20:52:20 GMT</pubDate>
       <guid isPermaLink="false">f09bfa1cb4a27219630598a04ea091a1</guid>
-    </item>
-    <item>
-      <title>কুষ্টিয়ায় আধিপত্যের দ্বন্দ্বে দুজনকে কুপিয়ে হত্যা</title>
-      <link>https://bonikbarta.com/bangladesh/diM8lrXQ3Culhl0S/</link>
-      <description><![CDATA[কুষ্টিয়ার দৌলতপুরে আধিপত্য বিস্তারকে কেন্দ্র করে দুজনকে কুপিয়ে হত্যার ঘটনা ঘটেছে।]]></description>
-      <pubDate>Wed, 10 Sep 2025 20:50:00 GMT</pubDate>
-      <guid isPermaLink="false">0f1aa474002bfc35927c8e5c1b1db7c9</guid>
     </item>
   </channel>
 </rss>
