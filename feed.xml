@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 12 Sep 2025 16:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 17:19:15 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>হামাসমুক্ত ফিলিস্তিনি সরকারের পক্ষে জাতিসংঘ সাধারণ পরিষদের সমর্থন</title>
+      <link>https://bonikbarta.com/international/PvOItcDvqwU42ozv/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Fri, 12 Sep 2025 17:00:04 GMT</pubDate>
+      <guid isPermaLink="false">21b33d460dd8ff9bfa6591fbf9d1ebc4</guid>
+    </item>
     <item>
       <title>নেপালের অন্তর্বর্তী সরকারের হাল ধরলেন সুশীলা কার্কি</title>
       <link>https://bonikbarta.com/international/UETPJf2VK0DRdah3/</link>
@@ -206,11 +213,11 @@
       <guid isPermaLink="false">800afb6c87b69338cc837ff034baff4d</guid>
     </item>
     <item>
-      <title>ফিলিস্তিন বলে কোনো রাষ্ট্র থাকবে না, এইভূমি আমাদের: নেতানিয়াহু</title>
-      <link>https://bonikbarta.com/international/AxBpn0p1XCghZHlC/</link>
-      <description><![CDATA[দখলকৃত পশ্চিম তীরে বসতি সম্প্রসারণ পরিকল্পনা আনুষ্ঠানিকভাবে অনুমোদন দিয়েছেন ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু। বৃহস্পতিবার প্রকল্পটি বাস্তবায়নে একটি রূপরেখা চুক্তিতে স্বাক্ষর করেছেন তিনি।]]></description>
-      <pubDate>Fri, 12 Sep 2025 07:08:49 GMT</pubDate>
-      <guid isPermaLink="false">92aee95eb902f9457a21fce0db9cccab</guid>
+      <title>আশরাফুল-জেসিকে সরিয়ে ঢাকা জেলা-বিভাগের সদস্য বুলবুল-ফাহিম</title>
+      <link>https://bonikbarta.com/sports/nLxCX9SbZizxkS1f/</link>
+      <description><![CDATA[বাংলাদেশ জাতীয় ক্রিকেট দলের সাবেক অধিনায়ক মোহাম্মদ আশরাফুলকে সরিয়ে নতুন করে বর্তমান বিসিবি সভাপতি আমিনুল ইসলাম বুলবুলকে সদস্য করা হয়েছে।]]></description>
+      <pubDate>Fri, 12 Sep 2025 06:36:15 GMT</pubDate>
+      <guid isPermaLink="false">96d569b06e5b9b27fe4f54d20899531b</guid>
     </item>
     <item>
       <title>উত্তর বঙ্গোপসাগরে লঘুচাপের আশঙ্কা</title>
@@ -351,13 +358,6 @@
       <description><![CDATA[বকেয়া বেতন দাবিতে বিক্ষোভ করেছেন গাজীপুর মহানগরীর বাসন থানার দিঘীরচালা এলাকার শিনইউয়েন গার্মেন্টস কোম্পানি লিমিটেডের শ্রমিকরা।]]></description>
       <pubDate>Thu, 11 Sep 2025 21:11:53 GMT</pubDate>
       <guid isPermaLink="false">40d4dd73ba6772772b2275f7419291cb</guid>
-    </item>
-    <item>
-      <title>সড়ক দুর্ঘটনায় প্রাণ গেল ছয়জনের</title>
-      <link>https://bonikbarta.com/bangladesh/HshMxSXQciHZs4Zk/</link>
-      <description><![CDATA[সড়ক দুর্ঘটনায় দেশের চার জেলায় নিহত হয়েছেন ছয়জন। আহত হয়েছেন বেশ কয়েকজন।]]></description>
-      <pubDate>Thu, 11 Sep 2025 21:05:30 GMT</pubDate>
-      <guid isPermaLink="false">cfc12ac5aef74e6524a262a778880885</guid>
     </item>
   </channel>
 </rss>
