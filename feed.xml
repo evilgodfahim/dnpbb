@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 12 Sep 2025 09:40:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 10:24:57 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>বাংলাদেশে চীনের বিনিয়োগ ৩০০ শতাংশ বেড়েছে: বাণিজ্য উপদেষ্টা</title>
+      <link>https://bonikbarta.com/bangladesh/3l1OqxCvD3il8iWM/</link>
+      <description><![CDATA[উপদেষ্টা বলেন, আমাদের দুর্বলতা খুঁজে বের করতে হবে। অভিজ্ঞতা বিনিময়ের মাধ্যমে আমাদের এগিয়ে যেতে হবে। উৎপাদন ও প্যাকেজিংয়ে চীনের অভিজ্ঞতা কাজে লাগাতে পারলে এগিয়ে যাওয়ার সুযোগ রয়েছে।]]></description>
+      <pubDate>Fri, 12 Sep 2025 10:21:10 GMT</pubDate>
+      <guid isPermaLink="false">1e59c1350123c8bf551ef9683695b63e</guid>
+    </item>
     <item>
       <title>নেপালে আটকে পরা বিদেশী পর্যটকদের জন্য ভিসা নিয়মে শিথিলতা</title>
       <link>https://bonikbarta.com/international/lyTmwpfciUOpaFeL/</link>
@@ -206,11 +213,11 @@
       <guid isPermaLink="false">40d4dd73ba6772772b2275f7419291cb</guid>
     </item>
     <item>
-      <title>সড়ক দুর্ঘটনায় প্রাণ গেল ছয়জনের</title>
-      <link>https://bonikbarta.com/bangladesh/HshMxSXQciHZs4Zk/</link>
-      <description><![CDATA[সড়ক দুর্ঘটনায় দেশের চার জেলায় নিহত হয়েছেন ছয়জন। আহত হয়েছেন বেশ কয়েকজন।]]></description>
-      <pubDate>Thu, 11 Sep 2025 21:05:30 GMT</pubDate>
-      <guid isPermaLink="false">cfc12ac5aef74e6524a262a778880885</guid>
+      <title>নির্মাণের এক বছরেই বাঁধে ভাঙন, জোয়ারে ডুবছে হাতিয়া ও সুবর্ণচর উপকূল</title>
+      <link>https://bonikbarta.com/bangladesh/QWp4tRpMjBkNUVjj/</link>
+      <description><![CDATA[নোয়াখালীর হাতিয়া ও সুবর্ণচর উপকূল সুরক্ষায় প্রায় ২৪ কিলোমিটার বেড়িবাঁধ নির্মাণ করে পানি উন্নয়ন বোর্ড (পাউবো)।]]></description>
+      <pubDate>Thu, 11 Sep 2025 21:04:16 GMT</pubDate>
+      <guid isPermaLink="false">a0ac1509c48e189f8bf75cf4eba20330</guid>
     </item>
     <item>
       <title>‘জ্যাজ সিটি’তে ভিন্ন এক শুভ</title>
@@ -351,13 +358,6 @@
       <description><![CDATA[বৈশ্বিক জিডিপি প্রবৃদ্ধির হার নিয়ে পূর্বাভাস সংশোধন করেছে ঋণমান সংস্থা ফিচ রেটিংস।]]></description>
       <pubDate>Thu, 11 Sep 2025 20:29:29 GMT</pubDate>
       <guid isPermaLink="false">78c01c653923e870c4bc651c1adf034b</guid>
-    </item>
-    <item>
-      <title>সাউথইস্ট ব্যাংকের কর্মকর্তা-কর্মচারীদের কৃতী সন্তানদের সম্মাননা</title>
-      <link>https://bonikbarta.com/economy/ya9jfHzaZlmoVwxk/</link>
-      <description><![CDATA[সাউথইস্ট ব্যাংক পিএলসি তাদের কর্মকর্তা ও কর্মচারীদের ৫৩ জন মেধাবী সন্তানকে সম্মাননা দিয়েছে।]]></description>
-      <pubDate>Thu, 11 Sep 2025 20:28:23 GMT</pubDate>
-      <guid isPermaLink="false">30fbf9214614cd81aac79a5b49b322a2</guid>
     </item>
   </channel>
 </rss>
