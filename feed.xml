@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 12 Sep 2025 05:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 06:34:46 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>উত্তর বঙ্গোপসাগরে লঘুচাপের আশঙ্কা</title>
+      <link>https://bonikbarta.com/bangladesh/03Q3WiTX3pvQXtiz/</link>
+      <description><![CDATA[মৌসুমী বায়ুর অক্ষের বর্ধিতাংশ ভারতের রাজস্থান, হরিয়ানা, উত্তর প্রদেশ, মধ্য প্রদেশ, বিহার, পশ্চিমবঙ্গ ও বাংলাদেশের উত্তরাঞ্চল হয়ে আসাম পর্যন্ত বিস্তৃত রয়েছে।]]></description>
+      <pubDate>Fri, 12 Sep 2025 06:32:33 GMT</pubDate>
+      <guid isPermaLink="false">193431d34d6648c4bafaabdc38cb1be5</guid>
+    </item>
     <item>
       <title>জাকসুর ভোট গণনা করতে এসে অসুস্থ হয়ে পোলিং এজেন্ট শিক্ষিকার মৃত্যু</title>
       <link>https://bonikbarta.com/bangladesh/sXbftsrBhEEhmdvx/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">0c89c166171e03857dfeb39521e13868</guid>
     </item>
     <item>
-      <title>মালয়েশিয়ায় প্রবাসী সমাবেশ করেছে বেঙ্গল কমার্শিয়াল ব্যাংক</title>
-      <link>https://bonikbarta.com/economy/EL14P6FXyKO30Vyh/</link>
-      <description><![CDATA[বৈধ চ্যানেলে রেমিট্যান্স পাঠাতে প্রবাসীদের উদ্বুদ্ধ করতে মালয়েশিয়ায় প্রবাসী সমাবেশ করেছে বেঙ্গল কমার্শিয়াল ব্যাংক।]]></description>
-      <pubDate>Thu, 11 Sep 2025 20:41:09 GMT</pubDate>
-      <guid isPermaLink="false">d81bde45b002006af8e1f0abac81216e</guid>
+      <title>সোনার বাংলা ইন্স্যুরেন্সের ২৫তম এজিএম অনুষ্ঠিত</title>
+      <link>https://bonikbarta.com/economy/9Jx7RwEe5xTTieE1/</link>
+      <description><![CDATA[সোনার বাংলা ইন্স্যুরেন্স লিমিটেডের ২৫তম বার্ষিক সাধারণ সভা (এজিএম) গতকাল ভার্চুয়াল পদ্ধতিতে অনুষ্ঠিত হয়।]]></description>
+      <pubDate>Thu, 11 Sep 2025 20:40:07 GMT</pubDate>
+      <guid isPermaLink="false">0103e6ffc1309f2daa684a0fbbe9d944</guid>
     </item>
     <item>
       <title>ফরিদপুরে বিনিয়োগকারীদের সঙ্গে আইসিবির সাবসিডিয়ারি তিন কোম্পানির মতবিনিময় সভা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[সম্প্রতি প্রকৌশল খাতের কোম্পানি এস আলম কোল্ড রোলড স্টিলস লিমিটেডের শেয়ারদর ও লেনদেন অস্বাভাবিক হারে বাড়ছে।]]></description>
       <pubDate>Thu, 11 Sep 2025 20:27:59 GMT</pubDate>
       <guid isPermaLink="false">a67a6480425abab7693a94e98cf19c8e</guid>
-    </item>
-    <item>
-      <title>রবির ২৩ কোটি টাকার শেয়ার লেনদেন</title>
-      <link>https://bonikbarta.com/economy/prsiVwMo4ObFV7Cu/</link>
-      <description><![CDATA[টেলিযোগাযোগ খাতের তালিকাভুক্ত বহুজাতিক কোম্পানি রবি আজিয়াটা পিএলসির গতকাল ২২ কোটি ৯৫ লাখ টাকার শেয়ার লেনদেন হয়েছে।]]></description>
-      <pubDate>Thu, 11 Sep 2025 20:27:59 GMT</pubDate>
-      <guid isPermaLink="false">a7d13c61e16128aa2616c7f5f1ea8b39</guid>
     </item>
   </channel>
 </rss>
