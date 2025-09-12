@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 12 Sep 2025 08:29:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 08:49:02 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>বাকি ৪ কেন্দ্রের ভোট গণনা, চূড়ান্ত ফলাফল সন্ধ্যায়</title>
+      <link>https://bonikbarta.com/bangladesh/MysGYOH4fmExthQu/</link>
+      <description><![CDATA[বৃহস্পতিবার রাত সোয়া ১০টার দিকে ভোট গণনা শুরু হয়। ম্যানুয়ালি ভোট গণনা এলইডি স্ক্রিনে দেখানো হচ্ছে।]]></description>
+      <pubDate>Fri, 12 Sep 2025 08:43:42 GMT</pubDate>
+      <guid isPermaLink="false">c39aa83529a6d4550270bf4a0e4364ca</guid>
+    </item>
     <item>
       <title>সুশীলা না কুলমান? নাকি হার্কা- কার হাতে নেপালের পরবর্তী নেতৃত্ব?</title>
       <link>https://bonikbarta.com/international/d1Jc6mzLG7wTJ0ip/</link>
@@ -206,11 +213,11 @@
       <guid isPermaLink="false">80a4d59acccd15628fb316801c53cf1b</guid>
     </item>
     <item>
-      <title>একাধিক নাটকে জুটি মিম ও তন্ময়</title>
-      <link>https://bonikbarta.com/talkies/7J8xJmRvIu97vVO3/</link>
-      <description><![CDATA[এ প্রজন্মের দর্শকপ্রিয় অভিনেত্রী মিম চৌধুরী। মোশাররফ করিমের বিপরীতে বেশকিছু নাটকে অভিনয় করে প্রশংসা পেয়েছেন।]]></description>
-      <pubDate>Thu, 11 Sep 2025 20:55:36 GMT</pubDate>
-      <guid isPermaLink="false">f8ffd93b164529bd5b57509f010433f8</guid>
+      <title>জয়রথ চলছে লোকা চ্যাপ্টার ওয়ানের</title>
+      <link>https://bonikbarta.com/talkies/4kiNl09dRl0etdxg/</link>
+      <description><![CDATA[কল্যাণী প্রিয়দর্শন অভিনীত সিনেমা লোকা: চ্যাপ্টার ওয়ান। এতে তার সঙ্গে অভিনয় করেছেন নাসলেন গফুর। সিনেমাটি পরিচালনা করেছেন ডমিনিক অরুণ।]]></description>
+      <pubDate>Thu, 11 Sep 2025 20:52:56 GMT</pubDate>
+      <guid isPermaLink="false">d4ca8d0cee0e15603f0175e06d7be11b</guid>
     </item>
     <item>
       <title>কাজাখস্তানে ‘দম’-এর টিম</title>
@@ -351,13 +358,6 @@
       <description><![CDATA[অনেকের কাছে আইফোন থেকে অ্যান্ড্রয়েডে পরিবর্তন করা সহজ মনে হতে পারে, কারণ জনপ্রিয় বেশির ভাগ অ্যাপই প্লে স্টোরে আছে।]]></description>
       <pubDate>Thu, 11 Sep 2025 20:27:59 GMT</pubDate>
       <guid isPermaLink="false">b945944d5d8f5d8879e9bf4dc2eb891c</guid>
-    </item>
-    <item>
-      <title>পারিবারিক সহিংসতার শিকারদের সাহায্যে আসছে ‘কুলপা’ অ্যাপ</title>
-      <link>https://bonikbarta.com/scitech/TO6FNxvqUjtfzQAy/</link>
-      <description><![CDATA[যুক্তরাষ্ট্রের অঙ্গরাজ্য নিউ জার্সির পুলিশ একটি নতুন ডিজিটাল প্রমাণ সংরক্ষণ অ্যাপ ‘কুলপা’ পরীক্ষামূলকভাবে চালু করেছে, যা ঘরোয়া সহিংসতার শিকারদের নিরাপদভাবে প্রমাণ জমা দিতে এবং পুলিশকে শেয়ার করতে সাহায্য করবে।]]></description>
-      <pubDate>Thu, 11 Sep 2025 20:27:59 GMT</pubDate>
-      <guid isPermaLink="false">d68cc60f515ac6e293fb8689e4943a37</guid>
     </item>
   </channel>
 </rss>
