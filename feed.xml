@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 12 Sep 2025 04:42:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 05:22:09 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>জাকসুর ভোট গণনা করতে এসে পোলিং এজেন্ট শিক্ষিকার মৃত্যু</title>
+      <link>https://bonikbarta.com/bangladesh/sXbftsrBhEEhmdvx/</link>
+      <description><![CDATA[জান্নাতুল ফেরদৌস ২০১৮ এবং ২০১৬ সালে জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ের চারুকলা (চিত্রকলা শৃঙ্খলা) বিভাগ থেকে এমএফএ এবং বিএফএ সম্পন্ন করেন।]]></description>
+      <pubDate>Fri, 12 Sep 2025 04:47:00 GMT</pubDate>
+      <guid isPermaLink="false">20f6976cdf1aa5f6113bfb1e3fa42541</guid>
+    </item>
     <item>
       <title>জাকসু নির্বাচন : ১২ হলের ভোট গণনা শেষ, বাকি আরো ৯</title>
       <link>https://bonikbarta.com/bangladesh/DOAAFFZphNP0i8q8/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">d81bde45b002006af8e1f0abac81216e</guid>
     </item>
     <item>
-      <title>সোনার বাংলা ইন্স্যুরেন্সের ২৫তম এজিএম অনুষ্ঠিত</title>
-      <link>https://bonikbarta.com/economy/9Jx7RwEe5xTTieE1/</link>
-      <description><![CDATA[সোনার বাংলা ইন্স্যুরেন্স লিমিটেডের ২৫তম বার্ষিক সাধারণ সভা (এজিএম) গতকাল ভার্চুয়াল পদ্ধতিতে অনুষ্ঠিত হয়।]]></description>
-      <pubDate>Thu, 11 Sep 2025 20:40:07 GMT</pubDate>
-      <guid isPermaLink="false">0103e6ffc1309f2daa684a0fbbe9d944</guid>
+      <title>ফরিদপুরে বিনিয়োগকারীদের সঙ্গে আইসিবির সাবসিডিয়ারি তিন কোম্পানির মতবিনিময় সভা</title>
+      <link>https://bonikbarta.com/economy/ROgYlGYLvtdqw7gC/</link>
+      <description><![CDATA[আইসিবি ক্যাপিটাল ম্যানেজমেন্ট লিমিটেডের (আইসিএমএল) ফরিদপুর শাখায় সম্প্রতি একটি মতবিনিময় সভা অনুষ্ঠিত হয়েছে।]]></description>
+      <pubDate>Thu, 11 Sep 2025 20:38:20 GMT</pubDate>
+      <guid isPermaLink="false">7e6b3c79f3c4dfb16631b594d67e3115</guid>
     </item>
     <item>
       <title>বাংলাদেশ ব্যাংক-প্রাইম ব্যাংকের চুক্তি</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[টেলিযোগাযোগ খাতের তালিকাভুক্ত বহুজাতিক কোম্পানি রবি আজিয়াটা পিএলসির গতকাল ২২ কোটি ৯৫ লাখ টাকার শেয়ার লেনদেন হয়েছে।]]></description>
       <pubDate>Thu, 11 Sep 2025 20:27:59 GMT</pubDate>
       <guid isPermaLink="false">a7d13c61e16128aa2616c7f5f1ea8b39</guid>
-    </item>
-    <item>
-      <title>প্রায় ১ শতাংশ বেড়েছে সূচক</title>
-      <link>https://bonikbarta.com/economy/JN5HgUGnXjN85ofO/</link>
-      <description><![CDATA[দেশের পুঁজিবাজারে সপ্তাহের শেষ কার্যদিবসে গতকাল সূচকে ঊর্ধ্বমুখিতা দেখা গেছে।]]></description>
-      <pubDate>Thu, 11 Sep 2025 20:27:59 GMT</pubDate>
-      <guid isPermaLink="false">1774b9bddd5b8058d3d8a39100bd9d30</guid>
     </item>
   </channel>
 </rss>
