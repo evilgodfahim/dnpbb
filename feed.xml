@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 12 Sep 2025 11:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 11:39:11 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>সুন্দরবন থেকে অস্ত্রসহ দুই বনদস্যু আটক, জিম্মি ৯ জেলে উদ্ধার</title>
+      <link>https://bonikbarta.com/bangladesh/d07kM9efSkRBLJ70/</link>
+      <description><![CDATA[লে. মো. তানভীর উদ্দিন প্রান্ত বলেন, গোপন সংবাদের ভিত্তিতে ওই এলাকায় অভিযান চালিয়ে দুই দস্যুকে আটক করা হয়েছে। সেইসঙ্গে জিম্মি ৯ জেলেকেও উদ্ধার করা হয়েছে। উদ্ধার জেলেদের স্বজনদের কাছে হস্তান্তর ও দস্যুদের বিরুদ্ধে আইনি ব্যবস্থা প্রক্রিয়াধীন রয়েছে।]]></description>
+      <pubDate>Fri, 12 Sep 2025 11:22:54 GMT</pubDate>
+      <guid isPermaLink="false">eaa299516c88f915b2f0824b29d5485e</guid>
+    </item>
     <item>
       <title>আইএমও কাউন্সিলে পুনর্নির্বাচনে সমর্থন চেয়ে নয়া দিল্লিতে বাংলাদেশ হাইকমিশনের নৈশভোজ</title>
       <link>https://bonikbarta.com/bangladesh/3LP1aenGlt6RrQkd/</link>
@@ -206,11 +213,11 @@
       <guid isPermaLink="false">9b0ab584c0d92a738839db334719c646</guid>
     </item>
     <item>
-      <title>বিক্ষোভ</title>
-      <link>https://bonikbarta.com/bangladesh/1CaAYZgOz0FzpFD1/</link>
-      <description><![CDATA[গাইবান্ধা সদর উপজেলা আওয়ামী লীগের (কার্যক্রম নিষিদ্ধ) সাংগঠনিক সম্পাদক মতিউর রহমান রানাকে গ্রেফতার দাবিতে বিক্ষোভ করেছে এলাকাবাসী।]]></description>
-      <pubDate>Thu, 11 Sep 2025 21:19:42 GMT</pubDate>
-      <guid isPermaLink="false">f57b0ebd0eddef48f32197d7a9861556</guid>
+      <title>অগ্নিকাণ্ড</title>
+      <link>https://bonikbarta.com/bangladesh/93AqP9oVI6d49dcv/</link>
+      <description><![CDATA[রাঙ্গামাটির লংগদু উপজেলার মাইনীমুখ বাজারে অগ্নিকাণ্ডের ঘটনা ঘটেছে। আগুনে ১১টি দোকান ও বসতঘর পুড়ে গেছে।]]></description>
+      <pubDate>Thu, 11 Sep 2025 21:18:53 GMT</pubDate>
+      <guid isPermaLink="false">514648a42149dbcc7ad64f6ee899f629</guid>
     </item>
     <item>
       <title>যাত্রীসহ চলন্ত অবস্থায় বিচ্ছিন্ন হলো কালনী এক্সপ্রেস ট্রেনের তিন বগি</title>
@@ -351,13 +358,6 @@
       <description><![CDATA[দ্য হংকং অ্যান্ড সাংহাই ব্যাংকিং করপোরেশন (এইচএসবিসি) বাংলাদেশ ও চট্টগ্রাম বন্দর কর্তৃপক্ষ (সিপিএ) যৌথ উদ্যোগে দেশের প্রথম পূর্ণাঙ্গ ডিজিটাল পোর্ট পেমেন্ট প্রক্রিয়া চালু করেছে।]]></description>
       <pubDate>Thu, 11 Sep 2025 20:33:33 GMT</pubDate>
       <guid isPermaLink="false">15d0476da3c2aa96e1e00a7b44119eb6</guid>
-    </item>
-    <item>
-      <title>স্মারক স্বর্ণ ও রৌপ্যমুদ্রার দাম বাড়ল</title>
-      <link>https://bonikbarta.com/economy/kjlLIkyI0PNCXjB2/</link>
-      <description><![CDATA[দেশের বাজারে স্মারক স্বর্ণ ও রৌপ্যমুদ্রার দাম আবারো বাড়িয়েছে বাংলাদেশ ব্যাংক।]]></description>
-      <pubDate>Thu, 11 Sep 2025 20:32:00 GMT</pubDate>
-      <guid isPermaLink="false">2424919fdf588680d788d76e5034ac19</guid>
     </item>
   </channel>
 </rss>
