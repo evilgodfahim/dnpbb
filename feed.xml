@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 13 Sep 2025 13:23:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 13:38:30 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>জাকসু নির্বাচন: ভিপি জিতু, জিএস মাজহারুল ও এজিএস ফেরদৌস-মেঘলা</title>
+      <link>https://bonikbarta.com/bangladesh/N3AWDDAOXCvW2NCO/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:33:58 GMT</pubDate>
+      <guid isPermaLink="false">d1b02e85a71f820a732a5289322c7113</guid>
+    </item>
     <item>
       <title>আওয়ামী লীগের আরো ৭ নেতাকর্মী গ্রেফতার</title>
       <link>https://bonikbarta.com/bangladesh/LsknOxu0TennVf2t/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">99e06df6bf73a8c5986c0d80ccdb3e4d</guid>
     </item>
     <item>
-      <title>জিম্মি ৯ জেলে উদ্ধার</title>
-      <link>https://bonikbarta.com/bangladesh/B0xFm7I04WyzbEjs/</link>
-      <description><![CDATA[সুন্দরবনে দস্যুদের কাছে জিম্মি নয় জেলেকে উদ্ধার করেছে কোস্টগার্ড। এ সময় রাঙ্গা বাহিনীর দুই সদস্যকে আটক করা হয়।]]></description>
-      <pubDate>Fri, 12 Sep 2025 21:25:28 GMT</pubDate>
-      <guid isPermaLink="false">58e36ea7c1627c40722482a9c7ec3447</guid>
+      <title>স্মরণসভা</title>
+      <link>https://bonikbarta.com/bangladesh/E9REaLpGox3pNQTZ/</link>
+      <description><![CDATA[জাতীয় কবি কাজী নজরুল ইসলামের ৪৯তম মৃত্যুবার্ষিকী উপলক্ষে স্মরণ সভা অনুষ্ঠিত হয়েছে।]]></description>
+      <pubDate>Fri, 12 Sep 2025 21:24:37 GMT</pubDate>
+      <guid isPermaLink="false">5f7be2ccd46669505e7fa357ec438c4e</guid>
     </item>
     <item>
       <title>কর্মশালা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[নতুন বাংলাদেশ গড়ার লক্ষ্যে রূপালী ব্যাংক পিএলসি সব শাখায় ১-১৫ সেপ্টেম্বর পর্যন্ত গ্রাহকসেবা পক্ষ পালন করা হচ্ছে।]]></description>
       <pubDate>Fri, 12 Sep 2025 20:38:01 GMT</pubDate>
       <guid isPermaLink="false">7246a5a7ef2bbfae66a76d21a2c0bcfa</guid>
-    </item>
-    <item>
-      <title>আনসার-ভিডিপি সদস্যদের স্বাস্থ্যসেবা দেবে ল্যাবএইড</title>
-      <link>https://bonikbarta.com/economy/ryWSNXMS4NKd9AI7/</link>
-      <description><![CDATA[বাংলাদেশ আনসার ও গ্রাম প্রতিরক্ষা বাহিনীর (ভিডিপি) সঙ্গে স্বাস্থ্যসেবা-সংক্রান্ত চুক্তি স্বাক্ষর করেছে ল্যাবএইড গ্রুপ, ল্যাবএইড ক্যান্সার হাসপাতাল এবং ল্যাবএইড সুপার স্পেশালিটি সেন্টার।]]></description>
-      <pubDate>Fri, 12 Sep 2025 20:36:52 GMT</pubDate>
-      <guid isPermaLink="false">d6c7d5cd3c7e23adbf17f46bcf6ba2f7</guid>
     </item>
   </channel>
 </rss>
