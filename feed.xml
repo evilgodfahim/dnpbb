@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 13 Sep 2025 15:19:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 15:38:49 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>প্রশাসনের আজ্ঞাবহ নির্বাচন কমিশন দিয়ে সুষ্ঠু ও নিরপেক্ষ নির্বাচন সম্ভব?</title>
+      <link>https://bonikbarta.com/editorial/k0Aom7eVV33G7lS9/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Sat, 13 Sep 2025 15:28:01 GMT</pubDate>
+      <guid isPermaLink="false">422f36beb1afc79da35e6c32c26e2f80</guid>
+    </item>
     <item>
       <title>নেত্রকোনায় নৌকা-স্পিডবোট দুর্ঘটনায় এক শিশুর মরদেহ উদ্ধার, নিখোঁজ ৩</title>
       <link>https://bonikbarta.com/bangladesh/j3GYSMgbR46jyS5T/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">64eb57870cf728c90be82ab11f4423a6</guid>
     </item>
     <item>
-      <title>সুশীলা কার্কির শপথের দিনেই ঘোষিত নেপালের সাধারণ নির্বাচনের তারিখ</title>
-      <link>https://bonikbarta.com/bangladesh/dhd4gIR7mYIN9JUQ/</link>
-      <description><![CDATA[আইনশৃঙ্খলা পুনঃপ্রতিষ্ঠা, সংসদ ও সরকারি ভবন পুনর্নির্মাণ, জেন-জি আন্দোলনকে শান্তিপূর্ণ ও এ আন্দোলনের সপক্ষে জনমত নিশ্চিত করা, সহিংসতার জন্য দায়ীদের বিচারের আওতায় আনাসহ বেশকিছু চ্যালেঞ্জের মুখোমুখি হবে কার্কির মন্ত্রিসভা।]]></description>
-      <pubDate>Sat, 13 Sep 2025 08:05:00 GMT</pubDate>
-      <guid isPermaLink="false">d20c2b9806b02abbbd28a9517b2b2d99</guid>
+      <title>স্পেনে রাজা তৃতীয় ফিলিপের অভিষেক</title>
+      <link>https://bonikbarta.com/feature/5TC1WR2RwKP3yJEn/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Sat, 13 Sep 2025 07:43:13 GMT</pubDate>
+      <guid isPermaLink="false">1a9f5901b0909596de0fa10bcfb277cb</guid>
     </item>
     <item>
       <title>এআইইউবিতে গণমাধ্যমে ক্যারিয়ার বিষয়ক আলোচনা অনুষ্ঠিত</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[টমেটো মূলত শীতকালীন সবজি। তবে দেশের বিভিন্ন অঞ্চলে গ্রীষ্মকালীন টমেটো আবাদও হয়ে আসছে।]]></description>
       <pubDate>Fri, 12 Sep 2025 21:20:47 GMT</pubDate>
       <guid isPermaLink="false">c19ab8559aa0873c3a7fe4ee9783de41</guid>
-    </item>
-    <item>
-      <title>প্রাইভেট কারের আদলে স্পিডবোট</title>
-      <link>https://bonikbarta.com/bangladesh/FAftuFpDiFiCqxzr/</link>
-      <description><![CDATA[দূর থেকে দেখলে মনে হবে নদীতে ছুটে চলছে আধুনিক মডেলের একটি প্রাইভেট কার।]]></description>
-      <pubDate>Fri, 12 Sep 2025 21:18:52 GMT</pubDate>
-      <guid isPermaLink="false">719910757662fe66f10689621a7a4e0e</guid>
     </item>
   </channel>
 </rss>
