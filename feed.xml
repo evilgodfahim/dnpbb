@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 13 Sep 2025 10:39:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 11:16:27 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>মানিকগঞ্জে নদী থেকে অজ্ঞাত যুবকের মরদেহ উদ্ধার</title>
+      <link>https://bonikbarta.com/bangladesh/uKcMQSM3LbVqWiGu/</link>
+      <description><![CDATA[ঘটনাস্থলে পৌঁছে পুলিশ মরদেহটি উদ্ধার করে জেলা সদর হাসপাতালের মর্গে পাঠায়। মানিকগঞ্জ সদর থানার ভারপ্রাপ্ত কর্মকর্তা আমান উল্লাহ জানান, প্রাথমিকভাবে মরদেহের পরিচয় শনাক্ত করা সম্ভব হয়নি। পরিচয় নিশ্চিত করার চেষ্টা চলছে।]]></description>
+      <pubDate>Sat, 13 Sep 2025 10:53:50 GMT</pubDate>
+      <guid isPermaLink="false">f928623a97edc19ef43ec247a082dc56</guid>
+    </item>
     <item>
       <title>জাকসু নির্বাচন: আরেক নির্বাচন কমিশনারের পদত্যাগ</title>
       <link>https://bonikbarta.com/bangladesh/ukC0lbBdY0NwTTO6/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">5f7be2ccd46669505e7fa357ec438c4e</guid>
     </item>
     <item>
-      <title>কর্মশালা</title>
-      <link>https://bonikbarta.com/bangladesh/xd1f4q8oA0nHwEJc/</link>
-      <description><![CDATA[মুন্সিগঞ্জে নির্মাণ শ্রমিক ও পরিচ্ছন্নতা কর্মীদের সচেতনতা বৃদ্ধির লক্ষ্যে প্রশিক্ষণ কর্মশালা অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Fri, 12 Sep 2025 21:23:54 GMT</pubDate>
-      <guid isPermaLink="false">e3b97866f2e4cd7e498a23b476fe88bd</guid>
+      <title>স্পিডবোট ডুবে নিখোঁজ ৪</title>
+      <link>https://bonikbarta.com/bangladesh/8kFYluar8Jp8tqkB/</link>
+      <description><![CDATA[নেত্রকোনার খালিয়াজুরিতে ধনু নদে বাল্কহেড ও জেলে নৌকার সঙ্গে স্পিডবোটের সংঘর্ষে চারজন নিখোঁজ রয়েছেন।]]></description>
+      <pubDate>Fri, 12 Sep 2025 21:23:01 GMT</pubDate>
+      <guid isPermaLink="false">ad8b2cc5d5187644ebf55910885005fb</guid>
     </item>
     <item>
       <title>রাজবাড়ীর গোয়ালন্দ ঘাট থানার ওসিকে বদলি</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[কর্মীদের সুরক্ষায় গার্ডিয়ান লাইফ ইন্স্যুরেন্সের সঙ্গে একটি চুক্তি স্বাক্ষর করেছে ব্যাংক এশিয়া। এ উপলক্ষে সম্প্রতি ঢাকায় এক অনুষ্ঠানের আয়োজন করা হয়।]]></description>
       <pubDate>Fri, 12 Sep 2025 20:35:20 GMT</pubDate>
       <guid isPermaLink="false">f0a2a7ed390af94bab2f2669f8d917df</guid>
-    </item>
-    <item>
-      <title>বাংলাদেশের প্রথম ব্যাংক হিসেবে স্টারলিংক সেবা নিল ইবিএল</title>
-      <link>https://bonikbarta.com/economy/7rxNAkiK83Y4YJrO/</link>
-      <description><![CDATA[বাংলাদেশের প্রথম ব্যাংক হিসেবে স্টারলিংকের স্যাটেলাইট যোগাযোগ সেবা গ্রহণ করেছে ইস্টার্ন ব্যাংক পিএলসি (ইবিএল)।]]></description>
-      <pubDate>Fri, 12 Sep 2025 20:33:23 GMT</pubDate>
-      <guid isPermaLink="false">4b29a1178e7aae7a0a0e9a49b4f5446e</guid>
     </item>
   </channel>
 </rss>
