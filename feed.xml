@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 13 Sep 2025 01:42:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 02:51:30 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>গাইবান্ধায় বুড়িমারী এক্সপ্রেসের হুক ছিঁড়ে ইঞ্জিন থেকে বগি বিচ্ছিন্ন</title>
+      <link>https://bonikbarta.com/bangladesh/8xxzousQq5uqUf4V/</link>
+      <description><![CDATA[ঢাকা থেকে ছেড়ে আসা বুড়িমারী এক্সপ্রেস ট্রেনটি বামনডাঙ্গা স্টেশনে যাত্রা বিরতি দেয়। সেখান থেকে ট্রেন ছাড়ার সময় হঠাৎ ক-খ এবং ট-ঠ বগির সংযোগস্থলের হুক ছিঁড়ে যায়।]]></description>
+      <pubDate>Sat, 13 Sep 2025 02:42:25 GMT</pubDate>
+      <guid isPermaLink="false">c27afd358636e39559c126228222aff6</guid>
+    </item>
     <item>
       <title>শিক্ষার্থীদের ক্যারিয়ার গঠনে গাকৃবিতে সেমিনার</title>
       <link>https://bonikbarta.com/bangladesh/D9pGvmB0CNwTqJXx/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">f0a2a7ed390af94bab2f2669f8d917df</guid>
     </item>
     <item>
-      <title>বাংলাদেশের প্রথম ব্যাংক হিসেবে স্টারলিংক সেবা নিল ইবিএল</title>
-      <link>https://bonikbarta.com/economy/7rxNAkiK83Y4YJrO/</link>
-      <description><![CDATA[বাংলাদেশের প্রথম ব্যাংক হিসেবে স্টারলিংকের স্যাটেলাইট যোগাযোগ সেবা গ্রহণ করেছে ইস্টার্ন ব্যাংক পিএলসি (ইবিএল)।]]></description>
-      <pubDate>Fri, 12 Sep 2025 20:33:23 GMT</pubDate>
-      <guid isPermaLink="false">4b29a1178e7aae7a0a0e9a49b4f5446e</guid>
+      <title>মুরাদনগরে রিকশাচালককে আর্থিক সহায়তা দিল শাহ্জালাল ইসলামী ব্যাংক</title>
+      <link>https://bonikbarta.com/economy/Ml1VSrGN9ZdSofVr/</link>
+      <description><![CDATA[কুমিল্লার মুরাদনগর উপজেলার এক রিকশাচালককে তার স্ত্রী ও সন্তানের চিকিৎসার জন্য ৫ লাখ টাকার আর্থিক সহায়তা দিয়েছে শাহ্জালাল ইসলামী ব্যাংক পিএলসি।]]></description>
+      <pubDate>Fri, 12 Sep 2025 20:31:58 GMT</pubDate>
+      <guid isPermaLink="false">1bc4ea68be4eecf910c84f0b8f947319</guid>
     </item>
     <item>
       <title>আইএফআইসি ব্যাংকের ৪৮তম এজিএম অনুষ্ঠিত</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[প্রতিরক্ষা শক্তি বাড়াতে ‘ঘোস্ট শার্ক’ নামের পানির নিচে চলা স্বয়ংক্রিয় ড্রোন তৈরি করবে অস্ট্রেলিয়া।]]></description>
       <pubDate>Fri, 12 Sep 2025 20:22:12 GMT</pubDate>
       <guid isPermaLink="false">803921c02b760093d8d378c3e15307b3</guid>
-    </item>
-    <item>
-      <title>যুক্তরাজ্যে রেল চালকদের আয় বিচারক ও আইনজীবীদের চেয়েও বেশি</title>
-      <link>https://bonikbarta.com/economy/Nh0hIHKdWzCoq5Qq/</link>
-      <description><![CDATA[লন্ডনের টিউব ও ডিএলআর রেলের কর্মীরা কয়েক দিন ধরে ধর্মঘট পালন করছেন।]]></description>
-      <pubDate>Fri, 12 Sep 2025 20:22:12 GMT</pubDate>
-      <guid isPermaLink="false">339e0a0cde35183dcb1cfaedf5d0968e</guid>
     </item>
   </channel>
 </rss>
