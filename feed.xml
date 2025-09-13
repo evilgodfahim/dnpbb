@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 13 Sep 2025 04:41:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 05:20:27 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>রাশিয়ার কামচাটকায় ৭.৪ মাত্রার ভূমিকম্প, সুনামি সতর্কতা প্রত্যাহার</title>
+      <link>https://bonikbarta.com/international/OEGaIH0TxFZ12y4T/</link>
+      <description><![CDATA[ভূমিকম্পের পরপরই প্রশান্ত মহাসাগরীয় সুনামি সতর্কতা কেন্দ্র পিটিডব্লিউসি প্রাথমিকভাবে কাছাকাছি কিছু রুশ উপকূলে এক মিটার (৩ দশমিক ৩ ফুট) পর্যন্ত ‘বিপজ্জনক’ ঢেউয়ের আশঙ্কার কথা জানায়। তবে পরে তারা জানায়, সুনামির হুমকি কেটে গেছে।]]></description>
+      <pubDate>Sat, 13 Sep 2025 05:08:47 GMT</pubDate>
+      <guid isPermaLink="false">16417305c53997a90acc879736a307a2</guid>
+    </item>
     <item>
       <title>দুর্নীতি রুখতে এআই বট ‘মন্ত্রী’ নিয়োগ আলবেনিয়ায়, বিশ্বে প্রথম</title>
       <link>https://bonikbarta.com/international/wPIZcKGcRqGY75M8/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">6aafac1f1e1b28ca1122d3fab33c0918</guid>
     </item>
     <item>
-      <title>ইউনিভার্সেল মেডিকেলের উদ্যোগে লুমিনের মিউজিক্যাল ফিল্মের প্রিমিয়ার</title>
-      <link>https://bonikbarta.com/economy/A10cnWOfXcpuHmXg/</link>
-      <description><![CDATA[ইউনিভার্সেল মেডিকেল কলেজ হাসপাতালের (ইউএমসিএইচ) উদ্যোগে সংগীতশিল্পী লুমিনের মিউজিক্যাল ফিল্ম ‘ফিরে এসো’র গ্র্যান্ড প্রিমিয়ার অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Fri, 12 Sep 2025 20:40:00 GMT</pubDate>
-      <guid isPermaLink="false">3981186db5fe73b5cf6eed6998a095c5</guid>
+      <title>রূপালী ব্যাংকের উদ্যোগে ঢাকায় আর্থিক সাক্ষরতা কর্মসূচি</title>
+      <link>https://bonikbarta.com/economy/5OC8jp1DMR1X20kS/</link>
+      <description><![CDATA[নতুন বাংলাদেশ গড়ার লক্ষ্যে রূপালী ব্যাংক পিএলসি সব শাখায় ১-১৫ সেপ্টেম্বর পর্যন্ত গ্রাহকসেবা পক্ষ পালন করা হচ্ছে।]]></description>
+      <pubDate>Fri, 12 Sep 2025 20:38:01 GMT</pubDate>
+      <guid isPermaLink="false">7246a5a7ef2bbfae66a76d21a2c0bcfa</guid>
     </item>
     <item>
       <title>আনসার-ভিডিপি সদস্যদের স্বাস্থ্যসেবা দেবে ল্যাবএইড</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[গত সপ্তাহে বীমা খাতে তালিকাভুক্ত চার কোম্পানি সর্বশেষ ৩১ ডিসেম্বর সমাপ্ত ২০২৪ হিসাব বছরে ঘোষিত লভ্যাংশ বিনিয়োগকারীদের কাছে পাঠিয়েছে।]]></description>
       <pubDate>Fri, 12 Sep 2025 20:22:12 GMT</pubDate>
       <guid isPermaLink="false">a14e5844fcea6b5d1bdf00abc0d0ff6b</guid>
-    </item>
-    <item>
-      <title>চলতি সপ্তাহে চার কোম্পানির এজিএম</title>
-      <link>https://bonikbarta.com/economy/pTe0OtdFBMo9q0Oi/</link>
-      <description><![CDATA[পুঁজিবাজারে তালিকাভুক্ত চার কোম্পানির বার্ষিক সাধারণ সভা (এজিএম) চলতি সপ্তাহে অনুষ্ঠিত হবে।]]></description>
-      <pubDate>Fri, 12 Sep 2025 20:22:12 GMT</pubDate>
-      <guid isPermaLink="false">f9223dfa31b8ca74def8f95aa557c154</guid>
     </item>
   </channel>
 </rss>
