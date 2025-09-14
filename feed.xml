@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 14 Sep 2025 05:21:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 05:40:01 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>লন্ডনজুড়ে অভিবাসন-বিরোধী বিক্ষোভে লক্ষাধিক মানুষ, পুলিশের সঙ্গে সংঘর্ষে আহত অনেকে</title>
+      <link>https://bonikbarta.com/international/YNcuak7dxZzIizCf/</link>
+      <description><![CDATA[অভিবাসন-বিরোধী কর্মী টমি রবিনসনের ডাকে আয়োজিত ‘ইউনাইট দ্য কিংডম’ নামের এই মিছিলে প্রায় ১ লাখ ১০ হাজার মানুষ যোগ দিয়েছিল।]]></description>
+      <pubDate>Sun, 14 Sep 2025 05:21:39 GMT</pubDate>
+      <guid isPermaLink="false">07c8671099daaefc69ac538d6cb9da5d</guid>
+    </item>
     <item>
       <title>লন্ডনে উপদেষ্টা মাহফুজ আলমের ওপর হামলার চেষ্টায় সরকারের নিন্দা</title>
       <link>https://bonikbarta.com/bangladesh/xw8UPx2wsout0zzI/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">2d0e29912a725c7fb30723882ee1caf9</guid>
     </item>
     <item>
-      <title>লাতিন মহাদেশের ছয় দল চূড়ান্ত, আশায় বলিভিয়া</title>
-      <link>https://bonikbarta.com/sports/JqhknXVw1opHBfi4/</link>
-      <description><![CDATA[যুক্তরাষ্ট্র, কানাডা ও মেক্সিকোয় অনুষ্ঠিত হবে ফিফা বিশ্বকাপ ২০২৬। এ আসরে অংশ নেবে রেকর্ড ৪৮টি দল।]]></description>
-      <pubDate>Sat, 13 Sep 2025 21:02:48 GMT</pubDate>
-      <guid isPermaLink="false">9ce649db4d92cebb97f5e93090f31d52</guid>
+      <title>বিদেশী নির্ভরতা ও প্রযুক্তিগত অদক্ষতার দোহাই থেকে বের হতে হবে</title>
+      <link>https://bonikbarta.com/editorial/ftd8aAxiHWGL8dOg/</link>
+      <description><![CDATA[জ্বালানি দেশের অর্থনীতির প্রাণশক্তি। শিল্প, কৃষি, পরিবহন থেকে শুরু করে বিদ্যুৎ উৎপাদন ও দৈনন্দিন জীবনযাত্রার প্রতিটি ক্ষেত্রে জ্বালানি অপরিহার্য। পর্যাপ্ত ও সাশ্রয়ী জ্বালানি ছাড়া শিল্পায়ন ও উৎপাদন প্রক্রিয়া ব্যাহত হয়।]]></description>
+      <pubDate>Sat, 13 Sep 2025 21:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2840c6cc84c68f248fcee97ec02e2ac1</guid>
     </item>
     <item>
       <title>দেশ পরিবর্তন করতে চাইলে আগে শিক্ষা ব্যবস্থার পরিবর্তন করতে হবে</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[রাষ্ট্রায়ত্ত সোনালী ব্যাংকের একটি অঙ্গপ্রতিষ্ঠান (সাবসিডিয়ারি) যুক্তরাষ্ট্রভিত্তিক সোনালী এক্সচেঞ্জ কোম্পানি ইনকরপোরেটেড (এসইসিআই)। যুক্তরাষ্ট্রের বিভিন্ন শহরে নয়টি শাখা ও বুথ রয়েছে প্রতিষ্ঠানটির।]]></description>
       <pubDate>Sat, 13 Sep 2025 20:36:01 GMT</pubDate>
       <guid isPermaLink="false">b9e14fe68a45cd2409514525fa87ca1c</guid>
-    </item>
-    <item>
-      <title>লোকেশের সঙ্গে কাজ করবেন না আমির খান</title>
-      <link>https://bonikbarta.com/talkies/lJsje8jvDYgfwG73/</link>
-      <description><![CDATA[লোকেশ কনগরাজের কুলিতে ক্যামিও করেন আমির খান। এরপর তাদের একটি পূর্ণদৈর্ঘ্য সিনেমাও করার কথা।]]></description>
-      <pubDate>Sat, 13 Sep 2025 20:35:10 GMT</pubDate>
-      <guid isPermaLink="false">9fb2f6f3a6e9d5f06cf2018eb692cdc3</guid>
     </item>
   </channel>
 </rss>
