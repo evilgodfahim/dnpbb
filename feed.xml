@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 14 Sep 2025 07:38:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 08:26:57 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>উপসাগরীয় অঞ্চলের নিরাপত্তায় ফাটল: ইসরায়েলের বিরুদ্ধে ঐক্যবদ্ধ হচ্ছে আরব রাষ্ট্রগুলো</title>
+      <link>https://bonikbarta.com/international/6zJBMA4ZY0aEqouy/</link>
+      <description><![CDATA[কাতার ঘোষণা করেছে, ইসরায়েলের হামলার জবাবে প্রতিশোধ নয়, বরং ‘সমষ্টিগত প্রতিক্রিয়া’ দেখানো হবে। তবে সে সিদ্ধান্ত এখনো আলোচনায় রয়েছে।]]></description>
+      <pubDate>Sun, 14 Sep 2025 08:26:10 GMT</pubDate>
+      <guid isPermaLink="false">5dea6a441005e8f32a58919f01856ccb</guid>
+    </item>
     <item>
       <title>জেনারেল উইনফিল্ড স্কটের মেক্সিকো বিজয়</title>
       <link>https://bonikbarta.com/feature/JQxQpMr3TUrphBpQ/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">8e25249ba7b10fbf1947a99aeee9917f</guid>
     </item>
     <item>
-      <title>রাকসু নির্বাচনে আজ থেকে প্রচারণা চালাতে পারবেন প্রার্থীরা</title>
-      <link>https://bonikbarta.com/bangladesh/RKvmrkOKpUApObbp/</link>
-      <description><![CDATA[রাজশাহী বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্র সংসদ (রাকসু) নির্বাচনে মনোনয়নপত্র প্রত্যাহারের শেষ দিন ছিল গতকাল।]]></description>
-      <pubDate>Sat, 13 Sep 2025 21:22:37 GMT</pubDate>
-      <guid isPermaLink="false">1585080e7035a16968ff5756fecb3770</guid>
+      <title>ফরিদপুরে ফের সড়ক ও রেলপথ অবরোধের ঘোষণা</title>
+      <link>https://bonikbarta.com/bangladesh/vWlX9gA3T7YXT363/</link>
+      <description><![CDATA[সংসদীয় আসনের সীমানা পুনর্বহালের দাবিতে ফরিদপুরে আবারো মহাসড়ক ও রেলপথ অবরোধের ঘোষণা দিয়েছে সর্বদলীয় ঐক্য পরিষদ।]]></description>
+      <pubDate>Sat, 13 Sep 2025 21:20:35 GMT</pubDate>
+      <guid isPermaLink="false">2a6cbe335da0277f6b4982c72a827912</guid>
     </item>
     <item>
       <title>পার্বত্য চট্টগ্রামের ভূমি সমস্যা আলোচনার মাধ্যমেই সমাধান সম্ভব —পার্বত্য উপদেষ্টা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[অপরিকল্পিত অবকাঠামো, নদ-নদীর পানিপ্রবাহে বাধা এবং খাল শুকিয়ে যাওয়ার কারণে মারাত্মক বিপর্যয় নেমে এসেছে হাওরের কৃষি ও জীববৈচিত্র্যে। বিপর্যয় ঠেকাতে ২৫ বছর মেয়াদে নতুন করে মহাপরিকল্পনা নিয়েছে অন্তর্বর্তী সরকার।]]></description>
       <pubDate>Sat, 13 Sep 2025 20:41:01 GMT</pubDate>
       <guid isPermaLink="false">eec10482b3ae5e8e2925db891f99e315</guid>
-    </item>
-    <item>
-      <title>যাত্রীপ্রতি ট্রেনের ভাড়া বাড়বে ২২৬ টাকা পর্যন্ত</title>
-      <link>https://bonikbarta.com/bangladesh/cngy3hQGkAdIMjhG/</link>
-      <description><![CDATA[নতুন নির্মিত সেতুগুলোতে ‘এক্সট্রা ডিস্ট্যান্স অব পন্টেজ চার্জ’ আরোপ করে বিনিয়োগের অর্থ ফেরত নেয়া শুরু করেছে রেলওয়ে। কিন্তু এবার দীর্ঘদিনের পুরনো সেতু, কালভার্টেও পন্টেজ চার্জ আরোপের সিদ্ধান্ত নিয়েছে সংস্থাটি।]]></description>
-      <pubDate>Sat, 13 Sep 2025 20:39:27 GMT</pubDate>
-      <guid isPermaLink="false">16091076fb1f6b3496e44370e7d40570</guid>
     </item>
   </channel>
 </rss>
