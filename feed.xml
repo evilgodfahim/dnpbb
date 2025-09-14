@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 14 Sep 2025 04:42:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 05:21:06 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>লন্ডনে উপদেষ্টা মাহফুজ আলমের ওপর হামলার চেষ্টায় সরকারের নিন্দা</title>
+      <link>https://bonikbarta.com/bangladesh/xw8UPx2wsout0zzI/</link>
+      <description><![CDATA[নিউ ইয়র্কের ঘটনার পর আমরা যে নীতিতে জোর দিয়েছিলাম এবারও তা পুনর্ব্যক্ত করছি: বাকস্বাধীনতা, সমাবেশ এবং শান্তিপূর্ণ প্রতিবাদ গণতন্ত্রের ভিত্তি, তবে তা অবশ্যই দায়িত্ব ও শ্রদ্ধার সঙ্গে প্রয়োগ করতে হবে।]]></description>
+      <pubDate>Sun, 14 Sep 2025 04:45:22 GMT</pubDate>
+      <guid isPermaLink="false">ebf0137e52aba79f6d871ba3472c55fb</guid>
+    </item>
     <item>
       <title>৮০০ বছরের নীরবতা ভেঙে বেজে উঠল বিশ্বের প্রাচীনতম পাইপ অর্গান</title>
       <link>https://bonikbarta.com/international/ekVnYfHA4rHimzDM/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">9ce649db4d92cebb97f5e93090f31d52</guid>
     </item>
     <item>
-      <title>বিদেশী নির্ভরতা ও প্রযুক্তিগত অদক্ষতার দোহাই থেকে বের হতে হবে</title>
-      <link>https://bonikbarta.com/editorial/ftd8aAxiHWGL8dOg/</link>
-      <description><![CDATA[জ্বালানি দেশের অর্থনীতির প্রাণশক্তি। শিল্প, কৃষি, পরিবহন থেকে শুরু করে বিদ্যুৎ উৎপাদন ও দৈনন্দিন জীবনযাত্রার প্রতিটি ক্ষেত্রে জ্বালানি অপরিহার্য। পর্যাপ্ত ও সাশ্রয়ী জ্বালানি ছাড়া শিল্পায়ন ও উৎপাদন প্রক্রিয়া ব্যাহত হয়।]]></description>
+      <title>দেশ পরিবর্তন করতে চাইলে আগে শিক্ষা ব্যবস্থার পরিবর্তন করতে হবে</title>
+      <link>https://bonikbarta.com/editorial/XEcWJw49lgZOmbn0/</link>
+      <description><![CDATA[একটা উন্নত জাতি গঠনে অবদান রাখে সে দেশের নানা শ্রেণী-পেশার মানুষ। যখন কোনো দেশের সব পেশার অধিকাংশ মানুষ দক্ষতা, আন্তরিকতা ও সততার সঙ্গে তাদের দায়িত্ব পালন করে, তখন সেই দেশ অবধারিতভাবে এগিয়ে যায়, উন্নত হয়।]]></description>
       <pubDate>Sat, 13 Sep 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="false">2840c6cc84c68f248fcee97ec02e2ac1</guid>
+      <guid isPermaLink="false">2dd2dc0aad616ad8cdfbe914c3d5c2b0</guid>
     </item>
     <item>
       <title>ফিটনেস প্রমাণ করেই বিশ্বকাপ খেলতে হবে নেইমারকে</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[লোকেশ কনগরাজের কুলিতে ক্যামিও করেন আমির খান। এরপর তাদের একটি পূর্ণদৈর্ঘ্য সিনেমাও করার কথা।]]></description>
       <pubDate>Sat, 13 Sep 2025 20:35:10 GMT</pubDate>
       <guid isPermaLink="false">9fb2f6f3a6e9d5f06cf2018eb692cdc3</guid>
-    </item>
-    <item>
-      <title>পূজায় আসছে সজলের ‘ব্যাচেলর ইন ট্রিপ’</title>
-      <link>https://bonikbarta.com/talkies/IvYbR5CjSQJM59m5/</link>
-      <description><![CDATA[পূজায় মুক্তি পাচ্ছে গোয়েন্দা ও ট্রাভেল গল্পের মিশ্রণে তৈরি চলচ্চিত্র ব্যাচেলর ইন ট্রিপ। সিনেমাটি পরিচালনা করেছেন পরিচিত পরিচালক নাসিম সাহনিক।]]></description>
-      <pubDate>Sat, 13 Sep 2025 20:35:10 GMT</pubDate>
-      <guid isPermaLink="false">d3088656de8941ca377ba1f113a4c162</guid>
     </item>
   </channel>
 </rss>
