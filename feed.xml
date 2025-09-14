@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 14 Sep 2025 11:16:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 11:38:23 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>সারা দেশে ভূমিকম্প অনুভূত</title>
+      <link>https://bonikbarta.com/bangladesh/SYWqA6xruOyc5OO3/</link>
+      <description><![CDATA[রোববার বিকালে এ ভূমিকম্প অনুভূত হয়।]]></description>
+      <pubDate>Sun, 14 Sep 2025 11:16:00 GMT</pubDate>
+      <guid isPermaLink="false">c74215fe79fe3d3d51209ed4763b168c</guid>
+    </item>
     <item>
       <title>ব্রাহ্মণবাড়িয়ায় সড়ক দুর্ঘটনায় মোটরসাইকেল আরোহী নিহত</title>
       <link>https://bonikbarta.com/bangladesh/rN25Of5iKPXJQDyc/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">949146dbf5cd6544417c0a22ddf8e255</guid>
     </item>
     <item>
-      <title>জরিমানা</title>
-      <link>https://bonikbarta.com/bangladesh/PSVt1NgiXQr8JHr6/</link>
-      <description><![CDATA[মানিকগঞ্জে ঢাকা-আরিচা মহাসড়কে শব্দদূষণের দায়ে চারটি যানকে ১০ হাজার টাকা জরিমানা করেছে পরিবেশ অধিদপ্তর।]]></description>
-      <pubDate>Sat, 13 Sep 2025 21:45:08 GMT</pubDate>
-      <guid isPermaLink="false">8b64e6f2721a3f491df95c227391a67c</guid>
+      <title>স্বেচ্ছায় রক্তদান</title>
+      <link>https://bonikbarta.com/bangladesh/gbtPlzlonYN8ra5P/</link>
+      <description><![CDATA[নারায়ণগঞ্জে স্বেচ্ছায় রক্তদান কর্মসূচি আয়োজন করা হয়েছে। গতকাল জেলা প্রশাসক মোহাম্মদ জাহিদুল ইসলাম মিঞা এ কর্মসূচি উদ্বোধন করেন।]]></description>
+      <pubDate>Sat, 13 Sep 2025 21:44:20 GMT</pubDate>
+      <guid isPermaLink="false">3a11e7e7d629effe1e568cc42b9f96dc</guid>
     </item>
     <item>
       <title>আমদানি কমছে প্রধান ভোগ্যপণ্যের</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[যুক্তরাষ্ট্র, কানাডা ও মেক্সিকোয় অনুষ্ঠিত হবে ফিফা বিশ্বকাপ ২০২৬। এ আসরে অংশ নেবে রেকর্ড ৪৮টি দল।]]></description>
       <pubDate>Sat, 13 Sep 2025 21:02:48 GMT</pubDate>
       <guid isPermaLink="false">9ce649db4d92cebb97f5e93090f31d52</guid>
-    </item>
-    <item>
-      <title>বিদেশী নির্ভরতা ও প্রযুক্তিগত অদক্ষতার দোহাই থেকে বের হতে হবে</title>
-      <link>https://bonikbarta.com/editorial/ftd8aAxiHWGL8dOg/</link>
-      <description><![CDATA[জ্বালানি দেশের অর্থনীতির প্রাণশক্তি। শিল্প, কৃষি, পরিবহন থেকে শুরু করে বিদ্যুৎ উৎপাদন ও দৈনন্দিন জীবনযাত্রার প্রতিটি ক্ষেত্রে জ্বালানি অপরিহার্য। পর্যাপ্ত ও সাশ্রয়ী জ্বালানি ছাড়া শিল্পায়ন ও উৎপাদন প্রক্রিয়া ব্যাহত হয়।]]></description>
-      <pubDate>Sat, 13 Sep 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="false">2840c6cc84c68f248fcee97ec02e2ac1</guid>
     </item>
   </channel>
 </rss>
