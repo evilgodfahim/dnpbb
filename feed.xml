@@ -6,7 +6,7 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 15 Sep 2025 20:25:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 20:41:08 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <item>
       <title>বাংলাদেশকে প্রিমিয়াম মৎস্য ও মৎস্যপণ্যের সরবরাহকারী হিসেবে প্রতিষ্ঠিত করতে চাইলে</title>
@@ -63,6 +63,13 @@
       <description><![CDATA[কভিড মহামারী থেকে শুরু করে ইউক্রেন-রাশিয়া যুদ্ধ এবং সবশেষ চব্বিশের গণ-অভ্যুত্থানের পূর্বাপর নানা রাজনৈতিক অস্থিরতায় দেশের অর্থনীতি কয়েক বছর ধরেই টালমাটাল।]]></description>
       <pubDate>Mon, 15 Sep 2025 21:00:00 GMT</pubDate>
       <guid isPermaLink="false">0439b4976a85c836ae20e908a2b92834</guid>
+    </item>
+    <item>
+      <title>১৩ বিভাগে পুরস্কার পেয়েছে ‘দ্য স্টুডিও’</title>
+      <link>https://bonikbarta.com/talkies/xM9sKqY3xDB5NuvU/</link>
+      <description><![CDATA[পুরস্কার মৌসুমে দর্শকের নজর থাকে এমির দিকে। গতকাল হয়ে গেল এমির ৭৭তম আসর।]]></description>
+      <pubDate>Mon, 15 Sep 2025 20:35:48 GMT</pubDate>
+      <guid isPermaLink="false">f59b05b0faac900db2e3500589e0b7cf</guid>
     </item>
     <item>
       <title>ইউআইইউ শিক্ষার্থীদের মাইক্রোসফটের বাংলাদেশ অফিস পরিদর্শন</title>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">3040670b86777707cac69dc02a271d17</guid>
     </item>
     <item>
-      <title>উড়োজাহাজ রক্ষণাবেক্ষণ সক্ষমতা দ্বিগুণ করতে যাচ্ছে মালয়েশিয়ার এডিই</title>
-      <link>https://bonikbarta.com/economy/1jEPpdnBm1VmCPGY/</link>
-      <description><![CDATA[দক্ষিণ-পূর্ব এশিয়ার আকাশপথে গ্রাহক চাহিদা বাড়ছে। এতে সাড়া দিয়ে বিভিন্ন রুটে বাড়ছে উড়োজাহাজ পরিষেবা, যাতে প্রভাবিত হচ্ছে রক্ষণাবেক্ষণের চাহিদাও।]]></description>
+      <title>জাপানের লজিস্টিক খাতে কর্মী সংকট নিরসনে সক্ষম রোবট?</title>
+      <link>https://bonikbarta.com/economy/VGpalnnsdBzQImYz/</link>
+      <description><![CDATA[কম জন্মহার ও বয়স্ক জনসংখ্যা বৃদ্ধির কারণে জাপানের লজিস্টিক খাত হয়ে উঠেছে রোবোটিকসের সর্বশেষ আবিষ্কারের পরীক্ষা ক্ষেত্র।]]></description>
       <pubDate>Mon, 15 Sep 2025 20:11:18 GMT</pubDate>
-      <guid isPermaLink="false">15d5c5f8f236922bbc7cc0eebdf2e545</guid>
+      <guid isPermaLink="false">50f6de3189fd26ecbb74ff4636e411fc</guid>
     </item>
     <item>
       <title>বৈশ্বিক শিপিং খাতে বিপত্তি বাড়াচ্ছে হ্যাকিং ও সাইবার অপরাধ</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[নতুন পরিবেশক নিয়োগের মাধ্যমে বাংলাদেশে টয়োটার নতুন অধ্যায় শুরু হয়েছে।]]></description>
       <pubDate>Mon, 15 Sep 2025 20:10:26 GMT</pubDate>
       <guid isPermaLink="false">b5d4350e8206a0fa9567169b4a68bd59</guid>
-    </item>
-    <item>
-      <title>আড়াই লাখ টাকার কৃষি ঋণে সিআইবি চার্জ মওকুফ</title>
-      <link>https://bonikbarta.com/economy/OEwHUgRnQVjXgqSo/</link>
-      <description><![CDATA[এখন থেকে কৃষি ও পল্লী ঋণের ক্ষেত্রে আড়াই লাখ টাকা পর্যন্ত কোনো ধরনের ক্রেডিট ইনফরমেশন ব্যুরো (সিআইবি) চার্জ নিতে পারবে না ব্যাংকগুলো।]]></description>
-      <pubDate>Mon, 15 Sep 2025 20:08:21 GMT</pubDate>
-      <guid isPermaLink="false">37e0e2cdea2549d524d0de2ae682864c</guid>
     </item>
   </channel>
 </rss>
