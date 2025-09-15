@@ -6,14 +6,21 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 15 Sep 2025 07:24:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 07:41:25 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <item>
-      <title>হিটলারের বাসভবনে চেম্বারলেইন ও হিটলারের ঐতিহাসিক বৈঠক</title>
+      <title>অবৈধ গ্যাস সংযোগ বিচ্ছিন্নকরণে নারায়ণগঞ্জ ও কেরানীগঞ্জে তিতাসের অভিযান</title>
+      <link>https://bonikbarta.com/bangladesh/aeietD7F0sqB4FG7/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Mon, 15 Sep 2025 07:24:40 GMT</pubDate>
+      <guid isPermaLink="false">765dd1c5d688caa7b2b0b8770875058d</guid>
+    </item>
+    <item>
+      <title>সোমের যুদ্ধে প্রথমবারের মতো ট্যাংক ব্যবহার</title>
       <link>https://bonikbarta.com/feature/UKLlR7sdm6nkcqTg/</link>
       <description><![CDATA[No description available]]></description>
-      <pubDate>Mon, 15 Sep 2025 07:24:19 GMT</pubDate>
-      <guid isPermaLink="false">a86c031ed2002524c88b46904fbe8581</guid>
+      <pubDate>Mon, 15 Sep 2025 07:24:00 GMT</pubDate>
+      <guid isPermaLink="false">18d15fc9bf7727a21990b8a33c465f2b</guid>
     </item>
     <item>
       <title>নেপালের রাজনীতিতে নতুন মোড়: তরুণ আন্দোলনকারীদের হাতে সরকার গড়ার ভার</title>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">5de9c46b1658aa462db463770042a3f1</guid>
     </item>
     <item>
-      <title>ভারি বর্ষণের পূর্বাভাসে উত্তরাঞ্চলে বন্যার আশঙ্কা</title>
-      <link>https://bonikbarta.com/bangladesh/WppxnjZyUvTBIYcc/</link>
-      <description><![CDATA[উজানে ভারি থেকে অতি ভারি বৃষ্টিপাতের কারণে উত্তরাঞ্চলের নদ-নদীর পানি বাড়তে শুরু করেছে।]]></description>
-      <pubDate>Sun, 14 Sep 2025 21:36:53 GMT</pubDate>
-      <guid isPermaLink="false">19cdcd3c66c0f4244e2010f5988f0151</guid>
+      <title>ফলের সার্বিক উৎপাদন বাড়লেও কমেছে আম, কাঁঠাল ও নারকেলের</title>
+      <link>https://bonikbarta.com/bangladesh/mvXXlnUOTsPNWp5K/</link>
+      <description><![CDATA[এক দশক আগে চট্টগ্রাম কৃষি অঞ্চলের পাঁচ জেলায় নারকেল উৎপাদন হয় ১ লাখ ৬৫ হাজার ৪৪৭ টন।]]></description>
+      <pubDate>Sun, 14 Sep 2025 21:33:59 GMT</pubDate>
+      <guid isPermaLink="false">355a36175cb1df85f439d4600e63ec8c</guid>
     </item>
     <item>
       <title>এগিয়ে এল কার্তিকের সিনেমা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[ইউরোপভিত্তিক ইউরোক্লিয়ার ও ক্লিয়ারস্ট্রিমের বিকল্প ক্লিয়ারিং হাউজ প্রতিষ্ঠায় কাজ করছে রাশিয়া ও চীন।]]></description>
       <pubDate>Sun, 14 Sep 2025 20:39:40 GMT</pubDate>
       <guid isPermaLink="false">274d4b04b08af08db94bf51633e4128b</guid>
-    </item>
-    <item>
-      <title>চূড়ান্ত পর্বের উটের মূল্য প্রায় ৭ কোটি ডলার</title>
-      <link>https://bonikbarta.com/economy/oWgisDoIGW0XO64e/</link>
-      <description><![CDATA[সৌদি আরবে সম্প্রতি পর্দা নেমেছে ‘ক্রাউন প্রিন্স ক্যামেল ফেস্টিভ্যাল’-এর সপ্তম আয়োজনের।]]></description>
-      <pubDate>Sun, 14 Sep 2025 20:39:40 GMT</pubDate>
-      <guid isPermaLink="false">34da91b911723113ec58d4eb46bb4e84</guid>
     </item>
   </channel>
 </rss>
