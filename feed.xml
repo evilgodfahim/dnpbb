@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 15 Sep 2025 17:40:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 18:33:47 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ডাকসুর ভোট পুনরায় হাতে গণনার অনুরোধ উমামা ফাতেমার</title>
+      <link>https://bonikbarta.com/bangladesh/yW2fzTOniFKw61MI/</link>
+      <description><![CDATA[শিক্ষার্থীদের কাছে ভোটারদের তালিকার কপি এবং সিসিটিভি ফুটেজ  উন্মুক্ত করার দাবিও জানিয়েছেন তিনি।]]></description>
+      <pubDate>Mon, 15 Sep 2025 17:53:06 GMT</pubDate>
+      <guid isPermaLink="false">6036bba2749cb085d1249c796641c628</guid>
+    </item>
     <item>
       <title>চট্টগ্রাম বন্দরে নতুন মাশুল কার্যকর, গড়ে খরচ বাড়ল ৪১ শতাংশ</title>
       <link>https://bonikbarta.com/economy/bWoKNXIpghBiTYXU/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">8c0ebc70e465f0cd3f288dfb880d7dce</guid>
     </item>
     <item>
-      <title>রাকসুতে কে হারবে-জিতবে, কাদের কী মতাদর্শ সেটি আমাদের দেখার বিষয় নয়: রাবি উপাচার্য</title>
-      <link>https://bonikbarta.com/bangladesh/GXU87d8JAXgK9PBd/</link>
-      <description><![CDATA[No description available]]></description>
-      <pubDate>Mon, 15 Sep 2025 11:54:51 GMT</pubDate>
-      <guid isPermaLink="false">00128e186f5268053a7152b7f40fa181</guid>
+      <title>সোনালী লাইফ ইন্স্যুরেন্স এবং মিলভিক বাংলাদেশের মধ্যে চুক্তি সই</title>
+      <link>https://bonikbarta.com/economy/oQJpD3e0ie5noUmY/</link>
+      <description><![CDATA[এ চুক্তির আওতায় সোনালী লাইফের গ্রাহক ও কর্মকর্তা-কর্মচারীগণ মিলভিক বাংলাদেশ এর টেলিমেডিসিন সেবা গ্রহন করতে পারবে এবং মিলভিক বাংলাদেশ, সোনালী লাইফ ইন্স্যুরেন্স এর পরিকল্পনা সমূহ মিলভিকের ডিজিটাল প্ল্যাটফর্মের মাধ্যমে দ্রুত ও সহজলভ্য উপায়ে তার গ্রাহকদের কাছে পৌঁছে দিবে।]]></description>
+      <pubDate>Mon, 15 Sep 2025 11:30:37 GMT</pubDate>
+      <guid isPermaLink="false">92a252179185b946dfd7d7791c7bbf8c</guid>
     </item>
     <item>
       <title>শিগগির আসছে ‘বিয়ে যখন এক্সপেরিমেন্ট’</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[নির্বাচন কমিশনের গেজেটে ফরিদপুরের দুটি সংসদীয় আসনের সীমানা পরিবর্তন করা হয়। এর মধ্যে ফরিদপুর-৪ আসনের (ভাঙ্গা-সদরপুর-চরভদ্রাসন) ভাঙ্গা থেকে আলগী ও হামিরদী ইউনিয়ন বাদ দিয়ে ফরিদপুর-২ আসনের (নগরকান্দা ও সালথা) সঙ্গে যুক্ত করা হয়েছে। এ সিদ্ধান্তের পর থেকেই বিভিন্ন সময় সড়ক ও রেলপথ অবরোধ করে আসছে স্থানীয় জনতা।]]></description>
       <pubDate>Mon, 15 Sep 2025 08:56:16 GMT</pubDate>
       <guid isPermaLink="false">73809b8457810b43435ce5b58083986b</guid>
-    </item>
-    <item>
-      <title>‘বাজারে মূল্যস্ফীতির হিসাবের সঙ্গে পরিসংখ্যানের পার্থক্য  নিরসনের নির্দেশ হয়েছে’</title>
-      <link>https://bonikbarta.com/bangladesh/7TJV5h5DoDf7SC6v/</link>
-      <description><![CDATA[তিনি বলেন, কোন পণ্যের মূল্য কত, কোন বাজার থেকে তথ্য সংগ্রহ করা হয়েছে এবং কীভাবে মূল্যস্ফীতি পরিমাপ করা হয়— তথ্য উপস্থাপনায় যেন তার পূর্ণ স্বচ্ছতা থাকে।]]></description>
-      <pubDate>Mon, 15 Sep 2025 08:10:00 GMT</pubDate>
-      <guid isPermaLink="false">6507054c9f43b52d109ecc8016c12134</guid>
     </item>
   </channel>
 </rss>
