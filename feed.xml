@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 16 Sep 2025 19:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 19:39:16 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>সুপার ফোরের আশা বাঁচিয়ে রাখল বাংলাদেশ</title>
+      <link>https://bonikbarta.com/sports/saRFdVg4Fb0xjRSK/</link>
+      <description><![CDATA[আগে ব্যাটিং করে ৫ উইকেটে ১৫৪ রান তোলে বাংলাদেশ। জবাবে আফগানরা ১৪৬ রানে অলআউট।]]></description>
+      <pubDate>Tue, 16 Sep 2025 19:28:29 GMT</pubDate>
+      <guid isPermaLink="false">0a4ab2df1736ac4b675a4dc1ec4d68b7</guid>
+    </item>
     <item>
       <title>ফেব্রুয়ারিতে নির্বাচন, এরপর আগের কাজে ফিরে যাব: প্রধান উপদেষ্টা</title>
       <link>https://bonikbarta.com/bangladesh/zWCllfo8YwPzg1dL/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">54374dfbd5b6776b7a0ee6af091661c1</guid>
     </item>
     <item>
-      <title>ঢাবি শিক্ষার্থী নাফিস খন্দকারের মৃত্যু</title>
-      <link>https://bonikbarta.com/bangladesh/OAHs5A5Hb1RAUzaN/</link>
-      <description><![CDATA[No description available]]></description>
-      <pubDate>Tue, 16 Sep 2025 12:01:53 GMT</pubDate>
-      <guid isPermaLink="false">253a8335f15b90bf544aa67523d2ed5f</guid>
+      <title>ওপেনএআইতে যোগ দিলেন এক্সএআইয়ের সাবেক সিএফও মাইক লিবারাটোর</title>
+      <link>https://bonikbarta.com/scitech/XMhNQWfikDRQvQqJ/</link>
+      <description><![CDATA[কৃত্রিম বুদ্ধিমত্তা (এআই) প্রতিষ্ঠান ওপেনএআই নতুন বিজনেস ফাইন্যান্সিয়াল অফিসার (বিএফও) হিসেবে নিয়োগ দিয়েছে মাইক লিবারাটোরকে। তিনি ইলন মাস্কের এআই প্রতিষ্ঠান এক্সএআইয়ের সাবেক চিফ ফাইন্যান্সিয়াল অফিসার (সিএফও) ছিলেন। মঙ্গলবার (১৬ সেপ্টেম্বর) ওপেন এআই রয়টার্সকে জানায়, লিবারাটোর সংস্থার এআই অবকাঠামো ও আর্থিক পরিকল্পনা তদারকি করবেন।]]></description>
+      <pubDate>Tue, 16 Sep 2025 11:59:29 GMT</pubDate>
+      <guid isPermaLink="false">964ff6e6dcbb994398fab036379ce3e0</guid>
     </item>
     <item>
       <title>শিল্পকলা একাডেমির নতুন মহাপরিচালক আলাউদ্দিন খান</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[তাদের কাছ থেকে গাঁজা, একটি ব্যাটারি চালিত ভ্যান, মোবাইল ফোন ও ভারতীয় রুপি  জব্দ করা হয়।]]></description>
       <pubDate>Tue, 16 Sep 2025 09:06:18 GMT</pubDate>
       <guid isPermaLink="false">0f759d8f6abbf2c4afc6b5b09c8e8cea</guid>
-    </item>
-    <item>
-      <title>ভেনিসের গ্র্যান্ড ক্যানালে সাঁতার কাটলে জরিমানা ও নির্বাসন</title>
-      <link>https://bonikbarta.com/others/5ioe3uzE1xBr4dmG/</link>
-      <description><![CDATA[ক্যানালে নৌযান চলাচলের তীব্রতা বৃদ্ধি ও পানির মান খারাপ হয়ে যাওয়ায় কারণে সাঁতার কাটা নিষিদ্ধ করা হয়েছে।]]></description>
-      <pubDate>Tue, 16 Sep 2025 08:56:27 GMT</pubDate>
-      <guid isPermaLink="false">ef286b088b39a80e2c2943f2805d99a7</guid>
     </item>
   </channel>
 </rss>
