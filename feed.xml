@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 16 Sep 2025 07:23:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 07:40:32 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>বিশ্বব্যাপী অর্ধশতকের মধ্যে সবচেয়ে দুরবস্থায় সংবাদমাধ্যমের স্বাধীনতা</title>
+      <link>https://bonikbarta.com/international/pwT8kfS97rVuHKcG/</link>
+      <description><![CDATA[আইডিইএর নিয়মিত বার্ষিক প্রকাশনা গ্লোবাল স্টেট অব ডেমোক্রেসি রিপোর্টের ২০২৫ সংস্করণে ১৭৪টি দেশের তথ্য নিয়ে প্রকাশিত এক সমীক্ষার ফলাফলে দেখা গেছে, ২০২৪ সালে এর মধ্যে এক-চতুর্থাংশ দেশে সংবাদমাধ্যমের স্বাধীনতা পরিস্থিতির অবনতি হয়েছে।]]></description>
+      <pubDate>Tue, 16 Sep 2025 07:29:38 GMT</pubDate>
+      <guid isPermaLink="false">58e580519b57929115786d5292bba553</guid>
+    </item>
     <item>
       <title>মে ফ্লাওয়ার যাত্রা: নতুন দুনিয়ায় ইংরেজদের প্রথম পা</title>
       <link>https://bonikbarta.com/feature/rKrs50va74C1hFnV/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">1bb163fd2affc86c4e9ecf1c19bfe5d3</guid>
     </item>
     <item>
-      <title>লোকসানি ও ভর্তুকিতে চলা রাষ্ট্রীয় প্রতিষ্ঠানের কর্মীরাও পাচ্ছেন বোনাস ও মুনাফার ভাগ</title>
-      <link>https://bonikbarta.com/bangladesh/kJlXkgK6yFRMFCgk/</link>
-      <description><![CDATA[নৌ-পরিবহন মন্ত্রণালয়ের নীতিমালা অনুসারে বন্দর কর্তৃপক্ষের বিনিয়োগের বিপরীতে আয় (আরওআই) ন্যূনতম ৪ শতাংশ না হলে সেক্ষেত্রে ইনসেনটিভ বোনাস নেয়ার কোনো সুযোগ নেই। যদিও এ শর্তপূরণ না করেই ২০২২-২৩ অর্থবছরে মোংলা বন্দর কর্তৃপক্ষের কর্মীরা ইনসেনটিভ বোনাস নিয়েছেন।]]></description>
-      <pubDate>Mon, 15 Sep 2025 21:04:00 GMT</pubDate>
-      <guid isPermaLink="false">ccba12341d183dea1ee934a172152038</guid>
+      <title>বিপৎসীমা অতিক্রমের পর কমতে শুরু করেছে তিস্তার পানি</title>
+      <link>https://bonikbarta.com/bangladesh/AdfuSTJvTpQX8ura/</link>
+      <description><![CDATA[উজানের ঢল ও কয়েক দিনের ভারি বৃষ্টিতে গতকাল সকালে থেকে তিস্তার পানি বাড়তে শুরু করে।]]></description>
+      <pubDate>Mon, 15 Sep 2025 21:03:45 GMT</pubDate>
+      <guid isPermaLink="false">a3d62565dcfba16cb17af2e0b9383e79</guid>
     </item>
     <item>
       <title>মূলধন ঘাটতি ঠেকেছে ২৯,২০৭ কোটি টাকায়</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[জিপিএইচ ইস্পাত ও বুয়েটের রিসার্চ অ্যান্ড ইনোভেশন সেন্টার ফর সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিংয়ের (রাইজ) মধ্যে একটি কৌশলগত অংশীদারত্ব চুক্তি স্বাক্ষর হয়েছে।]]></description>
       <pubDate>Mon, 15 Sep 2025 20:14:08 GMT</pubDate>
       <guid isPermaLink="false">17841724a3b0140a396b23ec44cac1f5</guid>
-    </item>
-    <item>
-      <title>এনআরবিসি ব্যাংকের নতুন ডিএমডি আব্দুল কাইয়ুম খান</title>
-      <link>https://bonikbarta.com/economy/mwisYCOOSL1knFLx/</link>
-      <description><![CDATA[এনআরবিসি ব্যাংকের উপব্যবস্থাপনা পরিচালক (ডিএমডি) ও চিফ অপারেটিং অফিসার (সিওও) হিসেবে সম্প্রতি যোগ দিয়েছেন মোহাম্মদ আব্দুল কাইয়ুম খান।]]></description>
-      <pubDate>Mon, 15 Sep 2025 20:12:12 GMT</pubDate>
-      <guid isPermaLink="false">8bf597a33ede0a851c3fabe58a542e23</guid>
     </item>
   </channel>
 </rss>
