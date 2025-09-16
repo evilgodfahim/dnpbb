@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 16 Sep 2025 03:34:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 04:27:26 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>কার্কের মৃত্যুতে উল্লাসকারীদের চাকরিচ্যুতির ডাক ভ্যান্সের, এরইমধ্যে বরখাস্ত বহুজন</title>
+      <link>https://bonikbarta.com/international/lStcRVC1YJAEyC3H/</link>
+      <description><![CDATA[ভ্যান্সের এ মন্তব্যের পর, পাইলট, শিক্ষক, স্বাস্থ্যকর্মী এবং এমনকি একজন সিক্রেট সার্ভিস কর্মীর বিরুদ্ধেও ব্যবস্থা নেয়া হয়েছে। সামাজিক যোগাযোগ মাধ্যমে কার্কের মৃত্যু নিয়ে 'অগ্রহণযোগ্য' মন্তব্য করার কারণে তাদের চাকরি থেকে সাময়িক বা পুরোপুরি বরখাস্ত করা হয়েছে।]]></description>
+      <pubDate>Tue, 16 Sep 2025 04:21:16 GMT</pubDate>
+      <guid isPermaLink="false">5fdff9d4cfb9283eb36c6d508f0a0ffb</guid>
+    </item>
     <item>
       <title>ফেড বোর্ডে দ্বৈত মোড়: কুক বহাল, মিরান পেলেন সিনেটের অনুমোদন</title>
       <link>https://bonikbarta.com/international/zre5h0JU3ZuGN4UU/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">7a7c4855fb57e6ea6a282f221b26e9cb</guid>
     </item>
     <item>
-      <title>সোনালী লাইফ ইন্স্যুরেন্স ও মিলভিক বাংলাদেশের মধ্যে চুক্তি স্বাক্ষর</title>
-      <link>https://bonikbarta.com/economy/CJMWc7dfz4O8hhQQ/</link>
-      <description><![CDATA[সোনালী লাইফ ইন্স্যুরেন্স ও মিলভিক বাংলাদেশের মধ্যে একটি দ্বিপক্ষীয় চুক্তি স্বাক্ষর হয়েছে।]]></description>
-      <pubDate>Mon, 15 Sep 2025 20:19:44 GMT</pubDate>
-      <guid isPermaLink="false">96b20e12826e93acad472b1781338acc</guid>
+      <title>প্রিমিয়ার ব্যাংক কলাকোপা শাখা নতুন ঠিকানায় স্থানান্তর</title>
+      <link>https://bonikbarta.com/economy/9UiK0sgUxgeeeHpN/</link>
+      <description><![CDATA[দ্য প্রিমিয়ার ব্যাংক পিএলসির কলাকোপা শাখা নতুন ঠিকানায় (হক প্লাজা, কলেজ রোড, নবাবগঞ্জ বাজার, নবাবগঞ্জ, ঢাকা) স্থানান্তর করা হয়েছে।]]></description>
+      <pubDate>Mon, 15 Sep 2025 20:17:57 GMT</pubDate>
+      <guid isPermaLink="false">bc3aeabb6dc98ca2d1ad8bb4d0e3f076</guid>
     </item>
     <item>
       <title>এসবিএসি ব্যাংকের ২০০তম পর্ষদ সভা উদযাপন</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[ইউক্রেনের ড্রোন হামলায় ক্ষতিগ্রস্ত হয়েছে রাশিয়ার জ্বালানি তেল পরিশোধনাগার।]]></description>
       <pubDate>Mon, 15 Sep 2025 20:10:35 GMT</pubDate>
       <guid isPermaLink="false">3c6e97d43b597897a88f8c66ed3bf6c1</guid>
-    </item>
-    <item>
-      <title>ই-কমার্স প্লাটফর্ম চালু করছে গোল্ডেন হারভেস্ট</title>
-      <link>https://bonikbarta.com/economy/jjs9C7UBL805hbvr/</link>
-      <description><![CDATA[খাদ্য ও আনুষঙ্গিক খাতে তালিকাভুক্ত গোল্ডেন হারভেস্ট এগ্রো ইন্ডাস্ট্রিজ লিমিটেড ই-কমার্স প্লাটফর্ম চালুর সিদ্ধান্ত নিয়েছে।]]></description>
-      <pubDate>Mon, 15 Sep 2025 20:10:35 GMT</pubDate>
-      <guid isPermaLink="false">7147da74b1076f0698c47c4ad0c296b1</guid>
     </item>
   </channel>
 </rss>
