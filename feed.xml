@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 16 Sep 2025 02:59:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 03:34:47 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ফেড বোর্ডে দ্বৈত মোড়: কুক বহাল, মিরান পেলেন সিনেটের অনুমোদন</title>
+      <link>https://bonikbarta.com/international/zre5h0JU3ZuGN4UU/</link>
+      <description><![CDATA[ফেডারেল রিজার্ভের গঠনকারী আইন অনুযায়ী, একজন গভর্নরকে কেবল ‘যথাযথ কারণ’ থাকলে অপসারণ করা যেতে পারে, এবং আদালত মনে করেন যে, কুককে অপসারণের জন্য এ অভিযোগ যথেষ্ট নয়।]]></description>
+      <pubDate>Tue, 16 Sep 2025 03:12:16 GMT</pubDate>
+      <guid isPermaLink="false">7adfc021a3a3be5407d73463da32eced</guid>
+    </item>
     <item>
       <title>বাংলাদেশকে প্রিমিয়াম মৎস্য ও মৎস্যপণ্যের সরবরাহকারী হিসেবে প্রতিষ্ঠিত করতে চাইলে</title>
       <link>https://bonikbarta.com/editorial/HBgQzbzoayt79Zp1/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">96b20e12826e93acad472b1781338acc</guid>
     </item>
     <item>
-      <title>প্রিমিয়ার ব্যাংক কলাকোপা শাখা নতুন ঠিকানায় স্থানান্তর</title>
-      <link>https://bonikbarta.com/economy/9UiK0sgUxgeeeHpN/</link>
-      <description><![CDATA[দ্য প্রিমিয়ার ব্যাংক পিএলসির কলাকোপা শাখা নতুন ঠিকানায় (হক প্লাজা, কলেজ রোড, নবাবগঞ্জ বাজার, নবাবগঞ্জ, ঢাকা) স্থানান্তর করা হয়েছে।]]></description>
-      <pubDate>Mon, 15 Sep 2025 20:17:57 GMT</pubDate>
-      <guid isPermaLink="false">bc3aeabb6dc98ca2d1ad8bb4d0e3f076</guid>
+      <title>এসবিএসি ব্যাংকের ২০০তম পর্ষদ সভা উদযাপন</title>
+      <link>https://bonikbarta.com/economy/u7E3Oiozvh3RFlW0/</link>
+      <description><![CDATA[এসবিএসি ব্যাংক পিএলসির ২০০তম পর্ষদ সভা অনুষ্ঠিত হয়েছে।]]></description>
+      <pubDate>Mon, 15 Sep 2025 20:17:32 GMT</pubDate>
+      <guid isPermaLink="false">c7814affedabdf4e928947dd34c0d993</guid>
     </item>
     <item>
       <title>এমটিবি ও গ্রিন ডেল্টার উদ্যোগে নন-লাইফ ইন্স্যুরেন্সের ডিজিটাল অনবোর্ডিং চালু</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[খাদ্য ও আনুষঙ্গিক খাতে তালিকাভুক্ত গোল্ডেন হারভেস্ট এগ্রো ইন্ডাস্ট্রিজ লিমিটেড ই-কমার্স প্লাটফর্ম চালুর সিদ্ধান্ত নিয়েছে।]]></description>
       <pubDate>Mon, 15 Sep 2025 20:10:35 GMT</pubDate>
       <guid isPermaLink="false">7147da74b1076f0698c47c4ad0c296b1</guid>
-    </item>
-    <item>
-      <title>যন্ত্রপাতি কিনবে দুই কোম্পানি</title>
-      <link>https://bonikbarta.com/economy/ZkA1zzeourqexgKR/</link>
-      <description><![CDATA[পুঁজিবাজারে তালিকাভুক্ত মাগুরা মাল্টিপ্লেক্স পিএলসি ও বাংলাদেশ মনোস্পুল পেপার ম্যানুফ্যাকচারিং কোম্পানি লিমিটেডের পর্ষদ যন্ত্রপাতি কেনার সিদ্ধান্ত নিয়েছে।]]></description>
-      <pubDate>Mon, 15 Sep 2025 20:10:35 GMT</pubDate>
-      <guid isPermaLink="false">e6896181cc95f5cd99bc5952b7393b45</guid>
     </item>
   </channel>
 </rss>
