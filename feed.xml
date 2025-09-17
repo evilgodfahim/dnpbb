@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 17 Sep 2025 14:22:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 14:43:35 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>পোস্টাল ব্যালটে ভোট দিতে পারবেন না শেখ হাসিনা ও পরিবাররের সদস্যরা: ইসি সচিব</title>
+      <link>https://bonikbarta.com/bangladesh/Yd53Wt3gG5e2lz72/</link>
+      <description><![CDATA[আখতার আহমেদ বলেন, যাদের জাতীয় পরিচয়পত্র (এনআইডি) লক করা আছে, তারা অনলাইনে ভোটার নিবন্ধন করতে পারবেন না। ফলে বিদেশে বসে ভোট দেয়ার কোনো সুযোগ তাদের থাকবে না।]]></description>
+      <pubDate>Wed, 17 Sep 2025 14:42:46 GMT</pubDate>
+      <guid isPermaLink="false">cfd91d09a40c05cce1ac0e205bfef6ba</guid>
+    </item>
     <item>
       <title>ডেঙ্গুতে ২৪ ঘণ্টায় ৫ জনের মৃত্যু, হাসপাতালে ভর্তি ৬২২</title>
       <link>https://bonikbarta.com/bangladesh/rxseLufXmiACBGtt/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">63fe4803904fc42332094db58e9286d1</guid>
     </item>
     <item>
-      <title>ইস্টওয়েস্ট ইউনিভার্সিটিতে চতুর্থ ‘ইনফরমেশন এন্ড নলেজ ম্যানেজমেন্ট’ সম্মেলন অনুষ্ঠিত</title>
-      <link>https://bonikbarta.com/economy/F79eDqoYyl4R8fD1/</link>
+      <title>একনেকে ৮ হাজার ৩৩৩ কোটি টাকার ১৩ প্রকল্প অনুমোদন</title>
+      <link>https://bonikbarta.com/bangladesh/Xb3AWrQhFyeYAY2M/</link>
       <description><![CDATA[No description available]]></description>
-      <pubDate>Wed, 17 Sep 2025 08:50:04 GMT</pubDate>
-      <guid isPermaLink="false">7535b9bdabcc1ad4476cc24ae552c579</guid>
+      <pubDate>Wed, 17 Sep 2025 08:47:57 GMT</pubDate>
+      <guid isPermaLink="false">75683f32b3f34ba53b08a92b3d293c77</guid>
     </item>
     <item>
       <title>নারীর ক্ষমতায়নে সিটি ব্যাংক ও ইউএনএফপিএর চুক্তি স্বাক্ষর</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[ফরিদপুর-৪ আসনের সীমানা পুনর্বিন্যাসের প্রতিবাদে ও পুরনো সীমানা বহালের দাবিতে মহাসড়ক-রেলপথ অবরোধ কর্মসূচি স্থগিত করেছেন আন্দোলনকারীরা।]]></description>
       <pubDate>Tue, 16 Sep 2025 21:28:16 GMT</pubDate>
       <guid isPermaLink="false">6adf1c022730d2b9b958d88982bb4d74</guid>
-    </item>
-    <item>
-      <title>নির্ধারিত সময় পার হলেও চালু হয়নি ১০০ শয্যার ভবন</title>
-      <link>https://bonikbarta.com/bangladesh/dTrnLhtHbC8rRM5U/</link>
-      <description><![CDATA[মাদারীপুরের শিবচর উপজেলা ১৮টি ইউনিয়ন ও একটি পৌরসভা নিয়ে গঠিত।]]></description>
-      <pubDate>Tue, 16 Sep 2025 21:24:55 GMT</pubDate>
-      <guid isPermaLink="false">016ed033a15bddaf83d9e430defa7ab7</guid>
     </item>
   </channel>
 </rss>
