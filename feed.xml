@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 17 Sep 2025 07:22:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 07:40:08 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>সাতরাস্তায় পলিটেকনিক শিক্ষার্থীদের সড়ক অবরোধ, তীব্র যানজট</title>
+      <link>https://bonikbarta.com/bangladesh/MRmuXTsHNhkOdswb/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Wed, 17 Sep 2025 07:29:49 GMT</pubDate>
+      <guid isPermaLink="false">ef6615175267b2787156bc6f5cf8343a</guid>
+    </item>
     <item>
       <title>ক্যাম্প ডেভিড চুক্তি: ইসরায়েল-মিশরের মধ্যে শান্তি প্রতিষ্ঠা</title>
       <link>https://bonikbarta.com/feature/CQIyWVghQlyxW7xR/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">05430e0f68858fd8f5f338db1d6997bf</guid>
     </item>
     <item>
-      <title>বিশ্বব্যাপী তেল-গ্যাস ক্ষেত্রে উত্তোলন হ্রাসের হার এখন দ্রুতগতিতে বাড়ছে</title>
-      <link>https://bonikbarta.com/economy/YeQmHkLg1LhN4vLL/</link>
-      <description><![CDATA[বিশ্বের জ্বালানি তেল ও প্রাকৃতিক গ্যাস ক্ষেত্রগুলো থেকে উত্তোলন হ্রাসের স্বাভাবিক হার (ন্যাচারাল রেট অব ডিক্লাইন ইন আউটপুট বা নতুন বিনিয়োগ ছাড়াই স্বাভাবিক উত্তোলন হ্রাসের হার) দ্রুত বাড়ছে।]]></description>
-      <pubDate>Tue, 16 Sep 2025 20:53:56 GMT</pubDate>
-      <guid isPermaLink="false">408178f5494a1e91b06a76066c5a5c93</guid>
+      <title>যমুনা ব্যাংক ও নাজিমগড় রিসোর্টসের মধ্যে চুক্তি স্বাক্ষর</title>
+      <link>https://bonikbarta.com/economy/W9BtIbA282GDWuFJ/</link>
+      <description><![CDATA[যমুনা ব্যাংক পিএলসি ও নাজিমগড় রিসোর্টসের মধ্যে একটি কৌশলগত চুক্তি স্বাক্ষর হয়েছে।]]></description>
+      <pubDate>Tue, 16 Sep 2025 20:49:50 GMT</pubDate>
+      <guid isPermaLink="false">5e2e997e70486e533462b6b74863fee2</guid>
     </item>
     <item>
       <title>গ্লোবাল ইসলামিক ফাইন্যান্স অ্যাওয়ার্ড পেল ইসলামী ব্যাংক</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[জুলাই-আগস্টে গণ-অভ্যুত্থানে সংঘটিত মানবতাবিরোধী অপরাধের অভিযোগে আওয়ামী লীগের সব কার্যক্রম নিষিদ্ধ করে সরকার। সাবেক প্রধানমন্ত্রী শেখ হাসিনাসহ দলটির শীর্ষ নেতাদের বিরুদ্ধে একই অভিযোগে বিচার কার্যক্রম চলমান রয়েছে।]]></description>
       <pubDate>Tue, 16 Sep 2025 20:20:53 GMT</pubDate>
       <guid isPermaLink="false">7d270c60f3192b6089ac9d16aa0e6076</guid>
-    </item>
-    <item>
-      <title>আঞ্চলিক শিল্পের মিথস্ক্রিয়া</title>
-      <link>https://bonikbarta.com/SbnBjrXN/265/6rL1KaaqKSd0kMLI/</link>
-      <description><![CDATA[দক্ষিণ আমেরিকায় শিল্প প্রদর্শনী ইভেন্টের অত্যন্ত গুরুত্বপূর্ণ আসর ব্রাজিলের ‘সাও পাওলো আর্ট বাইয়েনিয়ল।’]]></description>
-      <pubDate>Tue, 16 Sep 2025 20:20:42 GMT</pubDate>
-      <guid isPermaLink="false">ba5c3d923c1921892751d70feb32ce50</guid>
     </item>
   </channel>
 </rss>
