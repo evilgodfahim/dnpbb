@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 17 Sep 2025 11:18:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 11:39:38 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>প্রকল্পে ভূমি অধিগ্রহণে খাস জমি ব্যবহার করতে চায় সরকার: পরিকল্পনা উপদেষ্টা</title>
+      <link>https://bonikbarta.com/bangladesh/C1b3KdG6kGmSAbzN/</link>
+      <description><![CDATA[উপদেষ্টা বলেন, সরকারের বহু খাস জমি আছে যেগুলো অব্যবহৃত। রেল, পানি সম্পদ ও গৃহায়ন মন্ত্রণালয়ের এ ধরণের অনেক জমি আছে। সেগুলো কিভাবে ব্যবহার করা যায় সেজন্য একটা কমিটি কাজ করবে।]]></description>
+      <pubDate>Wed, 17 Sep 2025 11:28:19 GMT</pubDate>
+      <guid isPermaLink="false">28e86ef7cb5cdaa7be05d71ab13699ad</guid>
+    </item>
     <item>
       <title>ডিপ্লোমা প্রকৌশলীদের হত্যার হুমকির প্রতিবাদে রংপুরে শিক্ষার্থীদের বিক্ষোভ</title>
       <link>https://bonikbarta.com/bangladesh/lYqmInGhkl1qwq00/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">077da211162833adc017db22133c889e</guid>
     </item>
     <item>
-      <title>পোশাক বিতরণ</title>
-      <link>https://bonikbarta.com/bangladesh/F2Zz7zhSKnI51Q1Z/</link>
-      <description><![CDATA[বরিশাল শের-ই-বাংলা মেডিকেল কলেজ হাসপাতালের কর্মচারীদের মাঝে নির্ধারিত পোশাক বিতরণ করা হয়েছে।]]></description>
-      <pubDate>Tue, 16 Sep 2025 21:35:51 GMT</pubDate>
-      <guid isPermaLink="false">6d416a6049ace46f45a14aaee376e561</guid>
+      <title>পুনর্বাসন</title>
+      <link>https://bonikbarta.com/bangladesh/bMbnQU5g5mb0D1At/</link>
+      <description><![CDATA[জুলাই গণ-অভ্যুত্থানে গুলিবিদ্ধ হয়ে চোখ হারানো নারায়ণগঞ্জের সিদ্ধিরগঞ্জ উপজেলার গাজী সালাউদ্দিনকে পুনর্বাসনের ব্যবস্থা করে দিয়েছে জুলাই ফাউন্ডেশন।]]></description>
+      <pubDate>Tue, 16 Sep 2025 21:34:56 GMT</pubDate>
+      <guid isPermaLink="false">f5ce5f9c2c39bae4ebb31b529ccd353c</guid>
     </item>
     <item>
       <title>ট্রেনের বগি লাইনচ্যুত</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[এনসিসি ব্যাংক পিএলসি ও অনলাইন ফাইন্যান্সিয়াল মার্কেটপ্লেস ফিনকোচ বাংলাদেশ (বিডি) লিমিটেডের মধ্যে একটি কৌশলগত চুক্তি স্বাক্ষর হয়েছে।]]></description>
       <pubDate>Tue, 16 Sep 2025 20:42:18 GMT</pubDate>
       <guid isPermaLink="false">1d24f09eba717b8a979e8b428fde9dc9</guid>
-    </item>
-    <item>
-      <title>বিএফআইইউ ও প্রাইম ব্যাংকের উদ্যোগে মৌলভীবাজারে এএমএল অ্যান্ড সিএফটি কর্মশালা</title>
-      <link>https://bonikbarta.com/economy/YWG7E18fSItzGKqS/</link>
-      <description><![CDATA[বাংলাদেশ ফাইন্যান্সিয়াল ইন্টেলিজেন্স ইউনিট (বিএফআইইউ) ও লিড ব্যাংক হিসেবে প্রাইম ব্যাংক পিএলসির যৌথ উদ্যোগে মৌলভীবাজারে এএমএল অ্যান্ড সিএফটি-বিষয়ক একটি কর্মশালা অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Tue, 16 Sep 2025 20:40:54 GMT</pubDate>
-      <guid isPermaLink="false">ff41b7f33fc0e159880c095424ff8b0e</guid>
     </item>
   </channel>
 </rss>
