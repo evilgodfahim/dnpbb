@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 18 Sep 2025 04:44:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 05:21:50 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>উইনসর ক্যাসেলে রাজকীয় ডিনার: কী খেলেন, কার পাশে বসলেন ট্রাম্প</title>
+      <link>https://bonikbarta.com/international/EksuH3MhND9FAvrd/</link>
+      <description><![CDATA[ট্রাম্পের সম্মানে আয়োজিত এই ভোজে ১৬০ জন অতিথি অংশ নেন। অতিথিদের জন্য ফরাসি ভাষায় লেখা মেনু পরিবেশন করা হয়েছিল। সেখানে স্টার্টার হিসেবে ছিল হ্যাম্পশায়ার ওয়াটারক্রেস পানা কোট্টা, পারমেজান শর্টব্রেড ও কোয়েল ডিমের সালাদ।]]></description>
+      <pubDate>Thu, 18 Sep 2025 05:20:27 GMT</pubDate>
+      <guid isPermaLink="false">acd2ac08aa6243a97923b4d9c708a300</guid>
+    </item>
     <item>
       <title>সুদের হার কমাল ফেড, আরো কাটতির ইঙ্গিত; মিরানের ভিন্নমত</title>
       <link>https://bonikbarta.com/international/wRCZWSZS1FYlInmf/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">2e4b8cf515a7c612ad2c841ad49ed372</guid>
     </item>
     <item>
-      <title>স্ট্যান্ডার্ড ব্যাংকের ৪১৭তম পর্ষদ সভা অনুষ্ঠিত</title>
-      <link>https://bonikbarta.com/economy/HFTyUSZJ1jlG34pD/</link>
-      <description><![CDATA[স্ট্যান্ডার্ড ব্যাংক পিএলসির পরিচালনা পর্ষদের ৪১৭তম সভা মঙ্গলবার ঢাকায় ব্যাংকের প্রধান কার্যালয়ে অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Wed, 17 Sep 2025 20:31:16 GMT</pubDate>
-      <guid isPermaLink="false">2e5a120a3089a1bdfa044200e6bd3f15</guid>
+      <title>বাংলাদেশের শ্রম, কর্মসংস্থান ও নৌ-পরিবহন কার্যক্রম ও দিকনির্দেশনা</title>
+      <link>https://bonikbarta.com/magazine/issue5/34RcgH6uEyFAWRjU/</link>
+      <description><![CDATA[বাংলাদেশের অর্থনীতির প্রাণশক্তি আমাদের শ্রমিকরা। তারা দিনরাত পরিশ্রম করে শিল্প, কৃষি, সেবা ও রফতানি খাতকে সচল রেখেছেন। আজ আমরা বিশ্বের দ্বিতীয় বৃহত্তম পোশাক রফতানিকারক দেশ, প্রবাসী আয়ে অন্যতম শীর্ষ দেশ এবং শিল্পোন্নয়নের ধারায় দ্রুত অগ্রসরমান।]]></description>
+      <pubDate>Wed, 17 Sep 2025 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2623df70dadf231c1554e1bee93fbad8</guid>
     </item>
     <item>
       <title>বেপজা পণ্যের পাশাপাশি রফতানি বাজার বৈচিত্র্যায়ণেও বিশেষ নজর দিচ্ছে</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[বস্ত্র খাতে তালিকাভুক্ত শেফার্ড ইন্ডাস্ট্রিজ পিএলসি রাজউক পূর্বাচল নিউ সিটি প্রকল্পের জমি বিক্রির সিদ্ধান্ত নিয়েছে।]]></description>
       <pubDate>Wed, 17 Sep 2025 19:54:13 GMT</pubDate>
       <guid isPermaLink="false">aaed857b01f5acfb0bf8db84056c9aa6</guid>
-    </item>
-    <item>
-      <title>১০ ব্যক্তি ও প্রতিষ্ঠানকে প্রায় ১২ কোটি টাকা জরিমানা</title>
-      <link>https://bonikbarta.com/economy/KLu6gFzvDdYJfp6c/</link>
-      <description><![CDATA[বিভিন্ন ধরনের সিকিউরিটিজ আইন লঙ্ঘনের দায়ে নয় ব্যক্তি ও এক প্রতিষ্ঠানকে মোট ১১ কোটি ৮২ লাখ টাকা জরিমানা করেছে বাংলাদেশ সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ কমিশন (বিএসইসি)।]]></description>
-      <pubDate>Wed, 17 Sep 2025 19:54:13 GMT</pubDate>
-      <guid isPermaLink="false">e506d97cb4971f6cfbd9a93ffa28ecd4</guid>
     </item>
   </channel>
 </rss>
