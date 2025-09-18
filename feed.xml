@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 18 Sep 2025 07:22:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 07:39:52 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>চ্যাম্পিয়নদের বড় জয়, ইন্টারকে জেতালেন থুরাম</title>
+      <link>https://bonikbarta.com/sports/y8XumjHcaG3x6bpP/</link>
+      <description><![CDATA[গত আসরের ফাইনালে ইন্টার মিলানকে ৫-০ গোলে হারিয়ে প্রথমবারের মতো ইউরোপিয়ান মুকুট জয় করা পিএসজি নতুন মৌসুমে মাঠে নেমেই তুলে নিল বড় জয়। সিরি-এ লিগের আরেক দলের বিপক্ষে কর্তৃত্ব করল লুই এনরিকের দল। ৩ মিনিটে মার্কিনোস, ৩৯ মিনিটে কাভিচা কাভারাৎস্কেলিয়া, ৫১ মিনিটে নুনো মেন্দেস ও ৯১ মিনিটে গনসালো রামোস গোল করেন।]]></description>
+      <pubDate>Thu, 18 Sep 2025 07:38:13 GMT</pubDate>
+      <guid isPermaLink="false">9034a844534b25cf525712e9b56de630</guid>
+    </item>
     <item>
       <title>উন্নয়নের নামে একেকটি শহর টাইম বোমা হয়ে দাঁড়িয়েছে</title>
       <link>https://bonikbarta.com/bangladesh/8MjFoMFSMdchWPtA/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">5d0868ec5e027bbab5ddee3c7c3944a5</guid>
     </item>
     <item>
-      <title>‘জিয়াউর রহমানের হাত ধরেই পোশাক রফতানি শুরু হয়’</title>
-      <link>https://bonikbarta.com/bangladesh/nnA0WM1w3ckyEt4k/</link>
-      <description><![CDATA[বিএনপির কেন্দ্রীয় কমিটির সিনিয়র সদস্য ও সাবেক সংসদ সদস্য কাজী আলাউদ্দিন বলেছেন, ‘শহীদ জিয়াউর রহমানের হাত ধরেই দেশ থেকে পোশাক রফতানি শুরু হয়।]]></description>
-      <pubDate>Wed, 17 Sep 2025 20:50:03 GMT</pubDate>
-      <guid isPermaLink="false">c50624662b9fce2ce0231e12d87d328a</guid>
+      <title>দিনাজপুর জেলা পরিষদের সাবেক চেয়ারম্যানসহ ১০ জন কারাগারে</title>
+      <link>https://bonikbarta.com/bangladesh/jGpn36SpMCEA3bgV/</link>
+      <description><![CDATA[গত বছর বৈষম্যবিরোধী ছাত্র আন্দোলনে হামলার ঘটনায় করা মামলায় দিনাজপুর জেলা পরিষদের সাবেক চেয়ারম্যান দেলোয়ার হোসেন ও তার ছেলেসহ ১০ জনকে কারাগারে পাঠানোর আদেশ দিয়েছেন আদালত।]]></description>
+      <pubDate>Wed, 17 Sep 2025 20:48:16 GMT</pubDate>
+      <guid isPermaLink="false">8ed45b332407cabf42a1b1e7a732d958</guid>
     </item>
     <item>
       <title>নারায়ণগঞ্জে শিক্ষার্থীদের সঙ্গে অটোরিকশাচালকদের সংঘর্ষে আহত ২০</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[রপ্তানি উন্নয়ন ব্যুরোর (ইপিবি) ভাইস চেয়ারম্যান (প্রধান নির্বাহী) হিসেবে যোগ দিয়েছেন অতিরিক্ত সচিব মোহাম্মদ হাসান আরিফ।]]></description>
       <pubDate>Wed, 17 Sep 2025 20:14:47 GMT</pubDate>
       <guid isPermaLink="false">add79c91b8ab4f36409e61238af46251</guid>
-    </item>
-    <item>
-      <title>বিনিয়োগ ভবনে ১৫০ কিলোওয়াটের সোলার সিস্টেম স্থাপনের উদ্যোগ</title>
-      <link>https://bonikbarta.com/economy/Fy9eGsXXD0Pq21OO/</link>
-      <description><![CDATA[বিনিয়োগ ভবনের ছাদে ১৫০ কিলোওয়াট পিক ক্ষমতাসম্পন্ন একটি সোলার সিস্টেম স্থাপনের উদ্যোগ নেয়া হয়েছে।]]></description>
-      <pubDate>Wed, 17 Sep 2025 20:11:28 GMT</pubDate>
-      <guid isPermaLink="false">772d800f8a725d5829c2db598ed15cd0</guid>
     </item>
   </channel>
 </rss>
