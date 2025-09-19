@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 19 Sep 2025 03:03:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 03:48:45 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>কলা গাছের ফাইবারে ফ্যাশনের নতুন দিগন্ত</title>
+      <link>https://bonikbarta.com/bangladesh/UvFfw2EourekdJc1/</link>
+      <description><![CDATA[বার্তা সংস্থা রয়টার্সকে ইয়াং বলেন, ‘২০০৮ সালে ইউরোপের কিছু স্নিকার ব্র্যান্ড আমাদের বলেছিল, তারা চাইছে একই জমি থেকে খাবার ও উপকরণ দুটোই উৎপন্ন করা যায় এমন কোনো ব্যবস্থা নিতে। সে ধারণা থেকেই আমরা কাজ শুরু করেছি।]]></description>
+      <pubDate>Fri, 19 Sep 2025 03:21:37 GMT</pubDate>
+      <guid isPermaLink="false">91ea179a25895df0e8a4cc7e65c9947b</guid>
+    </item>
     <item>
       <title>দারিদ্র্য দূরীকরণের লড়াই থেকে এখনই বিরতি নেয়া যাবে না</title>
       <link>https://bonikbarta.com/editorial/9BwyhoUoIe55Rnb9/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">9ca71567dbce6d48ab2121f5c9e29670</guid>
     </item>
     <item>
-      <title>প্রাইম ব্যাংক ও প্রগ্রেসিভ লাইফ ইন্স্যুরেন্সের মধ্যে পে-রোল ব্যাংকিং চুক্তি স্বাক্ষর</title>
-      <link>https://bonikbarta.com/economy/fABs9T6tzrzRSicF/</link>
-      <description><![CDATA[প্রাইম ব্যাংক ও প্রগ্রেসিভ লাইফ ইন্স্যুরেন্সের মধ্যে সম্প্রতি একটি পে-রোল ব্যাংকিং চুক্তি স্বাক্ষর হয়েছে।]]></description>
-      <pubDate>Thu, 18 Sep 2025 20:51:49 GMT</pubDate>
-      <guid isPermaLink="false">486e650d77a7a03113fe42e15cc07a1d</guid>
+      <title>মুন্সিগঞ্জের শ্রীনগরে উপশাখা চালু করল ইস্টার্ন ব্যাংক</title>
+      <link>https://bonikbarta.com/economy/pdc9QozXliwToTEj/</link>
+      <description><![CDATA[মুন্সিগঞ্জের শ্রীনগর ইউনিয়নের ভাগ্যকুল সড়কের জমজম টাওয়ারে নতুন একটি উপশাখা চালু করেছে ইস্টার্ন ব্যাংক পিএলসি (ইবিএল)।]]></description>
+      <pubDate>Thu, 18 Sep 2025 20:50:26 GMT</pubDate>
+      <guid isPermaLink="false">03e8aaa636db124ed07c72fd7a4cef82</guid>
     </item>
     <item>
       <title>ডিজিটাল সেবা সম্প্রসারণে মেঘনা ব্যাংকের সঙ্গে চুক্তি করেছে ট্রাস্ট ব্যাংক</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[মোবাইল পরিষেবাকে দ্রুত, সহজ ও প্রযুক্তিভিত্তিক করে তুলতে মোবাইল সার্ভিস অপারেটিং সিস্টেম গিগস এবং উত্তর আমেরিকার বৃহত্তম টেলিকম নেটওয়ার্ক এটিঅ্যান্ডটি একসঙ্গে কাজ করছে।]]></description>
       <pubDate>Thu, 18 Sep 2025 20:15:50 GMT</pubDate>
       <guid isPermaLink="false">202b47e4a32527e20e095c950923231a</guid>
-    </item>
-    <item>
-      <title>ভারতে চালের রেকর্ড মজুদ গম চার বছরের সর্বোচ্চে</title>
-      <link>https://bonikbarta.com/economy/dGv6SyAs4iLW4O75/</link>
-      <description><![CDATA[ভারতের সরকারি গুদামে চালের মজুদ সেপ্টেম্বরের শুরুতে রেকর্ড পরিমাণে পৌঁছেছে।]]></description>
-      <pubDate>Thu, 18 Sep 2025 20:15:49 GMT</pubDate>
-      <guid isPermaLink="false">14cf34ecde6f96a4f720a79eea1ec653</guid>
     </item>
   </channel>
 </rss>
