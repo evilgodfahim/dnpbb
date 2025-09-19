@@ -6,14 +6,28 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 19 Sep 2025 10:43:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 11:19:30 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <item>
-      <title>পুলিশের বিশেষ অভিযানে সারাদেশে গ্রেফতার ১,৮৪৯</title>
+      <title>‘মিস ইউনিভার্স বাংলাদেশ ২০২৫’ হলেন মিথিলা</title>
+      <link>https://bonikbarta.com/talkies/GbfiASo6kF0Y3Hrv/</link>
+      <description><![CDATA[২০২০ সালেও মিথিলা জাতীয় পর্যায়ে ‘মিস ইউনিভার্স বাংলাদেশ ’ জয় করেছিলেন, তবে কোভিড-১৯ বিধিনিষেধের কারণে আন্তর্জাতিক মঞ্চে যেতে পারেননি। এ বছর আবারও সাফল্য অর্জন করে তিনি দ্বিতীয়বারের মতো শিরোপা জয় করলেন।]]></description>
+      <pubDate>Fri, 19 Sep 2025 10:48:05 GMT</pubDate>
+      <guid isPermaLink="false">cec1274369140e400fb3004cf8a62421</guid>
+    </item>
+    <item>
+      <title>সমালোচনাকারী টিভিগুলোর লাইসেন্স বাতিলের হুমকি ট্রাম্পের</title>
+      <link>https://bonikbarta.com/international/NaKjOsCOhz8kRuA0/</link>
+      <description><![CDATA[সম্প্রতি ডিজনি মালিকানাধীন এবিসি জিমি কিমেলের লাইভ অনুষ্ঠানটি অনির্দিষ্টকালের জন্য স্থগিত করেছে। সোমবারের এক মনোলগে কিমেল দাবি করেন, কনজারভেটিভ অ্যাক্টিভিস্ট চার্লি কার্কের হত্যাকারী রিপাবলিকান।]]></description>
+      <pubDate>Fri, 19 Sep 2025 10:47:18 GMT</pubDate>
+      <guid isPermaLink="false">f392a7b29aa4212f324be961128be5a5</guid>
+    </item>
+    <item>
+      <title>পুলিশের বিশেষ অভিযানে সারা দেশে গ্রেফতার ১,৮৪৯</title>
       <link>https://bonikbarta.com/bangladesh/0aEMRqdQSmRSiULN/</link>
       <description><![CDATA[বিভিন্ন মামলার ও ওয়ারেন্টভুক্ত আসামি ১ হাজার ২২৫ জন এবং অন্যান্য অপরাধে জড়িত সন্দেহে ৬২৪ জনকে গ্রেফতার করা হয়েছে।]]></description>
-      <pubDate>Fri, 19 Sep 2025 10:39:12 GMT</pubDate>
-      <guid isPermaLink="false">a6ceaeb76c5f418d2b323669e64f2fbd</guid>
+      <pubDate>Fri, 19 Sep 2025 10:39:00 GMT</pubDate>
+      <guid isPermaLink="false">bbef3102bb25ed2ae676808762eb2c6b</guid>
     </item>
     <item>
       <title>সরকার পক্ষপাতিত্ব করলে সুষ্ঠু নির্বাচন সম্ভব নয় : ইফতেখারুজ্জামান</title>
@@ -198,18 +212,18 @@
       <guid isPermaLink="false">d6f7191bab07d474499649f924cbf138</guid>
     </item>
     <item>
-      <title>শিক্ষা সহায়তা</title>
-      <link>https://bonikbarta.com/bangladesh/dBbb12pvk07rpMRe/</link>
-      <description><![CDATA[ঝরে পড়া শিশুদের স্কুলগামী করতে শিক্ষা সহায়তা কার্যক্রম বাস্তবায়ন করছে এনজিও সংস্থা আশা।]]></description>
-      <pubDate>Thu, 18 Sep 2025 21:54:02 GMT</pubDate>
-      <guid isPermaLink="false">3f6673bb0f20a7ae6e3a40c5cb6e0a95</guid>
-    </item>
-    <item>
       <title>ক্ষতিপূরণ</title>
       <link>https://bonikbarta.com/bangladesh/z9FBy8Dui1w5DWSD/</link>
       <description><![CDATA[নেত্রকোনায় ভূমি অধিগ্রহণে ক্ষতিগ্রস্ত ৩৪টি পরিবারের মাঝে ক্ষতিপূরণের চেক বিতরণ করা হয়েছে।]]></description>
       <pubDate>Thu, 18 Sep 2025 21:52:07 GMT</pubDate>
       <guid isPermaLink="false">9d1d83f98546d5662e7b087c03926b4c</guid>
+    </item>
+    <item>
+      <title>জরিমানা</title>
+      <link>https://bonikbarta.com/bangladesh/MjLYG4HdwNB57uPT/</link>
+      <description><![CDATA[মানিকগঞ্জের ঘিওরে নকল সাবান কারখানায় অভিযান চালিয়েছে র‌্যাব।]]></description>
+      <pubDate>Thu, 18 Sep 2025 21:50:39 GMT</pubDate>
+      <guid isPermaLink="false">3a266cfb620c59d23e746687e6dd360d</guid>
     </item>
     <item>
       <title>স্বর্ণবারসহ আটক</title>
@@ -343,20 +357,6 @@
       <description><![CDATA[অন্তর্বর্তী সরকার দায়িত্ব নেয়ার পর দেশের ব্যাংক খাত সংস্কার ও পুনরুদ্ধারে নানা উদ্যোগ নিয়েছে। এর মধ্যে অন্যতম হলো বিভিন্ন ব্যাংককে ফরেনসিক অডিট, অ্যাসেট কোয়ালিটি রিভিউ (একিউআর) ও বিশেষ নিরীক্ষার আওতায় আনা।]]></description>
       <pubDate>Thu, 18 Sep 2025 21:00:00 GMT</pubDate>
       <guid isPermaLink="false">5dcbf530f7ef971d288b023f4c7f57a4</guid>
-    </item>
-    <item>
-      <title>আরএমজির পাশাপাশি উচ্চ মূল্যের পণ্য উৎপাদন এবং প্রযুক্তি ও উদ্ভাবনে জোর দিতে হবে</title>
-      <link>https://bonikbarta.com/editorial/o6jZddll0PUiNNhc/</link>
-      <description><![CDATA[স্মার্ট ম্যানুফ্যাকচারিং, যা চালিত হচ্ছে অটোমেশন, রোবোটিকস, ডাটা অ্যানালিটিকস, ইন্টারনেট অব থিংস (আইওটি) ও কৃত্রিম বুদ্ধিমত্তার (এআই) মাধ্যমে, যেটি এরই মধ্যেই জার্মানি, চীন, কোরিয়া, সিঙ্গাপুর, ভারত, যুক্তরাজ্য ও যুক্তরাষ্ট্রের শিল্পে আমূল পরিবর্তন এনেছে।]]></description>
-      <pubDate>Thu, 18 Sep 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="false">bb7c0633f4ac90b595bfb65dc6be2a7f</guid>
-    </item>
-    <item>
-      <title>বিকাশ-বিজ্ঞানচিন্তার উদ্যোগে রংপুর ও রাজশাহীতে বিজ্ঞান উৎসব</title>
-      <link>https://bonikbarta.com/economy/wRdIumHnxLgcKdcx/</link>
-      <description><![CDATA[বিকাশ ও বিজ্ঞানচিন্তার উদ্যোগে রংপুর ও রাজশাহীতে ‘বিজ্ঞান উৎসব’-এর আঞ্চলিক পর্ব অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Thu, 18 Sep 2025 20:53:06 GMT</pubDate>
-      <guid isPermaLink="false">9ca71567dbce6d48ab2121f5c9e29670</guid>
     </item>
   </channel>
 </rss>
