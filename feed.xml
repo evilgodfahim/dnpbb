@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 19 Sep 2025 11:19:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 11:39:25 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>শেষ হলো বাংলাদেশ-যুক্তরাষ্ট্র বিমানবাহিনীর যৌথ মহড়া</title>
+      <link>https://bonikbarta.com/bangladesh/8KdkCdNhsgWFf09O/</link>
+      <description><![CDATA[এ যৌথ অনুশীলনের মাধ্যমে দুই দেশের বিমান বাহিনী শুধু পেশাগত দক্ষতা ও অভিজ্ঞতা বিনিময়ই করবে না, বরং আন্তঃকার্যক্ষমতা বৃদ্ধি, কৌশলগত সহযোগিতা জোরদার এবং আস্থা ও বিশ্বাসের বন্ধনকে আরও সুদৃঢ় করবে।]]></description>
+      <pubDate>Fri, 19 Sep 2025 11:30:20 GMT</pubDate>
+      <guid isPermaLink="false">19c306bc02f87b7ffccd946895f9950c</guid>
+    </item>
     <item>
       <title>‘মিস ইউনিভার্স বাংলাদেশ ২০২৫’ হলেন মিথিলা</title>
       <link>https://bonikbarta.com/talkies/GbfiASo6kF0Y3Hrv/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">877084c3e8f16f7f4286207d7c222e30</guid>
     </item>
     <item>
-      <title>যাবজ্জীবন</title>
-      <link>https://bonikbarta.com/bangladesh/5o7yhAcRRzc7rIKj/</link>
-      <description><![CDATA[সিরাজগঞ্জের কামারখন্দে সুমাইয়া খাতুন নামে এক নারীকে হত্যার ঘটনায় দায়ের করা মামলায় তার স্বামী ইসমাইল হোসেনের যাবজ্জীবন কারাদণ্ড দিয়েছেন আদালত।]]></description>
-      <pubDate>Thu, 18 Sep 2025 21:55:37 GMT</pubDate>
-      <guid isPermaLink="false">d6f7191bab07d474499649f924cbf138</guid>
+      <title>শিক্ষা সহায়তা</title>
+      <link>https://bonikbarta.com/bangladesh/dBbb12pvk07rpMRe/</link>
+      <description><![CDATA[ঝরে পড়া শিশুদের স্কুলগামী করতে শিক্ষা সহায়তা কার্যক্রম বাস্তবায়ন করছে এনজিও সংস্থা আশা।]]></description>
+      <pubDate>Thu, 18 Sep 2025 21:54:02 GMT</pubDate>
+      <guid isPermaLink="false">3f6673bb0f20a7ae6e3a40c5cb6e0a95</guid>
     </item>
     <item>
       <title>ক্ষতিপূরণ</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[জনপ্রিয় সংগীতশিল্পী সোমনুর মনির কোনাল। এবার প্রথমবারের মতো নতুন ঘরানার গান নিয়ে আসছেন তিনি।]]></description>
       <pubDate>Thu, 18 Sep 2025 21:03:27 GMT</pubDate>
       <guid isPermaLink="false">16ebc68e312f2c79c810e8a6d729e119</guid>
-    </item>
-    <item>
-      <title>ব্যাংকের বন্ধকি সম্পদ ফরেনসিক অডিটের আওতায় আনা হোক</title>
-      <link>https://bonikbarta.com/editorial/tc4SHfLI4lL2o1Ij/</link>
-      <description><![CDATA[অন্তর্বর্তী সরকার দায়িত্ব নেয়ার পর দেশের ব্যাংক খাত সংস্কার ও পুনরুদ্ধারে নানা উদ্যোগ নিয়েছে। এর মধ্যে অন্যতম হলো বিভিন্ন ব্যাংককে ফরেনসিক অডিট, অ্যাসেট কোয়ালিটি রিভিউ (একিউআর) ও বিশেষ নিরীক্ষার আওতায় আনা।]]></description>
-      <pubDate>Thu, 18 Sep 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="false">5dcbf530f7ef971d288b023f4c7f57a4</guid>
     </item>
   </channel>
 </rss>
