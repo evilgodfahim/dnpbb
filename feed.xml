@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 20 Sep 2025 04:43:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 05:21:21 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>মেহেরপুরের কাজিপুর সীমান্ত দিয়ে ১৮ জনকে ফেরত দিয়েছে বিএসএফ</title>
+      <link>https://bonikbarta.com/bangladesh/qdabGfzQ7FgLAsv1/</link>
+      <description><![CDATA[দেশের বিভিন্ন সীমান্ত দিয়ে বাংলাদেশী নাগরিকরা অবৈধভাবে ভারতে প্রবেশের সময় ভারতীয় সীমান্তরক্ষী বাহিনীর হাতে ধরা পড়ে। পরে তাদের বিভিন্ন মেয়াদে সাজা ভোগ শেষে শুক্রবার রাত সাড়ে ১০টার দিকে পতাকা বৈঠকের মাধ্যমে বিএসএফ সদস্যরা বিজিবিকে হস্তান্তর করে।]]></description>
+      <pubDate>Sat, 20 Sep 2025 05:11:34 GMT</pubDate>
+      <guid isPermaLink="false">fe244384bf241674fca67c4049b06124</guid>
+    </item>
     <item>
       <title>'আত্মার গুহা' রক্ষায় কেনিয়ার চাসিমবা গ্রামবাসীর প্রতিরোধ</title>
       <link>https://bonikbarta.com/feature/aZ2urpAXTdeHef18/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">167bbae4171526b2d93fd9e5887c50eb</guid>
     </item>
     <item>
-      <title>১৫ বছরে বিশ্ববাণিজ্যের আকার প্রায় ৪০ শতাংশ বাড়াতে পারে এআই</title>
-      <link>https://bonikbarta.com/scitech/2W6i6BoEgHlc5Chj/</link>
-      <description><![CDATA[কৃত্রিম বুদ্ধিমত্তা (এআই) প্রযুক্তির প্রভাবে ২০৪০ সালের মধ্যে বিশ্বব্যাপী আর্থিক লেনদেন বা বিশ্ববাণিজ্যের আকার ৪০ শতাংশ পর্যন্ত বাড়তে পারে।]]></description>
-      <pubDate>Fri, 19 Sep 2025 20:40:00 GMT</pubDate>
-      <guid isPermaLink="false">1a93f74bbbf4028bbb967d459660f04a</guid>
+      <title>‘শিখতে পারা শেখা’ই হবে আগামীর প্রধান দক্ষতা</title>
+      <link>https://bonikbarta.com/scitech/jHFfFbjtdWvriFWN/</link>
+      <description><![CDATA[‘কীভাবে শিখতে হবে তা শিখতে পারাই’ হবে ভবিষ্যৎ প্রজন্মের সবচেয়ে গুরুত্বপূর্ণ দক্ষতা।]]></description>
+      <pubDate>Fri, 19 Sep 2025 20:38:52 GMT</pubDate>
+      <guid isPermaLink="false">04c4d47b9ae45f2174d52d98e924e200</guid>
     </item>
     <item>
       <title>কম শক্তির চিপ দিয়েই শীর্ষ টেক জায়ান্টদের পেছনে ফেলতে চায় হুয়াওয়ে</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[বস্ত্র খাতে তালিকাভুক্ত এনভয় টেক্সটাইলস লিমিটেডের শেয়ারদর গত সপ্তাহে ১৮ দশমিক ৬৮ শতাংশ বেড়েছে।]]></description>
       <pubDate>Fri, 19 Sep 2025 20:14:10 GMT</pubDate>
       <guid isPermaLink="false">a331cbb190396ea47ec93c2cc1b321a7</guid>
-    </item>
-    <item>
-      <title>মুন্সিগঞ্জে জমি কিনবে ক্রাউন সিমেন্ট</title>
-      <link>https://bonikbarta.com/economy/sDwzvrjf3lRZPOhi/</link>
-      <description><![CDATA[তালিকাভুক্ত কোম্পানি ক্রাউন সিমেন্ট পিএলসি মুন্সিগঞ্জের পশ্চিম মুক্তারপুরে ৩৩০ ডেসমেল জমি কেনার সিদ্ধান্ত নিয়েছে।]]></description>
-      <pubDate>Fri, 19 Sep 2025 20:14:10 GMT</pubDate>
-      <guid isPermaLink="false">4d525555b7be25c704648c091291bc9d</guid>
     </item>
   </channel>
 </rss>
