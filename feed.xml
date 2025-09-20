@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 20 Sep 2025 10:22:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 10:40:44 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>রুশ যুদ্ধবিমান আকাশসীমা লঙ্ঘন করায় ন্যাটোর পরামর্শ চাইল এস্তোনিয়া</title>
+      <link>https://bonikbarta.com/international/A0EJfK2rDKs0wnLY/</link>
+      <description><![CDATA[এস্তোনিয়ার পররাষ্ট্রমন্ত্রী মার্গুস টস্যাহকনা বলেন, চলতি বছরের শুরু থেকে এখন পর্যন্ত চারবার আমাদের আকাশসীমা লঙ্ঘন করেছে রাশিয়া। কিন্তু এবারের লঙ্ঘন অভূতপূর্বভাবে ঔদ্ধত্যপূর্ণ।]]></description>
+      <pubDate>Sat, 20 Sep 2025 10:36:43 GMT</pubDate>
+      <guid isPermaLink="false">a082dfcea9d35f1f57924d4939a6778d</guid>
+    </item>
     <item>
       <title>শিম্পাঞ্জিরাও কি অ্যালকোহল গ্রহণ করে</title>
       <link>https://bonikbarta.com/feature/7NpCGXbCCv2w4LFr/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">1e1bf9972be98a0cd09cd6cb8e7f29d1</guid>
     </item>
     <item>
-      <title>বস্ত্র বিতরণ</title>
-      <link>https://bonikbarta.com/bangladesh/xCtkP8o6elYhZ6RY/</link>
-      <description><![CDATA[চট্টগ্রামের মিরসরাইয়ে দুর্গা পূজা উপলক্ষে ক্ষুদ্র নৃ গোষ্ঠী পরিবারের মাঝে বস্ত্র বিতরণ করা হয়েছে।]]></description>
-      <pubDate>Fri, 19 Sep 2025 21:25:37 GMT</pubDate>
-      <guid isPermaLink="false">b72958edd809da2b87a54b18cca0023b</guid>
+      <title>১৪৪ ধারা জারি</title>
+      <link>https://bonikbarta.com/bangladesh/x7lx3EaGXsaeyTsc/</link>
+      <description><![CDATA[খুলনার দিঘলিয়া উপজেলায় বিএনপির দুই গ্রুপ একই স্থানে কর্মসূচি আহ্বান করায় ১৪৪ ধারা জারি করেছে স্থানীয় প্রশাসন।]]></description>
+      <pubDate>Fri, 19 Sep 2025 21:24:42 GMT</pubDate>
+      <guid isPermaLink="false">9f041cd44c6e84b1e0a654c8754aa4fb</guid>
     </item>
     <item>
       <title>নওগাঁ সীমান্ত দিয়ে ১৬ জনকে ঠেলে পাঠাল বিএসএফ</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[‘কীভাবে শিখতে হবে তা শিখতে পারাই’ হবে ভবিষ্যৎ প্রজন্মের সবচেয়ে গুরুত্বপূর্ণ দক্ষতা।]]></description>
       <pubDate>Fri, 19 Sep 2025 20:38:52 GMT</pubDate>
       <guid isPermaLink="false">04c4d47b9ae45f2174d52d98e924e200</guid>
-    </item>
-    <item>
-      <title>কম শক্তির চিপ দিয়েই শীর্ষ টেক জায়ান্টদের পেছনে ফেলতে চায় হুয়াওয়ে</title>
-      <link>https://bonikbarta.com/scitech/Rzvih2VLJsGdSNr9/</link>
-      <description><![CDATA[আগামী দুই বছরে বিশ্বের ‘সবচেয়ে শক্তিশালী’ কৃত্রিম বুদ্ধিমত্তা বা এআই কম্পিউটিং ক্লাস্টার আনার লক্ষ্য নিয়েছে চীনের হুয়াওয়ে টেকনোলজিস।]]></description>
-      <pubDate>Fri, 19 Sep 2025 20:36:04 GMT</pubDate>
-      <guid isPermaLink="false">4e4a6f4c6f1d46e6ad7f5fdc3c20a90e</guid>
     </item>
   </channel>
 </rss>
