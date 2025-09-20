@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 20 Sep 2025 15:20:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 15:39:11 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>চট্টগ্রাম বন্দরে নতুন মাশুল কার্যকর এক মাস পর: নৌপরিবহন উপদেষ্টা</title>
+      <link>https://bonikbarta.com/bangladesh/ZDamhjOQftBnUSTc/</link>
+      <description><![CDATA[উপদেষ্টা বলেন, ‘ট্যারিফ আরো এক মাস রিলিফ দেয়া হচ্ছে। চেয়ারম্যান সাহেবের সঙ্গে আমার কথা হয়েছে। তার পরামর্শেই আমরা কার্যকর করার সময় এক মাস পিছিয়ে দিলাম।’]]></description>
+      <pubDate>Sat, 20 Sep 2025 15:33:00 GMT</pubDate>
+      <guid isPermaLink="false">5a9dd0a13baa76fa2534bb05da91196b</guid>
+    </item>
     <item>
       <title>স্বর্ণের দাম ফের বাড়ল, কার্যকর রোববার</title>
       <link>https://bonikbarta.com/bangladesh/K0uAgFl7a5XlhuRr/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">8723a21abf89259ca0624799796d6aab</guid>
     </item>
     <item>
-      <title>জাতিসংঘে ইরানের ওপর নিষেধাজ্ঞা তুলে নেবার প্রস্তাব বাতিল</title>
-      <link>https://bonikbarta.com/international/0ndoAMIUlnbranpk/</link>
-      <description><![CDATA[জাতিসংঘের নিরাপত্তা পরিষদ ইরানের ওপর থাকা ‘অর্থনৈতিক নিষেধাজ্ঞা’ স্থায়ীভাবে তুলে নেওয়ার প্রস্তাব বাতিল করেছে। এর ফলে, ২৮ সেপ্টেম্বরের মধ্যে কোনো গুরুত্বপূর্ণ চুক্তি না হলে নিষেধাজ্ঞাগুলো পুনরায় কার্যকর হবে।]]></description>
-      <pubDate>Sat, 20 Sep 2025 09:50:40 GMT</pubDate>
-      <guid isPermaLink="false">176b842f056aeeba154bdeb4b84f1a1a</guid>
+      <title>রাশিয়ায় সবজি প্রদর্শনীতে ৯৬৯ কেজি ওজনের কুমড়া</title>
+      <link>https://bonikbarta.com/feature/0gtWbCe9nkeJsoVP/</link>
+      <description><![CDATA[মস্কো অঞ্চলের কৃষক আলেকজান্ডার চুসভ তার জমিতে চাষ করা ৯৬৯ কেজি ওজনের একটি বিশাল কুমড়া প্রদর্শন করে সেরা পুরস্কার জিতেছেন। এটি রাশিয়ায় সবচেয়ে বেশি ওজনের কুমড়ার নতুন রেকর্ড ‍সৃষ্টি করেছে।]]></description>
+      <pubDate>Sat, 20 Sep 2025 09:45:29 GMT</pubDate>
+      <guid isPermaLink="false">1518e3973a59d27429fb21951c4bb19a</guid>
     </item>
     <item>
       <title>কুমিল্লায় চুরির অভিযোগে যুবককে কুকুর লেলিয়ে নির্যাতন, আটক ৩</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[পূর্ব পাকিস্তান আমলে শুরু হওয়া স্বাস্থ্য ব্যবস্থা নিয়ে বাংলাদেশের পথচলা শুরু। স্বাধীনতার পর পরই বাংলাদেশের জনসংখ্যা ছিল সাড়ে সাত কোটি। এখন তা বেড়ে হয়েছে সাড়ে ১৭ কোটি।]]></description>
       <pubDate>Fri, 19 Sep 2025 22:00:00 GMT</pubDate>
       <guid isPermaLink="false">8e0cbb07c76a1e46186132e50723dfe0</guid>
-    </item>
-    <item>
-      <title>খাগড়াছড়ি ও রাঙ্গামাটিতে হামলার বিচার দাবিতে বিক্ষোভ</title>
-      <link>https://bonikbarta.com/bangladesh/uu7bX3fP6IFYyQ14/</link>
-      <description><![CDATA[খাগড়াছড়ি ও রাঙ্গামাটিতে ২০২৪ সালের ১৯ ও ২০ সেপ্টেম্বর হামলায় নিহতের প্রতিবাদ, জড়িতদের শাস্তি ও ক্ষতিগ্রস্তদের উপযুক্ত ক্ষতিপূরণের দাবিতে বিক্ষোভ সমাবেশ অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Fri, 19 Sep 2025 21:29:24 GMT</pubDate>
-      <guid isPermaLink="false">2014271ef63a4205940008cec0881325</guid>
     </item>
   </channel>
 </rss>
