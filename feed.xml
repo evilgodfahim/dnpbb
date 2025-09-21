@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 21 Sep 2025 04:27:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 04:43:57 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>যুক্তরাষ্ট্রে টিকটকের নিয়ন্ত্রণে আসছে আমেরিকানরা: হোয়াইট হাউস</title>
+      <link>https://bonikbarta.com/international/rlp9SSAWgcux4Urj/</link>
+      <description><![CDATA[হোয়াইট হাউসের প্রেস সেক্রেটারি ক্যারোলিন লেভিট ফক্স নিউজকে শনিবার জানান, যুক্তরাষ্ট্রে অ্যাপটির নিয়ন্ত্রণকারী বোর্ডে সাতটি আসন থাকবে, যার মধ্যে ছয়টি আসনই হবে আমেরিকানদের।]]></description>
+      <pubDate>Sun, 21 Sep 2025 04:29:04 GMT</pubDate>
+      <guid isPermaLink="false">0e8db62be60e0d4bcb73aa45b75a7616</guid>
+    </item>
     <item>
       <title>চেলসির বিরুদ্ধে স্বস্তির জয় ম্যানইউর, চাকরি বাঁচালেন আমোরিম</title>
       <link>https://bonikbarta.com/sports/ShBgDSHBgeozeGtt/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">632a70bcd27f9e13635bdf7594945546</guid>
     </item>
     <item>
-      <title>ল্যাপটপের জন্য ‘নজিরবিহীন’ চিপ আনছে এনভিডিয়া-ইন্টেল?</title>
-      <link>https://bonikbarta.com/scitech/8l1REZRScVLwr7t7/</link>
-      <description><![CDATA[প্রযুক্তি খাতে বড় ধরনের পরিবর্তন আনতে যাচ্ছে এনভিডিয়া ও ইন্টেল।]]></description>
-      <pubDate>Sat, 20 Sep 2025 21:02:36 GMT</pubDate>
-      <guid isPermaLink="false">374526ba9bbeea3f28324d3f710e3719</guid>
+      <title>জুলাইয়ে বৈশ্বিক সেমিকন্ডাক্টর বিক্রি বেড়েছে ২০.৬%</title>
+      <link>https://bonikbarta.com/scitech/w3f4lhlw5ynkhLpJ/</link>
+      <description><![CDATA[চলতি বছরের জুলাইয়ে বিশ্বব্যাপী সেমিকন্ডাক্টর খাতে বিক্রি বেড়েছে বার্ষিক হিসাবে ২০ দশমিক ৬ শতাংশ।]]></description>
+      <pubDate>Sat, 20 Sep 2025 21:01:14 GMT</pubDate>
+      <guid isPermaLink="false">acd35ba3b8423e60c1bff0df23bc140a</guid>
     </item>
     <item>
       <title>সিক্সজিতে প্রতিটি স্মার্টফোনে থাকবে স্যাটেলাইট সংযোগ: নকিয়া</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[পশ্চিম অস্ট্রেলিয়া থেকে দেশটির সবচেয়ে বেশি শস্য রফতানি করা হয়।]]></description>
       <pubDate>Sat, 20 Sep 2025 20:26:32 GMT</pubDate>
       <guid isPermaLink="false">9859dd276b679684a127e681cc625500</guid>
-    </item>
-    <item>
-      <title>হিলিতে শুকনা মরিচের দাম কমেছে</title>
-      <link>https://bonikbarta.com/economy/zSzCJYAdP6Qb6PC2/</link>
-      <description><![CDATA[সরবরাহ বাড়ায় সপ্তাহের ব্যবধানে দিনাজপুরের হিলিতে শুকনা মরিচের দাম কমেছে কেজিতে ৬০-৮০ টাকা।]]></description>
-      <pubDate>Sat, 20 Sep 2025 20:26:32 GMT</pubDate>
-      <guid isPermaLink="false">e789be74abddf0cbe486db328761e89e</guid>
     </item>
   </channel>
 </rss>
