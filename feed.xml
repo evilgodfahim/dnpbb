@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 22 Sep 2025 04:44:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 05:23:33 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ফিলিস্তিন রাষ্ট্রের স্বীকৃতিতে এল নতুন প্রশ্ন, নেতৃত্বে কে</title>
+      <link>https://bonikbarta.com/international/MPfXrRNWFcnlNdlF/</link>
+      <description><![CDATA[ফিলিস্তিনিদের কাছে সবচেয়ে জনপ্রিয় সম্ভাব্য নেতা হলেন মারওয়ান বারঘুতি। তিনি ২০০২ সাল থেকে ইসরায়েলি কারাগারে বন্দি রয়েছেন। সাম্প্রতিক এক জনমত জরিপে দেখা গেছে, ৫০% ফিলিস্তিনি বারঘুতিকে তাদের প্রেসিডেন্ট হিসেবে দেখতে চান।]]></description>
+      <pubDate>Mon, 22 Sep 2025 05:12:41 GMT</pubDate>
+      <guid isPermaLink="false">be3177d5edb82dc4be5c76905131ef83</guid>
+    </item>
     <item>
       <title>রাত থেকে বৃষ্টি, রাজধানীতে জলাবদ্ধতায় বেড়েছে জনদুর্ভোগ</title>
       <link>https://bonikbarta.com/bangladesh/mHCKBrcTMmQMeiGZ/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">59fadf327f97b1e6d285bca4655a3c8c</guid>
     </item>
     <item>
-      <title>মোবাইল ব্যাটারি নিয়ে প্রচলিত ৫ ভুল ধারণা</title>
-      <link>https://bonikbarta.com/scitech/ZZYh0KiFJ99y58lN/</link>
-      <description><![CDATA[মানবজীবনের অন্যতম সঙ্গী হয়ে উঠেছে মোবাইল ফোন। কিন্তু ফোনের চার্জ শেষ হয়ে যাওয়া অনেক সময় বড় ঝামেলার কারণ হয়।]]></description>
-      <pubDate>Sun, 21 Sep 2025 21:06:26 GMT</pubDate>
-      <guid isPermaLink="false">ef248956b82845fa942df350b2139ac5</guid>
+      <title>ইউআইইউতে গভর্নমেন্ট-একাডেমিয়া-ইন্ডাস্ট্রি কনক্লেভ অনুষ্ঠিত</title>
+      <link>https://bonikbarta.com/common-room/yyS39ZlcDLQQXAVQ/</link>
+      <description><![CDATA[ইউনাইটেড ইন্টারন্যাশনাল ইউনিভার্সিটি’তে (ইউআইইউ) ‘গভর্নমেন্ট-একাডেমিয়া-ইন্ডাস্ট্রি কনক্লেভ ২০২৫’ অনুষ্ঠিত হয়েছে।]]></description>
+      <pubDate>Sun, 21 Sep 2025 21:01:37 GMT</pubDate>
+      <guid isPermaLink="false">aaa4af7e1fd4caf21c7c6460d08e82a2</guid>
     </item>
     <item>
       <title>শিক্ষার্থীদের মানসিক সুস্থতায় উত্তরা ইউনিভার্সিটির মেন্টাল হেলথ ইউনিট</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[কৃত্রিম বুদ্ধিমত্তাভিত্তিক (এআই) প্রতিষ্ঠান ওপেনএআই এবার বড় পরিসরে হার্ডওয়্যার খাতে নামতে যাচ্ছে।]]></description>
       <pubDate>Sun, 21 Sep 2025 20:59:47 GMT</pubDate>
       <guid isPermaLink="false">a0a4c71b794d29db9b24e859e3eae999</guid>
-    </item>
-    <item>
-      <title>ঠিকাদার ও সরবরাহকারী প্রতিষ্ঠানের অর্থে সরকারি কর্মকর্তাদের বিদেশ ভ্রমণ</title>
-      <link>https://bonikbarta.com/bangladesh/Jhqmc3jNcrExObxn/</link>
-      <description><![CDATA[স্থানীয় সরকার বিভাগের যুগ্ম সচিব মাহবুবা আইরিন স্বাক্ষরিত একটি বিদেশ ভ্রমণের সরকারি আদেশ (জিও) জারি করা হয় ১৪ সেপ্টেম্বর।]]></description>
-      <pubDate>Sun, 21 Sep 2025 20:57:07 GMT</pubDate>
-      <guid isPermaLink="false">1f5b5e7ad1b2e255c44992d04007069b</guid>
     </item>
   </channel>
 </rss>
