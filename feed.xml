@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 22 Sep 2025 04:28:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 04:44:56 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>রাত থেকে বৃষ্টি, রাজধানীতে জলাবদ্ধতায় বেড়েছে জনদুর্ভোগ</title>
+      <link>https://bonikbarta.com/bangladesh/mHCKBrcTMmQMeiGZ/</link>
+      <description><![CDATA['জনবসতিপূর্ণ শহরে এমনিতেই প্রতিদিন দুর্ভোগ পোহাতে হয় দীর্ঘ যানজটের কারণে। আর সকাল থেকে এই টানা বৃষ্টির কারণে জলাবদ্ধতা, যানজট আরো দীর্ঘ হওয়া যেন শহুরে জীবনে এক বিভীষিকা।']]></description>
+      <pubDate>Mon, 22 Sep 2025 04:33:00 GMT</pubDate>
+      <guid isPermaLink="false">5526dc8d0f222b68e09e420f01504367</guid>
+    </item>
     <item>
       <title>ঢাকাসহ ৮ অঞ্চলে ঝড় ও বজ্রবৃষ্টির আভাস, নদীবন্দরে ১ নম্বর সতর্ক সংকেত</title>
       <link>https://bonikbarta.com/bangladesh/6JZHLKnMxSou7T4H/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">ef248956b82845fa942df350b2139ac5</guid>
     </item>
     <item>
-      <title>ইউআইইউতে গভর্নমেন্ট-একাডেমিয়া-ইন্ডাস্ট্রি কনক্লেভ অনুষ্ঠিত</title>
-      <link>https://bonikbarta.com/common-room/yyS39ZlcDLQQXAVQ/</link>
-      <description><![CDATA[ইউনাইটেড ইন্টারন্যাশনাল ইউনিভার্সিটি’তে (ইউআইইউ) ‘গভর্নমেন্ট-একাডেমিয়া-ইন্ডাস্ট্রি কনক্লেভ ২০২৫’ অনুষ্ঠিত হয়েছে।]]></description>
+      <title>শিক্ষার্থীদের মানসিক সুস্থতায় উত্তরা ইউনিভার্সিটির মেন্টাল হেলথ ইউনিট</title>
+      <link>https://bonikbarta.com/common-room/A2nhyNw3PLhgicdC/</link>
+      <description><![CDATA[বিশ্ববিদ্যালয় জীবন মানেই নতুন স্বপ্ন আর সম্ভাবনার হাতছানি। কিন্তু এ যাত্রাপথে শিক্ষার্থীদের সামনে আসে নানা ধরনের মানসিক চ্যালেঞ্জ।]]></description>
       <pubDate>Sun, 21 Sep 2025 21:01:37 GMT</pubDate>
-      <guid isPermaLink="false">aaa4af7e1fd4caf21c7c6460d08e82a2</guid>
+      <guid isPermaLink="false">d911f719af0d88dd02f887a8c7f9390e</guid>
     </item>
     <item>
       <title>মাটির হাজার ফুট গভীরে শিক্ষা সফর</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[স্থানীয় সরকার বিভাগের যুগ্ম সচিব মাহবুবা আইরিন স্বাক্ষরিত একটি বিদেশ ভ্রমণের সরকারি আদেশ (জিও) জারি করা হয় ১৪ সেপ্টেম্বর।]]></description>
       <pubDate>Sun, 21 Sep 2025 20:57:07 GMT</pubDate>
       <guid isPermaLink="false">1f5b5e7ad1b2e255c44992d04007069b</guid>
-    </item>
-    <item>
-      <title>অনলাইন তথ্য ফাঁসের ঘটনা এক বছরে বেড়েছে প্রায় আট গুণ</title>
-      <link>https://bonikbarta.com/scitech/pZHM3qi2IyLhFxAg/</link>
-      <description><![CDATA[প্রযুক্তি যখন কৃত্রিম বুদ্ধিমত্তা, ক্লাউড সার্ভিস ও ডিজিটাল ইকোসিস্টেমের মাধ্যমে নতুন উচ্চতায় পৌঁছেছে, ঠিক তখনই তথ্য ফাঁস বা ডাটা ব্রিচ বৈশ্বিক উদ্বেগে পরিণত হয়েছে।]]></description>
-      <pubDate>Sun, 21 Sep 2025 20:56:15 GMT</pubDate>
-      <guid isPermaLink="false">2e6b476929f2392b011a808514e4912a</guid>
     </item>
   </channel>
 </rss>
