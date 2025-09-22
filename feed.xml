@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 22 Sep 2025 07:24:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 07:40:44 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>মিষ্টির নাম লেডিকেনি</title>
+      <link>https://bonikbarta.com/feature/22oZ9oGRRR2PUYRA/</link>
+      <description><![CDATA[১৮৫৮ সালে লেডি ক্যানিং তার জন্মদিনে নতুন ধরণের মিষ্টি বানিয়ে খাওয়ানোর অনুরোধ করেছিলেন। ছানার মধ্যে অল্প ময়দা মিশিয়ে ভীমচন্দ্র নাগ লেডি ক্যানিংয়ের জন্য বানান নতুন একটি মিষ্টি।]]></description>
+      <pubDate>Mon, 22 Sep 2025 07:26:33 GMT</pubDate>
+      <guid isPermaLink="false">f9942525e26c126f98243c2f5af7abf5</guid>
+    </item>
     <item>
       <title>আব্রাহাম লিঙ্কনের ঐতিহাসিক দাসপ্রথা বিলুপ্তির প্রাথমিক ঘোষণা</title>
       <link>https://bonikbarta.com/feature/kyXJfilHfY4JkSDM/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">987bb6341868414cd2d31f1217f72b41</guid>
     </item>
     <item>
-      <title>কোথায় হারাল টেলিভিশন নাটকের সেই সোনালি অতীত?</title>
-      <link>https://bonikbarta.com/talkies/yM8Ajcl8pLogpyZG/</link>
-      <description><![CDATA[টেলিভিশন নাটক একসময় ছিল বিনোদনের অন্যতম প্রধান উৎস।]]></description>
-      <pubDate>Sun, 21 Sep 2025 21:29:44 GMT</pubDate>
-      <guid isPermaLink="false">4bb70c05bd2ce50c869a5275c9129ee0</guid>
+      <title>অভিনয়ে ফিরতে চান পূর্ণিমা</title>
+      <link>https://bonikbarta.com/talkies/PbxEXC0Z3PWrbcyl/</link>
+      <description><![CDATA[ঢালিউডের অন্যতম জনপ্রিয় অভিনেত্রী দিলারা হানিফ পূর্ণিমা। অনেক দিন ধরেই বড় পর্দা থেকে দূরে রয়েছেন তিনি।]]></description>
+      <pubDate>Sun, 21 Sep 2025 21:24:55 GMT</pubDate>
+      <guid isPermaLink="false">81345be78fee351ba4006171ce0e633b</guid>
     </item>
     <item>
       <title>অক্সফোর্ড বিশ্ববিদ্যালয়ে শিক্ষার্থী-কর্মচারীর জন্য চালু হলো চ্যাটজিপিটি এডু</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[জাপানের শীর্ষস্থানীয় বীমা এজেন্সি হোকেন মিনাওশি হোম্পো গ্রুপ অধিগ্রহণ করেছে বিনিয়োগ খাতের মার্কিন জায়ান্ট কেকেআর।]]></description>
       <pubDate>Sun, 21 Sep 2025 21:01:36 GMT</pubDate>
       <guid isPermaLink="false">f55cd57286b7ac070fe420a40768b9cd</guid>
-    </item>
-    <item>
-      <title>দুবাইয়ে চালু হচ্ছে বিশ্বের প্রথম ব্যক্তিগত রোবোকার</title>
-      <link>https://bonikbarta.com/economy/4IWk3NX3PR19bIrZ/</link>
-      <description><![CDATA[রোবোকার নিয়ে এতদিনকার সব আলাপ ছিল কোম্পানির অধীনে পরিচালিত বহরভিত্তিক।]]></description>
-      <pubDate>Sun, 21 Sep 2025 21:01:36 GMT</pubDate>
-      <guid isPermaLink="false">76d1385fe36b3b144793e9a51328fa42</guid>
     </item>
   </channel>
 </rss>
