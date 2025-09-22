@@ -6,7 +6,7 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 22 Sep 2025 03:52:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 04:28:29 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <item>
       <title>ঢাকাসহ ৮ অঞ্চলে ঝড় ও বজ্রবৃষ্টির আভাস, নদীবন্দরে ১ নম্বর সতর্ক সংকেত</title>
@@ -219,13 +219,6 @@
       <guid isPermaLink="false">d5ed092c16d049c26ca6000a4d28171e</guid>
     </item>
     <item>
-      <title>ক্যারিয়ার গড়তে অনন্য তড়ি=ৎ ও ইলেকট্রনিক প্রকৌশল</title>
-      <link>https://bonikbarta.com/common-room/DJRFjh4nBwpYDggP/</link>
-      <description><![CDATA[ইলেকট্রিক্যাল অ্যান্ড ইলেকট্রনিক ইঞ্জিনিয়ারিং, সংক্ষেপে ইইই, শুধু একটি বিভাগ নয়—এটি আধুনিক সভ্যতার চালিকাশক্তি।]]></description>
-      <pubDate>Sun, 21 Sep 2025 21:01:37 GMT</pubDate>
-      <guid isPermaLink="false">eb52267eb15129fdc454aec597d6527a</guid>
-    </item>
-    <item>
       <title>সুস্থ রাখতে জরুরি স্বাস্থ্যকর খাদ্যাভ্যাস</title>
       <link>https://bonikbarta.com/healthcare/HR9Md5IEj16Y1gKn/</link>
       <description><![CDATA[লিভারকে সুস্থ রাখার জন্য স্বাস্থ্যকর জীবনযাপন অনেক গুরুত্বপূর্ণ। কিছু খাবার বা অভ্যাস এড়িয়ে চললে লিভার সুস্থ রাখা সম্ভব।]]></description>
@@ -336,6 +329,13 @@
       <description><![CDATA[চীনে চাকরির বাজারে প্রযুক্তিগত দক্ষতার চাহিদা বাড়ায় বিশ্ববিদ্যালয় স্নাতকরা নতুন করে ভোকেশনাল স্কুলে ভর্তি হচ্ছেন।]]></description>
       <pubDate>Sun, 21 Sep 2025 21:01:36 GMT</pubDate>
       <guid isPermaLink="false">16a9379d311a63113fd5f65328d5fab9</guid>
+    </item>
+    <item>
+      <title>ক্যারিয়ার গড়তে অনন্য তড়িৎ ও ইলেকট্রনিক প্রকৌশল</title>
+      <link>https://bonikbarta.com/common-room/DJRFjh4nBwpYDggP/</link>
+      <description><![CDATA[ইলেকট্রিক্যাল অ্যান্ড ইলেকট্রনিক ইঞ্জিনিয়ারিং, সংক্ষেপে ইইই, শুধু একটি বিভাগ নয়—এটি আধুনিক সভ্যতার চালিকাশক্তি।]]></description>
+      <pubDate>Sun, 21 Sep 2025 21:01:00 GMT</pubDate>
+      <guid isPermaLink="false">5d4c1c5eeff222785fa3b86f5052d6d0</guid>
     </item>
     <item>
       <title>অ্যাপলের বিশেষজ্ঞরা যোগ দিচ্ছেন ওপেনএআইয়ে আসছে নতুন হার্ডওয়্যার</title>
