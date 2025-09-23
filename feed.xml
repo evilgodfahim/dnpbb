@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 23 Sep 2025 04:45:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 05:22:35 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>প্রধান উপদেষ্টার সঙ্গে বেলজিয়ামের রানির সাক্ষাৎ</title>
+      <link>https://bonikbarta.com/bangladesh/2mmNQ2CS8J4FiHUG/</link>
+      <description><![CDATA[এছাড়াও, আন্তর্জাতিক মুদ্রা তহবিলের (আইএমএফ) ব্যবস্থাপনা পরিচালক ক্রিস্টালিনা জর্জিয়েভা বাংলাদেশের প্রধান উপদেষ্টার সঙ্গে জাতিসংঘ সদর দপ্তরে সাক্ষাৎ করেন।]]></description>
+      <pubDate>Tue, 23 Sep 2025 05:06:09 GMT</pubDate>
+      <guid isPermaLink="false">a7fc2b7a7ddc6dbf94e5100072796015</guid>
+    </item>
     <item>
       <title>এবার ‘পূর্ণাঙ্গ শাটডাউন’ কর্মসূচির ঘোষণা জাতীয়তাবাদী শিক্ষক ফোরামের</title>
       <link>https://bonikbarta.com/bangladesh/oIQSKtTcNDPXHVIV/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">b4c728611b1b376414372a07158f2ece</guid>
     </item>
     <item>
-      <title>চার বছরে বিশ্বব্যাপী স্মার্টফোনের গড় বিক্রিমূল্য বাড়বে ১১%-এর বেশি</title>
-      <link>https://bonikbarta.com/scitech/uHz4gup1BrraTCHc/</link>
-      <description><![CDATA[বিশ্বব্যাপী স্মার্টফোন বাজারে গড় ক্রয়মূল্য (এএসপি) আগামী কয়েক বছরে বাড়ার সম্ভাবনা রয়েছে।]]></description>
+      <title>‘রাক্ষস’-এ সিয়ামের নায়িকা সাবিলা নূর</title>
+      <link>https://bonikbarta.com/talkies/t9KG9ePld9MIKiCp/</link>
+      <description><![CDATA[বর্তমান প্রজন্মের জনপ্রিয় অভিনেতা সিয়াম আহমেদকে নিয়ে নতুন একটি সিনেমা নির্মাণ করছেন তরুণ নির্মাতা মেহেদী হাসান হৃদয়।]]></description>
       <pubDate>Mon, 22 Sep 2025 20:45:25 GMT</pubDate>
-      <guid isPermaLink="false">4ede874f0f487520f1919a8414c42aba</guid>
+      <guid isPermaLink="false">db26d0b7018d6bf1b719b13e214bc064</guid>
     </item>
     <item>
       <title>ফরেনসিক অডিট জবাবদিহির নতুন উপায়</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[আন্তর্জাতিক বাজারে গতকাল অপরিশোধিত জ্বালানি তেলের দাম প্রায় অপরিবর্তিত ছিল।]]></description>
       <pubDate>Mon, 22 Sep 2025 20:45:17 GMT</pubDate>
       <guid isPermaLink="false">f67c124ff9d6586ffc540252f58102d4</guid>
-    </item>
-    <item>
-      <title>চীনের চাহিদায় বেড়েছে আকরিক লোহার দাম</title>
-      <link>https://bonikbarta.com/economy/Rtrsz2rbGRsjx0Tl/</link>
-      <description><![CDATA[চীনের নির্মাণ খাতের প্রবৃদ্ধিতে ইস্পাতের চাহিদা বেড়েছে। এর প্রভাব পড়েছে আকরিক লোহার দামে।]]></description>
-      <pubDate>Mon, 22 Sep 2025 20:45:16 GMT</pubDate>
-      <guid isPermaLink="false">e4985ec272ae608de06bf0bdcf241794</guid>
     </item>
   </channel>
 </rss>
