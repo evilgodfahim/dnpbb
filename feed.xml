@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 23 Sep 2025 05:22:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 05:42:21 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>রাত জেগে গেম খেলা কিশোর থেকে ব্যালন ডি’অর জয়ী তারকা: দেম্বেলের রূপান্তরের গল্প</title>
+      <link>https://bonikbarta.com/sports/1fuD1UTg5xdNSFiO/</link>
+      <description><![CDATA[এমবাপ্পের রিয়াল মাদ্রিদে চলে যাওয়াটা দেম্বেলের জন্য ছিল এক নতুন অধ্যায়ের সূচনা। এই পরিবর্তনের পর কোচ লুইস এনরিকে তাকে বলেন, ‘আমরা এখন তোমার কাছ থেকে গোল চাই এবং আমরা চাই তুমি আরো বেশি আত্মবিশ্বাসী হও।‘]]></description>
+      <pubDate>Tue, 23 Sep 2025 05:29:12 GMT</pubDate>
+      <guid isPermaLink="false">36b0f1c8e41267d93828b74fd48d5f95</guid>
+    </item>
     <item>
       <title>প্রধান উপদেষ্টার সঙ্গে বেলজিয়ামের রানির সাক্ষাৎ</title>
       <link>https://bonikbarta.com/bangladesh/2mmNQ2CS8J4FiHUG/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">f62c3b4d145ded0f84d4143ce3076160</guid>
     </item>
     <item>
-      <title>টিকটকের মার্কিন অংশীদারত্বে আসছেন ফক্স, ওরাকল ও ডেলের শীর্ষ ব্যক্তিরা</title>
-      <link>https://bonikbarta.com/scitech/0cGYH6etTdcpwUrT/</link>
-      <description><![CDATA[টিকটক সচল রাখতে প্রস্তাবিত চুক্তিতে যুক্তরাষ্ট্র থেকে বিনিয়োগকারী হিসেবে কয়েকজন প্রভাবশালী ব্যবসায়ী ও মিডিয়া ব্যক্তিত্ব সম্পৃক্ত থাকবেন বলে জানিয়েছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।]]></description>
+      <title>চার বছরে বিশ্বব্যাপী স্মার্টফোনের গড় বিক্রিমূল্য বাড়বে ১১%-এর বেশি</title>
+      <link>https://bonikbarta.com/scitech/uHz4gup1BrraTCHc/</link>
+      <description><![CDATA[বিশ্বব্যাপী স্মার্টফোন বাজারে গড় ক্রয়মূল্য (এএসপি) আগামী কয়েক বছরে বাড়ার সম্ভাবনা রয়েছে।]]></description>
       <pubDate>Mon, 22 Sep 2025 20:45:25 GMT</pubDate>
-      <guid isPermaLink="false">b4c728611b1b376414372a07158f2ece</guid>
+      <guid isPermaLink="false">4ede874f0f487520f1919a8414c42aba</guid>
     </item>
     <item>
       <title>‘রাক্ষস’-এ সিয়ামের নায়িকা সাবিলা নূর</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[আগামী কয়েক সপ্তাহে পাম অয়েলের দাম টনপ্রতি ৪ হাজার ২০০ থেকে ৪ হাজার ৫০০ রিঙ্গিতের মধ্যে থাকার পূর্বাভাস দিয়েছে মালয়েশিয়ান পাম অয়েল কাউন্সিল (এমপিওসি)।]]></description>
       <pubDate>Mon, 22 Sep 2025 20:45:17 GMT</pubDate>
       <guid isPermaLink="false">3186fb3bbd31b8cb1ec35b8082dce87a</guid>
-    </item>
-    <item>
-      <title>বিশ্ববাজারে স্থিতিশীল জ্বালানি তেলের মূল্য</title>
-      <link>https://bonikbarta.com/economy/i23OQZT54QB8w2T9/</link>
-      <description><![CDATA[আন্তর্জাতিক বাজারে গতকাল অপরিশোধিত জ্বালানি তেলের দাম প্রায় অপরিবর্তিত ছিল।]]></description>
-      <pubDate>Mon, 22 Sep 2025 20:45:17 GMT</pubDate>
-      <guid isPermaLink="false">f67c124ff9d6586ffc540252f58102d4</guid>
     </item>
   </channel>
 </rss>
