@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 24 Sep 2025 03:48:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 04:27:42 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>সুপার টাইফুন রাগাসা: তাইওয়ানে নিহত ১৪, হংকং ও দক্ষিণ চীনে সর্বোচ্চ সতর্কতা</title>
+      <link>https://bonikbarta.com/international/5JdAKtAmFV1yAyC6/</link>
+      <description><![CDATA[অন্তত ১৪ জনের মরদেহ উদ্ধার করা হয়েছে এবং আরো ১৮ জন আহত হয়েছেন। উদ্ধারকারী দলগুলো এখনো নিখোঁজদের খোঁজে তল্লাশি চালাচ্ছে। তাইওয়ানের দমকল বিভাগ জানিয়েছে, হুয়ালিয়েন কাউন্টিতে এখনো ১২৪ জন নিখোঁজ রয়েছেন।]]></description>
+      <pubDate>Wed, 24 Sep 2025 03:56:00 GMT</pubDate>
+      <guid isPermaLink="false">7fdfc2fa75bcc4d35bb996183ec62a70</guid>
+    </item>
     <item>
       <title>জাতিসংঘের সদর দপ্তরে বিশ্ব নেতাদের সঙ্গে প্রধান উপদেষ্টার বৈঠক</title>
       <link>https://bonikbarta.com/bangladesh/OMNO6IQYIP1XChPM/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">5fe857ceddc9552dacfe703f9ebf24d7</guid>
     </item>
     <item>
-      <title>মোনাকো ইয়ট শোয় অংশ নেবে ১০৭ মিটার দৈর্ঘ্যের মার</title>
-      <link>https://bonikbarta.com/economy/vHg7T4aDzRixut91/</link>
-      <description><![CDATA[বিশ্বের অন্যতম দীর্ঘ সুপারইয়ট মার। এবারের মোনাকোর ইয়ট শোর অন্যতম আকর্ষণ হতে যাচ্ছে ১০৭ মিটার লম্বা এ নৌযান।]]></description>
+      <title>দক্ষ বিদেশী কর্মীদের ভিসা ফি কমাচ্ছে যুক্তরাজ্য</title>
+      <link>https://bonikbarta.com/economy/gpI0Ei0C9LqJ2KNq/</link>
+      <description><![CDATA[যুক্তরাষ্ট্রের শীর্ষ বিজ্ঞানীদের কর্মসংস্থান ও বসবাসে আগ্রহী করতে নতুন প্রস্তাব দিচ্ছে ব্রিটিশ সরকার।]]></description>
       <pubDate>Tue, 23 Sep 2025 20:54:59 GMT</pubDate>
-      <guid isPermaLink="false">c2d5978b9f3c591a22cd593505fc605c</guid>
+      <guid isPermaLink="false">ae6d514d3f1e915937eba8c82aaa39c3</guid>
     </item>
     <item>
       <title>বিশ্বের সূক্ষ্মতম উল তৈরির দৌড়ে ফ্যাশন ব্র্যান্ডগুলো</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[দেশের বাজারে আবারো বাড়ানো হয়েছে স্বর্ণের দাম। নতুন নির্ধারিত দাম অনুসারে, ২২ ক্যারেটের এক ভরি স্বর্ণের দাম ১ লাখ ৯৪ হাজার ৮৫৯ টাকা। গতকাল রাতে এক বিজ্ঞপ্তিতে এ তথ্য জানিয়েছে বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন (বাজুস)। আজ নতুন এ দাম কার্যকর হবে।]]></description>
       <pubDate>Tue, 23 Sep 2025 20:54:50 GMT</pubDate>
       <guid isPermaLink="false">6282654b263fb03343921f0a6c27c4bd</guid>
-    </item>
-    <item>
-      <title>আগুন নেভাতে গিয়ে দগ্ধ ফায়ার ফাইটার শামীম আহমেদের মৃত্যু</title>
-      <link>https://bonikbarta.com/bangladesh/ZUaF8osNHODE0Qku/</link>
-      <description><![CDATA[গাজীপুরের টঙ্গিতে কেমিক্যাল গোডাউনে বিস্ফোরণের ঘটনায় দগ্ধ ফায়ার ফাইটার শামীম আহমেদ চিকিৎসাধীন অবস্থায় মারা গেছেন। তিনি টঙ্গী ফায়ার স্টেশনে কর্মরত ছিলেন।]]></description>
-      <pubDate>Tue, 23 Sep 2025 20:54:50 GMT</pubDate>
-      <guid isPermaLink="false">2371830fcb4d08545ea0fdc0ef87646a</guid>
     </item>
   </channel>
 </rss>
