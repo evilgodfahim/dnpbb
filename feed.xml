@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 24 Sep 2025 01:50:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 03:02:30 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>এলডিসি থেকে উত্তরণে ডব্লিউটিওর সহায়তা চাইলেন প্রধান উপদেষ্টা</title>
+      <link>https://bonikbarta.com/bangladesh/CYRVz7aH6Fsvb8vO/</link>
+      <description><![CDATA[অধ্যাপক ইউনূস আসন্ন ডব্লিউটিও মন্ত্রী পর্যায়ের সম্মেলনে ডব্লিউটিও মহাপরিচালকের সক্রিয় ভূমিকা কামনা করেন, যাতে এলডিসি থেকে উত্তরণ প্রত্যাশী দেশগুলো উন্নত বাজারে বিদ্যমান বাণিজ্য সুবিধা বা শুল্কমুক্ত প্রবেশাধিকার প্রত্যাহারের ফলে নেতিবাচকভাবে ক্ষতিগ্রস্ত না হয়।]]></description>
+      <pubDate>Wed, 24 Sep 2025 02:46:35 GMT</pubDate>
+      <guid isPermaLink="false">f98d448810b4dd0357e780c04ed46256</guid>
+    </item>
     <item>
       <title>চুক্তিভিত্তিক নিয়োগ জনপ্রশাসনে ক্ষোভ হতাশা ও বিশৃঙ্খলা সৃষ্টির কারণ</title>
       <link>https://bonikbarta.com/editorial/mPbyC3JDpFPtcrcJ/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">ae6d514d3f1e915937eba8c82aaa39c3</guid>
     </item>
     <item>
-      <title>বিশ্বের সূক্ষ্মতম উল তৈরির দৌড়ে ফ্যাশন ব্র্যান্ডগুলো</title>
-      <link>https://bonikbarta.com/economy/sVd5QJFcvkBlHyrk/</link>
-      <description><![CDATA[কাপড় তৈরির উলের তন্তু কতটা সূক্ষ্ম, এ নিয়ে পুরুষদের বিলাসবহুল ফ্যাশনে তুমুল প্রতিযোগিতা চলছে।]]></description>
+      <title>‘মার্কিন অর্থনীতির জন্য সবচেয়ে বড় হুমকি হয়ে উঠছে গণতান্ত্রিক অবক্ষয়’</title>
+      <link>https://bonikbarta.com/economy/hxcNs7UuJWko3smO/</link>
+      <description><![CDATA[সংশোধিত পরিসংখ্যানের সঙ্গে দ্বিমত রয়েছে প্রশাসনের শীর্ষ কর্তার। তাই চাকরি থেকে বরখাস্ত হয়েছেন যুক্তরাষ্ট্রের শীর্ষ অর্থনৈতিক পরিসংখ্যানবিদ।]]></description>
       <pubDate>Tue, 23 Sep 2025 20:54:59 GMT</pubDate>
-      <guid isPermaLink="false">0b9a098fc34e58a8002264a55ee68248</guid>
+      <guid isPermaLink="false">7e8f71bdb9ea9b74a1d9cd919cb00370</guid>
     </item>
     <item>
       <title>বিসিবির খসড়া ভোটার তালিকা প্রকাশ</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[দেশের প্রাচীনতম বিশ্ববিদ্যালয় ঢাকা বিশ্ববিদ্যালয়। শতবর্ষী এ প্রতিষ্ঠানকে বলা হয় ‘প্রাচ্যের অক্সফোর্ড’। বিশ্ববিদ্যালয়টি থেকে স্নাতক-স্নাতকোত্তর ডিগ্রি নেয়া শামসুল ইসলাম (ছদ্মনাম) সম্প্রতি সিঙ্গাপুরে এমপ্লয়মেন্ট পাস নবায়নের আবেদন করেছিলেন।]]></description>
       <pubDate>Tue, 23 Sep 2025 20:54:40 GMT</pubDate>
       <guid isPermaLink="false">087744ec506299ed956cf1b715dba3be</guid>
-    </item>
-    <item>
-      <title>ঋণ বিতরণ প্রায় বন্ধ ভেঙে পড়েছে শৃঙ্খলা</title>
-      <link>https://bonikbarta.com/bangladesh/9ouMXfdL4jJW6p3v/</link>
-      <description><![CDATA[অর্থনৈতিক স্থবিরতার পাশাপাশি দেশের বেসরকারি খাতে চলছে নজিরবিহীন ঋণ খরা। ঋণ বিতরণ তো দূরের কথা বেসরকারি অনেক ব্যাংক এখন গ্রাহকদের আমানতের অর্থও ফেরত দিতে পারছে না।]]></description>
-      <pubDate>Tue, 23 Sep 2025 20:53:14 GMT</pubDate>
-      <guid isPermaLink="false">600cea0f899d8be6263050537ba956c9</guid>
     </item>
   </channel>
 </rss>
