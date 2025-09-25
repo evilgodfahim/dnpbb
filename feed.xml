@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 25 Sep 2025 09:25:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 09:42:52 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>আজ পাকিস্তানকে হারালেই ফাইনালে বাংলাদেশ, হারলে কিংবা ম্যাচ পরিত্যক্ত হলে বিদায়</title>
+      <link>https://bonikbarta.com/sports/TMKb9ztuNH0kkenn/</link>
+      <description><![CDATA[২ ম্যাচ শেষে ২ পয়েন্ট পাওয়া পাকিস্তানের নিট রানরেট ০.২২৬। আর ভারতের কাছে ৪১ রানে হেরে যাওয়ায় বাংলাদেশ নিট রানরেটে বেশ পিছিয়ে পড়েছে। টাইগারদের নিট রানরেট -০.৯৬৯। টানা দুই ম্যাচেই হেরে যাওয়া শ্রীলংকার আর কোনো সুযোগ নেই। তারা শুক্রবার আনুষ্ঠানিকতার ম্যাচে ভারতের মুখোমুখি হবে।]]></description>
+      <pubDate>Thu, 25 Sep 2025 09:38:00 GMT</pubDate>
+      <guid isPermaLink="false">343c057b0d3b2e09bb7695076affdcca</guid>
+    </item>
     <item>
       <title>দুর্গাপূজায় ৮ দিন বন্ধ থাকবে সোনামসজিদ স্থলবন্দর</title>
       <link>https://bonikbarta.com/bangladesh/KcEaLmOQ6H2rOfO5/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">dbd332872aff4d5585e03df277c2beac</guid>
     </item>
     <item>
-      <title>বেসরকারি খাতে পুঁজির চাহিদা শূন্যের কোটায়</title>
-      <link>https://bonikbarta.com/bangladesh/Lok423ronN9PGK6z/</link>
-      <description><![CDATA[দেশে নতুন বিনিয়োগ কার্যত থমকে গেছে। শিল্প ও ব্যবসা খাতে প্রত্যাশিত বিনিয়োগ না আসায় সামগ্রিক অর্থনীতিও এখন বেশ স্থবির। রুটিন কর্মকাণ্ডের বাইরে কোনো উন্নয়ন প্রকল্পে যাচ্ছে না সরকার।]]></description>
-      <pubDate>Wed, 24 Sep 2025 21:24:00 GMT</pubDate>
-      <guid isPermaLink="false">3c044371287a7dce8f6de990ecefc418</guid>
+      <title>সাতক্ষীরায় ৫ লাখ শিশু বিনামূল্যে টাইফয়েডের টিকা পাবে</title>
+      <link>https://bonikbarta.com/bangladesh/H5XWSTLXjdbhagYu/</link>
+      <description><![CDATA[আগামী ১২ অক্টোবর থেকে সারা দেশে শুরু হচ্ছে টাইফয়েডের টিকাদান কর্মসূচি।]]></description>
+      <pubDate>Wed, 24 Sep 2025 20:57:19 GMT</pubDate>
+      <guid isPermaLink="false">c522b0fda97c2687213d9fe982e3b9df</guid>
     </item>
     <item>
       <title>মানববন্ধন</title>
@@ -350,14 +357,6 @@
       <description><![CDATA[বাবার সম্পর্কে কথা বলা যথেষ্ট কঠিন, কারণ তিনি অনেক বড় মাপের মানুষ ছিলেন। সেটা মানুষের কাছ থেকে শুনে এবং তিনি চলে যাওয়ার পর আরো বেশি করে উপলব্ধি করেছি। জীবনে সফল হতে হলে যে ধরনের গুণ ও প্রকৃতি থাকা দরকার, এগুলো সবসময় বাবার ছিল।]]></description>
       <pubDate>Wed, 24 Sep 2025 20:25:47 GMT</pubDate>
       <guid isPermaLink="false">f05ab2e85fa4cd4c9120b85b6394c3b2</guid>
-    </item>
-    <item>
-      <title>কালপুরুষ : স্যামসন এইচ চৌধুরী</title>
-      <link>https://bonikbarta.com/magazine/samsonhchowdhury/HMhOCeq6W8UU6Chs/</link>
-      <description><![CDATA[ ২৫ সেপ্টেম্বর ১৯২৫: গোপালগঞ্জের আড়ুয়াকান্দিতে জন্মগ্রহণ করেন।
- ১৯৩০: চাঁদপুরের একটি মিশন স্কুলে পড়াশোনা শুরু করেন।]]></description>
-      <pubDate>Wed, 24 Sep 2025 20:25:47 GMT</pubDate>
-      <guid isPermaLink="false">ad37ac6dacc59110bd4a55b6b5d6f3a6</guid>
     </item>
   </channel>
 </rss>
