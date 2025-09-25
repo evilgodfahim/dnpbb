@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 25 Sep 2025 03:04:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 03:49:51 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>প্রধান উপদেষ্টার সঙ্গে পাকিস্তানের প্রধানমন্ত্রীর বৈঠক</title>
+      <link>https://bonikbarta.com/bangladesh/NfsdYS7K84YrXJPS/</link>
+      <description><![CDATA[এছাড়া এদিন প্রধান উপদেষ্টা ইতালির প্রধানমন্ত্রী জর্জিয়া মেলেনি, ফিনল্যান্ডের প্রেসিডেন্ট আলেক্সান্ডার স্টবের সঙ্গে সাইডলাইনে বৈঠক করেন]]></description>
+      <pubDate>Thu, 25 Sep 2025 03:06:45 GMT</pubDate>
+      <guid isPermaLink="false">96c06d5c7d1723da6ecc8751c08e6963</guid>
+    </item>
     <item>
       <title>কখনোই পারমাণবিক বোমা তৈরি না করার প্রতিশ্রুতি ইরানের প্রেসিডেন্টের</title>
       <link>https://bonikbarta.com/international/ByMNFjlSaEgzrnSS/</link>
@@ -205,11 +212,12 @@
       <guid isPermaLink="false">9aa3c728314064933437317888198578</guid>
     </item>
     <item>
-      <title>মানুষের প্রতি ভালোবাসা দিয়েই তিনি ব্যবসা এগিয়ে নিয়েছিলেন</title>
-      <link>https://bonikbarta.com/magazine/samsonhchowdhury/SwNIBUN52B67bEtq/</link>
-      <description><![CDATA[বাবার সম্পর্কে কথা বলা যথেষ্ট কঠিন, কারণ তিনি অনেক বড় মাপের মানুষ ছিলেন। সেটা মানুষের কাছ থেকে শুনে এবং তিনি চলে যাওয়ার পর আরো বেশি করে উপলব্ধি করেছি। জীবনে সফল হতে হলে যে ধরনের গুণ ও প্রকৃতি থাকা দরকার, এগুলো সবসময় বাবার ছিল।]]></description>
+      <title>কালপুরুষ : স্যামসন এইচ চৌধুরী</title>
+      <link>https://bonikbarta.com/magazine/samsonhchowdhury/HMhOCeq6W8UU6Chs/</link>
+      <description><![CDATA[ ২৫ সেপ্টেম্বর ১৯২৫: গোপালগঞ্জের আড়ুয়াকান্দিতে জন্মগ্রহণ করেন।
+ ১৯৩০: চাঁদপুরের একটি মিশন স্কুলে পড়াশোনা শুরু করেন।]]></description>
       <pubDate>Wed, 24 Sep 2025 20:25:47 GMT</pubDate>
-      <guid isPermaLink="false">f05ab2e85fa4cd4c9120b85b6394c3b2</guid>
+      <guid isPermaLink="false">ad37ac6dacc59110bd4a55b6b5d6f3a6</guid>
     </item>
     <item>
       <title>গুগলের ডিজিটাল বিজ্ঞাপন ব্যবসা ভেঙে দিতে চায় যুক্তরাষ্ট্র</title>
@@ -350,13 +358,6 @@
       <description><![CDATA[বাংলাদেশের কমিউনিস্ট পার্টির (সিপিবি) নতুন সভাপতি নির্বাচিত হয়েছেন কাজী সাজ্জাদ জহির চন্দন আর সাধারণ সম্পাদক হয়েছেন আবদুল্লাহ ক্বাফী রতন।]]></description>
       <pubDate>Wed, 24 Sep 2025 20:25:37 GMT</pubDate>
       <guid isPermaLink="false">28d7e34617e8915b7df14e5d76970eaf</guid>
-    </item>
-    <item>
-      <title>স্থগিতাদেশ শেষে ফিরলেন কিমেল</title>
-      <link>https://bonikbarta.com/talkies/HiSrkSNucbL1Ch53/</link>
-      <description><![CDATA[স্থগিতাদেশ শেষে মঞ্চে ফিরলেন জিমি কিমেল।]]></description>
-      <pubDate>Wed, 24 Sep 2025 20:25:30 GMT</pubDate>
-      <guid isPermaLink="false">4e48aef1a44de124300ad0c0e53fac05</guid>
     </item>
   </channel>
 </rss>
