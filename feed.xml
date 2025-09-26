@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 26 Sep 2025 17:40:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 18:31:46 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>বিতর্কিত ১৫ ক্লাব নিয়ে চূড়ান্ত ভোটার তালিকা প্রকাশ</title>
+      <link>https://bonikbarta.com/sports/tCxCjR2VSUdCLEFO/</link>
+      <description><![CDATA[নির্বাচনে বিভাগীয় ক্রীড়া সংস্থা ও জেলা ক্রীড়া সংস্থার ৭১ জন; প্রিমিয়ার ডিভিশন, প্রথম বিভাগ লিগ, দ্বিতীয় বিভাগ লিগ ও তৃতীয় বিভাগ লিগের প্রতিনিধি হিসেবে ৭৬ জন এবং বিভিন্ন সংস্থার ৪৫ জন কাউন্সিলর ভোট দেবেন।]]></description>
+      <pubDate>Fri, 26 Sep 2025 17:53:03 GMT</pubDate>
+      <guid isPermaLink="false">dfc59bfe0d6d4259c8d56109a2bf5a14</guid>
+    </item>
     <item>
       <title>জাতিসংঘে নেতানিয়াহুর ভাষণ বয়কট বিভিন্ন দেশের প্রতিনিধিদের</title>
       <link>https://bonikbarta.com/international/MX1CTJtcsTpn8Vrv/</link>
@@ -206,11 +213,11 @@
       <guid isPermaLink="false">d83cb8a63e3ddb58dc529247e2b90df1</guid>
     </item>
     <item>
-      <title>নেতানিয়াহুর প্রবেশ নিষিদ্ধ করল স্লোভেনিয়া</title>
-      <link>https://bonikbarta.com/international/y7ndQwugmrXLcwy9/</link>
-      <description><![CDATA[নেতানিয়াহুর পাশাপাশি এর আগেই ইসরায়েলের জাতীয় নিরাপত্তা মন্ত্রী ইতামার বেন-গভির এবং অর্থমন্ত্রী বেজালেল স্মোট্রিচের বিরুদ্ধে স্লোভেনিয়ায় প্রবেশে নিষেধাজ্ঞা জারি করেছিল দেশটির সরকার। একইসঙ্গে ইসরায়েলের ওপর অস্ত্র নিষেধাজ্ঞাও দিয়েছিল দেশটি।]]></description>
-      <pubDate>Fri, 26 Sep 2025 10:27:15 GMT</pubDate>
-      <guid isPermaLink="false">4acbfaf4b9f850fc2c327596ca16eca7</guid>
+      <title>সেকেলে পাঠ্যক্রম ও উন্নত ল্যাবের অভাবে সুযোগ হারাচ্ছে তরুণ বিজ্ঞানীরা: শিক্ষা উপদেষ্টা</title>
+      <link>https://bonikbarta.com/bangladesh/GL4MZ6iokOlDsQG9/</link>
+      <description><![CDATA[অর্থায়ন ও বাণিজ্যিকীকরণ এখনো সীমিত। আমাদের গবেষকরা বিশ্বমানের ধারণা তৈরি করেন। কিন্তু ল্যাব থেকে বাজার পর্যন্ত যাত্রার পথ সুগম হয় না। বায়োটেক-নির্দিষ্ট অবকাঠামো, উদ্ভাবন কেন্দ্র এবং সহজ নিয়ন্ত্রক কাঠামো ছাড়া উদ্ভাবন মাঝপথেই থেমে যাওয়ার ঝুঁকিতে থাকে।]]></description>
+      <pubDate>Fri, 26 Sep 2025 09:57:10 GMT</pubDate>
+      <guid isPermaLink="false">65655a6c8425c6701003db2496452939</guid>
     </item>
     <item>
       <title>বিশ্বের প্রথম ‘ক্লোজড ফুয়েল সাইকেল’ পারমাণবিক ব্যবস্থা চালুর ঘোষণা পুতিনের</title>
@@ -351,13 +358,6 @@
       <description><![CDATA[যশোর পৌরসভার কর বৃদ্ধির প্রতিবাদসহ ছয় দফা দাবিতে বিক্ষোভ সমাবেশ করেছে পৌর নাগরিক কমিটি।]]></description>
       <pubDate>Thu, 25 Sep 2025 21:44:19 GMT</pubDate>
       <guid isPermaLink="false">e0e3e5cc8377f7508c2929f8569533e5</guid>
-    </item>
-    <item>
-      <title>উচ্ছেদ অভিযান</title>
-      <link>https://bonikbarta.com/bangladesh/9l8zdNiqccXkRkNB/</link>
-      <description><![CDATA[গাজীপুরে অবৈধ গ্যাস সংযোগ উচ্ছেদে অভিযান পরিচালনা করেছে তিতাস গ্যাস ট্রান্সমিশন অ্যান্ড ডিস্ট্রিবিউশন কোম্পানি।]]></description>
-      <pubDate>Thu, 25 Sep 2025 21:43:16 GMT</pubDate>
-      <guid isPermaLink="false">054592b6fe2bc3b7940689aedfa872d5</guid>
     </item>
   </channel>
 </rss>
