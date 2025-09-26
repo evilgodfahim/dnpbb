@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 26 Sep 2025 03:03:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 03:47:50 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ইসরায়েলকে দখলকৃত পশ্চিম তীর সংযুক্ত করতে ‘দেবেন না’ ট্রাম্প</title>
+      <link>https://bonikbarta.com/international/nBf2XpucbmmqG9pi/</link>
+      <description><![CDATA[ট্রাম্প বলেন, ‘আমি পশ্চিম তীরকে ইসরায়েলের সঙ্গে সংযুক্ত হতে দেব না। কোনোভাবেই নয়। এটা ঘটতে যাচ্ছে না। আমি অনুমতি দেব না। কথা বলেছি কি বলিনি সেটা বিষয় নয়—ইসরায়েল পশ্চিম তীর দখল করতে পারবে না। যথেষ্ট হয়েছে, এখন থামার সময়।‘]]></description>
+      <pubDate>Fri, 26 Sep 2025 03:20:01 GMT</pubDate>
+      <guid isPermaLink="false">55819e4a2aa1f77b9d327ab51e78f8b0</guid>
+    </item>
     <item>
       <title>ঝিনাইদহে জীববৈচিত্র্য সংরক্ষণে সচেতনতামূলক সভা</title>
       <link>https://bonikbarta.com/bangladesh/nnRDe8wDgFgdC5aL/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">c7def6cae332b584a2451891763b2721</guid>
     </item>
     <item>
-      <title>ট্রাস্ট ব্যাংকের নিজস্ব সুইচিং সিস্টেম উদ্বোধন</title>
-      <link>https://bonikbarta.com/economy/rGtwnBVoYNY4miMC/</link>
-      <description><![CDATA[ডিজিটাল সেবায় নতুন মাত্রা যোগ করতে ট্রাস্ট ব্যাংক পিএলসি নিজস্ব সুইচিং সিস্টেম চালু করেছে।]]></description>
-      <pubDate>Thu, 25 Sep 2025 20:33:06 GMT</pubDate>
-      <guid isPermaLink="false">3562c78f7e3014aa26332aa9f60edbfe</guid>
+      <title>প্রশাসনিক বিকেন্দ্রীকরণে চীন ভিয়েতনাম ও ইন্দোনেশিয়ার অনেক পেছনে বাংলাদেশ</title>
+      <link>https://bonikbarta.com/economy/DPYTyGFoAk9FRYsN/</link>
+      <description><![CDATA[দেশের আকার বিবেচনায় বাংলাদেশ বিশ্বের অন্যতম কেন্দ্রীভূত রাষ্ট্র। অতিরিক্ত এ কেন্দ্রীকরণ দেখা যায় জনসেবা প্রদান, নগর শাসন ব্যবস্থা ও অর্থপ্রবাহে।]]></description>
+      <pubDate>Thu, 25 Sep 2025 20:31:56 GMT</pubDate>
+      <guid isPermaLink="false">bb5406fb6311598f4bb6ae57e4fd7d82</guid>
     </item>
     <item>
       <title>ভারত থেকে যুক্তরাষ্ট্রে স্মার্টফোন রফতানি বেড়েছে ১৯৩ শতাংশ</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[২০২৪ সালের একই সময়ের তুলনায় চলতি বছরের প্রথমার্ধে (জানুয়ারি-জুন) আবুধাবির সম্পত্তি বাজারে লেনদেন বেড়েছে ৪২ শতাংশ।]]></description>
       <pubDate>Thu, 25 Sep 2025 20:15:53 GMT</pubDate>
       <guid isPermaLink="false">781894f4aab8c762f170e6204602a1a9</guid>
-    </item>
-    <item>
-      <title>ইউরোপে শিক্ষাবর্ষপ্রতি বেতনের ব্যবধান গড়ে ৭ শতাংশ</title>
-      <link>https://bonikbarta.com/economy/TOGOFBxdhMiKIL4j/</link>
-      <description><![CDATA[ইউরোপের দেশগুলোয় নিম্ন বা মাধ্যমিক স্তরের শিক্ষাজীবনের ইতি টেনেছেন এমন ব্যক্তিদের তুলনায় বিশ্ববিদ্যালয় থেকে ডিগ্রিধারীদের আয় অনেক বেশি।]]></description>
-      <pubDate>Thu, 25 Sep 2025 20:15:53 GMT</pubDate>
-      <guid isPermaLink="false">6ec5ed2eec5d224e092648b9a618fed1</guid>
     </item>
   </channel>
 </rss>
