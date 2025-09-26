@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 26 Sep 2025 11:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 11:39:16 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>দেশের শাসনব্যবস্থা পরিবর্তনের ক্ষমতা অন্তর্বর্তী সরকার রাখে না: নেপালের প্রধানমন্ত্রী</title>
+      <link>https://bonikbarta.com/international/oM5wgTcyAqM0uU6Y/</link>
+      <description><![CDATA[তিনি বলেন, ‘জেন জেড আন্দোলনে উত্থাপিত সংবিধান সংশোধন ও শাসনব্যবস্থা পরিবর্তনের দাবি বর্তমান সরকারের এখতিয়ারের বাইরে। আমি তরুণ প্রজন্মসহ সকল নাগরিককে আহ্বান জানাচ্ছি, তারা যেন নির্বাচনে অংশ নিয়ে সাংবিধানিক উপায়ে এই পরিবর্তনের পথে অগ্রসর হয়।’]]></description>
+      <pubDate>Fri, 26 Sep 2025 11:20:48 GMT</pubDate>
+      <guid isPermaLink="false">952320f0f2a97730bbc6a3dc6e5922cd</guid>
+    </item>
     <item>
       <title>গাজাগামী ‘সমুদ ফ্লোটিলা’কে সহায়তায় কেন জাহাজ পাঠিয়েছে স্পেন ও ইতালি</title>
       <link>https://bonikbarta.com/international/DrMkOFtLW4Ns7agn/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">1dd5c2f56040d8a1bfeb7f15e4069e40</guid>
     </item>
     <item>
-      <title>কক্সবাজারে বাড়তি দামেও মিলছে না সার, আমনের ফলন বিপর্যয়ের শঙ্কা</title>
-      <link>https://bonikbarta.com/bangladesh/G7hR78qGHWyFNnYE/</link>
-      <description><![CDATA[চলতি বছরের শুরুতেই কৃষক ও ডিলার পর্যায়ে ইউরিয়া, টিএসপি, এমওপি ও ডিএপি সারের দাম নির্ধারণ করে দিয়েছে অন্তর্বর্তী সরকার।]]></description>
-      <pubDate>Thu, 25 Sep 2025 21:25:33 GMT</pubDate>
-      <guid isPermaLink="false">5a3359e203fd920911612e0952ce1f09</guid>
+      <title>দোস্তানা টুতে থাকছেন বিক্রান্ত ম্যাসি</title>
+      <link>https://bonikbarta.com/talkies/AoNxG7QKDXKFfuIp/</link>
+      <description><![CDATA[অভিনেতা বিক্রান্ত ম্যাসি পেলেন ভারতের জাতীয় চলচ্চিত্র পুরস্কার।]]></description>
+      <pubDate>Thu, 25 Sep 2025 21:17:51 GMT</pubDate>
+      <guid isPermaLink="false">00cdcbf75fa7f8cd655a2bfbf7c0ff08</guid>
     </item>
     <item>
       <title>স্টার নাইটের অতিথি কনা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[ভারতের চলতি অর্থবছরের প্রথম পাঁচ মাসে (এপ্রিল-আগস্ট) যুক্তরাষ্ট্রে স্মার্টফোন রফতানি বেড়ে ৮৪৩ কোটি ডলারে দাঁড়িয়েছে, যা আগের বছরের একই সময়ের তুলনায় ১৯৩ শতাংশ বেশি।]]></description>
       <pubDate>Thu, 25 Sep 2025 20:28:47 GMT</pubDate>
       <guid isPermaLink="false">bf43ad26914551d078445360920bbcc3</guid>
-    </item>
-    <item>
-      <title>ওপেনএআই, ওরাকল ও সফটব্যাংকের পাঁচ নতুন এআই ডাটা সেন্টার</title>
-      <link>https://bonikbarta.com/scitech/krtxNGavqGrqlXuS/</link>
-      <description><![CDATA[স্টারগেট প্রকল্পের আওতায় যুক্তরাষ্ট্রে ওপেনএআই, ওরাকল ও সফটব্যাংক যৌথভাবে পাঁচটি নতুন কৃত্রিম বুদ্ধিমত্তা (এআই) ডাটা সেন্টার নির্মাণের ঘোষণা দিয়েছে।]]></description>
-      <pubDate>Thu, 25 Sep 2025 20:27:26 GMT</pubDate>
-      <guid isPermaLink="false">2fd7b329289fecb272331338a316b8dc</guid>
     </item>
   </channel>
 </rss>
