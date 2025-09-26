@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 26 Sep 2025 07:40:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 08:32:06 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>নিখোঁজের ১৮ ঘণ্টা পর ভৈরব নদ থেকে শিক্ষার্থীর মরদেহ উদ্ধার</title>
+      <link>https://bonikbarta.com/bangladesh/Al7PjEzy3EOJqWxw/</link>
+      <description><![CDATA[বৃহস্পতিবার দুপুরে ৪ বন্ধু ভৈরব নদে গোসল করতে যায়। তাদের মধ্যে মোহাইমিনুল সাঁতার জানত না। সে নদীর পাড়ে বসে থাকলেও এক পর্যায়ে পানিতে পড়ে যায়।]]></description>
+      <pubDate>Fri, 26 Sep 2025 07:47:56 GMT</pubDate>
+      <guid isPermaLink="false">506674306fe9bc5d93b3fd2a7667fbcc</guid>
+    </item>
     <item>
       <title>গণছাঁটাইয়ের প্রস্তুতি নিচ্ছে হোয়াইট হাউজ</title>
       <link>https://bonikbarta.com/international/yq7HSmqkMBbCu5Hw/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">b7e1df3f945fd661d42bfe39190d4911</guid>
     </item>
     <item>
-      <title>মে ইন্টারন্যাশনালের সঙ্গে চুক্তি করল এনআরবিসি ব্যাংক</title>
-      <link>https://bonikbarta.com/economy/8GuemL83bQ66Len5/</link>
-      <description><![CDATA[মে ইন্টারন্যাশনাল ট্রেড সার্ভিসেস লিমিটেডের সঙ্গে একটি চুক্তি স্বাক্ষর করেছে এনআরবিসি ব্যাংক পিএলসি।]]></description>
-      <pubDate>Thu, 25 Sep 2025 20:57:40 GMT</pubDate>
-      <guid isPermaLink="false">c1e07afa2ac02486b377b620ec5ee836</guid>
+      <title>মিডল্যান্ড ব্যাংক ও এনএসইউর যৌথ উদ্যোগে ফাইন্যান্সিয়াল লিটারেসি সেমিনার</title>
+      <link>https://bonikbarta.com/economy/ihvoFz3XuUeV4oP0/</link>
+      <description><![CDATA[মিডল্যান্ড ব্যাংক ও নর্থ সাউথ ইউনিভার্সিটির (এনএসইউ) ক্যারিয়ার অ্যান্ড প্লেসমেন্ট সেন্টারের (সিপিসি) যৌথ উদ্যোগে একটি ফাইন্যান্সিয়াল লিটারেসি সেমিনার অনুষ্ঠিত হয়েছে।]]></description>
+      <pubDate>Thu, 25 Sep 2025 20:56:21 GMT</pubDate>
+      <guid isPermaLink="false">0bac3f55a87028a2868ae4a9cf902a2f</guid>
     </item>
     <item>
       <title>সোনালী ব্যাংক ও ঢাকা কলেজের মধ্যে চুক্তি স্বাক্ষর</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[দেশের সড়কপথে যানচলাচলের তদারকি থেকে শুরু করে পরিবহনের ফিটনেস সনদ, চালকদের ড্রাইভিং লাইসেন্স দেয়ার দায়িত্বপ্রাপ্ত প্রতিষ্ঠান বাংলাদেশ সড়ক পরিবহন কর্তৃপক্ষ (বিআরটিএ)।]]></description>
       <pubDate>Thu, 25 Sep 2025 20:15:54 GMT</pubDate>
       <guid isPermaLink="false">20f239d94d62d330028c191859579a90</guid>
-    </item>
-    <item>
-      <title>ঢাকা ব্যাংক উদ্যোক্তার শেয়ার ক্রয়ের ঘোষণা</title>
-      <link>https://bonikbarta.com/economy/Vu6L8TpXFvDB4ARK/</link>
-      <description><![CDATA[ঢাকা ব্যাংক পিএলসির উদ্যোক্তা এটিএম হায়াতুজ্জামান খান ব্যাংকটির ২৬ লাখ শেয়ার ক্রয়ের ঘোষণা দিয়েছেন।]]></description>
-      <pubDate>Thu, 25 Sep 2025 20:15:53 GMT</pubDate>
-      <guid isPermaLink="false">f8b60a72f3736af713d8135e7207df23</guid>
     </item>
   </channel>
 </rss>
