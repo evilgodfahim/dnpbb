@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 26 Sep 2025 10:25:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 10:43:30 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>নেতানিয়াহুর প্রবেশ নিষিদ্ধ করল স্লোভেনিয়া</title>
+      <link>https://bonikbarta.com/international/y7ndQwugmrXLcwy9/</link>
+      <description><![CDATA[নেতানিয়াহুর পাশাপাশি এর আগেই ইসরায়েলের জাতীয় নিরাপত্তা মন্ত্রী ইতামার বেন-গভির এবং অর্থমন্ত্রী বেজালেল স্মোট্রিচের বিরুদ্ধে স্লোভেনিয়ায় প্রবেশে নিষেধাজ্ঞা জারি করেছিল দেশটির সরকার। একইসঙ্গে ইসরায়েলের ওপর অস্ত্র নিষেধাজ্ঞাও দিয়েছিল দেশটি।]]></description>
+      <pubDate>Fri, 26 Sep 2025 10:27:15 GMT</pubDate>
+      <guid isPermaLink="false">4acbfaf4b9f850fc2c327596ca16eca7</guid>
+    </item>
     <item>
       <title>সেকেলে পাঠ্যক্রম ও উন্নত ল্যাবের অভাবে সুযোগ হারাচ্ছে তরুণ বিজ্ঞানীরা: শিক্ষা উপদেষ্টা</title>
       <link>https://bonikbarta.com/bangladesh/GL4MZ6iokOlDsQG9/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">986957ac1dfa5c408ba1f45aeea0451b</guid>
     </item>
     <item>
-      <title>তরুণ প্রজন্মকে আকৃষ্ট করতে কৃষিকে ঢেলে সাজানোর প্রয়োজনীয়তা</title>
-      <link>https://bonikbarta.com/editorial/tgyyFvJQxVD6eADy/</link>
-      <description><![CDATA[কৃষি মানুষের সবচেয়ে প্রাচীনতম পেশা হলেও সাম্প্রতিক বছরগুলোয় বেশ ঝুঁকির মুখে রয়েছে খাতটি। বিশ্বজুড়ে কৃষকের গড় বয়স ক্রমে বাড়ছে। উন্নত দেশগুলোয় তা ৬০-এর কাছাকাছি পৌঁছে গেছে।]]></description>
+      <title>স্বল্প সময়ে আইপিওর নিষ্পত্তি চান সিরামিক খাতের উদ্যোক্তারা</title>
+      <link>https://bonikbarta.com/economy/tbj1pDwM3yW1i9Ai/</link>
+      <description><![CDATA[সিরামিক খাতসহ ভালো কোম্পানিকে তালিকাভুক্তির জন্য প্রাথমিক গণপ্রস্তাব (আইপিও) প্রক্রিয়া স্বল্প সময়ে নিষ্পত্তি চেয়েছেন সিরামিক খাতের উদ্যোক্তারা।]]></description>
       <pubDate>Thu, 25 Sep 2025 21:15:00 GMT</pubDate>
-      <guid isPermaLink="false">3d7b97eba407eaa2dbdbe460f899f076</guid>
+      <guid isPermaLink="false">98f120f66c28005fde11210fae73b4d7</guid>
     </item>
     <item>
       <title>‘সিনেমায় ক্যারিয়ার গড়তে চাইলে আর্থিক নিরাপত্তা জরুরি’</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[মেটার ফটো ও শর্ট ভিডিও শেয়ারিং প্লাটফর্ম ইনস্টাগ্রামের মাসিক সক্রিয় ব্যবহারকারীর সংখ্যা ৩০০ কোটিতে পৌঁছেছে।]]></description>
       <pubDate>Thu, 25 Sep 2025 20:22:00 GMT</pubDate>
       <guid isPermaLink="false">911eab6b8d9b98c110e7f1603bbf4a22</guid>
-    </item>
-    <item>
-      <title>অ্যান্ড্রয়েড আসছে পিসিতে, কোয়ালকমকে নিয়ে নিশ্চিত করল গুগল</title>
-      <link>https://bonikbarta.com/scitech/6rzInKbWJu50De6q/</link>
-      <description><![CDATA[স্মার্টফোন অপারেটিং সিস্টেমের বাজারে এরই মধ্যে অ্যান্ড্রয়েডের মাধ্যমে শীর্ষ স্থানে রয়েছে গুগল।]]></description>
-      <pubDate>Thu, 25 Sep 2025 20:20:39 GMT</pubDate>
-      <guid isPermaLink="false">62fe5a8b99f7d592a90193f8ce771c8b</guid>
     </item>
   </channel>
 </rss>
