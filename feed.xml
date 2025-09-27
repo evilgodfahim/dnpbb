@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 27 Sep 2025 08:43:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 09:20:50 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>শুরু হয়েছে মার্কস অলরাউন্ডার ২০২৫ প্রতিযোগিতা</title>
+      <link>https://bonikbarta.com/economy/1wcvIdazMYVh7bcK/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Sat, 27 Sep 2025 09:02:00 GMT</pubDate>
+      <guid isPermaLink="false">6bfbd778d8dca4da2a3189132ebd2a09</guid>
+    </item>
     <item>
       <title>গাজীপুর সাফারি পার্কে গভীর রাতে অবৈধ অনুপ্রবেশ, ১১ যুবক থানায়</title>
       <link>https://bonikbarta.com/bangladesh/MHG1xxfcBun6JXb7/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">025523a7685d8501b4484e5fc1b70467</guid>
     </item>
     <item>
-      <title>গাইবান্ধা জেনারেল হাসপাতালে জলাতঙ্কের ভ্যাকসিন সংকট</title>
-      <link>https://bonikbarta.com/bangladesh/8X2E20G4BavHZeoe/</link>
-      <description><![CDATA[গাইবান্ধায় বেড়েছে কুকুর-বিড়ালসহ বিভিন্ন প্রাণীর কামড়-আঁচড়ে আক্রান্তের সংখ্যা।]]></description>
-      <pubDate>Fri, 26 Sep 2025 20:39:21 GMT</pubDate>
-      <guid isPermaLink="false">ec5688ace7398698d2e0b7a1b9a91b2e</guid>
+      <title>মুন্সিগঞ্জে নির্মাণের এক বছরেই বেহাল সড়ক</title>
+      <link>https://bonikbarta.com/bangladesh/9WMhST34Y5eUa81f/</link>
+      <description><![CDATA[মুন্সিগঞ্জ সদর উপজেলার দশকানী ভূঁইয়াবাড়ি থেকে চাম্পাতলা পর্যন্ত পাঁচ কিলোমিটার সড়ক পুনর্নির্মাণের কাজ শুরু হয় ২০২৩ সালের ফেব্রুয়ারিতে।]]></description>
+      <pubDate>Fri, 26 Sep 2025 20:36:00 GMT</pubDate>
+      <guid isPermaLink="false">7470cecf32506b5ac58059d139a272a0</guid>
     </item>
     <item>
       <title>কক্সবাজারে পর্যটক বাড়লেও উৎসবহীন সেন্ট মার্টিন</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[চীনা প্রযুক্তিপ্রতিষ্ঠান শাওমির সহপ্রতিষ্ঠাতা সম্প্রতি ৬৩০ ডলারের নতুন একটি স্মার্টফোন উন্মোচন করেছেন।]]></description>
       <pubDate>Fri, 26 Sep 2025 20:16:37 GMT</pubDate>
       <guid isPermaLink="false">fae23d4a4c45cbbe164c1f46bfac5140</guid>
-    </item>
-    <item>
-      <title>উইন্ডোজ থেকে হারিয়ে যাওয়া ৬ ফিচার</title>
-      <link>https://bonikbarta.com/scitech/OoPhPgzrwVYmaw7t/</link>
-      <description><![CDATA[উইন্ডোজ অপারেটিং সিস্টেম সবসময়ই পরিবর্তনের মধ্য দিয়ে যায়।]]></description>
-      <pubDate>Fri, 26 Sep 2025 20:16:37 GMT</pubDate>
-      <guid isPermaLink="false">a86a5cfd5820822e619046d2bd6ebc7c</guid>
     </item>
   </channel>
 </rss>
