@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 27 Sep 2025 08:26:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 08:43:46 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>গাজীপুর সাফারি পার্কে গভীর রাতে অবৈধ অনুপ্রবেশ, ১১ যুবক থানায়</title>
+      <link>https://bonikbarta.com/bangladesh/MHG1xxfcBun6JXb7/</link>
+      <description><![CDATA[পার্কে কোনো ধরনের ক্ষয়ক্ষতি না হলেও গভীর রাতে অবৈধ অনুপ্রবেশের কারণে তাদের বিরুদ্ধে অভিযোগ দাখিল করা হয়।]]></description>
+      <pubDate>Sat, 27 Sep 2025 08:33:39 GMT</pubDate>
+      <guid isPermaLink="false">84b417c522e0570d3b4392c9c0d92904</guid>
+    </item>
     <item>
       <title>ডে-লাইট সেভিং টাইম: ঘড়ির কাঁটার টানাটানিতে ক্ষতিগ্রস্ত শরীর</title>
       <link>https://bonikbarta.com/feature/xLKoX3mAp9KRhKx5/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">ec5688ace7398698d2e0b7a1b9a91b2e</guid>
     </item>
     <item>
-      <title>মুন্সিগঞ্জে নির্মাণের এক বছরেই বেহাল সড়ক</title>
-      <link>https://bonikbarta.com/bangladesh/9WMhST34Y5eUa81f/</link>
-      <description><![CDATA[মুন্সিগঞ্জ সদর উপজেলার দশকানী ভূঁইয়াবাড়ি থেকে চাম্পাতলা পর্যন্ত পাঁচ কিলোমিটার সড়ক পুনর্নির্মাণের কাজ শুরু হয় ২০২৩ সালের ফেব্রুয়ারিতে।]]></description>
-      <pubDate>Fri, 26 Sep 2025 20:36:00 GMT</pubDate>
-      <guid isPermaLink="false">7470cecf32506b5ac58059d139a272a0</guid>
+      <title>কক্সবাজারে পর্যটক বাড়লেও উৎসবহীন সেন্ট মার্টিন</title>
+      <link>https://bonikbarta.com/bangladesh/EI7qDBxVUektWeKk/</link>
+      <description><![CDATA[বিশ্ব পর্যটন দিবস আজ। বিশ্বের দীর্ঘতম সমুদ্রসৈকতের শহর কক্সবাজারে শুরু হয়েছে পর্যটন মৌসুমের আমেজ।]]></description>
+      <pubDate>Fri, 26 Sep 2025 20:34:17 GMT</pubDate>
+      <guid isPermaLink="false">94582a33a2369044a2d1905566f9c4e5</guid>
     </item>
     <item>
       <title>মা-বাবা ও সন্তানসহ পাঁচ জেলায় সড়ক দুর্ঘটনায় ঝরল ১১ প্রাণ</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[উইন্ডোজ অপারেটিং সিস্টেম সবসময়ই পরিবর্তনের মধ্য দিয়ে যায়।]]></description>
       <pubDate>Fri, 26 Sep 2025 20:16:37 GMT</pubDate>
       <guid isPermaLink="false">a86a5cfd5820822e619046d2bd6ebc7c</guid>
-    </item>
-    <item>
-      <title>১৪ বিলিয়ন ডলারে টিকটক বিক্রির অনুমোদন দিলেন ট্রাম্প</title>
-      <link>https://bonikbarta.com/scitech/b5wjPXuuYaxgaVJ2/</link>
-      <description><![CDATA[টিকটকের মার্কিন কার্যক্রম বিক্রির অনুমোদন দিয়ে এক নির্বাহী আদেশে সই করেছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।]]></description>
-      <pubDate>Fri, 26 Sep 2025 20:16:37 GMT</pubDate>
-      <guid isPermaLink="false">d9ed8ada7414ff845ca3728a0e21b5d9</guid>
     </item>
   </channel>
 </rss>
