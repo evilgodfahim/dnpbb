@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 27 Sep 2025 07:38:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 08:26:55 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ডে-লাইট সেভিং টাইম: ঘড়ির কাঁটার টানাটানিতে ক্ষতিগ্রস্ত শরীর</title>
+      <link>https://bonikbarta.com/feature/xLKoX3mAp9KRhKx5/</link>
+      <description><![CDATA[বাংলাদেশেও ২০০৯ সালে ডে-লাইট সেভিং টাইম বা ডিএসটি চালু হয়েছিল। উদ্দেশ্য একটাই—দিনের আলোর সর্বোচ্চ ব্যবহার ও জ্বালানি সাশ্রয় করা।]]></description>
+      <pubDate>Sat, 27 Sep 2025 08:10:26 GMT</pubDate>
+      <guid isPermaLink="false">312bbff8609a11cce99d58b0eb0772fd</guid>
+    </item>
     <item>
       <title>কর প্রশাসনের জটিলতা ব্যবসার খরচ বাড়াচ্ছে</title>
       <link>https://bonikbarta.com/bangladesh/YfLzwSpREmNwRhdK/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">7470cecf32506b5ac58059d139a272a0</guid>
     </item>
     <item>
-      <title>কক্সবাজারে পর্যটক বাড়লেও উৎসবহীন সেন্ট মার্টিন</title>
-      <link>https://bonikbarta.com/bangladesh/EI7qDBxVUektWeKk/</link>
-      <description><![CDATA[বিশ্ব পর্যটন দিবস আজ। বিশ্বের দীর্ঘতম সমুদ্রসৈকতের শহর কক্সবাজারে শুরু হয়েছে পর্যটন মৌসুমের আমেজ।]]></description>
-      <pubDate>Fri, 26 Sep 2025 20:34:17 GMT</pubDate>
-      <guid isPermaLink="false">94582a33a2369044a2d1905566f9c4e5</guid>
+      <title>মা-বাবা ও সন্তানসহ পাঁচ জেলায় সড়ক দুর্ঘটনায় ঝরল ১১ প্রাণ</title>
+      <link>https://bonikbarta.com/bangladesh/OCDe0UCzIRGIVpLn/</link>
+      <description><![CDATA[দেশের পাঁচ জেলায় সড়ক দুর্ঘটনায় ১১ জনের প্রাণহানির ঘটনা ঘটেছে। নিহতের মধ্যে সুনামগঞ্জে মা-মেয়ে, বগুড়ায় বাবা-ছেলে এবং রংপুরে মা-ছেলেসহ নয়জন রয়েছেন।]]></description>
+      <pubDate>Fri, 26 Sep 2025 20:30:18 GMT</pubDate>
+      <guid isPermaLink="false">f607b0c86daba79887d456955e42ea6b</guid>
     </item>
     <item>
       <title>এআইসিপিএ ও সিআইএমএর উদ্যোগে ঢাকায় নেটওয়ার্কিং সভা অনুষ্ঠিত</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[টিকটকের মার্কিন কার্যক্রম বিক্রির অনুমোদন দিয়ে এক নির্বাহী আদেশে সই করেছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।]]></description>
       <pubDate>Fri, 26 Sep 2025 20:16:37 GMT</pubDate>
       <guid isPermaLink="false">d9ed8ada7414ff845ca3728a0e21b5d9</guid>
-    </item>
-    <item>
-      <title>গুগলের গবেষণা প্রযুক্তি খাতের ৯০ শতাংশ কর্মী এখন এআই-নির্ভর</title>
-      <link>https://bonikbarta.com/scitech/ZmaHYUZiLPvCk88M/</link>
-      <description><![CDATA[বিশ্বব্যাপী প্রযুক্তি খাতের প্রায় সব কর্মী কাজের ক্ষেত্রে কৃত্রিম বুদ্ধিমত্তার (এআই) ওপর নির্ভরশীল হয়ে উঠেছেন বলে জানিয়েছে টেক জায়ান্ট গুগল।]]></description>
-      <pubDate>Fri, 26 Sep 2025 20:16:37 GMT</pubDate>
-      <guid isPermaLink="false">50794e0a28e7122e10669e8b1d8796f0</guid>
     </item>
   </channel>
 </rss>
