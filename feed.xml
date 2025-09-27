@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 27 Sep 2025 09:20:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 09:38:40 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>বনশ্রীতে স্বপ্ন এখন আরো বড় পরিসরে</title>
+      <link>https://bonikbarta.com/economy/z0BVARUbzPGtByYe/</link>
+      <description><![CDATA[উদ্বোধন উপলক্ষে গ্রাহকদের জন্য রয়েছে মাসব্যাপী আকর্ষণীয় সব অফার। বাই ওয়ান গেট ওয়ান ফ্রি ছাড়াও থাকছে নগদ মূল্যছাড়।]]></description>
+      <pubDate>Sat, 27 Sep 2025 09:36:16 GMT</pubDate>
+      <guid isPermaLink="false">78f506c223bb2b77553c9cb0f17965fe</guid>
+    </item>
     <item>
       <title>শুরু হয়েছে মার্কস অলরাউন্ডার ২০২৫ প্রতিযোগিতা</title>
       <link>https://bonikbarta.com/economy/1wcvIdazMYVh7bcK/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">6c4c883202ed8af80970780bcdeb0201</guid>
     </item>
     <item>
-      <title>উত্তরের তিন জেলা থেকে ঢাকায় দূরপাল্লার বাস বন্ধ যাত্রীদের ভোগান্তি</title>
-      <link>https://bonikbarta.com/bangladesh/Kw98ONspiGCJXCMk/</link>
-      <description><![CDATA[বেতন-ভাতা বৃদ্ধির দাবি নিয়ে মালিক-শ্রমিক দ্বন্দ্বের জেরে উত্তরের তিন জেলা থেকে ঢাকায় চলাচলকারী দূরপাল্লার বাস বন্ধ রয়েছে।]]></description>
-      <pubDate>Fri, 26 Sep 2025 20:41:19 GMT</pubDate>
-      <guid isPermaLink="false">025523a7685d8501b4484e5fc1b70467</guid>
+      <title>গাইবান্ধা জেনারেল হাসপাতালে জলাতঙ্কের ভ্যাকসিন সংকট</title>
+      <link>https://bonikbarta.com/bangladesh/8X2E20G4BavHZeoe/</link>
+      <description><![CDATA[গাইবান্ধায় বেড়েছে কুকুর-বিড়ালসহ বিভিন্ন প্রাণীর কামড়-আঁচড়ে আক্রান্তের সংখ্যা।]]></description>
+      <pubDate>Fri, 26 Sep 2025 20:39:21 GMT</pubDate>
+      <guid isPermaLink="false">ec5688ace7398698d2e0b7a1b9a91b2e</guid>
     </item>
     <item>
       <title>মুন্সিগঞ্জে নির্মাণের এক বছরেই বেহাল সড়ক</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[ইসরায়েলের বিশেষ সেনা গোয়েন্দা ইউনিট ৮২০০-এর কিছু প্রযুক্তি ব্যবহার বন্ধ করেছে মাইক্রোসফট।]]></description>
       <pubDate>Fri, 26 Sep 2025 20:16:37 GMT</pubDate>
       <guid isPermaLink="false">a505bdc9d9ca0b2a1ae7644b2ff7357e</guid>
-    </item>
-    <item>
-      <title>অ্যাপলকে ‘চ্যালেঞ্জ জানিয়ে’ শাওমির ১৭ সিরিজ উন্মোচন</title>
-      <link>https://bonikbarta.com/scitech/WlY6BKhVsLEAtqKr/</link>
-      <description><![CDATA[চীনা প্রযুক্তিপ্রতিষ্ঠান শাওমির সহপ্রতিষ্ঠাতা সম্প্রতি ৬৩০ ডলারের নতুন একটি স্মার্টফোন উন্মোচন করেছেন।]]></description>
-      <pubDate>Fri, 26 Sep 2025 20:16:37 GMT</pubDate>
-      <guid isPermaLink="false">fae23d4a4c45cbbe164c1f46bfac5140</guid>
     </item>
   </channel>
 </rss>
