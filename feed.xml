@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 28 Sep 2025 07:38:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 08:27:01 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>মস্তিষ্ক কিভাবে সিদ্ধান্ত নেয়, সামনে এল বিশাল ‘ব্রেন ম্যাপ’</title>
+      <link>https://bonikbarta.com/feature/pJHjjcJixzSV2Bsh/</link>
+      <description><![CDATA[ফলাফলে দেখা গেছে, সিদ্ধান্ত গ্রহণ প্রক্রিয়া শুরু হলে প্রথমে মস্তিষ্কের পেছনের অংশ অর্থাৎ দৃষ্টিগ্রাহ্য অংশ সক্রিয় হয়। এরপর ধাপে ধাপে সংকেত ছড়িয়ে পড়ে অন্য অংশে, বিশেষ করে মোটর নিয়ন্ত্রণের অংশে, যখন ইঁদুর চাকায় ঘোরানোর সিদ্ধান্ত নেয়। সিদ্ধান্তের পর পুরস্কার পেলে পুরো মস্তিষ্ক যেন আনন্দে একসঙ্গে আলোড়িত হচ্ছে।]]></description>
+      <pubDate>Sun, 28 Sep 2025 08:14:00 GMT</pubDate>
+      <guid isPermaLink="false">74e9968c8766a3d5e4a971d0c311edca</guid>
+    </item>
     <item>
       <title>অফিসে বাড়ছে ‘বোরআউট সিনড্রোম’, বিশেষজ্ঞরা জানাচ্ছেন প্রতিকার</title>
       <link>https://bonikbarta.com/feature/wBhsLyz5tlUrY9Cp/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">eea037c560c6486c6e51f1e2f2dab301</guid>
     </item>
     <item>
-      <title>চট্টগ্রামে পাহাড়ে পথ হারিয়ে নিখোঁজ সাত শিশু উদ্ধার</title>
-      <link>https://bonikbarta.com/bangladesh/wwQAO1SmOpVooTJt/</link>
-      <description><![CDATA[চট্টগ্রামের বাঁশখালী উপজেলায় পাহাড়ি এলাকায় ঘুরতে গিয়ে পথ হারিয়ে নিখোঁজ সাত শিশুকে উদ্ধার করেছে পুলিশ।]]></description>
-      <pubDate>Sat, 27 Sep 2025 21:44:14 GMT</pubDate>
-      <guid isPermaLink="false">8c89de767980dd4c1341e20aee07b505</guid>
+      <title>কর্মহীন হয়ে পড়ছে বাঁওড়ের ওপর নির্ভরশীল মৎস্যজীবীরা</title>
+      <link>https://bonikbarta.com/bangladesh/IrxQZ0MQO3p4RP7N/</link>
+      <description><![CDATA[মামলা, ইজারাসহ নানা জটিলতায় যশোর অঞ্চলের ২৯ বাঁওড় ও বিলে অচলাবস্থা দেখা দিয়েছে।]]></description>
+      <pubDate>Sat, 27 Sep 2025 21:41:17 GMT</pubDate>
+      <guid isPermaLink="false">9772070db81187a54f01aa4d90740633</guid>
     </item>
     <item>
       <title>বিএনপি সরকার গঠন করলে নাগরিক অধিকার নিশ্চিত করা হবে —ড. মঈন খান</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[টিভি নাটকের এক সময়ের জনপ্রিয় অভিনেত্রী রিচি সোলায়মান। বর্তমানে স্থায়ীভাবে আমেরিকায় বসবাসরত রিচি স্বামী ও সন্তান নিয়ে সংসার করছেন।]]></description>
       <pubDate>Sat, 27 Sep 2025 21:00:00 GMT</pubDate>
       <guid isPermaLink="false">8422878984e9f830cb141d7316e77882</guid>
-    </item>
-    <item>
-      <title>এপেক্স ফুটওয়্যারের নিট মুনাফা কমেছে ২৩ শতাংশ</title>
-      <link>https://bonikbarta.com/economy/uu4qs5bUdm6UEIQQ/</link>
-      <description><![CDATA[চামড়া খাতের তালিকাভুক্ত কোম্পানি এপেক্স ফুটওয়্যার লিমিটেডের পর্ষদ সর্বশেষ সমাপ্ত ২০২৪-২৫ হিসাব বছরে বিনিয়োগকারীদের জন্য ৫০ শতাংশ লভ্যাংশ ঘোষণা করেছে।]]></description>
-      <pubDate>Sat, 27 Sep 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="false">5bd80da39538be26dd0d006b81616074</guid>
     </item>
   </channel>
 </rss>
