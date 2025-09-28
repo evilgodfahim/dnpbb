@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 28 Sep 2025 08:27:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 08:43:48 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>আইএসইউতে শুরু হলো আন্তঃবিভাগ ফুটবল ফেস্ট</title>
+      <link>https://bonikbarta.com/economy/nGkVUEHDtjZkAAPG/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Sun, 28 Sep 2025 08:32:16 GMT</pubDate>
+      <guid isPermaLink="false">c5de58ec621c73888d7fa3a377ed2e13</guid>
+    </item>
     <item>
       <title>মস্তিষ্ক কিভাবে সিদ্ধান্ত নেয়, সামনে এল বিশাল ‘ব্রেন ম্যাপ’</title>
       <link>https://bonikbarta.com/feature/pJHjjcJixzSV2Bsh/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">6cff800edf988a901b1651cc0cec6236</guid>
     </item>
     <item>
-      <title>মৌলভীবাজারে দগ্ধ বাবা ছেলের মৃত্যু</title>
-      <link>https://bonikbarta.com/bangladesh/YXDQNanSJQ5c1gZh/</link>
-      <description><![CDATA[মৌলভীবাজারের শ্রীমঙ্গলে শেভরন বাংলাদেশের কনডেনসেট পাইপলাইনে অগ্নিকাণ্ডের ঘটনায় দগ্ধ বাবা-ছেলে মারা গেছেন।]]></description>
-      <pubDate>Sat, 27 Sep 2025 21:45:14 GMT</pubDate>
-      <guid isPermaLink="false">eea037c560c6486c6e51f1e2f2dab301</guid>
+      <title>চট্টগ্রামে পাহাড়ে পথ হারিয়ে নিখোঁজ সাত শিশু উদ্ধার</title>
+      <link>https://bonikbarta.com/bangladesh/wwQAO1SmOpVooTJt/</link>
+      <description><![CDATA[চট্টগ্রামের বাঁশখালী উপজেলায় পাহাড়ি এলাকায় ঘুরতে গিয়ে পথ হারিয়ে নিখোঁজ সাত শিশুকে উদ্ধার করেছে পুলিশ।]]></description>
+      <pubDate>Sat, 27 Sep 2025 21:44:14 GMT</pubDate>
+      <guid isPermaLink="false">8c89de767980dd4c1341e20aee07b505</guid>
     </item>
     <item>
       <title>কর্মহীন হয়ে পড়ছে বাঁওড়ের ওপর নির্ভরশীল মৎস্যজীবীরা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[মন্দা ভাব কাটিয়ে পুনরুদ্ধারের প্রক্রিয়ায় খাত ও শ্রেণীভেদে প্রবৃদ্ধির গতিধারার ব্যবধান উল্লেখযোগ্য মাত্রায় বেশি হলে ওই পরিস্থিতিকে ‘কে-শেপড ইকোনমি’ বলে আখ্যা দেন অর্থনীতিবিদরা।]]></description>
       <pubDate>Sat, 27 Sep 2025 21:00:00 GMT</pubDate>
       <guid isPermaLink="false">c308ce46ba503b30ddadb2d690438b66</guid>
-    </item>
-    <item>
-      <title>আমাদের দেশে শিল্পীদের সামাজিক ও অর্থনৈতিক নিরাপত্তা নাই</title>
-      <link>https://bonikbarta.com/talkies/rCrvgcaS2iMURCVq/</link>
-      <description><![CDATA[টিভি নাটকের এক সময়ের জনপ্রিয় অভিনেত্রী রিচি সোলায়মান। বর্তমানে স্থায়ীভাবে আমেরিকায় বসবাসরত রিচি স্বামী ও সন্তান নিয়ে সংসার করছেন।]]></description>
-      <pubDate>Sat, 27 Sep 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="false">8422878984e9f830cb141d7316e77882</guid>
     </item>
   </channel>
 </rss>
