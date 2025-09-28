@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 28 Sep 2025 07:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 07:38:23 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>অফিসে বাড়ছে ‘বোরআউট সিনড্রোম’, বিশেষজ্ঞরা জানাচ্ছেন প্রতিকার</title>
+      <link>https://bonikbarta.com/feature/wBhsLyz5tlUrY9Cp/</link>
+      <description><![CDATA[সাম্প্রতিক সময়ে জেনারেশন-জেড ও তরুণ মিলেনিয়ালদের মধ্যে কাজের আগ্রহ ৫ শতাংশ কমেছে, আর বয়স্ক মিলেনিয়ালদের মধ্যে এই হার ৭ শতাংশ। বৈশ্বিকভাবে এভাবে কর্মীদের অমনোযোগীতার কারণে বছরে প্রায় ৮ দশমিক ৮ ট্রিলিয়ন ডলার উৎপাদনশীলতা হারাচ্ছে বিশ্ব অর্থনীতি।]]></description>
+      <pubDate>Sun, 28 Sep 2025 07:36:21 GMT</pubDate>
+      <guid isPermaLink="false">286a24350bf747cece907971a3df40bc</guid>
+    </item>
     <item>
       <title>ইরানের ওপর অস্ত্রসহ জাতিসংঘের অন্যান্য নিষেধাজ্ঞা পুনর্বহাল</title>
       <link>https://bonikbarta.com/international/WOievRbYRIIn98dO/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">8c89de767980dd4c1341e20aee07b505</guid>
     </item>
     <item>
-      <title>কর্মহীন হয়ে পড়ছে বাঁওড়ের ওপর নির্ভরশীল মৎস্যজীবীরা</title>
-      <link>https://bonikbarta.com/bangladesh/IrxQZ0MQO3p4RP7N/</link>
-      <description><![CDATA[মামলা, ইজারাসহ নানা জটিলতায় যশোর অঞ্চলের ২৯ বাঁওড় ও বিলে অচলাবস্থা দেখা দিয়েছে।]]></description>
-      <pubDate>Sat, 27 Sep 2025 21:41:17 GMT</pubDate>
-      <guid isPermaLink="false">9772070db81187a54f01aa4d90740633</guid>
+      <title>বিএনপি সরকার গঠন করলে নাগরিক অধিকার নিশ্চিত করা হবে —ড. মঈন খান</title>
+      <link>https://bonikbarta.com/bangladesh/UcdVj4j5AzbOgaft/</link>
+      <description><![CDATA[বিএনপির স্থায়ী কমিটির সদস্য ড. আব্দুল মঈন খান বলেছেন, ‘বিএনপি জাতীয়তাবাদে বিশ্বাস করে। ধর্ম-বর্ণ নির্বিশেষে সবাই এক, সেটি বিশ্বাস করে।]]></description>
+      <pubDate>Sat, 27 Sep 2025 21:38:01 GMT</pubDate>
+      <guid isPermaLink="false">c3ac55dc5664a4b2fbe7f7ff119a43b0</guid>
     </item>
     <item>
       <title>খাগড়াছড়িতে দুই পক্ষের ধাওয়া পাল্টাধাওয়া ১৪৪ ধারা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[চামড়া খাতের তালিকাভুক্ত কোম্পানি এপেক্স ফুটওয়্যার লিমিটেডের পর্ষদ সর্বশেষ সমাপ্ত ২০২৪-২৫ হিসাব বছরে বিনিয়োগকারীদের জন্য ৫০ শতাংশ লভ্যাংশ ঘোষণা করেছে।]]></description>
       <pubDate>Sat, 27 Sep 2025 21:00:00 GMT</pubDate>
       <guid isPermaLink="false">5bd80da39538be26dd0d006b81616074</guid>
-    </item>
-    <item>
-      <title>স্পট মার্কেটে এলএনজির দরপতন</title>
-      <link>https://bonikbarta.com/economy/lEcIPouto7cMTF9E/</link>
-      <description><![CDATA[এশিয়ার স্পট বাজারে তরলীকৃত প্রাকৃতিক গ্যাসের (এলএনজি) দাম গত সপ্তাহে কমেছে।]]></description>
-      <pubDate>Sat, 27 Sep 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="false">d2491f85f80eadbffbd9fb4760a6435e</guid>
     </item>
   </channel>
 </rss>
