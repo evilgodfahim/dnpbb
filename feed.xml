@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 28 Sep 2025 10:21:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 10:40:31 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>বিশ্বের সবচেয়ে ধনী ক্রিকেট বোর্ডের সভাপতি হলেন কখনো আন্তর্জাতিক ম্যাচ না খেলা মিঠুন মানহাস</title>
+      <link>https://bonikbarta.com/sports/zPVummbpa1NBUQlk/</link>
+      <description><![CDATA[বোর্ডসভায় একমাত্র সভাপতি প্রার্থী হিসেবে মিঠুন মানহাসকে নির্বাচিত ঘোষণা করা হয়েছে। এর আগে সভাপতি ছিলেন সাবেক অধিনায়ক রজার বিনি, যিনি গত আগস্টে পদত্যাগ করেন। সেই থেকে সহ-সভাপতি রাজীব শুক্লা অন্তর্বর্তী সভাপতির দায়িত্ব পালন করছিলেন। নতুন বোর্ডে আবারো সহ-সভাপতি নির্বাচিত হয়েছেন শুক্লা।]]></description>
+      <pubDate>Sun, 28 Sep 2025 10:24:00 GMT</pubDate>
+      <guid isPermaLink="false">d44c6556d601ac7add6da204e08ce394</guid>
+    </item>
     <item>
       <title>কলম্বিয়ার প্রেসিডেন্টের মার্কিন ভিসা বাতিল</title>
       <link>https://bonikbarta.com/international/71VllHhn122oLTLO/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">aaae57b8fed4b00d3defe8e78c51bbc8</guid>
     </item>
     <item>
-      <title>বেরোবিতে মতবিনিময়</title>
-      <link>https://bonikbarta.com/bangladesh/lwoCPtqPIBCuG5SD/</link>
-      <description><![CDATA[রংপুরে বেগম রোকেয়া বিশ্ববিদ্যালয়ের (বেরোবি) একাডেমিক মাস্টার প্ল্যান প্রণয়নের লক্ষ্যে দ্বিতীয় মতবিনিময় সভা অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Sat, 27 Sep 2025 22:01:54 GMT</pubDate>
-      <guid isPermaLink="false">ad4e3b040ca52864a2f58001a8ac524c</guid>
+      <title>যশোর ২৫০ শয্যা হাসপাতালে যুক্ত হলো এইচটিসি</title>
+      <link>https://bonikbarta.com/bangladesh/9uCnKV0wb45HkHoD/</link>
+      <description><![CDATA[যশোর ২৫০ শয্যা বিশিষ্ট জেনারেল হাসপাতালে হিমোফিলিয়া চিকিৎসা কেন্দ্রের (এইচটিসি) যাত্রা শুরু হয়েছে।]]></description>
+      <pubDate>Sat, 27 Sep 2025 22:00:33 GMT</pubDate>
+      <guid isPermaLink="false">73a340f403b6d1d4cbb1a806cbaa0de2</guid>
     </item>
     <item>
       <title>মৌলভীবাজারে রেলপথ সংস্কারসহ আট দাবিতে ট্রেন অবরোধ</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[যুক্তরাষ্ট্রের ট্রাম্প প্রশাসন বিদেশী ইলেকট্রনিক পণ্যে থাকা চিপের সংখ্যা ও মান অনুযায়ী শুল্ক আরোপের পরিকল্পনা করছে।]]></description>
       <pubDate>Sat, 27 Sep 2025 21:19:22 GMT</pubDate>
       <guid isPermaLink="false">1ac9123b335bb7127c371e53b0bf621f</guid>
-    </item>
-    <item>
-      <title>রোবোটিকসের ‘নিজস্ব অ্যান্ড্রয়েড’ আনতে চায় মেটা</title>
-      <link>https://bonikbarta.com/scitech/mYAeK1Jc22f9KlJU/</link>
-      <description><![CDATA[ফেসবুক ও ইনস্টাগ্রামের মূল কোম্পানি মেটার নজর এবার রোবোটিকসে।]]></description>
-      <pubDate>Sat, 27 Sep 2025 21:17:31 GMT</pubDate>
-      <guid isPermaLink="false">ee0f0d2a37de1b2bfac7a890db12a695</guid>
     </item>
   </channel>
 </rss>
