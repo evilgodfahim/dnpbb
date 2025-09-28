@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 28 Sep 2025 04:27:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 04:43:48 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>দেশ ও জাতি পুনর্গঠনে প্রবাসী বাংলাদেশীদের অংশ নেয়ার আহ্বান প্রধান উপদেষ্টার</title>
+      <link>https://bonikbarta.com/bangladesh/xjqfG0FDWY2Afmo5/</link>
+      <description><![CDATA[প্রবাসী বাংলাদেশীরা বাংলাদেশের ‘অবিচ্ছেদ্য অংশ’ উল্লেখ করে প্রধান উপদেষ্টা বলেন, জুলাইয়ের গণ-অভ্যুত্থানের ফলে যে পরিবর্তনের স্বপ্ন আমরা দেখছি তা এগিয়ে নিতে প্রবাসী বাংলাদেশীরা তাদের নিজ নিজ সক্ষমতা অনুযায়ী গুরুত্বপূর্ণ ভূমিকা পালন করতে পারে।]]></description>
+      <pubDate>Sun, 28 Sep 2025 04:33:09 GMT</pubDate>
+      <guid isPermaLink="false">2035fdb9973c14b60024cb96de0bf067</guid>
+    </item>
     <item>
       <title>গুলশান ও বনানী এলাকায় যান চলাচল পরিবর্তন, নতুন ট্রাফিক নির্দেশনা</title>
       <link>https://bonikbarta.com/bangladesh/YpBkHg874E5uaixW/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">60d6b674d18ffe2fa3da8a1339745959</guid>
     </item>
     <item>
-      <title>সিরির পরীক্ষা চালাতে চ্যাটজিপিটির মতো অ্যাপ তৈরি অ্যাপলের</title>
-      <link>https://bonikbarta.com/scitech/GYzkNLgZEfwYlHtk/</link>
-      <description><![CDATA[চ্যাটজিপিটি ধাঁচের অ্যাপ তৈরি করেছে টেক জায়ান্ট অ্যাপল।]]></description>
-      <pubDate>Sat, 27 Sep 2025 21:23:58 GMT</pubDate>
-      <guid isPermaLink="false">350e6d7a9e54cd075dc8cf32cc9f444f</guid>
+      <title>সিক্সজি স্মার্টফোন আসতে পারে ২০২৮ সালে: কোয়ালকম সিইও</title>
+      <link>https://bonikbarta.com/scitech/WpS3vfCTSFfR0zYA/</link>
+      <description><![CDATA[দ্রুতগতির ষষ্ঠ প্রজন্মের মোবাইল ইন্টারনেট (সিক্সজি) আসতে আর দেরি নেই বলে জানিয়েছে চিপ প্রস্তুতকারক কোম্পানি কোয়ালকম।]]></description>
+      <pubDate>Sat, 27 Sep 2025 21:21:44 GMT</pubDate>
+      <guid isPermaLink="false">8aed3d805ea7ace13bfbefc0df0bac2d</guid>
     </item>
     <item>
       <title>বাংলাদেশে সড়ক  নিরাপত্তা: অনিয়মের জালে প্রতিদিনের প্রাণহানি</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[বিশ্ব ফার্মাসিস্ট দিবস উদযাপন করেছে অতীশ দীপঙ্কর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় (এডিইউএসটি)।]]></description>
       <pubDate>Sat, 27 Sep 2025 20:32:14 GMT</pubDate>
       <guid isPermaLink="false">a066fbe0735c8d6a5daeb751a9005879</guid>
-    </item>
-    <item>
-      <title>এআইইউবিতে ম্যাগনা কার্টা অবজারভেটরি আন্তর্জাতিক সিম্পোজিয়াম অনুষ্ঠিত</title>
-      <link>https://bonikbarta.com/economy/YkoKOPWHkkb1lCHS/</link>
-      <description><![CDATA[আমেরিকান ইন্টারন্যাশনাল ইউনিভার্সিটি-বাংলাদেশে (এআইইউবি) সম্প্রতি দুই দিনব্যাপী ম্যাগনা কার্টা অবজারভেটরি আন্তর্জাতিক সিম্পোজিয়াম অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Sat, 27 Sep 2025 20:31:04 GMT</pubDate>
-      <guid isPermaLink="false">2a4327d7f782cb5bb85948ee920e2c48</guid>
     </item>
   </channel>
 </rss>
