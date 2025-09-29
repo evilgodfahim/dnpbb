@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 29 Sep 2025 07:41:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 08:34:51 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>'এনআরএম প্ল্যাটফর্ম মানব পাচারের শিকার ব্যক্তিদের সুরক্ষার জন্য মাইলফলক উদ্যোগ'</title>
+      <link>https://bonikbarta.com/bangladesh/sTHFqw89sChBjCFV/</link>
+      <description><![CDATA[উপদেষ্টা বলেন, মানব পাচার এবং অভিবাসী চোরাচালান বিশ্বব্যাপী গুরুতর ও উদ্বেগজনক অপরাধ। ট্রানজিট এবং গন্তব্য দেশ হিসেবে বাংলাদেশও এর ধ্বংসাত্মক প্রভাব থেকে মুক্ত নয়। বাংলাদেশ সরকার সর্বদা এ অপরাধ মোকাবেলায় সর্বোচ্চ অগ্রাধিকার দিয়ে আসছে।]]></description>
+      <pubDate>Mon, 29 Sep 2025 08:15:27 GMT</pubDate>
+      <guid isPermaLink="false">77869a9e3b454a7546fe962c7491d76f</guid>
+    </item>
     <item>
       <title>পারমাণবিক অস্ত্র বিস্তার রোধ চুক্তি থেকে বেরিয়ে আসবে ইরান?</title>
       <link>https://bonikbarta.com/international/Mj8FjDn9EwKWwgQn/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">f4cf1c6962a2b1258b75b3271a7d4900</guid>
     </item>
     <item>
-      <title>সুস্থ হয়ে উঠছেন টম হল্যান্ড</title>
-      <link>https://bonikbarta.com/talkies/0UgnJvJTruDrm0ES/</link>
-      <description><![CDATA[শুটিংয়ে আহত হয়েছিলেন টম হল্যান্ড। ‘স্পাইডার-ম্যান: ব্র্যান্ড নিউ ডে’র গ্লাসগো সেটে মাথায় আঘাত পেয়েছিলেন তিনি।]]></description>
-      <pubDate>Sun, 28 Sep 2025 22:53:00 GMT</pubDate>
-      <guid isPermaLink="false">1463cfeb2e01fea4b5d98a4fa3ff1b2f</guid>
+      <title>মানবিক মূল্যবোধ ও সংগ্রামের গল্পে আসছে ‘বান্ধব’</title>
+      <link>https://bonikbarta.com/talkies/JtFQGHTwTuyNF8JS/</link>
+      <description><![CDATA[আগামী ৩ অক্টোবর প্রেক্ষাগৃহে মুক্তি পাচ্ছে চিত্রনায়িকা মৌ খান অভিনীত বহুল প্রতীক্ষিত সিনেমা বান্ধব।]]></description>
+      <pubDate>Sun, 28 Sep 2025 22:51:00 GMT</pubDate>
+      <guid isPermaLink="false">4d00aeef47489cf1e2e9cec8caaf4474</guid>
     </item>
     <item>
       <title>যেমন যাচ্ছে হলিউডের বক্স অফিস</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[যুক্তরাষ্ট্রের মূল্যস্ফীতি সম্পর্কিত তথ্য প্রত্যাশার সঙ্গে সামঞ্জস্যপূর্ণ হওয়ায় চলতি বছরের বাকি সময় ফেডারেল রিজার্ভ (ফেড) সুদহার কমানো অব্যাহত রাখতে পারে বলে মনে করছেন বিশ্লেষকরা।]]></description>
       <pubDate>Sun, 28 Sep 2025 20:48:56 GMT</pubDate>
       <guid isPermaLink="false">30de44dbe4c94150efc96b3752d59b49</guid>
-    </item>
-    <item>
-      <title>ধর্মঘটের কারণে ফ্রান্সে এলএনজি সরবরাহে অচলাবস্থা</title>
-      <link>https://bonikbarta.com/economy/y7EXE5YOxtWRBxoJ/</link>
-      <description><![CDATA[মজুরি বৃদ্ধির দাবিতে ফ্রান্সের তরলীকৃত প্রাকৃতিক গ্যাস (এলএনজি) টার্মিনালে চলছে কর্মীদের ধর্মঘট।]]></description>
-      <pubDate>Sun, 28 Sep 2025 20:47:02 GMT</pubDate>
-      <guid isPermaLink="false">c31ab1d172c870181f094b27ded4b292</guid>
     </item>
   </channel>
 </rss>
