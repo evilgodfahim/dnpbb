@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 30 Sep 2025 09:26:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 09:43:23 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>বুধবার থেকে চার দিনের ছুটিতে যাচ্ছে পুঁজিবাজার</title>
+      <link>https://bonikbarta.com/economy/gJEsLFhFlGjNn3cv/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Tue, 30 Sep 2025 09:28:22 GMT</pubDate>
+      <guid isPermaLink="false">7fb2eb6e8c8654fefb572a9b38550f7d</guid>
+    </item>
     <item>
       <title>দুর্গাপূজার ছুটিতেও চলবে আমদানি-রফতানি কার্যক্রম</title>
       <link>https://bonikbarta.com/economy/DhSNos9NKT3CMQIi/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">66405889f9656cfc753ac0eaf1c6948a</guid>
     </item>
     <item>
-      <title>দেশপ্রেম আর অ্যাকশনে শাকিবের ‘সোলজার’</title>
-      <link>https://bonikbarta.com/talkies/oN6dwhaNUC6HJK2p/</link>
-      <description><![CDATA[দীর্ঘদিন যুক্তরাষ্ট্রে অবস্থানের পর দেশে ফিরেছেন ঢাকাই সিনেমার সুপারস্টার শাকিব খান। দেশে ফেরার পরেই নতুন সিনেমার শুটিংয়ের প্রস্তুতি শুরু করেছেন তিনি।]]></description>
-      <pubDate>Mon, 29 Sep 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="false">03f2fed9c1c1c0eb88b88b1852d3cbd9</guid>
+      <title>এআই চিপ ও প্যাকেজিং চাহিদা বৃদ্ধিতে সেমিকন্ডাক্টর ফাউন্ড্রি বাজারে ১৯% প্রবৃদ্ধি</title>
+      <link>https://bonikbarta.com/scitech/vqdw4AMQeCiwEWF8/</link>
+      <description><![CDATA[বিশ্বব্যাপী সেমিকন্ডাক্টর ফাউন্ড্রি ২.০ বাজারে ২০২৫ সালের দ্বিতীয় প্রান্তিকে উল্লেখযোগ্য প্রবৃদ্ধি দেখা গেছে। এ সময় বাজারটিতে আয় আগের বছরের একই সময়ের তুলনায় ১৯ শতাংশ বেড়েছে।]]></description>
+      <pubDate>Mon, 29 Sep 2025 20:59:54 GMT</pubDate>
+      <guid isPermaLink="false">bbaeacf3b97afa6136826f955bf806bb</guid>
     </item>
     <item>
       <title>প্রযুক্তিতে চীনের সঙ্গে প্রতিযোগিতা করতে হলে কাজের সংস্কৃতি বদলাতে হবে</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[রফতানি বাণিজ্য সম্প্রসারণের লক্ষ্যে আংশিক রফতানিকারক প্রতিষ্ঠানগুলোকে ব্যাংক গ্যারান্টির বিপরীতে শুল্কমুক্ত সুবিধায় কাঁচামাল আমদানির সুযোগ প্রদানের নির্দেশনা দেয়া হয়েছে।]]></description>
       <pubDate>Mon, 29 Sep 2025 20:59:46 GMT</pubDate>
       <guid isPermaLink="false">1282524f9cd87eda20e35fabbbb47183</guid>
-    </item>
-    <item>
-      <title>নারায়ণগঞ্জে উদ্যোক্তা উন্নয়ন প্রশিক্ষণ শুরু করেছে মার্কেন্টাইল ব্যাংক</title>
-      <link>https://bonikbarta.com/economy/fV0YhJviby7FN5K3/</link>
-      <description><![CDATA[বাংলাদেশ ব্যাংকের সঙ্গে যৌথ উদ্যোগে নারায়ণগঞ্জে মাসব্যাপী উদ্যোক্তা উন্নয়ন প্রশিক্ষণ কর্মসূচি শুরু করেছে মার্কেন্টাইল ব্যাংক পিএলসি।]]></description>
-      <pubDate>Mon, 29 Sep 2025 20:59:46 GMT</pubDate>
-      <guid isPermaLink="false">972eaa96927dc84049a9e8db19649743</guid>
     </item>
   </channel>
 </rss>
