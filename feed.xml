@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 30 Sep 2025 03:01:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 03:48:30 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>গাজায় নতুন শান্তি পরিকল্পনায় ট্রাম্প-নেতানিয়াহুর ঐকমত্য; হামাসকে সতর্কবার্তা</title>
+      <link>https://bonikbarta.com/international/gD2rWjsfVzNpLgK4/</link>
+      <description><![CDATA[ট্রাম্পের পরিকল্পনা অনুযায়ী, যুদ্ধবিরতি কার্যকর হলে বিদ্যমান ফ্রন্টলাইন স্থগিত থাকবে এবং ধাপে ধাপে সেনা প্রত্যাহার হবে। হামাসকে অস্ত্র জমা দিতে হবে এবং টানেল ও অস্ত্র উৎপাদন কেন্দ্র ধ্বংস করা হবে। প্রতিটি ইসরায়েলি জিম্মির মরদেহের বিনিময়ে ১৫ জন ফিলিস্তিনির মরদেহ ফেরত দেয়া হবে।]]></description>
+      <pubDate>Tue, 30 Sep 2025 03:17:56 GMT</pubDate>
+      <guid isPermaLink="false">95685d223c28fc90fc53efc52367a5b6</guid>
+    </item>
     <item>
       <title>রোহিঙ্গা সংকট নিয়ে আজ জাতিসংঘে উচ্চপর্যায়ের সম্মেলন</title>
       <link>https://bonikbarta.com/international/kCS8ytELrugH2ksU/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">4a79ce6bad9a3969d2bb2185a05cd3ba</guid>
     </item>
     <item>
-      <title>চট্টগ্রাম বন্দরে বিনিয়োগের প্রস্তাব দিয়েছে দেশীয় বার্থ অপারেটররা</title>
-      <link>https://bonikbarta.com/economy/I0xPj2dyGZX804YG/</link>
-      <description><![CDATA[চট্টগ্রাম বন্দরের সবচেয়ে পুরনো টার্মিনাল জেনারেল কার্গো বার্থের (জিসিবি) উন্নয়ন ও দীর্ঘমেয়াদি পরিচালনার জন্য এবার দেশীয় বার্থ অপারেটররা বিনিয়োগ প্রস্তাব দিয়েছে।]]></description>
+      <title>বেসরকারি খাতের বিদেশী ঋণের তথ্যও পাঠাতে হবে সিআইবিতে</title>
+      <link>https://bonikbarta.com/economy/1nMks5fZbvguK9wx/</link>
+      <description><![CDATA[দেশের ব্যাংক ও আর্থিক প্রতিষ্ঠান থেকে নেয়া কোনো ব্যক্তি বা প্রতিষ্ঠানের ঋণের তথ্য সিআইবি (ক্রেডিট ইনফরমেশন ব্যুরো) ডাটাবেজে সংরক্ষণ করা হয়। তবে বেসরকারি খাতের বিদেশী ঋণের তথ্য সেখানে থাকে না।]]></description>
       <pubDate>Mon, 29 Sep 2025 20:59:46 GMT</pubDate>
-      <guid isPermaLink="false">6baf4fcd6ef8f742a22787fffc865c67</guid>
+      <guid isPermaLink="false">f025c6d2452f8c8062c73711efc0bf66</guid>
     </item>
     <item>
       <title>ইউনাইটেড কার্ডিয়াক সেন্টারের আনুষ্ঠানিক কার্যক্রম শুরু</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[কুটির, ক্ষুদ্র, ছোট ও মাঝারি শিল্প (সিএমএসএমই) দেশের শিল্প খাতের প্রধান চালিকাশক্তি হলেও সঠিক ব্র্যান্ডিং ও মার্কেটিংয়ের অভাবে এ খাতের রফতানি সম্ভাবনা পূর্ণমাত্রায় কাজে লাগানো যাচ্ছে না।]]></description>
       <pubDate>Mon, 29 Sep 2025 20:58:33 GMT</pubDate>
       <guid isPermaLink="false">761332ab0c94bf8c3e26108862753b9b</guid>
-    </item>
-    <item>
-      <title>প্রতি বিচারকের কাঁধে প্রায় ৪ হাজার মামলার ভার</title>
-      <link>https://bonikbarta.com/bangladesh/oAW9qxtOIxAFtJZV/</link>
-      <description><![CDATA[No description available]]></description>
-      <pubDate>Mon, 29 Sep 2025 20:57:21 GMT</pubDate>
-      <guid isPermaLink="false">d4b22c9b50f9444e4232eeff4604dd1a</guid>
     </item>
   </channel>
 </rss>
