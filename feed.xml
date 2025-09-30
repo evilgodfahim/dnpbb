@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 30 Sep 2025 07:23:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 07:40:56 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>টি.কে গ্রুপের কারখানায় গ্যাস সংযোগ নিয়ে মিথ্যা সংবাদের বিরুদ্ধে প্রতিবাদ</title>
+      <link>https://bonikbarta.com/economy/UHKtK1wGhf0wqqkn/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Tue, 30 Sep 2025 07:40:51 GMT</pubDate>
+      <guid isPermaLink="false">34b6d2573f5c7da34627446cb7cbe37f</guid>
+    </item>
     <item>
       <title>প্রধান উপদেষ্টার সঙ্গে ইউনিসেফের নির্বাহী পরিচালকের সাক্ষাৎ</title>
       <link>https://bonikbarta.com/bangladesh/U6O14aI2IQVrVF1S/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">5eb78f189923852094faa7328c646630</guid>
     </item>
     <item>
-      <title>বাংলাদেশ ব্যাংকের ক্রেডিট গ্যারান্টি বিভাগের সঙ্গে চুক্তি করল ইউনাইটেড ফাইন্যান্স</title>
-      <link>https://bonikbarta.com/economy/O7WH0UiEeH6YzBnd/</link>
-      <description><![CDATA[বাংলাদেশ ব্যাংকের ক্রেডিট গ্যারান্টি বিভাগের সঙ্গে একটি চুক্তি স্বাক্ষর করেছে ইউনাইটেড ফাইন্যান্স।]]></description>
+      <title>আইপিওর ৬৫ কোটি টাকা ব্যয় নিয়ে নিরীক্ষকের আপত্তি</title>
+      <link>https://bonikbarta.com/economy/PZMVHl6S49iiZaaG/</link>
+      <description><![CDATA[লুব-রেফ (বাংলাদেশ) পিএলসি প্রাথমিক গণপ্রস্তাবের (আইপিও) মাধ্যমে সংগৃহীত অর্থের ৪১ কোটি ৭৩ লাখ টাকা ভূমি ও ভূমি উন্নয়ন খাতে অতিরিক্ত ব্যয় করেছে। এছাড়া কোম্পানিটি চলতি মূলধন খাতে ২৩ কোটি ৪৩ লাখ টাকা অনুমোদন ছাড়াই ব্যয় করেছে।]]></description>
       <pubDate>Mon, 29 Sep 2025 20:59:53 GMT</pubDate>
-      <guid isPermaLink="false">5cd9e374804517071a08d2a81fcf4048</guid>
+      <guid isPermaLink="false">633fe2306634b16d352936ec6dae6631</guid>
     </item>
     <item>
       <title>এনআরবিসি ব্যাংক উদ্যোক্তার শেয়ার বিক্রির ঘোষণা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[গাজীপুরে দুটি সড়ক দুর্ঘটনায় এক নারীসহ চারজন নিহত হয়েছেন। এছাড়া বগুড়া, নারায়ণগঞ্জ, সিরাজগঞ্জ ও রাজধানীর উত্তরায় সড়ক দুর্ঘটনায় আরো ছয়জনের প্রাণহানির খবর পাওয়া গেছে। এসব দুর্ঘটনায় আহত হয়েছেন অন্তত চারজন।]]></description>
       <pubDate>Mon, 29 Sep 2025 20:59:45 GMT</pubDate>
       <guid isPermaLink="false">34a9a61d5fc09806fad9fc910a4d06ec</guid>
-    </item>
-    <item>
-      <title>আড়াইহাজারে ইউপি সদস্যকে হাত-পা বেঁধে পিটিয়ে হত্যা</title>
-      <link>https://bonikbarta.com/bangladesh/Q4rSGyeYdqXFKAUQ/</link>
-      <description><![CDATA[নারায়ণগঞ্জের আড়াইহাজারে সোহেল আহমেদ (৩২) নামে এক ইউপি সদস্যকে হাত-পা বেঁধে পিটিয়ে হত্যার ঘটনা গটেছে।]]></description>
-      <pubDate>Mon, 29 Sep 2025 20:59:45 GMT</pubDate>
-      <guid isPermaLink="false">81bb0d1d71cf7371a07d862bf5cb840d</guid>
     </item>
   </channel>
 </rss>
