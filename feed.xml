@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 01 Oct 2025 04:45:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 05:23:48 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>মার্কিন সরকারে অচলাবস্থা: বাজেট চুক্তিতে ব্যর্থ হওয়ায় 'শাটডাউন' শুরু</title>
+      <link>https://bonikbarta.com/international/kjP3QKQG8Snt4qfN/</link>
+      <description><![CDATA[বিশেষজ্ঞরা সতর্ক করছেন যে, এই শাটডাউন অতীতের বাজেট-সংক্রান্ত অচলাবস্থার চেয়ে দীর্ঘ হতে পারে। প্রেসিডেন্ট ডোনাল্ড ট্রাম্প এবং হোয়াইট হাউসের কর্মকর্তারা ডেমোক্র্যাটদের শাস্তি দিতে সরকারি কর্মসূচিতে কাটছাঁট এবং কর্মীদের স্থায়ীভাবে ছাঁটাইয়ের হুমকি দিচ্ছেন।]]></description>
+      <pubDate>Wed, 01 Oct 2025 05:07:02 GMT</pubDate>
+      <guid isPermaLink="false">6998090436b7e3e65186ca65dc76127d</guid>
+    </item>
     <item>
       <title>৮ বিভাগে অতি ভারি বৃষ্টির আভাস, চট্টগ্রামে ভূমিধসের শঙ্কা</title>
       <link>https://bonikbarta.com/bangladesh/vJLsObW98UEDANpc/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">e3cd5421ec472f0a9b588c2c838a0734</guid>
     </item>
     <item>
-      <title>বাংলাদেশের গণতান্ত্রিক উত্তরণে পূর্ণ সমর্থনের অঙ্গীকার জাতিসংঘ মহাসচিবের</title>
-      <link>https://bonikbarta.com/bangladesh/lURdTXBKxldeXnyh/</link>
-      <description><![CDATA[জাতিসংঘ মহাসচিব এন্তোনিও গুতেরেস বাংলাদেশে চলমান গণতান্ত্রিক উত্তরণ ও সংস্কার উদ্যোগে তার পূর্ণ সমর্থন ও সংহতির অঙ্গীকার করেছেন।]]></description>
+      <title>গত তিন নির্বাচনের উত্থাপিত অভিযোগ তদন্ত কমিটির ৩ সদস্য পরিবর্তন</title>
+      <link>https://bonikbarta.com/bangladesh/Ryrjj2FFMisY4zkG/</link>
+      <description><![CDATA[বিগত তিনটি জাতীয় সংসদ নির্বাচন নিয়ে উত্থাপিত অভিযোগ যাচাই-বাছাইয়ের লক্ষ্যে গঠিত তদন্ত কমিশনে পুরনো তিন সদস্যের পরিবর্তে নতুন তিন কর্মকর্তাকে সংযুক্ত করেছে নির্বাচন কমিশন (ইসি)।]]></description>
       <pubDate>Tue, 30 Sep 2025 20:14:56 GMT</pubDate>
-      <guid isPermaLink="false">6503c15ac4e56ebf41b1f8c091de5849</guid>
+      <guid isPermaLink="false">aabd6ac849c3143124716f5f8742e033</guid>
     </item>
     <item>
       <title>নির্বাচন ব্যাহত করার ষড়যন্ত্রের বিরুদ্ধে সরকার সতর্ক —প্রধান উপদেষ্টার প্রেস সচিব</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[পৃথিবীতে প্রতি বছর যে পরিমাণ খাদ্য উৎপাদন হয়, তা বৈশ্বিক জনসংখ্যার দেড় গুণ মানুষকে খাওয়ানো সম্ভব। অথচ এত খাবার উৎপাদনের পরও প্রয়োজনীয় খাবার পাচ্ছে না বিশ্বের অনেক মানুষ।]]></description>
       <pubDate>Tue, 30 Sep 2025 20:00:00 GMT</pubDate>
       <guid isPermaLink="false">a242be33ad9e3fb2a447415f6882e7af</guid>
-    </item>
-    <item>
-      <title>ডিজিটাল পদ্ধতিতে চসিকের হোল্ডিং ট্যাক্স সংগ্রহের দায়িত্ব পেল ইবিএল</title>
-      <link>https://bonikbarta.com/economy/LJLjET9suOdEuroN/</link>
-      <description><![CDATA[ডিজিটাল পদ্ধতিতে চট্টগ্রাম সিটি করপোরেশনের (চসিক) হোল্ডিং ট্যাক্স সংগ্রহ ও এজন্য প্রয়োজনীয় সিস্টেম বাস্তবায়নের দায়িত্ব পেয়েছে ইস্টার্ন ব্যাংক পিএলসি (ইবিএল)।]]></description>
-      <pubDate>Tue, 30 Sep 2025 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">e69865a5016a2a8af514d70a1943b322</guid>
     </item>
   </channel>
 </rss>
