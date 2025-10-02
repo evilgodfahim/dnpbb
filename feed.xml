@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 02 Oct 2025 03:46:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 04:26:49 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>গাজাগামী ফ্লোটিলা আটক, গ্রেটাসহ শত শত কর্মী ইসরায়েলের হেফাজতে</title>
+      <link>https://bonikbarta.com/international/VtU58mYRFFTjxjtc/</link>
+      <description><![CDATA[সব মিলিয়ে ফ্লোটিলার অন্তত ১৩টি জাহাজ সমুদ্রে আটক করা হয়েছে। 'গ্লোবাল সুমুদ ফ্লোটিলা'র মুখপাত্র সাইফ আবুকেশেখ জানান, এসব জাহাজে ৩৭টি দেশের ২০১ জনেরও বেশি মানুষ ছিলেন। এদের মধ্যে স্পেনের ৩০ জন, ইতালির ২২ জন এবং তুরস্কের ২১ জন কর্মী ছিলেন।]]></description>
+      <pubDate>Thu, 02 Oct 2025 03:48:41 GMT</pubDate>
+      <guid isPermaLink="false">4db46b215e27c56eac313ad7deaa7847</guid>
+    </item>
     <item>
       <title>শেষ মুহূর্তের গোলে বার্সাকে হারানোর পর 'আবারো সব জিততে চায়' পিএসজি</title>
       <link>https://bonikbarta.com/sports/phcbWeSO5dx1UlOf/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">1b2eb496adc3b8ee2634adc03af99fc4</guid>
     </item>
     <item>
-      <title>রোহিঙ্গাদের ৯৬ মিলিয়ন ডলার সহায়তা দেবে যুক্তরাষ্ট্র-যুক্তরাজ্য</title>
-      <link>https://bonikbarta.com/bangladesh/eoaAoxuHdwMcNdWM/</link>
-      <description><![CDATA[রোহিঙ্গা ও মিয়ানমারের সংখ্যালঘুদের জন্য যুক্তরাষ্ট্র ও যুক্তরাজ্য নতুন করে ৯৬ মিলিয়ন ডলার সহায়তার অঙ্গীকার করেছে।]]></description>
+      <title>পাঁচদিনের সরকারি সফরে তুরস্কে বিমানবাহিনী প্রধান</title>
+      <link>https://bonikbarta.com/bangladesh/PhNDTFbnIOYMcqpl/</link>
+      <description><![CDATA[বাংলাদেশ বিমান বাহিনী প্রধান এয়ার চিফ মার্শাল হাসান মাহমুদ খান সরকারি সফরে তুরস্ক গেছেন। গতকাল ঢাকার হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে তুরস্কের উদ্দেশে যাত্রা করেন তিনি।]]></description>
       <pubDate>Wed, 01 Oct 2025 20:43:12 GMT</pubDate>
-      <guid isPermaLink="false">772890111b8405a538d951e6d46a79a8</guid>
+      <guid isPermaLink="false">5cf5bdb42ec07049155d06baa496415f</guid>
     </item>
     <item>
       <title>জুলাই আন্দোলনে ক্ষতিগ্রস্ত ডিভাইডার ও নিরাপত্তাবেষ্টনী সংস্কার হয়নি এখনো</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[চলতি বছরের প্রথম ছয় মাসে (জানুয়ারি-জুন) প্রায় ৪৩০ কোটি ডলার আয় করেছে চ্যাটজিপিটির নির্মাতা ওপেনএআই, যা ২০২৪ সালের পুরো বছরের আয়ের তুলনায় ১৬ শতাংশ বেশি।]]></description>
       <pubDate>Wed, 01 Oct 2025 20:00:00 GMT</pubDate>
       <guid isPermaLink="false">e618a6789f7087041afc2ce15d1bd3b9</guid>
-    </item>
-    <item>
-      <title>প্রাইভেসি রক্ষায় সবচেয়ে পিছিয়ে হোয়াটসঅ্যাপ ফেসবুক ও ইনস্টাগ্রাম</title>
-      <link>https://bonikbarta.com/scitech/CFYnHI9HiEtenSFg/</link>
-      <description><![CDATA[মেটা মালিকানাধীন ফেসবুক, হোয়াটসঅ্যাপ ও ইনস্টাগ্রাম এবং টিকটক ব্যবহারকারীর তথ্য সবচেয়ে বেশি সংগ্রহ করে।]]></description>
-      <pubDate>Wed, 01 Oct 2025 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">b23c682aa0e0ffc2d05b02eb37330723</guid>
     </item>
   </channel>
 </rss>
