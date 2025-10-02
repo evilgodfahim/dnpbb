@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 02 Oct 2025 16:29:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 16:48:16 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ভাষাসৈনিক আহমদ রফিক আর নেই</title>
+      <link>https://bonikbarta.com/bangladesh/NpdD6J4JLkDuJfHT/</link>
+      <description><![CDATA[শারীরিক অবস্থা অবনতি হলে গতকাল বুধবার বিকালে লাইফ সাপোর্টে নেয়া হয় তাকে। আজ চিকিৎসকরা জানান, মৃত ঘোষণা করার সাত মিনিট আগে তার কার্ডিয়াক অ্যারেস্ট হয়।]]></description>
+      <pubDate>Thu, 02 Oct 2025 16:44:54 GMT</pubDate>
+      <guid isPermaLink="false">c1979f114656c325f697ebfad2bbafe6</guid>
+    </item>
     <item>
       <title>চট্টগ্রাম বন্দরের কনটেইনারে আগুন, এড়ানো গেল বড় ক্ষতি</title>
       <link>https://bonikbarta.com/bangladesh/BlD9fVBNxXEsUit6/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">7dccc47122b95076623fce34840a7d43</guid>
     </item>
     <item>
-      <title>শারজায় টি-টোয়েন্টি সিরিজে মুখোমুখি বাংলাদেশ-আফগানিস্তান</title>
-      <link>https://bonikbarta.com/sports/hT4LK3skwuDDXa6X/</link>
-      <description><![CDATA[এশিয়া কাপে আফগানিস্তানকে হারিয়ে আসায় বাড়তি আত্মবিশ্বাস পাবে বাংলাদেশ। আবুধাবিতে আফগানদের ৮ রানে হারায় টাইগাররা। ৪ ওভার বোলিং করে ১১ রানে ২ উইকেট নিয়ে ম্যাচসেরা হন নাসুম আহমেদ।]]></description>
-      <pubDate>Thu, 02 Oct 2025 08:58:26 GMT</pubDate>
-      <guid isPermaLink="false">a185cd7c03e635e18628a9ad08bf1028</guid>
+      <title>চাঁদপুরে ২২ দিন ইলিশসহ সব ধরনের মাছ ধরায় নিষেধাজ্ঞা</title>
+      <link>https://bonikbarta.com/bangladesh/Vr8g0rBzSNzywXe4/</link>
+      <description><![CDATA[অভিযান পরিচালনায় মৎস্য কর্মকর্তাদের সঙ্গে নৌ পুলিশ, কোস্ট গার্ড, নৌবাহিনীসহ সব আইনশৃঙ্খলা বাহিনী অংশ নেবে।]]></description>
+      <pubDate>Thu, 02 Oct 2025 08:34:00 GMT</pubDate>
+      <guid isPermaLink="false">93fba7a8582ca8f74b0a1e56dbd98cec</guid>
     </item>
     <item>
       <title>কাপ্তাই হ্রদে ঝড়ে নৌকাডুবি: ৫ মরদেহ উদ্ধার</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[জ্বালানি খাতে তালিকাভুক্ত এমজেএল বাংলাদেশ পিএলসি ব্যবসা সম্প্রসারণের অংশ হিসেবে জমি কেনার সিদ্ধান্ত নিয়েছে। এজন্য কোম্পানিটি ইসি হোল্ডিংস লিমিটেডের (ইসিএইচএল) সঙ্গে যৌথ বিনিয়োগ করবে।]]></description>
       <pubDate>Wed, 01 Oct 2025 21:00:00 GMT</pubDate>
       <guid isPermaLink="false">e368d17ed40e3c6036519bcf4f12ea92</guid>
-    </item>
-    <item>
-      <title>‘গ্রামের পূজার আনন্দটা বেশি মিস করছি’</title>
-      <link>https://bonikbarta.com/talkies/iDusCpRPcxdPm9kx/</link>
-      <description><![CDATA[দেশের বাইরে থাকার কারণে এবারের পূজায় আত্মীয়-স্বজন, বন্ধু-বান্ধব, বাবা-মা, ফ্যান-ফলোয়ার—সবাইকে খুব মিস করছি।]]></description>
-      <pubDate>Wed, 01 Oct 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="false">0a094003937aba34a598557a22bed27d</guid>
     </item>
   </channel>
 </rss>
