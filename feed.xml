@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 02 Oct 2025 04:43:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 05:21:43 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>শেষ মুহূর্তে ম্যান সিটির গোল হজম, কতটা উদ্বিগ্ন গার্দিওলা</title>
+      <link>https://bonikbarta.com/sports/v8ocTuFmyYJysVX1/</link>
+      <description><![CDATA[মৌসুমে এখন পর্যন্ত সব প্রতিযোগিতা মিলিয়ে আটটি গোল হজম করেছে গার্দিওলার দল, যার অর্ধেকই এসেছে সেকেন্ড হাফের গুরুত্বপূর্ণ সময়ে।]]></description>
+      <pubDate>Thu, 02 Oct 2025 04:49:53 GMT</pubDate>
+      <guid isPermaLink="false">339222d680e776077d13340548516cdb</guid>
+    </item>
     <item>
       <title>নিউ ইয়র্কে নয় দিনের সফর শেষে দেশে ফিরলেন প্রধান উপদেষ্টা</title>
       <link>https://bonikbarta.com/bangladesh/e7LW2dCWTJ9me9MF/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">8286aed79510623796bc6d436e85001e</guid>
     </item>
     <item>
-      <title>রেমিট্যান্স সংগ্রহে ১ বিলিয়ন ডলারের মাইলফলক উদযাপন করল রূপালী ব্যাংক</title>
-      <link>https://bonikbarta.com/economy/zvq14yF2MjG0izbe/</link>
-      <description><![CDATA[রূপালী ব্যাংক পিএলসি প্রথমবারের মতো রেমিট্যান্স সংগ্রহে ১ বিলিয়ন ডলারের মাইলফলক স্পর্শ করেছে। এ উপলক্ষে সোমবার ঢাকায় ব্যাংকের প্রধান কার্যালয়ে এক অনুষ্ঠানের আয়োজন করা হয়।]]></description>
+      <title>এভারকেয়ার হসপিটাল চট্টগ্রামে বিশ্ব হার্ট দিবস উদযাপন</title>
+      <link>https://bonikbarta.com/economy/YxAMjG9rnCkx1BwH/</link>
+      <description><![CDATA[সম্প্রতি ‘বিশ্ব হার্ট দিবস ২০২৫’ উদযাপন করেছে এভারকেয়ার হসপিটাল চট্টগ্রাম। এ উপলক্ষে আয়োজিত সচেতনতামূলক আলোচনা সভায় বক্তব্য দেন হাসপাতালটির কার্ডিওলজি বিভাগের কো-অর্ডিনেটর]]></description>
       <pubDate>Wed, 01 Oct 2025 20:43:12 GMT</pubDate>
-      <guid isPermaLink="false">d0c9be008576550f77fd2e014499bdfa</guid>
+      <guid isPermaLink="false">1b2eb496adc3b8ee2634adc03af99fc4</guid>
     </item>
     <item>
       <title>রোহিঙ্গাদের ৯৬ মিলিয়ন ডলার সহায়তা দেবে যুক্তরাষ্ট্র-যুক্তরাজ্য</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[‘নিয়ন’ নামে নতুন একটি কৃত্রিম বুদ্ধিমত্তাভিত্তিক (এআই) ওয়েব ব্রাউজার উন্মোচন করেছে অপেরা। সরাসরি ওয়েব পেজেই কোড লেখা, ফরম পূরণ করা কিংবা একাধিক সাইটের তথ্য তুলনা করে দেবে নিয়ন।]]></description>
       <pubDate>Wed, 01 Oct 2025 20:00:00 GMT</pubDate>
       <guid isPermaLink="false">ff56a1179050ad175be1a995ebaeb91f</guid>
-    </item>
-    <item>
-      <title>ল্যাপটপের ইউএসবি পোর্ট ব্যবহারের পাঁচ ভুল</title>
-      <link>https://bonikbarta.com/scitech/zsu2cMQuR9sPu6Dl/</link>
-      <description><![CDATA[তারবিহীন প্রযুক্তির যুগে চলে এলেও এখনো ল্যাপটপের ইউএসবি পোর্ট ব্যবহারকারীদের জন্য অপরিহার্য। ডিভাইস চার্জ দেয়া, তথ্য স্থানান্তর বা বিভিন্ন যন্ত্রপাতি ব্যবহারে এসব পোর্ট কার্যকর ভূমিকা রাখে।]]></description>
-      <pubDate>Wed, 01 Oct 2025 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">0d5f6383983f5ef14a2679f524afcf74</guid>
     </item>
   </channel>
 </rss>
