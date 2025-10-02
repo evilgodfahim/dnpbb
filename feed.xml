@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 02 Oct 2025 09:24:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 09:41:09 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>যেমন আছে আজকের ব্যাবিলন</title>
+      <link>https://bonikbarta.com/feature/aHdOAiPNrDlddowD/</link>
+      <description><![CDATA[ব্যাবিলন বহন করছে আধুনিক ইতিহাসের ক্ষতচিহ্নও। ১৯৮০-এর দশকে সাদ্দাম হোসেন নিজেকে সম্রাট দ্বিতীয় নেবুচাদনেজারের উত্তরসূরি মনে করে পুরনো দেয়ালগুলো নতুন ইট দিয়ে পুনর্নির্মাণ করেন। তাতে নিজের নাম খোদাই করে রেখে যান। পরে ২০০৩ সালে মার্কিন বাহিনী এই অঞ্চলে ঘাঁটি স্থাপন করে।]]></description>
+      <pubDate>Thu, 02 Oct 2025 09:37:00 GMT</pubDate>
+      <guid isPermaLink="false">7dccc47122b95076623fce34840a7d43</guid>
+    </item>
     <item>
       <title>শারজায় টি-টোয়েন্টি সিরিজে মুখোমুখি বাংলাদেশ-আফগানিস্তান</title>
       <link>https://bonikbarta.com/sports/hT4LK3skwuDDXa6X/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">37f7d83d57e2fe83c1c6d0d4e1af7523</guid>
     </item>
     <item>
-      <title>প্রবৃদ্ধিতে ভিয়েতনাম কম্বোডিয়া পাকিস্তানের চেয়ে পিছিয়ে রয়েছে বাংলাদেশ</title>
-      <link>https://bonikbarta.com/economy/bg9TbR666pGhOEMu/</link>
-      <description><![CDATA[বিগত এক দশকে যুক্তরাষ্ট্রের তৈরি পোশাক আমদানিতে বাংলাদেশের প্রবৃদ্ধি ইতিবাচক হলেও তা এখনো ভিয়েতনাম, কম্বোডিয়া ও পাকিস্তানের তুলনায় অনেক পিছিয়ে রয়েছে।]]></description>
+      <title>চার্টার্ড লাইফের নতুন চেয়ারম্যান ও ভাইস চেয়ারম্যান নির্বাচিত</title>
+      <link>https://bonikbarta.com/economy/SCB5aRZJvpykl8wb/</link>
+      <description><![CDATA[চার্টার্ড লাইফ ইন্স্যুরেন্স পিএলসির নতুন চেয়ারম্যান এবং ভাইস চেয়ারম্যান নির্বাচিত হয়েছেন যথাক্রমে প্রকৌশলী মো. নুরুল আকতার ও গোলাম মুস্তাফা। কোম্পানির পরিচালনা পর্ষদের ৯৫তম সভায় গত সোমবার তাদের এ পদের জন্য নির্বাচন করা হয়।]]></description>
       <pubDate>Wed, 01 Oct 2025 20:43:13 GMT</pubDate>
-      <guid isPermaLink="false">d3cd4c35fc4f1a7befa97ce8c8c74353</guid>
+      <guid isPermaLink="false">783498f6aff25cfb787749e5f6d64f08</guid>
     </item>
     <item>
       <title>দেশের প্রথম সোশ্যাল বন্ড ইস্যুর অনুমোদন পেল ব্র্যাক ব্যাংক</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[জাতিসংঘের ৮০তম সাধারণ পরিষদে যোগদান শেষে ঢাকার উদ্দেশে রওনা হয়েছেন প্রধান উপদেষ্টা ড. মুহাম্মদ ইউনূস। স্থানীয় সময় মঙ্গলবার রাত ১১টা ১০ মিনিটে (বাংলাদেশ সময় বুধবার সকাল ৯টা ১০ মিনিট) তিনি নিউইয়র্ক ত্যাগ করেন।]]></description>
       <pubDate>Wed, 01 Oct 2025 20:32:50 GMT</pubDate>
       <guid isPermaLink="false">2dc2beb17785f1625f0a98fdb6667856</guid>
-    </item>
-    <item>
-      <title>বিএনপি বিশ্বাস করে ধর্ম যার যার, রাষ্ট্র সবার</title>
-      <link>https://bonikbarta.com/bangladesh/2HI4gJ1eSSLDSg7W/</link>
-      <description><![CDATA[সনাতন ধর্মাবলম্বীদের শারদীয় দুর্গোৎসব ও বিজয়া দশমীর শুভেচ্ছা জানিয়েছেন বিএনপির ভারপ্রাপ্ত চেয়ারম্যান তারেক রহমান।]]></description>
-      <pubDate>Wed, 01 Oct 2025 20:31:51 GMT</pubDate>
-      <guid isPermaLink="false">d2f869e5e37ebc3bb2ca305f6ed2d27c</guid>
     </item>
   </channel>
 </rss>
