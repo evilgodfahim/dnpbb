@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 02 Oct 2025 04:26:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 04:43:32 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>নিউ ইয়র্কে নয় দিনের সফর শেষে দেশে ফিরলেন প্রধান উপদেষ্টা</title>
+      <link>https://bonikbarta.com/bangladesh/e7LW2dCWTJ9me9MF/</link>
+      <description><![CDATA[সফরে অধ্যাপক ইউনূস একাধিক গুরুত্বপূর্ণ কর্মসূচিতে অংশ নেন এবং বিশ্বনেতাদের সঙ্গে দ্বিপাক্ষিক বৈঠক করেন। গত ২৬ সেপ্টেম্বর জাতিসংঘের ৮০তম সাধারণ পরিষদের অধিবেশনে ভাষণ দেন অধ্যাপক ইউনূস।]]></description>
+      <pubDate>Thu, 02 Oct 2025 04:35:45 GMT</pubDate>
+      <guid isPermaLink="false">c7e7b513e2a40f20a922014d30f6db07</guid>
+    </item>
     <item>
       <title>গাজাগামী ফ্লোটিলা আটক, গ্রেটাসহ শত শত কর্মী ইসরায়েলের হেফাজতে</title>
       <link>https://bonikbarta.com/international/VtU58mYRFFTjxjtc/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">d0c9be008576550f77fd2e014499bdfa</guid>
     </item>
     <item>
-      <title>এভারকেয়ার হসপিটাল চট্টগ্রামে বিশ্ব হার্ট দিবস উদযাপন</title>
-      <link>https://bonikbarta.com/economy/YxAMjG9rnCkx1BwH/</link>
-      <description><![CDATA[সম্প্রতি ‘বিশ্ব হার্ট দিবস ২০২৫’ উদযাপন করেছে এভারকেয়ার হসপিটাল চট্টগ্রাম। এ উপলক্ষে আয়োজিত সচেতনতামূলক আলোচনা সভায় বক্তব্য দেন হাসপাতালটির কার্ডিওলজি বিভাগের কো-অর্ডিনেটর]]></description>
+      <title>রোহিঙ্গাদের ৯৬ মিলিয়ন ডলার সহায়তা দেবে যুক্তরাষ্ট্র-যুক্তরাজ্য</title>
+      <link>https://bonikbarta.com/bangladesh/eoaAoxuHdwMcNdWM/</link>
+      <description><![CDATA[রোহিঙ্গা ও মিয়ানমারের সংখ্যালঘুদের জন্য যুক্তরাষ্ট্র ও যুক্তরাজ্য নতুন করে ৯৬ মিলিয়ন ডলার সহায়তার অঙ্গীকার করেছে।]]></description>
       <pubDate>Wed, 01 Oct 2025 20:43:12 GMT</pubDate>
-      <guid isPermaLink="false">1b2eb496adc3b8ee2634adc03af99fc4</guid>
+      <guid isPermaLink="false">772890111b8405a538d951e6d46a79a8</guid>
     </item>
     <item>
       <title>পাঁচদিনের সরকারি সফরে তুরস্কে বিমানবাহিনী প্রধান</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[তারবিহীন প্রযুক্তির যুগে চলে এলেও এখনো ল্যাপটপের ইউএসবি পোর্ট ব্যবহারকারীদের জন্য অপরিহার্য। ডিভাইস চার্জ দেয়া, তথ্য স্থানান্তর বা বিভিন্ন যন্ত্রপাতি ব্যবহারে এসব পোর্ট কার্যকর ভূমিকা রাখে।]]></description>
       <pubDate>Wed, 01 Oct 2025 20:00:00 GMT</pubDate>
       <guid isPermaLink="false">0d5f6383983f5ef14a2679f524afcf74</guid>
-    </item>
-    <item>
-      <title>বছরের প্রথমার্ধে ওপেনএআইয়ের আয় ৪৩০ কোটি ডলার</title>
-      <link>https://bonikbarta.com/scitech/EbiveXnbkBnCpxuf/</link>
-      <description><![CDATA[চলতি বছরের প্রথম ছয় মাসে (জানুয়ারি-জুন) প্রায় ৪৩০ কোটি ডলার আয় করেছে চ্যাটজিপিটির নির্মাতা ওপেনএআই, যা ২০২৪ সালের পুরো বছরের আয়ের তুলনায় ১৬ শতাংশ বেশি।]]></description>
-      <pubDate>Wed, 01 Oct 2025 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">e618a6789f7087041afc2ce15d1bd3b9</guid>
     </item>
   </channel>
 </rss>
