@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 02 Oct 2025 03:00:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 03:46:36 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>শেষ মুহূর্তের গোলে বার্সাকে হারানোর পর 'আবারো সব জিততে চায়' পিএসজি</title>
+      <link>https://bonikbarta.com/sports/phcbWeSO5dx1UlOf/</link>
+      <description><![CDATA[ম্যাচটি এগোচ্ছিল ড্রয়ের দিকে। আর ঠিক তখনই আঘাত হানেন রামোস। ৮৯তম মিনিটে আশরাফ হাকিমির ক্রস থেকে ফার্স্ট টাচে দুর্দান্ত ফিনিশ করেন পর্তুগিজ স্ট্রাইকার গনসালো রামোস। এই গোলের ফলেই পিএসজি তাদের ৩ পয়েন্ট নিশ্চিত করে নেয়।]]></description>
+      <pubDate>Thu, 02 Oct 2025 03:04:10 GMT</pubDate>
+      <guid isPermaLink="false">d7951f7120e8a7d04dfadc280eea3ac3</guid>
+    </item>
     <item>
       <title>এসির বাতাসে আরাম ও অস্বস্তি</title>
       <link>https://bonikbarta.com/lifestyle/39vdmiMjWJ9nKQnr/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">772890111b8405a538d951e6d46a79a8</guid>
     </item>
     <item>
-      <title>পাঁচদিনের সরকারি সফরে তুরস্কে বিমানবাহিনী প্রধান</title>
-      <link>https://bonikbarta.com/bangladesh/PhNDTFbnIOYMcqpl/</link>
-      <description><![CDATA[বাংলাদেশ বিমান বাহিনী প্রধান এয়ার চিফ মার্শাল হাসান মাহমুদ খান সরকারি সফরে তুরস্ক গেছেন। গতকাল ঢাকার হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে তুরস্কের উদ্দেশে যাত্রা করেন তিনি।]]></description>
-      <pubDate>Wed, 01 Oct 2025 20:43:12 GMT</pubDate>
-      <guid isPermaLink="false">5cf5bdb42ec07049155d06baa496415f</guid>
+      <title>জুলাই আন্দোলনে ক্ষতিগ্রস্ত ডিভাইডার ও নিরাপত্তাবেষ্টনী সংস্কার হয়নি এখনো</title>
+      <link>https://bonikbarta.com/bangladesh/nqyFRulhj49u8qU7/</link>
+      <description><![CDATA[গত বছর জুলাই আন্দোলনের অন্যতম হটস্পট ছিল রাজধানীর বাড্ডা-রামপুরা। আন্দোলনের সময় কুড়িল থেকে রামপুরা ব্রিজ পর্যন্ত মহাসড়কের বিভিন্ন অংশ ব্যাপকভাবে ক্ষতিগ্রস্ত হয়।]]></description>
+      <pubDate>Wed, 01 Oct 2025 20:37:49 GMT</pubDate>
+      <guid isPermaLink="false">fa900c8eefc9c8712db2329abd768506</guid>
     </item>
     <item>
       <title>ঢাকা-চট্টগ্রাম মহাসড়কে তীব্র যানজটে দিনভর ভোগান্তি</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[মেটা মালিকানাধীন ফেসবুক, হোয়াটসঅ্যাপ ও ইনস্টাগ্রাম এবং টিকটক ব্যবহারকারীর তথ্য সবচেয়ে বেশি সংগ্রহ করে।]]></description>
       <pubDate>Wed, 01 Oct 2025 20:00:00 GMT</pubDate>
       <guid isPermaLink="false">b23c682aa0e0ffc2d05b02eb37330723</guid>
-    </item>
-    <item>
-      <title>উইকিপিডিয়ার প্রতিদ্বন্দ্বিতায় আসছে মাস্কের ‘গ্রোকিপিডিয়া’</title>
-      <link>https://bonikbarta.com/scitech/7ZrUMNcHsxfg8lTf/</link>
-      <description><![CDATA[বিভিন্ন সময় জনপ্রিয় অনলাইন প্লাটফর্ম নিয়ে অসন্তোষ প্রকাশ করেছেন মার্কিন ধনকুবের ইলোন মাস্ক। এবার তিনি ঘোষণা দিলেন বিশ্বের সবচেয়ে বড় অনলাইন বিশ্বকোষ উইকিপিডিয়ার বিকল্প তৈরি করার।]]></description>
-      <pubDate>Wed, 01 Oct 2025 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">cda9b33d385a9a6940c893dd74314c5d</guid>
     </item>
   </channel>
 </rss>
