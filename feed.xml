@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 02 Oct 2025 01:48:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 03:00:28 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>এসির বাতাসে আরাম ও অস্বস্তি</title>
+      <link>https://bonikbarta.com/lifestyle/39vdmiMjWJ9nKQnr/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Thu, 02 Oct 2025 02:36:43 GMT</pubDate>
+      <guid isPermaLink="false">e71af53a7915d39f67857b6b5c8ee4c2</guid>
+    </item>
     <item>
       <title>পাঁচ বছরে এইডস শনাক্তের হার বেড়েছে দ্বিগুণেরও বেশি</title>
       <link>https://bonikbarta.com/bangladesh/4YC3GyuN7Xutk7RA/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">5cf5bdb42ec07049155d06baa496415f</guid>
     </item>
     <item>
-      <title>জুলাই আন্দোলনে ক্ষতিগ্রস্ত ডিভাইডার ও নিরাপত্তাবেষ্টনী সংস্কার হয়নি এখনো</title>
-      <link>https://bonikbarta.com/bangladesh/nqyFRulhj49u8qU7/</link>
-      <description><![CDATA[গত বছর জুলাই আন্দোলনের অন্যতম হটস্পট ছিল রাজধানীর বাড্ডা-রামপুরা। আন্দোলনের সময় কুড়িল থেকে রামপুরা ব্রিজ পর্যন্ত মহাসড়কের বিভিন্ন অংশ ব্যাপকভাবে ক্ষতিগ্রস্ত হয়।]]></description>
-      <pubDate>Wed, 01 Oct 2025 20:37:49 GMT</pubDate>
-      <guid isPermaLink="false">fa900c8eefc9c8712db2329abd768506</guid>
+      <title>ঢাকা-চট্টগ্রাম মহাসড়কে তীব্র যানজটে দিনভর ভোগান্তি</title>
+      <link>https://bonikbarta.com/bangladesh/2BPyn2wuTXZMYtc5/</link>
+      <description><![CDATA[দুর্গা পূজা ও সাপ্তাহিক মিলিয়ে টানা চারদিনের ছুটি থাকায় যানবাহনের চাপ বেড়েছে ঢাকা-চট্টগ্রাম মহাসড়কে।]]></description>
+      <pubDate>Wed, 01 Oct 2025 20:36:05 GMT</pubDate>
+      <guid isPermaLink="false">a0bd7c52965fcb4f23caaf275a5102d2</guid>
     </item>
     <item>
       <title>ভারি বৃষ্টির পূর্বাভাস, চট্টগ্রামের পাহাড়ি অঞ্চলে ভূমিধসের সতর্কতা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[বিভিন্ন সময় জনপ্রিয় অনলাইন প্লাটফর্ম নিয়ে অসন্তোষ প্রকাশ করেছেন মার্কিন ধনকুবের ইলোন মাস্ক। এবার তিনি ঘোষণা দিলেন বিশ্বের সবচেয়ে বড় অনলাইন বিশ্বকোষ উইকিপিডিয়ার বিকল্প তৈরি করার।]]></description>
       <pubDate>Wed, 01 Oct 2025 20:00:00 GMT</pubDate>
       <guid isPermaLink="false">cda9b33d385a9a6940c893dd74314c5d</guid>
-    </item>
-    <item>
-      <title>তুরস্কের মোট জনসংখ্যার চেয়ে বেশি যাত্রী ব্যবহার করেছে ইস্তান্বুলের বিমানবন্দরগুলো</title>
-      <link>https://bonikbarta.com/international/OMtG1gVCUVxgiNNi/</link>
-      <description><![CDATA[চলতি বছরের প্রথম আট মাসে (জানুয়ারি-আগস্ট) ইস্তান্বুলের বিমানবন্দরগুলো দিয়ে যাতায়াতকারী যাত্রী সংখ্যা তুরস্কের জনসংখ্যাকে ছাড়িয়ে গেছে।]]></description>
-      <pubDate>Wed, 01 Oct 2025 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">fcf38f24d69b9cdd63eed3d9c4fff877</guid>
     </item>
   </channel>
 </rss>
