@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 03 Oct 2025 07:39:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 08:29:55 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>মাইক্রো-চিটিং: ছোট ছোট আচরণে ভাঙছে বিশ্বাসের দেয়াল</title>
+      <link>https://bonikbarta.com/lifestyle/NH62SXwQeAxut2nO/</link>
+      <description><![CDATA[দাম্পত্য সম্পর্কে থাকার পরেও কাউকে ইঙ্গিতপূর্ণ মেসেজ দেয়া বা কারো সঙ্গে ইঙ্গিতপূর্ণ আচরণ করাকে মাইক্রো চিটিং বলে।]]></description>
+      <pubDate>Fri, 03 Oct 2025 08:09:45 GMT</pubDate>
+      <guid isPermaLink="false">5fc92b1f0034a8d5cbb560eb5434adc8</guid>
+    </item>
     <item>
       <title>আহমদ রফিক: ভাষা আন্দোলন ও রবীন্দ্রগবেষণায় অগ্রণী নাম</title>
       <link>https://bonikbarta.com/bangladesh/oH6Gk8qLeFwRgIAf/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">7442bb77c6085dcceaf305f08a83feda</guid>
     </item>
     <item>
-      <title>বড় পর্দায় জুটি হয়ে ফিরছেন আমিন-পপি</title>
-      <link>https://bonikbarta.com/talkies/AkDSm1eG0L0BaZbE/</link>
-      <description><![CDATA[বাংলাদেশের সিনেমার জনপ্রিয় দুই নায়ক-নায়িকা আমিন খান ও পপি। দুজনের কেউই এখন আর সিনেমায় অভিনয়ে নিয়মিত নন।]]></description>
-      <pubDate>Thu, 02 Oct 2025 21:06:25 GMT</pubDate>
-      <guid isPermaLink="false">1ebac71afd40cdfab565db8a77b74f3a</guid>
+      <title>তথ্য চুরির দাবি করে নির্বাহীদের ই-মেইল পাঠাচ্ছে হ্যাকাররা: গুগল</title>
+      <link>https://bonikbarta.com/scitech/T8mDL12qz8TjdHJb/</link>
+      <description><![CDATA[সংবেদনশীল তথ্য চুরির দাবি করে হ্যাকাররা বিভিন্ন প্রতিষ্ঠানের নির্বাহী কর্মকর্তাদের ই-মেইল পাঠাচ্ছে বলে সতর্ক করেছে গুগল।]]></description>
+      <pubDate>Thu, 02 Oct 2025 20:51:51 GMT</pubDate>
+      <guid isPermaLink="false">c2b2de05e496d039417c9b82496e4b61</guid>
     </item>
     <item>
       <title>গুগলে ফের ছাঁটাই ডিজাইন টিম ছাড়ছেন শ খানেক কর্মী</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[৬ শতাংশ সম্পদ হ্রাস সত্ত্বেও ফের ভারতের শীর্ষ ধনীর মুকুট রিলায়েন্স ইন্ডাস্ট্রিজের কর্ণধার মুকেশ আম্বানির দখলে।]]></description>
       <pubDate>Thu, 02 Oct 2025 20:15:00 GMT</pubDate>
       <guid isPermaLink="false">e8accf0667cc0ccbfa812770a8aa0f3a</guid>
-    </item>
-    <item>
-      <title>আরব আমিরাতের ১১ শহরকে যুক্ত করবে ইতিহাদ রেল</title>
-      <link>https://bonikbarta.com/economy/4F8VNe2NY7bYYhjN/</link>
-      <description><![CDATA[আগামী বছর চালু হতে যাওয়া ইতিহাদ রেল সংযুক্ত আরব আমিরাতের (ইউএই) ১১টি শহরকে এক সুতোয় বাঁধবে।]]></description>
-      <pubDate>Thu, 02 Oct 2025 20:15:00 GMT</pubDate>
-      <guid isPermaLink="false">d3a95bf4b34f1b023a47b354649ba36d</guid>
     </item>
   </channel>
 </rss>
