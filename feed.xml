@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 03 Oct 2025 04:27:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 04:43:00 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ছুটির দিনে ঢাকার বাতাস ‘সহনীয়’</title>
+      <link>https://bonikbarta.com/bangladesh/5r0mkLnamQnDoKoH/</link>
+      <description><![CDATA[বিশ্বে বায়ুদূষণে শীর্ষ শহরগুলোর তালিকার আজ ২৪তম স্থানে রয়েছে ঢাকা। এদিন সকাল ১০টায় এয়ার কোয়ালিটি ইনডেক্সে এ শহরের বাতাসের মান ছিল ৭১, যা সহনীয় পর্যায়ের বাতাসের নির্দেশক।]]></description>
+      <pubDate>Fri, 03 Oct 2025 04:42:22 GMT</pubDate>
+      <guid isPermaLink="false">db5d1951a91978103fb5f2f3bc7f2f84</guid>
+    </item>
     <item>
       <title>গাজা যুদ্ধ: শিগগিরই ট্রাম্পের প্রস্তাবের জবাব দেবে হামাস</title>
       <link>https://bonikbarta.com/international/zPajqBkt6um51nHy/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">e274535fbff71cb238e04ad116dc98aa</guid>
     </item>
     <item>
-      <title>চার বছরে বিশ্বব্যাপী স্মার্টওয়াচ ব্যবহারকারী ৭৪ কোটি ছাড়াবে</title>
-      <link>https://bonikbarta.com/scitech/M7Wxp1vMNxhM0saX/</link>
-      <description><![CDATA[বিশ্বব্যাপী ৪৫ কোটির বেশি মানুষ স্মার্টওয়াচ ব্যবহার করছে।]]></description>
-      <pubDate>Thu, 02 Oct 2025 20:37:00 GMT</pubDate>
-      <guid isPermaLink="false">c4c7882dad039fe6b96af7211e00f775</guid>
+      <title>প্রাইম ব্যাংকের গ্রাহকরা হুন্দাই গাড়ি ক্রয়ে পাবেন বিশেষ ছাড়</title>
+      <link>https://bonikbarta.com/economy/1qRHJeNLwohu1uzJ/</link>
+      <description><![CDATA[প্রাইম ব্যাংক পিএলসি এবং বাংলাদেশে হুন্দাইয়ের অফিশিয়াল প্রস্তুতকারক ও অনুমোদিত পরিবেশক ফেয়ার টেকনোলজি লিমিটেডের মধ্যে একটি চুক্তি স্বাক্ষর হয়েছে।]]></description>
+      <pubDate>Thu, 02 Oct 2025 20:33:57 GMT</pubDate>
+      <guid isPermaLink="false">2631b3638b39f8993486ebb01f80daa6</guid>
     </item>
     <item>
       <title>আইন ও বিচার বিভাগ, সুপ্রিম কোর্ট এবং সোনালী ব্যাংকের মধ্যে ত্রিপক্ষীয় এমওইউ স্বাক্ষর</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[সংকট নিরসনে যুব ও ক্রীড়া উপদেষ্টা আসিফ মাহমুদের কাছে বাংলাদেশ ক্রিকেট বোর্ডের (বিসিবি) পরিচালনা পর্ষদের আসন্ন নির্বাচন পেছানোসহ তিনটি দাবি জানিয়েছেন ইন্দিরা রোড ক্রীড়া চক্রের কাউন্সিলর রফিকুল ইসলাম, যিনি বুধবার নির্বাচন থেকে মনোনয়ন প্রত্যাহার করে নেন।]]></description>
       <pubDate>Thu, 02 Oct 2025 20:14:45 GMT</pubDate>
       <guid isPermaLink="false">ea6634217c5ca24429f3a5c44b5d2aa9</guid>
-    </item>
-    <item>
-      <title>২০৩০ সালের মধ্যে জাহাজের জ্বালানিতে এলএনজির চাহিদা দ্বিগুণ হওয়ার পূর্বাভাস</title>
-      <link>https://bonikbarta.com/economy/hKhTduiWxAI8TnaI/</link>
-      <description><![CDATA[বিশ্বব্যাপী জাহাজের জ্বালানি হিসেবে তরলীকৃত প্রাকৃতিক গ্যাস (এলএনজি) ব্যবহারের চাহিদা ২০৩০ সালের মধ্যে অন্তত দ্বিগুণ হতে পারে।]]></description>
-      <pubDate>Thu, 02 Oct 2025 20:14:45 GMT</pubDate>
-      <guid isPermaLink="false">640d5e527c402adf76f20f774822638c</guid>
     </item>
   </channel>
 </rss>
