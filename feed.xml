@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 03 Oct 2025 03:34:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 04:27:14 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>গাজা যুদ্ধ: শিগগিরই ট্রাম্পের প্রস্তাবের জবাব দেবে হামাস</title>
+      <link>https://bonikbarta.com/international/zPajqBkt6um51nHy/</link>
+      <description><![CDATA[গাজায় যুদ্ধ বন্ধের লক্ষ্য নিয়ে ট্রাম্পের প্রস্তাব নিয়ে আলোচনা করছে হামাস- এমনটা জানিয়ে নাজ্জাল বলেন, সময় আমাদের ঘাড়ের ওপর তলোয়ার হয়ে ঝুলছে- এমন কোনো চাপ মাথায় নিয়ে আমরা আলোচনা করছি না।]]></description>
+      <pubDate>Fri, 03 Oct 2025 04:12:35 GMT</pubDate>
+      <guid isPermaLink="false">5795241544fa20c004896f2509d30750</guid>
+    </item>
     <item>
       <title>ভেনেজুয়েলার উপকূলের কাছে মার্কিন যুদ্ধবিমান, তীব্র নিন্দা</title>
       <link>https://bonikbarta.com/international/5hq5I22xBoBwGl3a/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">c4c7882dad039fe6b96af7211e00f775</guid>
     </item>
     <item>
-      <title>প্রাইম ব্যাংকের গ্রাহকরা হুন্দাই গাড়ি ক্রয়ে পাবেন বিশেষ ছাড়</title>
-      <link>https://bonikbarta.com/economy/1qRHJeNLwohu1uzJ/</link>
-      <description><![CDATA[প্রাইম ব্যাংক পিএলসি এবং বাংলাদেশে হুন্দাইয়ের অফিশিয়াল প্রস্তুতকারক ও অনুমোদিত পরিবেশক ফেয়ার টেকনোলজি লিমিটেডের মধ্যে একটি চুক্তি স্বাক্ষর হয়েছে।]]></description>
-      <pubDate>Thu, 02 Oct 2025 20:33:57 GMT</pubDate>
-      <guid isPermaLink="false">2631b3638b39f8993486ebb01f80daa6</guid>
+      <title>আইন ও বিচার বিভাগ, সুপ্রিম কোর্ট এবং সোনালী ব্যাংকের মধ্যে ত্রিপক্ষীয় এমওইউ স্বাক্ষর</title>
+      <link>https://bonikbarta.com/economy/uTUNOFh34BSBxmb1/</link>
+      <description><![CDATA[সোনালী পেমেন্ট গেটওয়ের মাধ্যমে ই-বেইল বন্ড দাখিলের কোর্ট ফিসহ অন্যান্য চার্জ আদায়ে আইন ও বিচার বিভাগ, বাংলাদেশ সুপ্রিম কোর্ট এবং সোনালী ব্যাংক পিএলসির মধ্যে একটি ত্রিপক্ষীয় সমঝোতা স্মারক (এমওইউ) স্বাক্ষর হয়েছে।]]></description>
+      <pubDate>Thu, 02 Oct 2025 20:32:39 GMT</pubDate>
+      <guid isPermaLink="false">444071b326bae5f7c96d179a9c645576</guid>
     </item>
     <item>
       <title>সিডনিতে শেষ হলো অস্ট্রেলিয়া-বাংলাদেশ বিজনেস এক্সপো</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[বিশ্বব্যাপী জাহাজের জ্বালানি হিসেবে তরলীকৃত প্রাকৃতিক গ্যাস (এলএনজি) ব্যবহারের চাহিদা ২০৩০ সালের মধ্যে অন্তত দ্বিগুণ হতে পারে।]]></description>
       <pubDate>Thu, 02 Oct 2025 20:14:45 GMT</pubDate>
       <guid isPermaLink="false">640d5e527c402adf76f20f774822638c</guid>
-    </item>
-    <item>
-      <title>নগদ লভ্যাংশ পাঠিয়েছে কেপিসিএল</title>
-      <link>https://bonikbarta.com/economy/dRTZJtM2GdVnYLLp/</link>
-      <description><![CDATA[সমাপ্ত ২০২৩-২৪ হিসাব বছরের জন্য ১০ শতাংশ নগদ লভ্যাংশ ঘোষণা করেছে খুলনা পাওয়ার কোম্পানি লিমিটেড (কেপিসিএল)।]]></description>
-      <pubDate>Thu, 02 Oct 2025 20:14:45 GMT</pubDate>
-      <guid isPermaLink="false">c9350bc10817fd5d649eb372e41e9ed8</guid>
     </item>
   </channel>
 </rss>
