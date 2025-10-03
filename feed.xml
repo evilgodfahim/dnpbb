@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 03 Oct 2025 09:40:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 10:24:29 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ইসলামী ব্যাংকের অফিশিয়াল ফেসবুক পেজ হ্যাকড</title>
+      <link>https://bonikbarta.com/bangladesh/WWhwasEw58fkas7p/</link>
+      <description><![CDATA[ব্যাংকটির জনসংযোগ বিভাগের প্রধান নজরুল ইসলাম গণমাধ্যমকে জানান, ভোরে আমাদের ফেসবুক পেজটি হ্যাক হয়েছে। আমরা সেটি উদ্ধারের চেষ্টা করছি। আশা করছি, দ্রুততম সময়ের মধ্যে এটা উদ্ধার করা সম্ভব হবে।]]></description>
+      <pubDate>Fri, 03 Oct 2025 10:00:34 GMT</pubDate>
+      <guid isPermaLink="false">338bf03eaf4f4b190419008206d320e7</guid>
+    </item>
     <item>
       <title>গাজার অভিমুখে আরো ১১ নৌযান পাঠাল ফ্রিডম ফ্লোটিলা কোয়ালিশন</title>
       <link>https://bonikbarta.com/international/9YenHloi6CFBjq03/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">121500ba227cd2ff961907f054858cf5</guid>
     </item>
     <item>
-      <title>প্রযুক্তির মাধ্যমে একটি সৃজনশীল সংস্কৃতি তৈরি করতে চান জেমস ক্যামেরন</title>
-      <link>https://bonikbarta.com/talkies/XDSYFtreJdBP9oxR/</link>
-      <description><![CDATA[জেমস ক্যামেরন আধুনিক সিনেমার সবচেয়ে প্রভাবশালী নির্মাতাদের অন্যতম।]]></description>
-      <pubDate>Thu, 02 Oct 2025 21:39:50 GMT</pubDate>
-      <guid isPermaLink="false">8f97427aa1e3422be9c5995dd9cf3687</guid>
+      <title>বিটিভিতে আজ ইত্যাদির বিশেষ পর্ব</title>
+      <link>https://bonikbarta.com/talkies/wsM1UJUnPkLBDDug/</link>
+      <description><![CDATA[বাংলাদেশ টেলিভিশনের জনপ্রিয় আয়োজনগুলোর অন্যতম ‘ইত্যাদি’। আজ প্রচার হবে একটি বিশেষ পর্ব। মূলত এটি ২০০৯ সালে ধারণ করা পর্ব।]]></description>
+      <pubDate>Thu, 02 Oct 2025 21:37:20 GMT</pubDate>
+      <guid isPermaLink="false">3403db84054c6462e54d3355d275ddab</guid>
     </item>
     <item>
       <title>নতুন ইভেন্ট ফিল্ম নিয়ে আসছেন টেইলর</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[দেশে প্রত্যাশার চেয়েও বেশি সাফল্য পেয়েছে মোবাইলভিত্তিক আর্থিক সেবা (এমএফএস)। মোবাইল ব্যাংকিং হিসেবে পরিচিতি পাওয়া এ সেবায় যুক্ত হয়েছেন ১৪ কোটি ৫৮ লাখ গ্রাহক।]]></description>
       <pubDate>Thu, 02 Oct 2025 20:20:23 GMT</pubDate>
       <guid isPermaLink="false">d4ac8f1607d84b9608a2eeb20b1b6b2b</guid>
-    </item>
-    <item>
-      <title>একটি বাদে সব নৌযান আটক করেছে ইসরায়েল, প্রতিবাদে ইউরোপজুড়ে বিক্ষোভ</title>
-      <link>https://bonikbarta.com/international/aQ5b8D5jTKwnTcPl/</link>
-      <description><![CDATA[শেষ পর্যন্ত গাজাবাসীর কাছে পৌঁছতে পারল না আশার বহর ‘গ্লোবাল সুমুদ ফ্লোটিলা’। মানবিক সহায়তায় পরিপূর্ণ নৌযানের বহরটি ভূমধ্যসাগরের ঢেউ পেরিয়ে যখন অবরুদ্ধ উপকূলের দিকে এগোচ্ছিল, তখনই আন্তর্জাতিক জলসীমা থেকে সেটিকে ঘিরে ফেলে ইসরায়েলি নৌবাহিনী।]]></description>
-      <pubDate>Thu, 02 Oct 2025 20:19:15 GMT</pubDate>
-      <guid isPermaLink="false">f6979795e0c40e0e551f50e7365c9bc7</guid>
     </item>
   </channel>
 </rss>
