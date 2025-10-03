@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 03 Oct 2025 02:59:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 03:34:19 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ভেনেজুয়েলার উপকূলের কাছে মার্কিন যুদ্ধবিমান, তীব্র নিন্দা</title>
+      <link>https://bonikbarta.com/international/5hq5I22xBoBwGl3a/</link>
+      <description><![CDATA[স্থানীয় সময় বৃহস্পতিবার দেশটির প্রতিরক্ষামন্ত্রী জেনারেল ভ্লাদিমির পাদ্রিনো জানান, অন্তত পাঁচটি এফ-৩৫ যুদ্ধবিমান ক্যারিবীয় সাগরে ভেনেজুয়েলার সীমান্তের কাছাকাছি উড়তে দেখা গেছে।]]></description>
+      <pubDate>Fri, 03 Oct 2025 03:32:51 GMT</pubDate>
+      <guid isPermaLink="false">10f0fd9b2a470ad8ede7a61a7201ce4f</guid>
+    </item>
     <item>
       <title>পূর্বাচল ৩০০ ফুট সড়কে ফুটওভার ব্রিজের দাবিতে বিক্ষোভ</title>
       <link>https://bonikbarta.com/bangladesh/bm6Rk7aL7SbNyIIN/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">2631b3638b39f8993486ebb01f80daa6</guid>
     </item>
     <item>
-      <title>আইন ও বিচার বিভাগ, সুপ্রিম কোর্ট এবং সোনালী ব্যাংকের মধ্যে ত্রিপক্ষীয় এমওইউ স্বাক্ষর</title>
-      <link>https://bonikbarta.com/economy/uTUNOFh34BSBxmb1/</link>
-      <description><![CDATA[সোনালী পেমেন্ট গেটওয়ের মাধ্যমে ই-বেইল বন্ড দাখিলের কোর্ট ফিসহ অন্যান্য চার্জ আদায়ে আইন ও বিচার বিভাগ, বাংলাদেশ সুপ্রিম কোর্ট এবং সোনালী ব্যাংক পিএলসির মধ্যে একটি ত্রিপক্ষীয় সমঝোতা স্মারক (এমওইউ) স্বাক্ষর হয়েছে।]]></description>
-      <pubDate>Thu, 02 Oct 2025 20:32:39 GMT</pubDate>
-      <guid isPermaLink="false">444071b326bae5f7c96d179a9c645576</guid>
+      <title>সিডনিতে শেষ হলো অস্ট্রেলিয়া-বাংলাদেশ বিজনেস এক্সপো</title>
+      <link>https://bonikbarta.com/economy/FbrkkoOHobyAhB4P/</link>
+      <description><![CDATA[অস্ট্রেলিয়া ও বাংলাদেশের মধ্যে ব্যবসা, শিক্ষা ও বিনিয়োগে নতুন দিগন্ত উন্মোচনের প্রত্যয় নিয়ে সিডনিতে অনুষ্ঠিত হয়েছে ‘অস্ট্রেলিয়া-বাংলাদেশ বিজনেস এক্সপো ২০২৫’।]]></description>
+      <pubDate>Thu, 02 Oct 2025 20:29:40 GMT</pubDate>
+      <guid isPermaLink="false">9378e32f15a08add99be289d6dfd085f</guid>
     </item>
     <item>
       <title>সিটি ব্যাংককে সাড়ে ৭ কোটি ডলার ঋণ দেবে এআইআইবি ও এনডিবি</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[সমাপ্ত ২০২৩-২৪ হিসাব বছরের জন্য ১০ শতাংশ নগদ লভ্যাংশ ঘোষণা করেছে খুলনা পাওয়ার কোম্পানি লিমিটেড (কেপিসিএল)।]]></description>
       <pubDate>Thu, 02 Oct 2025 20:14:45 GMT</pubDate>
       <guid isPermaLink="false">c9350bc10817fd5d649eb372e41e9ed8</guid>
-    </item>
-    <item>
-      <title>ইস্টার্ন হাউজিংয়ের লেনদেন বন্ধ রোববার</title>
-      <link>https://bonikbarta.com/economy/iiv4nTA84lPXDeFr/</link>
-      <description><![CDATA[লভ্যাংশসংক্রান্ত রেকর্ড ডেটের কারণে আগামী রোববার ইস্টার্ন হাউজিং লিমিটেডের লেনদেন বন্ধ থাকবে।]]></description>
-      <pubDate>Thu, 02 Oct 2025 20:14:45 GMT</pubDate>
-      <guid isPermaLink="false">28b081510cb6bc6c5a61d3ca03e52503</guid>
     </item>
   </channel>
 </rss>
