@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 03 Oct 2025 11:19:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 11:39:14 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>দক্ষিণ আফ্রিকাকে ৬৯ রানে অলআউট করে দিল ইংল্যান্ড</title>
+      <link>https://bonikbarta.com/sports/CUM1zbShaHVaUqdC/</link>
+      <description><![CDATA[আসামের গুয়াহাটিতে টস জিতে বোলিং বেছে নেয়া ইংলিশ নারীরা প্রতিপক্ষকে শুরু থেকেই চেপে ধরে। নিয়মিত বিরতিতে উইকেট হারিয়ে প্রোটিয়া নারীরা ২০.৪ ওভারে ৬৯ রান তুলে অলআউট।]]></description>
+      <pubDate>Fri, 03 Oct 2025 11:25:50 GMT</pubDate>
+      <guid isPermaLink="false">f7e0c4e9073bde39015785a69f601700</guid>
+    </item>
     <item>
       <title>ডেঙ্গু আক্রান্ত হয়ে আরো ২৬৩ জন হাসপাতালে ভর্তি</title>
       <link>https://bonikbarta.com/bangladesh/P29XjSelEhbueGK4/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">ed568506b77991af7a9575febdd844b1</guid>
     </item>
     <item>
-      <title>ঘোড়াঘাটে আবাদের চার মাসেও ফুল আসেনি গাছে</title>
-      <link>https://bonikbarta.com/bangladesh/oLcib72wcy3eryXV/</link>
-      <description><![CDATA[বারি-১২ একটি উচ্চফলনশীল, রোগ-প্রতিরোধী ও লবণাক্ততা সহনশীল বেগুনের জাত।]]></description>
-      <pubDate>Thu, 02 Oct 2025 21:58:08 GMT</pubDate>
-      <guid isPermaLink="false">3e1e05be2981f45ea077207f00e427f2</guid>
+      <title>পঞ্চগড়ে ২৭ টন প্রক্রিয়াজাত চায়ের হদিস মিলছে না</title>
+      <link>https://bonikbarta.com/bangladesh/InFyYCpuxlaSk1L2/</link>
+      <description><![CDATA[পঞ্চগড়ে নিলামবাজারে একটি ব্রোকার হাউজের ক্যাটালগে উত্তরা গ্রিন টি ইন্ডাস্ট্রিজের দেয়া ২৭ টনের বেশি প্রক্রিয়াজাত চায়ের হদিস মিলছে না।]]></description>
+      <pubDate>Thu, 02 Oct 2025 21:56:07 GMT</pubDate>
+      <guid isPermaLink="false">6f657aafc1611443384ccdec5c1da90d</guid>
     </item>
     <item>
       <title>মধ্যরাত থেকে নদ-নদীতে ইলিশসহ সব ধরনের মাছ আহরণে নিষেধাজ্ঞা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[অস্ট্রেলিয়া ও বাংলাদেশের মধ্যে ব্যবসা, শিক্ষা ও বিনিয়োগে নতুন দিগন্ত উন্মোচনের প্রত্যয় নিয়ে সিডনিতে অনুষ্ঠিত হয়েছে ‘অস্ট্রেলিয়া-বাংলাদেশ বিজনেস এক্সপো ২০২৫’।]]></description>
       <pubDate>Thu, 02 Oct 2025 20:29:40 GMT</pubDate>
       <guid isPermaLink="false">9378e32f15a08add99be289d6dfd085f</guid>
-    </item>
-    <item>
-      <title>সিটি ব্যাংককে সাড়ে ৭ কোটি ডলার ঋণ দেবে এআইআইবি ও এনডিবি</title>
-      <link>https://bonikbarta.com/economy/9YzAbKbgm9UoOmMi/</link>
-      <description><![CDATA[বৈশ্বিক বহুপক্ষীয় উন্নয়ন ব্যাংক এশিয়ান ইনফ্রাস্ট্রাকচার ইনভেস্টমেন্ট ব্যাংক (এআইআইবি) ও নিউ ডেভেলপমেন্ট ব্যাংক (এনডিবি) যৌথভাবে সিটি ব্যাংক পিএলসির সঙ্গে একটি চুক্তি স্বাক্ষর করেছে।]]></description>
-      <pubDate>Thu, 02 Oct 2025 20:27:59 GMT</pubDate>
-      <guid isPermaLink="false">88d876b96daac393f6c2ad4a7ddb588f</guid>
     </item>
   </channel>
 </rss>
