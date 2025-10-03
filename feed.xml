@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 03 Oct 2025 16:28:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 16:46:44 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>বাগেরহাটে দুর্বৃত্তদের হামলায় বিএনপির নেতা নিহত</title>
+      <link>https://bonikbarta.com/bangladesh/DPvXCWmT459asYnH/</link>
+      <description><![CDATA[স্থানীয়রা জানায়, অভ্যন্তরীণ দ্বন্দ্বের কারণে তাকে বিকেলে কুপিয়ে আহত করে দুর্বৃত্তরা।]]></description>
+      <pubDate>Fri, 03 Oct 2025 16:32:42 GMT</pubDate>
+      <guid isPermaLink="false">c947d928037fce43116783501e1b1cac</guid>
+    </item>
     <item>
       <title>চাঁদপুরে জামায়াত ও বিএনপি নেতাকর্মীদের মধ্যে সংঘর্ষে অন্তত ৩৫ জন আহত</title>
       <link>https://bonikbarta.com/bangladesh/w0ZF1acBgi4mPd2O/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">57dcc3ec24336b806604eb0f6370b7c2</guid>
     </item>
     <item>
-      <title>আগামী পাঁচদিন বৃষ্টির পূর্বাভাস, বন্যা-ভূমিধসের শঙ্কা</title>
-      <link>https://bonikbarta.com/bangladesh/O3qm0Yi8U14Xq0Si/</link>
-      <description><![CDATA[টানা বৃষ্টিতে বিপর্যস্ত হয়ে পড়েছে জনজীবন। এরই মধ্যে কয়েকটি নদ-নদীর পানি বেড়েছে। তৈরি হয়েছে জলাবদ্ধতা। এমনকি প্লাবিত হয়েছে উপকূলীয় অঞ্চল। এ ছাড়া পাহাড়ি এলাকায় ভূমিধসের শঙ্কাও দেখা দিয়েছে।]]></description>
-      <pubDate>Fri, 03 Oct 2025 09:01:00 GMT</pubDate>
-      <guid isPermaLink="false">52ee29fd0ee9ff08a55f0712ecc80c42</guid>
+      <title>সুমুদ ফ্লোটিলার শেষ নৌযান ম্যারিনেটকেও আটক করল ইসরায়েল</title>
+      <link>https://bonikbarta.com/international/MdzOnLvwTF9kl78l/</link>
+      <description><![CDATA[শুক্রবার প্রথম প্রহরের কিছু আগে অর্থাৎ ভোর ৪টার দিকে নৌযানটির লাইভ ভিডিও ফিডে দেখা যায়, ভূমধ্যসাগরে নৌযানটিকে গাজার দিকে নিয়ে নিচ্ছেন ক্রুরা। তাদের পেছন দিক থেকে সূর্য উঠছে। লাইভ জিও ট্রাকার বা অবস্থান শনাক্ত করা ওয়েবসাইটের তথ্য বলছে, নৌযানটি শেষ খবর পাওয়া পর্যন্ত গাজা জলসীমা থেকে ৪৩ নটিকাল মাইল বা ৮০ কিলোমিটার দূরে ছিল।]]></description>
+      <pubDate>Fri, 03 Oct 2025 08:37:16 GMT</pubDate>
+      <guid isPermaLink="false">eceb313370eab0b760544f5ef37f1fab</guid>
     </item>
     <item>
       <title>মাইক্রো-চিটিং: ছোট ছোট আচরণে ভাঙছে বিশ্বাসের দেয়াল</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[প্রজননের সময় হলে সাগর থেকে পদ্মা-মেঘনাসহ আশপাশের নদ-নদীতে চলে আসে ইলিশ।]]></description>
       <pubDate>Thu, 02 Oct 2025 21:53:17 GMT</pubDate>
       <guid isPermaLink="false">f9ce3f2f565c37f8bada01593a2712bc</guid>
-    </item>
-    <item>
-      <title>ফেনীতে বিদ্যুতের খুঁটিতে বাসের ধাক্কায় নিহত ৩</title>
-      <link>https://bonikbarta.com/bangladesh/ot9rxnljS0sclFEI/</link>
-      <description><![CDATA[ফেনীতে যাত্রীবাহী বাস নিয়ন্ত্রণ হারিয়ে বিদ্যুতের খুঁটির সঙ্গে ধাক্কা লেগে তিনজন নিহত হয়েছেন। আহত হয়েছেন অন্তত ২০ জন।]]></description>
-      <pubDate>Thu, 02 Oct 2025 21:51:22 GMT</pubDate>
-      <guid isPermaLink="false">fcd80d3c37cb12bc46f40177783d03d3</guid>
     </item>
   </channel>
 </rss>
