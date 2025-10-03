@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 03 Oct 2025 08:48:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 09:23:23 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>আগামী পাঁচদিন বৃষ্টির পূর্বাভাস, বন্যা-ভূমিধসের শঙ্কা</title>
+      <link>https://bonikbarta.com/bangladesh/O3qm0Yi8U14Xq0Si/</link>
+      <description><![CDATA[টানা বৃষ্টিতে বিপর্যস্ত হয়ে পড়েছে জনজীবন। এরই মধ্যে কয়েকটি নদ-নদীর পানি বেড়েছে। তৈরি হয়েছে জলাবদ্ধতা। এমনকি প্লাবিত হয়েছে উপকূলীয় অঞ্চল। এ ছাড়া পাহাড়ি এলাকায় ভূমিধসের শঙ্কাও দেখা দিয়েছে।]]></description>
+      <pubDate>Fri, 03 Oct 2025 09:01:00 GMT</pubDate>
+      <guid isPermaLink="false">52ee29fd0ee9ff08a55f0712ecc80c42</guid>
+    </item>
     <item>
       <title>সুমুদ ফ্লোটিলার শেষ নৌযান ম্যারিনেটকেও আটক করল ইসরায়েল</title>
       <link>https://bonikbarta.com/international/MdzOnLvwTF9kl78l/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">ab8c0e7dae8f055db7e30cbf97af858e</guid>
     </item>
     <item>
-      <title>তিন মাস পর সেপ্টেম্বরে পুঁজিবাজারে নেতিবাচক রিটার্ন</title>
-      <link>https://bonikbarta.com/economy/74n611BNFN2Xze1F/</link>
-      <description><![CDATA[চলতি বছরের জুন, জুলাই ও আগস্টে দেশের পুঁজিবাজারে ইতিবাচক প্রবণতা ছিল।]]></description>
+      <title>কাঁচামরিচের দাম ছাড়াল ৩০০ টাকা</title>
+      <link>https://bonikbarta.com/bangladesh/QB3BEJDX31N6Fau8/</link>
+      <description><![CDATA[কাঁচামরিচের দাম আবার কেজিতে ৩০০ টাকা ছাড়িয়েছে। খুচরা বাজারে এখন এক কেজি কাঁচামরিচের দাম ৩২০ টাকার আশপাশে। পাঁচদিন আগেও প্রতি কেজি মরিচের দাম ছিল ২০০-২২০ টাকা।]]></description>
       <pubDate>Thu, 02 Oct 2025 21:14:00 GMT</pubDate>
-      <guid isPermaLink="false">1bad8b93e52086aef14c6c5fd19fd3af</guid>
+      <guid isPermaLink="false">7442bb77c6085dcceaf305f08a83feda</guid>
     </item>
     <item>
       <title>বড় পর্দায় জুটি হয়ে ফিরছেন আমিন-পপি</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[মধ্যপ্রাচ্যের কয়েকটি দেশ থেকে ভাঙারি স্বর্ণ পাচার হয়ে দেশে আসছে। পরে এ স্বর্ণ ঢাকার তাঁতীবাজারে স্বর্ণের বারে রূপান্তর করে পাচার হচ্ছে ভারতে। হুন্ডির মাধ্যমে হওয়া লেনদেনের অর্থ জমা হচ্ছে নামসর্বস্ব প্রতিষ্ঠানের ব্যাংক হিসাবে।]]></description>
       <pubDate>Thu, 02 Oct 2025 20:16:14 GMT</pubDate>
       <guid isPermaLink="false">79e6b53e86e1e81b3fe29c23f3d0c4e9</guid>
-    </item>
-    <item>
-      <title>খাদ্যপণ্যের দাম নিয়ে ইসিবির উদ্বেগ বাড়ছে</title>
-      <link>https://bonikbarta.com/economy/5Q5gINDTKWw474Mx/</link>
-      <description><![CDATA[খাদ্যপণ্যের বাড়তি দাম শুধু ইউরোজোনের পরিবার নয়, ইউরোপিয়ান সেন্ট্রাল ব্যাংকের (ইসিবি) জন্যও মাথাব্যথা হয়ে দাঁড়াচ্ছে।]]></description>
-      <pubDate>Thu, 02 Oct 2025 20:15:00 GMT</pubDate>
-      <guid isPermaLink="false">fa90df58348d0926d1779ff939a8b089</guid>
     </item>
   </channel>
 </rss>
