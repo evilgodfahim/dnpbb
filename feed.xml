@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 03 Oct 2025 05:22:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 05:41:09 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>গাজামুখী সুমুদ ফ্লোটিলা আটকের ঘটনায় তীব্র নিন্দা বাংলাদেশের</title>
+      <link>https://bonikbarta.com/bangladesh/ToFgCTxiqF9QWoJF/</link>
+      <description><![CDATA[বিজ্ঞপ্তিতে অবিলম্বে আটক মানবিক সহায়তাকারী ও কর্মীদের নিঃশর্ত মুক্তি, তাদের নিরাপত্তা ও কল্যাণ নিশ্চিত করার দাবি জানিয়েছে বাংলাদেশ সরকার। পাশাপাশি ইসরায়েলকে গাজা ও পশ্চিম তীরের অবৈধ দখলদারত্বের অবসান, আন্তর্জাতিক মানবিক আইন মেনে চলা এবং গাজার ওপর গণহত্যামূলক যুদ্ধ ও মানবিক অবরোধ বন্ধ করার আহ্বান জানিয়েছে।]]></description>
+      <pubDate>Fri, 03 Oct 2025 05:34:00 GMT</pubDate>
+      <guid isPermaLink="false">302fed61c1689798b0945e439d5c5115</guid>
+    </item>
     <item>
       <title>ছুটির দিনে ঢাকার বাতাস ‘সহনীয়’</title>
       <link>https://bonikbarta.com/bangladesh/5r0mkLnamQnDoKoH/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">d2053fae556597939d45ace584ca36c4</guid>
     </item>
     <item>
-      <title>বিজ্ঞাপনের জন্য এআই চ্যাটের তথ্য ব্যবহার করবে মেটা</title>
-      <link>https://bonikbarta.com/scitech/uNqqvvQOOyT4VqLD/</link>
-      <description><![CDATA[এআই চ্যাটবটের সঙ্গে ব্যবহারকারীর কথোপকথন বিশ্লেষণ করে তাদের জন্য বিজ্ঞাপন দেখাবে মেটা।]]></description>
-      <pubDate>Thu, 02 Oct 2025 20:38:21 GMT</pubDate>
-      <guid isPermaLink="false">e274535fbff71cb238e04ad116dc98aa</guid>
+      <title>চার বছরে বিশ্বব্যাপী স্মার্টওয়াচ ব্যবহারকারী ৭৪ কোটি ছাড়াবে</title>
+      <link>https://bonikbarta.com/scitech/M7Wxp1vMNxhM0saX/</link>
+      <description><![CDATA[বিশ্বব্যাপী ৪৫ কোটির বেশি মানুষ স্মার্টওয়াচ ব্যবহার করছে।]]></description>
+      <pubDate>Thu, 02 Oct 2025 20:37:00 GMT</pubDate>
+      <guid isPermaLink="false">c4c7882dad039fe6b96af7211e00f775</guid>
     </item>
     <item>
       <title>প্রাইম ব্যাংকের গ্রাহকরা হুন্দাই গাড়ি ক্রয়ে পাবেন বিশেষ ছাড়</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[ত্রয়োদশ নারী ওয়ানডে বিশ্বকাপে পাকিস্তানের বিপক্ষে রাজসিক এক জয় পেল বাংলাদেশ। ৭ উইকেটের জয়ে নিজেদের ইতিহাসে দ্বিতীয় ওয়ানডে বিশ্বকাপ আসরের সূচনা পর্ব রাঙালেন নিগার সুলতানা ও তার সতীর্থরা।]]></description>
       <pubDate>Thu, 02 Oct 2025 20:14:45 GMT</pubDate>
       <guid isPermaLink="false">1c99a13970cd9d3f623b54c8d59c35b5</guid>
-    </item>
-    <item>
-      <title>ক্রীড়া উপদেষ্টার কাছে বিসিবির নির্বাচন পেছানোসহ তিন প্রস্তাব</title>
-      <link>https://bonikbarta.com/sports/Ev5idZV5BqEwhmnu/</link>
-      <description><![CDATA[সংকট নিরসনে যুব ও ক্রীড়া উপদেষ্টা আসিফ মাহমুদের কাছে বাংলাদেশ ক্রিকেট বোর্ডের (বিসিবি) পরিচালনা পর্ষদের আসন্ন নির্বাচন পেছানোসহ তিনটি দাবি জানিয়েছেন ইন্দিরা রোড ক্রীড়া চক্রের কাউন্সিলর রফিকুল ইসলাম, যিনি বুধবার নির্বাচন থেকে মনোনয়ন প্রত্যাহার করে নেন।]]></description>
-      <pubDate>Thu, 02 Oct 2025 20:14:45 GMT</pubDate>
-      <guid isPermaLink="false">ea6634217c5ca24429f3a5c44b5d2aa9</guid>
     </item>
   </channel>
 </rss>
