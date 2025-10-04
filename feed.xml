@@ -6,14 +6,49 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 04 Oct 2025 21:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 22:19:51 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>যশোরে শীতকালীন সবজি উৎপাদন ব্যাহত হওয়ার শঙ্কা</title>
+      <link>https://bonikbarta.com/bangladesh/JG15LVBonEmgiwAD/</link>
+      <description><![CDATA[দেশের চাহিদার সিংহভাগ সবজি সরবরাহ করেন যশোরের চাষীরা। সবজি চারা উৎপাদনেও সুনাম রয়েছে এ জেলার।]]></description>
+      <pubDate>Sat, 04 Oct 2025 22:19:04 GMT</pubDate>
+      <guid isPermaLink="false">be6c7a11d4673eccbfdf968f6a9e123a</guid>
+    </item>
+    <item>
+      <title>জয়পুরহাটে প্রান্তিক জনগোষ্ঠীর স্বাস্থ্যসেবা ভেঙে পড়ার উপক্রম</title>
+      <link>https://bonikbarta.com/bangladesh/hzdG0S2EddwmKSQD/</link>
+      <description><![CDATA[জয়পুরহাট জেলা উত্তর-পশ্চিমাঞ্চলের একটি প্রশাসনিক অঞ্চল। ২০২২ সালের জনশুমারি ও গৃহগণনা অনুযায়ী অঞ্চলটির জনসংখ্যা ৯ লাখ ৫৬ হাজার ৪৩১।]]></description>
+      <pubDate>Sat, 04 Oct 2025 22:15:11 GMT</pubDate>
+      <guid isPermaLink="false">37f604337d92c84c492b9c3ff367930d</guid>
+    </item>
     <item>
       <title>পাঠদান ও গ্রহণে ছাত্র-শিক্ষক সম্পর্কের রসায়ন গুরুত্বপূর্ণ</title>
       <link>https://bonikbarta.com/editorial/wq8kdnDaTO32kBjk/</link>
       <description><![CDATA[পৃথিবীতে শিক্ষার ইতিহাস অতি প্রাচীন। মানুষ যখন রান্নার কৌশল শেখেনি, বন থেকে ফলমূল সংগ্রহ করে জীবন নির্বাহ করত, তখন থেকে মানুষের শিক্ষার যাত্রা শুরু।]]></description>
       <pubDate>Sat, 04 Oct 2025 22:00:00 GMT</pubDate>
       <guid isPermaLink="false">e8805bea9c88c2fbb9caa0aae747413d</guid>
+    </item>
+    <item>
+      <title>২০ বছরের মধ্যে মহাকাশে হবে ডাটা সেন্টার: জেফ বেজোস</title>
+      <link>https://bonikbarta.com/scitech/6jSN2P8kdpb1tOnd/</link>
+      <description><![CDATA[অ্যামাজনের প্রতিষ্ঠাতা জেফ বেজোস জানিয়েছেন, ১০-২০ বছরের মধ্যে মহাকাশে গিগাওয়াট স্কেলের ডাটা সেন্টার তৈরি হবে।]]></description>
+      <pubDate>Sat, 04 Oct 2025 21:51:06 GMT</pubDate>
+      <guid isPermaLink="false">49ecdcb2f45bd1690c95622a46001bb1</guid>
+    </item>
+    <item>
+      <title>গ্রাহকের তথ্য ফাঁস করছে ফ্রি ভিপিএন অ্যাপ</title>
+      <link>https://bonikbarta.com/scitech/QwQoTvmC7s7Ok3qe/</link>
+      <description><![CDATA[বিনামূল্যের ভিপিএন ব্যবহারকারীদের জন্য বড় ধরনের ঝুঁকি তৈরি করছে।]]></description>
+      <pubDate>Sat, 04 Oct 2025 21:45:59 GMT</pubDate>
+      <guid isPermaLink="false">cdac10b563fea94825a4e67ae417da41</guid>
+    </item>
+    <item>
+      <title>মার্কিন প্রযুক্তিকে টেক্কা দিতে ভারতীয় অ্যাপ ব্যবহারে উৎসাহ দিচ্ছে মোদি সরকার</title>
+      <link>https://bonikbarta.com/scitech/nOEKFhESFfs0rspX/</link>
+      <description><![CDATA[ভারতে গুগল ম্যাপ, হোয়াটস অ্যাপ ও মাইক্রোসফটের মতো বহুজাতিক সংস্থার বিপরীতে স্থানীয়ভাবে নির্মিত অ্যাপ ব্যবহারে উৎসাহ দিচ্ছে মোদি সরকার।]]></description>
+      <pubDate>Sat, 04 Oct 2025 21:43:00 GMT</pubDate>
+      <guid isPermaLink="false">2b6af210af20dfc4c4ca70d996df8c93</guid>
     </item>
     <item>
       <title>এফআরসির নির্দেশনা অনুসারে ইকুইটির অর্থকে শেয়ারে রূপান্তর করেনি</title>
@@ -26,8 +61,8 @@
       <title>উইন্ডোজ ১১-এর অভিজ্ঞতা ‘স্বস্তিদায়ক’ করতে বন্ধ করুন অপ্রয়োজনীয় নোটিফিকেশন</title>
       <link>https://bonikbarta.com/scitech/qjJujPMqGp5xLPMc/</link>
       <description><![CDATA[আধুনিক ও আকর্ষণীয় অপারেটিং সিস্টেম হিসেবে উইন্ডোজ ১১ নিঃসন্দেহে বেশ জনপ্রিয়।]]></description>
-      <pubDate>Sat, 04 Oct 2025 21:20:48 GMT</pubDate>
-      <guid isPermaLink="false">98f4ef716720cfb814a2b5800807d089</guid>
+      <pubDate>Sat, 04 Oct 2025 21:20:00 GMT</pubDate>
+      <guid isPermaLink="false">2895f2b4f47024ffadceb7739a851ca9</guid>
     </item>
     <item>
       <title>জীবন্ত কোষ দিয়ে কম্পিউটার তৈরির পথে বিজ্ঞানীরা</title>
@@ -177,13 +212,6 @@
       <guid isPermaLink="false">c10beb1035ac397010e0198f2627e974</guid>
     </item>
     <item>
-      <title>এশিয়ায় সবচেয়ে মূল্যবান কোম্পানির তালিকায় প্রযুক্তি জায়ান্টদের আধিপত্য</title>
-      <link>https://bonikbarta.com/economy/I4mVPBLfFtIfl0Yn/</link>
-      <description><![CDATA[বাণিজ্য উত্তেজনা ও মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের শুল্কনীতিজনিত অস্থিরতার মধ্য দিয়ে বৈশ্বিক অর্থনীতি, যার প্রভাব পড়েছে প্রযুক্তি খাতেও।]]></description>
-      <pubDate>Sat, 04 Oct 2025 20:40:07 GMT</pubDate>
-      <guid isPermaLink="false">9c4d9e85616698873db9fbe1f3e79f4b</guid>
-    </item>
-    <item>
       <title>বৈশ্বিক প্রযুক্তি কর্মীদের আকৃষ্ট করতে চীনে নতুন ভিসা</title>
       <link>https://bonikbarta.com/economy/iV5qTBBtutT5BunA/</link>
       <description><![CDATA[প্রযুক্তি খাতের বৈশ্বিক প্রতিভাদের আকর্ষণে চীনে চালু হয়েছে নতুন ভিসা কর্মসূচি।]]></description>
@@ -210,6 +238,13 @@
       <description><![CDATA[স্টামফোর্ড ব্রিজে গতকাল রাতে ইংলিশ প্রিমিয়ার লিগের ম্যাচে যোগ করা সময়ের গোলে লিভারপুলকে হারিয়ে দেয় চেলসি। ৯৬ মিনিটে ব্রাজিলিয়ান ফরওয়ার্ড এস্তেভাও গোল করে হৃদয় ভাঙেন লিভারপুল সমর্থকদের।]]></description>
       <pubDate>Sat, 04 Oct 2025 20:39:55 GMT</pubDate>
       <guid isPermaLink="false">46e42e1523fdebe30342c277d0d54b03</guid>
+    </item>
+    <item>
+      <title>ইসরায়েলের হয়ে হামলার অভিযোগে ইরানে ৬ জনের মৃত্যুদণ্ড কার্যকর</title>
+      <link>https://bonikbarta.com/international/QmHvpDrTYV0bbWPK/</link>
+      <description><![CDATA[ইরানের খুজেস্তান প্রদেশে ইসরায়েলের হয়ে হামলা চালানোর অভিযোগে ছয় বন্দির মৃত্যুদণ্ড কার্যকর করা হয়েছে।]]></description>
+      <pubDate>Sat, 04 Oct 2025 20:39:55 GMT</pubDate>
+      <guid isPermaLink="false">3c2932a15ea24796cdf760b0d867e243</guid>
     </item>
     <item>
       <title>মৌলিক চাহিদার দাবিতে তরুণদের বিক্ষোভে উত্তাল মরক্কো</title>
@@ -322,41 +357,6 @@
       <description><![CDATA[সাবেক সচিব এমএ রশীদের ৩৭তম মৃত্যুবার্ষিকী আজ। এ উপলক্ষে আজ ইউনিটি ক্লাব, ইউনাইটেড হাউজে বাদ মাগরিব দোয়া মাহফিলের আয়োজন করা হয়েছে।]]></description>
       <pubDate>Sat, 04 Oct 2025 20:39:54 GMT</pubDate>
       <guid isPermaLink="false">6be6a38de22af1bf7ce10ef58688ef6d</guid>
-    </item>
-    <item>
-      <title>বিসিবির নির্বাচন না পেছালে লিগ বর্জনের ঘোষণা ঢাকার ক্লাবগুলোর</title>
-      <link>https://bonikbarta.com/sports/jqH2O27X79z5SyTM/</link>
-      <description><![CDATA[আগামীকাল বাংলাদেশ ক্রিকেট বোর্ডের (বিসিবি) পরিচালনা পর্ষদের নির্বাচন। যদিও নির্বাচনের আগে পরিস্থিতি ক্রমেই জটিল হয়ে উঠছে। আজকের মধ্যে তিন দফা দাবি না মানলে বাংলাদেশের সব ধরনের ক্রিকেট বর্জনের ঘোষণা দিয়েছে ঢাকার ক্লাবগুলো।]]></description>
-      <pubDate>Sat, 04 Oct 2025 20:39:48 GMT</pubDate>
-      <guid isPermaLink="false">3c14c02ea2a7cd92043f8788c13d9309</guid>
-    </item>
-    <item>
-      <title>যশোরে অগ্রণী ব্যাংকের ব্যবস্থাপক সম্মেলন</title>
-      <link>https://bonikbarta.com/economy/W1Ric3l8OwyJTd0Y/</link>
-      <description><![CDATA[অগ্রণী ব্যাংক পিএলসির ১০০ দিনের বিশেষ কর্মপরিকল্পনার অগ্রগতি বিষয়ে খুলনা সার্কেলের প্রধান এবং শাখাপ্রধানদের নিয়ে ব্যবস্থাপক সম্মেলন অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Sat, 04 Oct 2025 20:39:48 GMT</pubDate>
-      <guid isPermaLink="false">5599adfdc9cefcf01eef330583063c32</guid>
-    </item>
-    <item>
-      <title>ব্র্যাক ব্যাংক ও ভেলক্সপেইজের মধ্যে অ্যাপভিত্তিক রেমিট্যান্স সেবা চালু</title>
-      <link>https://bonikbarta.com/economy/BccfkJd4oSqd8mOO/</link>
-      <description><![CDATA[অস্ট্রেলিয়ার রেমিট্যান্স সেবা প্রদানকারী প্রতিষ্ঠান ভেলক্সপেইজ প্রাইভেট লিমিটেডের সঙ্গে অংশীদারত্ব করেছে ব্র্যাক ব্যাংক।]]></description>
-      <pubDate>Sat, 04 Oct 2025 20:39:48 GMT</pubDate>
-      <guid isPermaLink="false">b6aba940a94dbe5db7f8fb0d9ace252a</guid>
-    </item>
-    <item>
-      <title>ইস্টার্ন ব্যাংকের উদ্যোগে সেন্ট জোসেফ স্কুলে ‘টেকনোভেশন ২৫’ অনুষ্ঠিত</title>
-      <link>https://bonikbarta.com/economy/7jYnavmerZ4Hx09f/</link>
-      <description><![CDATA[ইস্টার্ন ব্যাংকের উদ্যোগে রাজধানীর সেন্ট জোসেফ উচ্চমাধ্যমিক স্কুলে অনুষ্ঠিত হয়েছে ‘টেকনোভেশন ২০২৫’।]]></description>
-      <pubDate>Sat, 04 Oct 2025 20:39:48 GMT</pubDate>
-      <guid isPermaLink="false">862e22214e30fd4da5c6717b5c21ef07</guid>
-    </item>
-    <item>
-      <title>নাবিল গ্রুপের সহযোগিতায় সিজেডএমের জাকাত হস্তান্তর</title>
-      <link>https://bonikbarta.com/economy/yxyAJW0YDXRqHW55/</link>
-      <description><![CDATA[রাজশাহীর পবা উপজেলায় সেন্টার ফর জাকাত ম্যানেজমেন্টের (সিজেডএম) জীবিকা পবা প্রকল্পের দ্বিতীয় দফা তহবিল হস্তান্তর অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Sat, 04 Oct 2025 20:39:48 GMT</pubDate>
-      <guid isPermaLink="false">3c82f0f1e282daa22ae78107a8d96f5d</guid>
     </item>
   </channel>
 </rss>
