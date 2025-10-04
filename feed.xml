@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 04 Oct 2025 01:44:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 02:54:46 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>শান্তি পরিকল্পনায় হামাসের আংশিক সম্মতি, গাজায় বোমা হামলা বন্ধের নির্দেশ ট্রাম্পের</title>
+      <link>https://bonikbarta.com/international/Fg9bPRc8HFsljcjA/</link>
+      <description><![CDATA[হামাস জানিয়েছে, তারা জিম্মিদের মুক্তি দিতে এবং অন্যান্য ফিলিস্তিনিদের কাছে ক্ষমতা হস্তান্তর করতে প্রস্তুত। তবে পরিকল্পনার অন্যান্য দিক নিয়ে ফিলিস্তিনিদের মধ্যে আরো আলোচনার প্রয়োজন।]]></description>
+      <pubDate>Sat, 04 Oct 2025 02:45:30 GMT</pubDate>
+      <guid isPermaLink="false">e09c38880eac4c87ac2d93bacebe7be1</guid>
+    </item>
     <item>
       <title>বিনিয়োগের ঝুঁকি কমাতে ডলার হেজিং বাড়াচ্ছে বিদেশীরা</title>
       <link>https://bonikbarta.com/international/ViiNNwfkog7N3d6C/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">e0076b97c84b517851b3fb7612a3ca98</guid>
     </item>
     <item>
-      <title>বিক্ষোভ মিছিল</title>
-      <link>https://bonikbarta.com/bangladesh/Cj3jCbrjtPRfgaEl/</link>
-      <description><![CDATA[দিনাজপুরের ফুলবাড়ীতে বিক্ষোভ মিছিল করেছেন বড়পুকুরিয়া কয়লাখনির কারণে ক্ষতিগ্রস্তরা।]]></description>
+      <title>জামাই মেলা</title>
+      <link>https://bonikbarta.com/bangladesh/VpX3YZkH2jclEKpQ/</link>
+      <description><![CDATA[যশোরের মণিরামপুরে অনুষ্ঠিত হয়েছে প্রায় সাত দশকের পুরনো ‘জামাই মেলা। দুর্গা পূজার দশমীতে ব্যতিক্রমী এ মেলায় বসে মাছের বাজার।]]></description>
       <pubDate>Fri, 03 Oct 2025 20:25:52 GMT</pubDate>
-      <guid isPermaLink="false">331462b5f1e4c508c3564d3d3d168fe4</guid>
+      <guid isPermaLink="false">f4c8adf02e86ab6f3fa3b26c64eef9b8</guid>
     </item>
     <item>
       <title>অর্থ সহায়তা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[বঙ্গোপসাগরে সৃষ্টি হওয়া গভীর নিম্নচাপটি বাংলাদেশের উত্তরাঞ্চল পর্যন্ত বিস্তৃত হয়েছে। এর প্রভাবে আগামী পাঁচদিন দেশের বিভিন্ন স্থানে বজ্রসহ ভারি বর্ষণের আভাস দিয়েছে আবহাওয়া অধিদপ্তর।]]></description>
       <pubDate>Fri, 03 Oct 2025 20:22:52 GMT</pubDate>
       <guid isPermaLink="false">93621d52932cda4b6d4c7001c3ab8131</guid>
-    </item>
-    <item>
-      <title>ন্যূনতম স্বাস্থ্যসেবাও পাচ্ছে না কুড়িগ্রাম ও গাইবান্ধার চরাঞ্চলের মানুষ</title>
-      <link>https://bonikbarta.com/bangladesh/1HmZ0Y75SAusG8tZ/</link>
-      <description><![CDATA[কুড়িগ্রাম ও গাইবান্ধার বড় অংশজুড়ে রয়েছে চর এলাকা। দেশের মূল ভূখণ্ড থেকে অনেকটা বিচ্ছিন্ন এসব চরের অধিকাংশ মানুষই দারিদ্র্যসীমার নিচে বাস করছে। দরিদ্র এ জনগোষ্ঠীকে প্রতিনিয়তই টিকে থাকতে হয় প্রকৃতির ভাঙা-গড়ার খেলায়।]]></description>
-      <pubDate>Fri, 03 Oct 2025 20:22:52 GMT</pubDate>
-      <guid isPermaLink="false">1cca1ac2eecf090db9af9cd4d1b3abef</guid>
     </item>
   </channel>
 </rss>
