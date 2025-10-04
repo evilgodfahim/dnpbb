@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 04 Oct 2025 02:54:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 03:28:16 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ড্রোন আতঙ্কে আবার বন্ধ মিউনিখ বিমানবন্দর</title>
+      <link>https://bonikbarta.com/international/jVADFBBVhZZzajRG/</link>
+      <description><![CDATA[সম্প্রতি জার্মানি ছাড়াও বেলজিয়ামের একটি সামরিক ঘাঁটির ওপর বহু ড্রোন দেখা গেছে। ইউরোপের কয়েকটি দেশজুড়ে এ ধরনের ড্রোন ওড়ার ঘটনা বেড়ে যাওয়ায় আশঙ্কা তৈরি হয়েছে। বিশেষজ্ঞরা বলছেন, এর পেছনে রাষ্ট্রীয় পক্ষ থেকে শুরু করে অপরাধী চক্র—যে কেউ থাকতে পারে।]]></description>
+      <pubDate>Sat, 04 Oct 2025 03:01:48 GMT</pubDate>
+      <guid isPermaLink="false">92daebf6a7bb7d649cf1cd6698cb4d08</guid>
+    </item>
     <item>
       <title>শান্তি পরিকল্পনায় হামাসের আংশিক সম্মতি, গাজায় বোমা হামলা বন্ধের নির্দেশ ট্রাম্পের</title>
       <link>https://bonikbarta.com/international/Fg9bPRc8HFsljcjA/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">5b80bbcb6b29a80dcd34bc1438e6932c</guid>
     </item>
     <item>
-      <title>নভেম্বরে তিস্তা মহাপরিকল্পনার কাজ শুরুর দাবিতে রংপুর বিভাগে লাগাতার কর্মসূচি</title>
-      <link>https://bonikbarta.com/bangladesh/YMcaSnNHwYU6CnFq/</link>
-      <description><![CDATA[নির্বাচনী তফসিল ঘোষণার আগে নভেম্বরে তিস্তা মহাপরিকল্পনার কাজ শুরুর দাবিতে আবারো রাজপথে নামছেন নদীপারের বাসিন্দা ও রাজনৈতিক দলের নেতারা।]]></description>
+      <title>বিক্ষোভ মিছিল</title>
+      <link>https://bonikbarta.com/bangladesh/Cj3jCbrjtPRfgaEl/</link>
+      <description><![CDATA[দিনাজপুরের ফুলবাড়ীতে বিক্ষোভ মিছিল করেছেন বড়পুকুরিয়া কয়লাখনির কারণে ক্ষতিগ্রস্তরা।]]></description>
       <pubDate>Fri, 03 Oct 2025 20:25:52 GMT</pubDate>
-      <guid isPermaLink="false">e0076b97c84b517851b3fb7612a3ca98</guid>
+      <guid isPermaLink="false">331462b5f1e4c508c3564d3d3d168fe4</guid>
     </item>
     <item>
       <title>জামাই মেলা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[সাড়ে চার বছর বয়সী শিশু রোজা মণি। রাজধানীর তেজগাঁও এলাকা থেকে নিখোঁজের একদিন পর গত ১৩ মে বিজয় সরণি ফ্লাইওভারের কাছে তেজকুনিপাড়ার ময়লার স্তূপ থেকে উদ্ধার করা হয় তার মরদেহ।]]></description>
       <pubDate>Fri, 03 Oct 2025 20:22:52 GMT</pubDate>
       <guid isPermaLink="false">dde3165c580e0847b6b25d6ccf02d79a</guid>
-    </item>
-    <item>
-      <title>টানা পাঁচদিন বজ্রসহ ভারি বৃষ্টির আভাস</title>
-      <link>https://bonikbarta.com/bangladesh/zuvyHAVude3PdzbG/</link>
-      <description><![CDATA[বঙ্গোপসাগরে সৃষ্টি হওয়া গভীর নিম্নচাপটি বাংলাদেশের উত্তরাঞ্চল পর্যন্ত বিস্তৃত হয়েছে। এর প্রভাবে আগামী পাঁচদিন দেশের বিভিন্ন স্থানে বজ্রসহ ভারি বর্ষণের আভাস দিয়েছে আবহাওয়া অধিদপ্তর।]]></description>
-      <pubDate>Fri, 03 Oct 2025 20:22:52 GMT</pubDate>
-      <guid isPermaLink="false">93621d52932cda4b6d4c7001c3ab8131</guid>
     </item>
   </channel>
 </rss>
