@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 04 Oct 2025 04:26:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 04:42:34 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ফ্লোটিলার শেষ নৌকাও আটক, গাজার উদ্দেশে রওনা হয়েছে নতুন বহর</title>
+      <link>https://bonikbarta.com/international/C2txAAFacV0cwqxC/</link>
+      <description><![CDATA[গাজা থেকে প্রায় ৪২ দশমিক ৫ নটিক্যাল মাইল (৭৯ কিমি) দূরে 'ম্যারিনেট' নামের শেষ জাহাজটিকে আটক করা হয়। নৌবাহিনী বহরের শেষ জাহাজটির নিয়ন্ত্রণ নিয়েছে, জাহাজে থাকা কর্মীদের আটক করেছে এবং জাহাজটিকে ইসরায়েলের আশদোদ বন্দরের দিকে নিয়ে যাওয়া হচ্ছে।]]></description>
+      <pubDate>Sat, 04 Oct 2025 04:37:00 GMT</pubDate>
+      <guid isPermaLink="false">1f7bbfd80a6c391759c561579eada1bf</guid>
+    </item>
     <item>
       <title>ইনজুরিতে বিশ্বকাপ বাছাইপর্বে নেই ইয়ামাল, মিস করতে পারেন এল ক্লাসিকো</title>
       <link>https://bonikbarta.com/sports/LoZyIYp32cNfcb05/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">421e5ff27bddad30f250d8a4727d723e</guid>
     </item>
     <item>
-      <title>চুয়াডাঙ্গায় শিক্ষকদের প্রশিক্ষণ কর্মসূচি</title>
-      <link>https://bonikbarta.com/economy/wubGaqLOipWKG2ID/</link>
-      <description><![CDATA[চুয়াডাঙ্গায় মাধ্যমিক বিদ্যালয়ের ৪০ জন শিক্ষককে নিয়ে মানসিক সহায়তা ও আত্মহত্যা প্রতিরোধে দুই দিনের প্রশিক্ষণ আয়োজিত হয়েছে।]]></description>
+      <title>গাজীপুরে তিনজনসহ সড়ক দুর্ঘটনায় চার জেলায় নিহত ৭</title>
+      <link>https://bonikbarta.com/bangladesh/WKld9kHneTrl6CWO/</link>
+      <description><![CDATA[গাজীপুরে ডাম্প ট্রাকের ধাক্কায় সিএনজিচালিত অটোরিকশার তিন যাত্রী নিহত হয়েছেন। এছাড়া সড়ক দুর্ঘটনায় চট্টগ্রাম, মাদারীপুর ও চাঁপাইনবাবগঞ্জে আরো চারজনের প্রাণহানি হয়েছে।]]></description>
       <pubDate>Fri, 03 Oct 2025 20:25:52 GMT</pubDate>
-      <guid isPermaLink="false">f35ac8aff2ade972d69f8d11167b40be</guid>
+      <guid isPermaLink="false">543dbfa0f3427d2b5d537dad57106df4</guid>
     </item>
     <item>
       <title>গাইবান্ধায় এক মাসে ব্রহ্মপুত্রে বিলীন ২০ বিঘা জমি</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[বাংলাদেশ জাতীয়তাবাদী দলের (বিএনপি) স্থায়ী কমিটির সদস্য মির্জা আব্বাস বলেছেন, ‘পিআরসহ কিছু অযৌক্তিক দাবিতে নির্বাচন বানচালের হুমকি দিয়ে একটি ধর্ম ব্যবসায়ী দল বিভ্রান্তি ছড়াচ্ছে।]]></description>
       <pubDate>Fri, 03 Oct 2025 20:22:52 GMT</pubDate>
       <guid isPermaLink="false">8571c05d8cca17f3f5ce4d8ef319b548</guid>
-    </item>
-    <item>
-      <title>রাষ্ট্র সংস্কার আন্দোলনের প্রতিনিধি সম্মেলন অনুষ্ঠিত</title>
-      <link>https://bonikbarta.com/bangladesh/oPsLUu34NvSOZlwE/</link>
-      <description><![CDATA[২০১২ সালের গণতান্ত্রিক সংবিধান আন্দোলন থেকে শুরু হয়ে সময়ের প্রয়োজনে ২০২১ সালে জন্ম নেয়া রাজনৈতিক দল রাষ্ট্র সংস্কার আন্দোলন তাদের বিশেষ প্রতিনিধি সম্মেলন করেছে।]]></description>
-      <pubDate>Fri, 03 Oct 2025 20:22:52 GMT</pubDate>
-      <guid isPermaLink="false">d163554c4aa49da235557bb23d5d3f2f</guid>
     </item>
   </channel>
 </rss>
