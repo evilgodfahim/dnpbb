@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 04 Oct 2025 04:42:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 05:21:19 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>নির্বাচনী সমর্থন পেতে ঘন ঘন বিদেশ সফরে মিয়ানমারের ‘বিচ্ছিন্ন’ জেনারেল</title>
+      <link>https://bonikbarta.com/international/CAsdkIkXD6TvVs0H/</link>
+      <description><![CDATA[জান্তা নেতার এই সফরগুলোকে মূলত আগামী ডিসেম্বরের বিতর্ক ঘেরা নির্বাচনের জন্য আন্তর্জাতিক সমর্থন আদায়ের কূটনৈতিক প্রচেষ্টা হিসেবেই দেখা হচ্ছে। জেনারেল তার প্রধান মিত্র চীন ও রাশিয়ায় দু'বার করে এবং থাইল্যান্ড, বেলারুশ ও এই সপ্তাহে কাজাখস্তানে সফর করেছেন।]]></description>
+      <pubDate>Sat, 04 Oct 2025 05:20:42 GMT</pubDate>
+      <guid isPermaLink="false">3ad8c382af3458aa6653a3e3bb1200e0</guid>
+    </item>
     <item>
       <title>ফ্লোটিলার শেষ নৌকাও আটক, গাজার উদ্দেশে রওনা হয়েছে নতুন বহর</title>
       <link>https://bonikbarta.com/international/C2txAAFacV0cwqxC/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">0f2c0773b01529979c0deff2e86bbe51</guid>
     </item>
     <item>
-      <title>মহাবিশ্বের পরিণতি সম্পর্কে কাসার বিজ্ঞানী আনোয়ার সজীবের গবেষণা</title>
-      <link>https://bonikbarta.com/economy/8XY5at9XU7YFL7zO/</link>
-      <description><![CDATA[নতুন এক গবেষণায় ইঙ্গিত মিলেছে মহাবিশ্বকে ক্রমেই প্রসারিত করে চলা ডার্ক এনার্জি ধ্রুব নয়, বরং এটি সময়ের সঙ্গে পরিবর্তনশীল হতে পারে।]]></description>
+      <title>চুয়াডাঙ্গায় শিক্ষকদের প্রশিক্ষণ কর্মসূচি</title>
+      <link>https://bonikbarta.com/economy/wubGaqLOipWKG2ID/</link>
+      <description><![CDATA[চুয়াডাঙ্গায় মাধ্যমিক বিদ্যালয়ের ৪০ জন শিক্ষককে নিয়ে মানসিক সহায়তা ও আত্মহত্যা প্রতিরোধে দুই দিনের প্রশিক্ষণ আয়োজিত হয়েছে।]]></description>
       <pubDate>Fri, 03 Oct 2025 20:25:52 GMT</pubDate>
-      <guid isPermaLink="false">421e5ff27bddad30f250d8a4727d723e</guid>
+      <guid isPermaLink="false">f35ac8aff2ade972d69f8d11167b40be</guid>
     </item>
     <item>
       <title>গাজীপুরে তিনজনসহ সড়ক দুর্ঘটনায় চার জেলায় নিহত ৭</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[ত্রয়োদশ জাতীয় সংসদ নির্বাচনের জন্য প্রার্থী বাছাইয়ের কাজ চালিয়ে যাচ্ছে বিএনপি। আসনভিত্তিক একক প্রার্থীকে মাঠে কাজ করার জন্য শিগগিরই গ্রিন সিগন্যাল দেয়া হবে বলে জানিয়েছেন দলটির স্থায়ী কমিটির সদস্য সালাহউদ্দিন আহমদ।]]></description>
       <pubDate>Fri, 03 Oct 2025 20:22:52 GMT</pubDate>
       <guid isPermaLink="false">dff8b7c4b9911b36c39d88f421007c89</guid>
-    </item>
-    <item>
-      <title>একটি দল নির্বাচন নিয়ে বিভ্রান্তি ছড়াচ্ছে —মির্জা আব্বাস</title>
-      <link>https://bonikbarta.com/bangladesh/ipcBfyqDXjAYPMyf/</link>
-      <description><![CDATA[বাংলাদেশ জাতীয়তাবাদী দলের (বিএনপি) স্থায়ী কমিটির সদস্য মির্জা আব্বাস বলেছেন, ‘পিআরসহ কিছু অযৌক্তিক দাবিতে নির্বাচন বানচালের হুমকি দিয়ে একটি ধর্ম ব্যবসায়ী দল বিভ্রান্তি ছড়াচ্ছে।]]></description>
-      <pubDate>Fri, 03 Oct 2025 20:22:52 GMT</pubDate>
-      <guid isPermaLink="false">8571c05d8cca17f3f5ce4d8ef319b548</guid>
     </item>
   </channel>
 </rss>
