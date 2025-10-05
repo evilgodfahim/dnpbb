@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 05 Oct 2025 11:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 11:39:04 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>স্ন্যাপচ্যাটে এখন ছবি-ভিডিও সংরক্ষণে গুনতে হবে অর্থ</title>
+      <link>https://bonikbarta.com/scitech/aIuBZbiQLKyfMH4R/</link>
+      <description><![CDATA[সোশ্যাল মিডিয়া প্ল্যাটফর্মটি সম্প্রতি জানিয়েছে, এখন থেকে মেমরিজে বিনামূল্যে ৫ জিবি পর্যন্ত স্টোরেজ সুবিধা পাওয়া যাবে। ব্যবহারকারীরা এ সীমার বেশি ডাটা সংরক্ষণ করতে চাইলে নতুন মেমরি স্টোরেজ প্ল্যানে সাবস্ক্রাইব করতে হবে।]]></description>
+      <pubDate>Sun, 05 Oct 2025 11:23:47 GMT</pubDate>
+      <guid isPermaLink="false">cc7b2a8d21f75ae5c09bb4851c79e67a</guid>
+    </item>
     <item>
       <title>বিসিবি নির্বাচনে ভোট দিতে পারবেন ১৫ ক্লাবের প্রতিনিধি</title>
       <link>https://bonikbarta.com/sports/y6i1V7LO4r81MyBZ/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">fd53108213880640945835916dfba7f5</guid>
     </item>
     <item>
-      <title>শেষ মুহূর্তের গোল এখন লিভারপুলের ব্যথার গল্প</title>
-      <link>https://bonikbarta.com/sports/iF2wBYeFofsuijbM/</link>
-      <description><![CDATA[নতুন খেলোয়াড় ফ্লোরিয়ান ভার্টজকে স্ট্রাইকারদের পেছনে খেলানোর কারণে মাঝমাঠ দিয়ে দলটি আরো অরক্ষিত হয়ে পড়েছে। এখনো দলের মূল খেলোয়াড় হয়ে উঠতে পারেননি এই জার্মান। আর ১২৫ মিলিয়ন পাউন্ডের ইসাক এখনো পুরোপুরি ম্যাচ ফিটনেস ফিরে পাননি বলেই মনে হচ্ছে।]]></description>
-      <pubDate>Sun, 05 Oct 2025 05:16:00 GMT</pubDate>
-      <guid isPermaLink="false">f6e2ddd443982688459530a00657722f</guid>
+      <title>ইন্দোনেশিয়ায় স্কুল ভবন ধসে মৃতের সংখ্যা বেড়ে ৩৬, নিখোঁজ ২৭ জন</title>
+      <link>https://bonikbarta.com/international/P3bxiN8Ou9UP29y5/</link>
+      <description><![CDATA[শুক্রবার উদ্ধারকর্মীরা ধ্বংসাবশেষ সরানোর জন্য ভারী সরঞ্জাম ব্যবহারের অনুমতি পান। এর আগে জীবন রক্ষার কোনো লক্ষণ খুঁজে না পাওয়ায় অভিভাবকদের কাছ থেকে এই অনুমতি নেয়া হয়।]]></description>
+      <pubDate>Sun, 05 Oct 2025 04:44:55 GMT</pubDate>
+      <guid isPermaLink="false">dcd539dc65fc5b232a83ee7c993c137e</guid>
     </item>
     <item>
       <title>আসছে বছরের প্রথম সুপারমুন</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[ইলিশ সারা বছরই ডিম দেয়। তবে ৮০ শতাংশ ইলিশ ডিম দেয় আশ্বিন মাসে। পূর্ণিমা ও অমাবস্যার সময়ে মা-ইলিশ ডিম ছাড়ার জন্য সাগর ছেড়ে মিঠা পানির নদীতে চলে আসে।]]></description>
       <pubDate>Sat, 04 Oct 2025 22:21:33 GMT</pubDate>
       <guid isPermaLink="false">4fcf2e88fa61bbd06b64202ccdf4704e</guid>
-    </item>
-    <item>
-      <title>যশোরে শীতকালীন সবজি উৎপাদন ব্যাহত হওয়ার শঙ্কা</title>
-      <link>https://bonikbarta.com/bangladesh/JG15LVBonEmgiwAD/</link>
-      <description><![CDATA[দেশের চাহিদার সিংহভাগ সবজি সরবরাহ করেন যশোরের চাষীরা। সবজি চারা উৎপাদনেও সুনাম রয়েছে এ জেলার।]]></description>
-      <pubDate>Sat, 04 Oct 2025 22:19:04 GMT</pubDate>
-      <guid isPermaLink="false">be6c7a11d4673eccbfdf968f6a9e123a</guid>
     </item>
   </channel>
 </rss>
