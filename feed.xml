@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 05 Oct 2025 03:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 03:48:41 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>মেসির অ্যাসিস্টের ‘হ্যাটট্রিকে’ মায়ামির দাপুটে জয়, এলিট ক্লাবে এলএমটেন</title>
+      <link>https://bonikbarta.com/sports/PAu4n2TYXMBSVlrT/</link>
+      <description><![CDATA[এ ম্যাচে তিনটি অ্যাসিস্ট করে চলতি এমএলএস মৌসুমে তার গোল কন্ট্রিবিউশনের সংখ্যা ৪১-এ (২৪ গোল ও ১৭ অ্যাসিস্ট) নিয়ে গেছেন। এই মাইলফলক স্পর্শ করে মেসি এমএলএসের ইতিহাসে মাত্র দ্বিতীয় খেলোয়াড় হিসেবে এক মৌসুমে কমপক্ষে ৪০টি গোল কন্ট্রিবিউশপ্নের এলিট ক্লাবে প্রবেশ করলেন।]]></description>
+      <pubDate>Sun, 05 Oct 2025 03:27:59 GMT</pubDate>
+      <guid isPermaLink="false">c8863c951a1cd1130c8a0158f1b39fa1</guid>
+    </item>
     <item>
       <title>'গ্রেটা থুনবার্গকে টেনে নিয়ে ইসরায়েলি পতাকা চুম্বনে বাধ্য করা হয়'</title>
       <link>https://bonikbarta.com/international/EY2io3PryImSrhFQ/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">a7573857c6cc117ac1bdb40688f124bb</guid>
     </item>
     <item>
-      <title>মার্শের সেঞ্চুরিতে সিরিজ জিতল অস্ট্রেলিয়া</title>
-      <link>https://bonikbarta.com/sports/vgPAOHMzJA7buta1/</link>
-      <description><![CDATA[মিচেল মার্শের ক্যারিয়ারের প্রথম টি-টোয়েন্টি সেঞ্চুরিতে ভর করে তিন ম্যাচ সিরিজে নিউজিল্যান্ডকে ২-০তে হারাল অস্ট্রেলিয়া।]]></description>
-      <pubDate>Sat, 04 Oct 2025 21:03:04 GMT</pubDate>
-      <guid isPermaLink="false">7895da34388868268587a56e71dcd378</guid>
+      <title>ওয়েস্ট ইন্ডিজকে ইনিংস ব্যবধানে হারাল ভারত</title>
+      <link>https://bonikbarta.com/sports/VYrm2otSxxFPrMjn/</link>
+      <description><![CDATA[আহমেদাবাদে সিরিজের প্রথম টেস্টে সফরকারী ওয়েস্ট ইন্ডিজকে মাত্র তিনদিনের মধ্যে ইনিংস ব্যবধানে হারিয়েছে ভারত।]]></description>
+      <pubDate>Sat, 04 Oct 2025 21:00:53 GMT</pubDate>
+      <guid isPermaLink="false">afe53b770228d87af9a0785fd2889000</guid>
     </item>
     <item>
       <title>উন্নত জাতি গঠনে শিক্ষকের দক্ষতা ও সামাজিক মর্যাদা বৃদ্ধিতে জোর দিতে হবে</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[দুর্দান্ত আয় করেছে ওয়ার্নার ব্রোস। সারা বিশ্বের বক্স অফিস থেকে স্টুডিওটি আয় করেছে ৪০০ কোটি ডলারের বেশি।]]></description>
       <pubDate>Sat, 04 Oct 2025 20:39:55 GMT</pubDate>
       <guid isPermaLink="false">24422bafb334c3e57361fc221e251cbb</guid>
-    </item>
-    <item>
-      <title>অন্তিম সময়ের গোলে লিভারপুলকে হারাল চেলসি</title>
-      <link>https://bonikbarta.com/sports/HRvfpkN7PdwXsbl3/</link>
-      <description><![CDATA[স্টামফোর্ড ব্রিজে গতকাল রাতে ইংলিশ প্রিমিয়ার লিগের ম্যাচে যোগ করা সময়ের গোলে লিভারপুলকে হারিয়ে দেয় চেলসি। ৯৬ মিনিটে ব্রাজিলিয়ান ফরওয়ার্ড এস্তেভাও গোল করে হৃদয় ভাঙেন লিভারপুল সমর্থকদের।]]></description>
-      <pubDate>Sat, 04 Oct 2025 20:39:55 GMT</pubDate>
-      <guid isPermaLink="false">46e42e1523fdebe30342c277d0d54b03</guid>
     </item>
   </channel>
 </rss>
