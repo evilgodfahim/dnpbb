@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 05 Oct 2025 13:24:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 13:38:53 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>৪ জেলায় বন্যার আভাস</title>
+      <link>https://bonikbarta.com/bangladesh/GBFE4OFAy6djUBk3/</link>
+      <description><![CDATA[২৪ ঘণ্টায় রংপুর বিভাগ এবং উজানে ভারতের পশ্চিমবঙ্গ ও সিকিমে ভারী থেকে অতি ভারী বৃষ্টিপাত হয়েছে।]]></description>
+      <pubDate>Sun, 05 Oct 2025 13:34:35 GMT</pubDate>
+      <guid isPermaLink="false">b8c59a1852bffe9aead4753f3390bee0</guid>
+    </item>
     <item>
       <title>৪৯তম বিসিএস (বিশেষ) পরীক্ষার প্রবেশপত্র আজ থেকে ডাউনলোড করা যাবে</title>
       <link>https://bonikbarta.com/bangladesh/amILpymE7gKq26KN/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">fd6fcb76b3ffa91043f864bddb27ea32</guid>
     </item>
     <item>
-      <title>শিকাগোতে বন্দুকধারী নারীকে গুলি করল বর্ডার পেট্রোল, উত্তেজনা তুঙ্গে</title>
-      <link>https://bonikbarta.com/international/CycB9pya0UYCLSRz/</link>
-      <description><![CDATA[ঐ নারীর নেতৃত্বে থাকা একটি দল ইউএস ইমিগ্রেশন অ্যান্ড কাস্টমস এনফোর্সমেন্ট (আইসিই)-এর ব্যবহৃত গাড়িগুলোতে নিজেদের গাড়ি দিয়ে ধাক্কা দেয়। গুলিবিদ্ধ ঐ নারী নিজেই গাড়ি চালিয়ে হাসপাতালে যান। তার বর্তমান অবস্থা সম্পর্কে তাৎক্ষণিকভাবে আর কোনো তথ্য পাওয়া যায়নি।]]></description>
-      <pubDate>Sun, 05 Oct 2025 08:35:05 GMT</pubDate>
-      <guid isPermaLink="false">e5dae7ea51d2c3fd4a397a2534828e7f</guid>
+      <title>বাংলাদেশের বিকল্প বাজার হয়ে উঠতে পারে সৌদি আরব: এসএবিসিসিআই সভাপতি</title>
+      <link>https://bonikbarta.com/bangladesh/tAhDp8paMVox3vUn/</link>
+      <description><![CDATA[ভূ-রাজনৈতিক অস্থিতিশীলতা ও অর্থনৈতিক অনিশ্চয়তায় সৌদি আরব বাংলাদেশের জন্য একটি সম্ভাবনাময় বিকল্প বাজার হয়ে উঠবে। যুক্তরাষ্ট্র ও ইউরোপের মতো প্রচলিত বাজারের ওপর নির্ভরতা কমাতে বাংলাদেশ সক্রিয়ভাবে সৌদি বাজারে উপস্থিতি বাড়াতে কাজ করছে।]]></description>
+      <pubDate>Sun, 05 Oct 2025 08:02:11 GMT</pubDate>
+      <guid isPermaLink="false">1fd54037a287f07f6483e6a95ba24844</guid>
     </item>
     <item>
       <title>বিশ্ব বসতি দিবস উপলক্ষে দুই দিনের বসতি মেলা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[গাইবান্ধা শিক্ষা প্রকৌশল অধিদপ্তরের নির্বাহী প্রকৌশলী ও উপসহকারী প্রকৌশলীকে অপসারণের দাবিতে মানববন্ধন করেছেন সাংবাদিকরা।]]></description>
       <pubDate>Sat, 04 Oct 2025 23:05:48 GMT</pubDate>
       <guid isPermaLink="false">20e6a4d4fb235866017a9501ca7532da</guid>
-    </item>
-    <item>
-      <title>পতাকা বৈঠক</title>
-      <link>https://bonikbarta.com/bangladesh/CrpvJWkYctSaKFro/</link>
-      <description><![CDATA[চুয়াডাঙ্গা সীমান্তে বিজিবি-বিএসএফ ব্যাটালিয়ন কমান্ডার পর্যায়ে পতাকা বৈঠক অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Sat, 04 Oct 2025 23:04:59 GMT</pubDate>
-      <guid isPermaLink="false">fa626c156e38fdbbfbd38ecf1bf5eed7</guid>
     </item>
   </channel>
 </rss>
