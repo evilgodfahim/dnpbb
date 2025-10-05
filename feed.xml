@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 05 Oct 2025 01:59:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 03:11:49 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>'গ্রেটা থুনবার্গকে টেনে নিয়ে ইসরায়েলি পতাকা চুম্বনে বাধ্য করা হয়'</title>
+      <link>https://bonikbarta.com/international/EY2io3PryImSrhFQ/</link>
+      <description><![CDATA[আটককৃতরা অভিযোগ করেছেন যে— তাদের হাত বেঁধে ঘণ্টার পর ঘণ্টা হাঁটু গেড়ে বসতে বাধ্য করা হয়েছিল, ঔষধ দেয়া হয়নি এবং আইনজীবীদের সঙ্গে কথা বলতেও বাধা দেয়া হয়েছিল।]]></description>
+      <pubDate>Sun, 05 Oct 2025 02:58:00 GMT</pubDate>
+      <guid isPermaLink="false">bcf09c893f1ff41a520273cd90ed7f17</guid>
+    </item>
     <item>
       <title>ডিমওয়ালা ইলিশ সংরক্ষণে বরিশালে নৌ-শোভাযাত্রা</title>
       <link>https://bonikbarta.com/bangladesh/0XXip7BxSgoQPD07/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">7895da34388868268587a56e71dcd378</guid>
     </item>
     <item>
-      <title>ওয়েস্ট ইন্ডিজকে ইনিংস ব্যবধানে হারাল ভারত</title>
-      <link>https://bonikbarta.com/sports/VYrm2otSxxFPrMjn/</link>
-      <description><![CDATA[আহমেদাবাদে সিরিজের প্রথম টেস্টে সফরকারী ওয়েস্ট ইন্ডিজকে মাত্র তিনদিনের মধ্যে ইনিংস ব্যবধানে হারিয়েছে ভারত।]]></description>
-      <pubDate>Sat, 04 Oct 2025 21:00:53 GMT</pubDate>
-      <guid isPermaLink="false">afe53b770228d87af9a0785fd2889000</guid>
+      <title>উন্নত জাতি গঠনে শিক্ষকের দক্ষতা ও সামাজিক মর্যাদা বৃদ্ধিতে জোর দিতে হবে</title>
+      <link>https://bonikbarta.com/editorial/OhTu65g98N7YEL24/</link>
+      <description><![CDATA[আজ বিশ্ব শিক্ষক দিবস। এ বছরের বিশ্ব শিক্ষক দিবসের প্রতিপাদ্য ‘শিক্ষকতাকে একটি অংশীদারত্বমূলক পেশা হিসেবে পুনর্বিন্যাস’।]]></description>
+      <pubDate>Sat, 04 Oct 2025 21:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ba3bc1b47e2789d2b82827ee87c05ef2</guid>
     </item>
     <item>
       <title>আট মাসে ধর্ষণের শিকার ৩৯০ কন্যাশিশু</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[স্টামফোর্ড ব্রিজে গতকাল রাতে ইংলিশ প্রিমিয়ার লিগের ম্যাচে যোগ করা সময়ের গোলে লিভারপুলকে হারিয়ে দেয় চেলসি। ৯৬ মিনিটে ব্রাজিলিয়ান ফরওয়ার্ড এস্তেভাও গোল করে হৃদয় ভাঙেন লিভারপুল সমর্থকদের।]]></description>
       <pubDate>Sat, 04 Oct 2025 20:39:55 GMT</pubDate>
       <guid isPermaLink="false">46e42e1523fdebe30342c277d0d54b03</guid>
-    </item>
-    <item>
-      <title>ইসরায়েলের হয়ে হামলার অভিযোগে ইরানে ৬ জনের মৃত্যুদণ্ড কার্যকর</title>
-      <link>https://bonikbarta.com/international/QmHvpDrTYV0bbWPK/</link>
-      <description><![CDATA[ইরানের খুজেস্তান প্রদেশে ইসরায়েলের হয়ে হামলা চালানোর অভিযোগে ছয় বন্দির মৃত্যুদণ্ড কার্যকর করা হয়েছে।]]></description>
-      <pubDate>Sat, 04 Oct 2025 20:39:55 GMT</pubDate>
-      <guid isPermaLink="false">3c2932a15ea24796cdf760b0d867e243</guid>
     </item>
   </channel>
 </rss>
