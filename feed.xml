@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 05 Oct 2025 09:39:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 10:21:52 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>আমিরাত আজমানে লেডিস ক্লাবের ৭ম বর্ষপূর্তি উৎসব সম্পন্ন</title>
+      <link>https://bonikbarta.com/others/EKR65fY9Q9dkbdPO/</link>
+      <description><![CDATA[আয়োজনে ছিল সাংস্কৃতিক পরিবেশনা, লোকনৃত্য, কবিতা আবৃত্তি ও নানা ধরনের খেলাধুলা। বিশেষ করে, প্রবাসে বেড়ে ওঠা নতুন প্রজন্মকে দেশীয় সংস্কৃতি ও ঐতিহ্য সম্পর্কে আগ্রহী করে তুলতে শিশু-কিশোরদের পরিবেশনা ছিল নজরকাড়া।]]></description>
+      <pubDate>Sun, 05 Oct 2025 10:08:00 GMT</pubDate>
+      <guid isPermaLink="false">5b53cb05378fc9c3077708f03493a1b6</guid>
+    </item>
     <item>
       <title>সাতক্ষীরায় সড়ক দুর্ঘটনায় এক ব্যক্তি নিহত</title>
       <link>https://bonikbarta.com/bangladesh/BkxadCv1X16pbd96/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">bcf09c893f1ff41a520273cd90ed7f17</guid>
     </item>
     <item>
-      <title>ডিমওয়ালা ইলিশ সংরক্ষণে বরিশালে নৌ-শোভাযাত্রা</title>
-      <link>https://bonikbarta.com/bangladesh/0XXip7BxSgoQPD07/</link>
-      <description><![CDATA[ডিমওয়ালা ইলিশ সংরক্ষণ অভিযান উপলক্ষে বরিশালে নৌ-শোভাযাত্রা করেছে জেলা প্রশাসন ও মৎস্য অধিদপ্তর।]]></description>
-      <pubDate>Sat, 04 Oct 2025 23:08:39 GMT</pubDate>
-      <guid isPermaLink="false">0061f8a154d7ffe1bd425fe7e0fe76a7</guid>
+      <title>কর্মবিরতি</title>
+      <link>https://bonikbarta.com/bangladesh/avGka7kpSHfoPOAb/</link>
+      <description><![CDATA[ঝালকাঠির রাজাপুরে ছয় দফা দাবিতে অনির্দিষ্টকালের জন্য কর্মবিরতি শুরু করেছেন স্বাস্থ্য সহকারীরা।]]></description>
+      <pubDate>Sat, 04 Oct 2025 23:07:15 GMT</pubDate>
+      <guid isPermaLink="false">a5b7bc9526da8b60129839a9d261ff40</guid>
     </item>
     <item>
       <title>আলটিমেটাম</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[ভারতে গুগল ম্যাপ, হোয়াটস অ্যাপ ও মাইক্রোসফটের মতো বহুজাতিক সংস্থার বিপরীতে স্থানীয়ভাবে নির্মিত অ্যাপ ব্যবহারে উৎসাহ দিচ্ছে মোদি সরকার।]]></description>
       <pubDate>Sat, 04 Oct 2025 21:43:00 GMT</pubDate>
       <guid isPermaLink="false">2b6af210af20dfc4c4ca70d996df8c93</guid>
-    </item>
-    <item>
-      <title>এফআরসির নির্দেশনা অনুসারে ইকুইটির অর্থকে শেয়ারে রূপান্তর করেনি</title>
-      <link>https://bonikbarta.com/economy/xPcaZjA3NhOFGIws/</link>
-      <description><![CDATA[রাষ্ট্রায়ত্ত প্রতিষ্ঠান বাংলাদেশ সাবমেরিন কেবলস পিএলসি (বিএসসিপিএলসি) ২০২০-২১ থেকে ২০২৪-২৫ অর্থবছরে সরকারের কাছ থেকে ইকুইটি হিসেবে ১৫২ কোটি ২৩ লাখ ৬০ হাজার ৭৯০ টাকা নিয়েছে।]]></description>
-      <pubDate>Sat, 04 Oct 2025 21:39:00 GMT</pubDate>
-      <guid isPermaLink="false">f85936af26b4aad901f3040802f5d2d8</guid>
     </item>
   </channel>
 </rss>
