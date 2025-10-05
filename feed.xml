@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 05 Oct 2025 14:39:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 15:20:15 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>তিস্তার পানি বিপৎসীমার ওপরে, খুলে দেয়া হয়েছে সব গেট</title>
+      <link>https://bonikbarta.com/bangladesh/XmS14WOy9OP4dG9z/</link>
+      <description><![CDATA[পূর্ব ছাতনাই ইউনিয়নের চেয়ারম্যান আব্দুল লতিফ খান বলেন, উজানের ঢল আর ভারী বৃষ্টির কারণে তিস্তা নদীর পানি বেড়ে কয়েকটি গ্রাম ডুবে গেছে। প্রায় পাঁচ হাজার মানুষ এখন পানিবন্দী। রাতে পানি আরও বাড়লে মানুষকে নিরাপদ স্থানে সরিয়ে নিতে হবে।]]></description>
+      <pubDate>Sun, 05 Oct 2025 15:16:23 GMT</pubDate>
+      <guid isPermaLink="false">469e73e2ac405d4ba5a35f8c03e9de85</guid>
+    </item>
     <item>
       <title>গণভোটের পক্ষে একমত সব রাজনৈতিক দল : আলী রীয়াজ</title>
       <link>https://bonikbarta.com/bangladesh/VLH4mbJaD4pye6v0/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">339b563b67b0b8fecd3dd37d5d170e8e</guid>
     </item>
     <item>
-      <title>৬ দফা দাবিতে দ্বিতীয় দিনের মতো হিলির স্বাস্থ্য সহকারীদের কর্মবিরতি পালন</title>
-      <link>https://bonikbarta.com/bangladesh/QFjRJCNZbfjPh4WX/</link>
-      <description><![CDATA[কর্মবিরতির অংশ হিসেবে ইপিআই টিকাদান কেন্দ্র ও আসন্ন টিভিসি টিকাদান ক্যাম্পেইনসহ সকল কর্মকাণ্ড বন্ধ রেখেছেন স্বাস্থ্য সহকারীরা।]]></description>
-      <pubDate>Sun, 05 Oct 2025 09:23:33 GMT</pubDate>
-      <guid isPermaLink="false">6e8b0ac5c9ceb57c2ab0dfca515c90d4</guid>
+      <title>ঝিনাইদহে বজ্রপাতে দুই কৃষকের মৃত্যু</title>
+      <link>https://bonikbarta.com/bangladesh/HnU4XzM5aEjYNA33/</link>
+      <description><![CDATA[আড়মুখী গ্রামের কৃষক শিমুল বিশ্বাস বাড়ির পাশে নিজ জমিতে কাজ করছিলেন। একপর্যায়ে বৃষ্টি শুরু হলে অন্যদের সঙ্গে মাঠ থেকে বাড়ি ফিরছিলেন। এ সময় বজ্রপাতে ঘটনাস্থলেই মারা যান শিমুল বিশ্বাস।]]></description>
+      <pubDate>Sun, 05 Oct 2025 09:18:12 GMT</pubDate>
+      <guid isPermaLink="false">bfc1f0af3a0ed2bde75772fe928fd8c6</guid>
     </item>
     <item>
       <title>চট্টগ্রামে দুই সাংবাদিকের ওপর সন্ত্রাসী হামলা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[শুক্রবার উদ্ধারকর্মীরা ধ্বংসাবশেষ সরানোর জন্য ভারী সরঞ্জাম ব্যবহারের অনুমতি পান। এর আগে জীবন রক্ষার কোনো লক্ষণ খুঁজে না পাওয়ায় অভিভাবকদের কাছ থেকে এই অনুমতি নেয়া হয়।]]></description>
       <pubDate>Sun, 05 Oct 2025 04:44:55 GMT</pubDate>
       <guid isPermaLink="false">dcd539dc65fc5b232a83ee7c993c137e</guid>
-    </item>
-    <item>
-      <title>আসছে বছরের প্রথম সুপারমুন</title>
-      <link>https://bonikbarta.com/others/B6poXhuy4gI0dSQ6/</link>
-      <description><![CDATA[চাঁদ যখন তার কক্ষপথে পৃথিবীর সবচেয়ে কাছাকাছি অবস্থানে থেকে পূর্ণিমার রূপ নেয়, তখন ঘটে সুপারমুন। এ সময় চাঁদ সাধারণ সময়ের তুলনায় ১৪ শতাংশ পর্যন্ত বড় এবং প্রায় ৩০ শতাংশ বেশি উজ্জ্বল দেখা যায়।]]></description>
-      <pubDate>Sun, 05 Oct 2025 04:12:52 GMT</pubDate>
-      <guid isPermaLink="false">28030b47d3d5447d5ef2b3d38c692910</guid>
     </item>
   </channel>
 </rss>
