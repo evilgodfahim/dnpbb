@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 06 Oct 2025 04:44:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 05:23:01 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>‘ফেব্রুয়ারিতে নির্বাচনের ব্যাপারে সরকারের ওপর আস্থা রাখতে চাই’</title>
+      <link>https://bonikbarta.com/bangladesh/zjVwkzR7ZirWFt1H/</link>
+      <description><![CDATA[সরকার ফেব্রুয়ারির ভেতর নির্বাচনটি করতে চাইছেন। আমরা আস্থা রাখতে চাই যে, সরকার সে ব্যাপারে সব রকম উদ্যোগ পর্যায়ক্রমিকভাবে গ্রহণ করবেন।]]></description>
+      <pubDate>Mon, 06 Oct 2025 05:21:04 GMT</pubDate>
+      <guid isPermaLink="false">8060bc357229a5b1d15ccf16a0dff454</guid>
+    </item>
     <item>
       <title>'কোনো দল বা ব্যক্তি নয়, জুলাই আন্দোলনের মাস্টারমাইন্ড গণতন্ত্রকামী জনগণ'</title>
       <link>https://bonikbarta.com/bangladesh/4we5FTwaK4meO4z6/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">1c5eacf383533a04ac20822834ed1f94</guid>
     </item>
     <item>
-      <title>ছোট ছোট অভ্যাসেই কমে যায় ওয়্যারলেস ইয়ারবাডসের আয়ু</title>
-      <link>https://bonikbarta.com/scitech/pZYbTbcwaGUpo6dP/</link>
-      <description><![CDATA[ওয়্যারলেস ইয়ারবাডস এখন অনেকেরই নিত্যসঙ্গী। গান ও পডকাস্ট শোনা কিংবা ভিডিও দেখার জন্য ছোট এসব ডিভাইস দিন দিন জনপ্রিয় হয়ে উঠছে।]]></description>
-      <pubDate>Sun, 05 Oct 2025 21:44:20 GMT</pubDate>
-      <guid isPermaLink="false">23956f6ae1bbd80dc4e556f5b007aa5b</guid>
+      <title>ডিসকর্ডের গ্রাহকসেবা হ্যাক, ব্যবহারকারীর তথ্য ও ফটো আইডি ফাঁস</title>
+      <link>https://bonikbarta.com/scitech/N0ttOPdNTvqYVLUe/</link>
+      <description><![CDATA[সাইবার হামলার শিকার হয়েছে ডিসকর্ডের তৃতীয় পক্ষের গ্রাহকসেবা প্রদানকারী এক প্রতিষ্ঠান।]]></description>
+      <pubDate>Sun, 05 Oct 2025 21:41:51 GMT</pubDate>
+      <guid isPermaLink="false">e1eaa307dfd91557079ee1108789881a</guid>
     </item>
     <item>
       <title>অর্থবছরের প্রথম প্রান্তিকে পণ্য রফতানি প্রবৃদ্ধি নেমেছে ৫.৬৪ শতাংশে</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[মধুমতি ব্যাংক পিএলসি ও বাংলাদেশ ব্যাংকের মধ্যে একটি দ্বিপক্ষীয় চুক্তি হয়েছে।]]></description>
       <pubDate>Sun, 05 Oct 2025 20:42:29 GMT</pubDate>
       <guid isPermaLink="false">73fb6eabf264c37b3adfb28771fabce8</guid>
-    </item>
-    <item>
-      <title>সৌদি আরব হয়ে উঠতে পারে বাংলাদেশের জন্য বিকল্প বাজার</title>
-      <link>https://bonikbarta.com/economy/DNGfdutFeig9H1U1/</link>
-      <description><![CDATA[বাংলাদেশ ও সৌদি আরবের মধ্যে শক্তিশালী বাণিজ্যিক, অর্থনৈতিক ও বিনিয়োগ সম্পর্ক বিনির্মাণে আগামীকাল ঢাকায় শুরু হচ্ছে সৌদি আরব-বাংলাদেশ বিজনেস সামিট।]]></description>
-      <pubDate>Sun, 05 Oct 2025 20:40:41 GMT</pubDate>
-      <guid isPermaLink="false">d9fa602c77bc58f8d613535db69b9ae5</guid>
     </item>
   </channel>
 </rss>
