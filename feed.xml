@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 07 Oct 2025 01:49:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 03:01:04 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>সেন নদীর তীরে একাকী মাখোঁ: ফরাসি রাজনীতিতে অনিশ্চয়তার কালো মেঘ</title>
+      <link>https://bonikbarta.com/international/ps3q0x61NLxu4OQU/</link>
+      <description><![CDATA[সংকটের মূল বীজ বোনা হয়েছিল গত বছরের সেই বিফল আগাম নির্বাচনে। সংসদে তিনটি বিপরীতমুখী শিবির তৈরি হয়, কোনো পক্ষই সংখ্যাগরিষ্ঠতা পায়নি। সেই থেকেই মাখোঁ টিকে আছেন সংখ্যালঘু সরকার দিয়ে, যা বারবার ব্যর্থ হয়েছে বাজেট ঘাটতি মোকাবেলায়।]]></description>
+      <pubDate>Tue, 07 Oct 2025 03:00:32 GMT</pubDate>
+      <guid isPermaLink="false">e983071d6df5d0bc96604c78fbad087d</guid>
+    </item>
     <item>
       <title>অধিকাংশ খাতের শেয়ারেই নেতিবাচক রিটার্ন</title>
       <link>https://bonikbarta.com/economy/gExK9yghX5Ah6lxr/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">3770514c4bdb69b8188695373df7d7b6</guid>
     </item>
     <item>
-      <title>‘ইনস্টাগ্রামের মতো ফিড’ আসছে জেমিনির নতুন হোমস্ক্রিনে</title>
-      <link>https://bonikbarta.com/scitech/d3NRHMKEqjxR5JW2/</link>
-      <description><![CDATA[গুগল এবার কৃত্রিম বুদ্ধিমত্তা (এআই) চ্যাটবট জেমিনি হালনাগাদের পরিকল্পনা করছে।]]></description>
+      <title>জুলাই-সেপ্টেম্বর প্রান্তিকে রেকর্ড আয় ফক্সকনের</title>
+      <link>https://bonikbarta.com/scitech/5PfKJ5ccYPoo53Di/</link>
+      <description><![CDATA[এআই পণ্যের উচ্চ চাহিদার কারণে বছরের তৃতীয় প্রান্তিকে (জুলাই-সেপ্টেম্বর) রেকর্ড আয় করেছে বিশ্বের বৃহত্তম ইলেকট্রনিকস নির্মাণকারী প্রতিষ্ঠান ফক্সকন।]]></description>
       <pubDate>Mon, 06 Oct 2025 20:08:57 GMT</pubDate>
-      <guid isPermaLink="false">3ceedf25b4843607de1b05c0d48491f0</guid>
+      <guid isPermaLink="false">6d5ba2f272bfe9406640e2b38714cf8b</guid>
     </item>
     <item>
       <title>অ্যাপলের পরবর্তী সিইও হতে পারেন জন টারনাস</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[সার কারখানায় গ্যাসের মূল্যবৃদ্ধির প্রস্তাব নিয়ে জ্বালানি খাতের নিয়ন্ত্রক সংস্থা বাংলাদেশ এনার্জি রেগুলেটরি কমিশন (বিইআরসি) গণশুনানি করেছে। এতে বাংলাদেশ তেল, গ্যাস, খনিজ সম্পদ করপোরেশন (পেট্রোবাংলা) ও ছয়টি গ্যাস বিতরণ কোম্পানি দাম বাড়ানোর অভিন্ন প্রস্তাব তুলে ধরে।]]></description>
       <pubDate>Mon, 06 Oct 2025 20:08:47 GMT</pubDate>
       <guid isPermaLink="false">90aa8d1ae492c01d261d94f7f3b0e00f</guid>
-    </item>
-    <item>
-      <title>জামায়াত আমিরের সঙ্গে সাক্ষাৎ তুরস্কের উপপররাষ্ট্রমন্ত্রীর</title>
-      <link>https://bonikbarta.com/bangladesh/H63hxM2gHRBwqzU8/</link>
-      <description><![CDATA[জামায়াতে ইসলামীর আমির শফিকুর রহমানের সঙ্গে সাক্ষাৎ করেছেন বাংলাদেশ সফররত তুরস্কের উপপররাষ্ট্রমন্ত্রী এ বেরিস একিনচি। গতকাল বিকালে রাজধানীর বসুন্ধরা আবাসিক এলাকায় জামায়াত আমিরের কার্যালয়ে এ সাক্ষাৎ অনুষ্ঠিত হয়।]]></description>
-      <pubDate>Mon, 06 Oct 2025 20:08:47 GMT</pubDate>
-      <guid isPermaLink="false">4205ff5b40e94cbd1d45a6c61861be55</guid>
     </item>
   </channel>
 </rss>
