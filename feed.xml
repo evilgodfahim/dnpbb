@@ -6,7 +6,7 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 07 Oct 2025 21:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 21:39:12 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <item>
       <title>দুই মাসের বেশি বন্ধ থাকবে একটি প্রডাকশন লাইন</title>
@@ -135,13 +135,6 @@
       <guid isPermaLink="false">614d29cede412ceac9ea00e5eeecaae2</guid>
     </item>
     <item>
-      <title>‘আর্টিস্টকে জানতে হবে রাজনীতি অর্থনীতি ও আশপাশে কী ঘটছে’</title>
-      <link>https://bonikbarta.com/SbnBjrXN/265/udHW5GdM1xyw9bhh/</link>
-      <description><![CDATA[খ্যাতিমান চিত্রশিল্পী মনিরুল ইসলামের জন্ম ১৯৪৩ সালের ১৭ আগস্ট। তিনি ১৯৬০-এর দশকের অন্যতম প্রভাবশালী শিল্পী হিসেবে বিবেচিত।]]></description>
-      <pubDate>Tue, 07 Oct 2025 20:50:45 GMT</pubDate>
-      <guid isPermaLink="false">b7025c8722127ec25dc07dee2b7e4180</guid>
-    </item>
-    <item>
       <title>ঢাকায় এক মঞ্চে জেমস ও আলী আজমত</title>
       <link>https://bonikbarta.com/talkies/kM4dvAnLtL9Myb8P/</link>
       <description><![CDATA[বাংলাদেশের নগর বাউল জেমস ও পাকিস্তানের জনপ্রিয় সংগীতশিল্পী আলী আজমত এবার একই মঞ্চে গান গাইবেন।]]></description>
@@ -212,11 +205,11 @@
       <guid isPermaLink="false">24068bde45f06eb98e37c87ca01e3a6a</guid>
     </item>
     <item>
-      <title>৪০০ কোটি আয়ের পথে ঋষভের কানতারা</title>
-      <link>https://bonikbarta.com/talkies/htkPcwoGO7zVkFoD/</link>
-      <description><![CDATA[ঋষভ শেঠি পরিচালিত সিনেমা ‘কানতারা: চ্যাপ্টার ওয়ান’। সিনেমাটি মুক্তির পাঁচদিনে সারা বিশ্ব থেকে ৩৫০ কোটি রুপির মতো আয় করেছে।]]></description>
-      <pubDate>Tue, 07 Oct 2025 20:50:29 GMT</pubDate>
-      <guid isPermaLink="false">891814da112cb3b5f894d8bdc9096592</guid>
+      <title>প্রথমবারের মতো বৈশ্বিক বিদ্যুৎ উৎপাদনে কয়লাকে ছাড়াল নবায়নযোগ্য খাত</title>
+      <link>https://bonikbarta.com/economy/PhHuknvWlfh1QmjK/</link>
+      <description><![CDATA[জলবায়ুসংক্রান্ত উদ্বেগের মাঝে বিশ্বব্যাপী নতুন উদ্ভাবনের পাশাপাশি নবায়নযোগ্য জ্বালানিতে বিনিয়োগ বাড়ছে।]]></description>
+      <pubDate>Tue, 07 Oct 2025 20:50:44 GMT</pubDate>
+      <guid isPermaLink="false">dc6734fb7e75d35b71c6a8932623b876</guid>
     </item>
     <item>
       <title>২ নভেম্বর আসছে রাজের ধারাবাহিক ‘এটা আমাদেরই গল্প’</title>
@@ -336,6 +329,13 @@
       <description><![CDATA[দেশের রেলপথগুলোয় দুর্ঘটনার অন্যতম একটি কারণ অনিরাপদ লেভেল ক্রসিং।]]></description>
       <pubDate>Tue, 07 Oct 2025 20:50:28 GMT</pubDate>
       <guid isPermaLink="false">d56a0b66fb2470f82ec457eb279e9b99</guid>
+    </item>
+    <item>
+      <title>‘আর্টিস্টকে জানতে হবে রাজনীতি অর্থনীতি ও আশপাশে কী ঘটছে’</title>
+      <link>https://bonikbarta.com/SbnBjrXN/265/udHW5GdM1xyw9bhh/</link>
+      <description><![CDATA[খ্যাতিমান চিত্রশিল্পী মনিরুল ইসলামের জন্ম ১৯৪৩ সালের ১৭ আগস্ট। তিনি ১৯৬০-এর দশকের অন্যতম প্রভাবশালী শিল্পী হিসেবে বিবেচিত।]]></description>
+      <pubDate>Tue, 07 Oct 2025 20:50:00 GMT</pubDate>
+      <guid isPermaLink="false">e260669fe85614729cbe31358721287f</guid>
     </item>
     <item>
       <title>আমরা পানির হিস্যা চাই সীমান্তে আর ফেলানীর ঝুলে থাকার দৃশ্য দেখতে চাই না</title>
