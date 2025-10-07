@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 07 Oct 2025 03:48:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 04:28:13 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>‘থ্রি ইডিয়টস’-এর বাস্তব নায়ক ওয়াংচুক কেন রাষ্ট্রদ্রোহের আসামি</title>
+      <link>https://bonikbarta.com/international/rBf7PJ70Iz7JBqns/</link>
+      <description><![CDATA[এক সময় বিজেপি সরকার ও প্রধানমন্ত্রী নরেন্দ্র মোদি নিজেই প্রচারণায় ওয়াংচুককে ব্যবহার করতেন। কিন্তু এখন সেই সরকারই তাকে 'রাষ্ট্রবিরোধী' বলে আখ্যায়িত করে তার আন্দোলনের পেছনে পাকিস্তানের হাত থাকার ইঙ্গিত দিচ্ছে।]]></description>
+      <pubDate>Tue, 07 Oct 2025 03:57:24 GMT</pubDate>
+      <guid isPermaLink="false">4b88d137b763f16eb340aebaaaa95a14</guid>
+    </item>
     <item>
       <title>মার্কিন সিনেটে আবারো ব্যর্থ বাজেট বিল, পঞ্চম দিনেও অচল সরকার</title>
       <link>https://bonikbarta.com/international/N1AFFLMQYr02zLp1/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">8c31925cadc47c785ea0e516e44b7268</guid>
     </item>
     <item>
-      <title>শর্বরী ও আহানকে নিয়ে আলি আব্বাসের নতুন সিনেমা</title>
-      <link>https://bonikbarta.com/talkies/K4FiZV2vycP0CKyv/</link>
-      <description><![CDATA[বলিউডের জনপ্রিয় পরিচালক আলি আব্বাস জাফর নতুন একটি অ্যাকশন-রোমান্স সিনেমার কাজ শুরু করতে যাচ্ছেন।]]></description>
-      <pubDate>Mon, 06 Oct 2025 20:10:38 GMT</pubDate>
-      <guid isPermaLink="false">32ca5a5621c118ae4dd6dd2522773047</guid>
+      <title>বাংলাদেশ থেকে ব্যবসা গুটিয়ে নিচ্ছে প্রক্টর অ্যান্ড গ্যাম্বল</title>
+      <link>https://bonikbarta.com/bangladesh/Vbx6cAiqdydyY5pS/</link>
+      <description><![CDATA[বিশ্বের অন্যতম ফাস্ট-মুভিং কনজিউমার গুডস (এফএমসিজি) উৎপাদক কোম্পানি প্রক্টর অ্যান্ড গ্যাম্বল।   যুক্তরাষ্ট্রভিত্তিক এ বহুজাতিক কোম্পানি বাংলাদেশে ব্যবসা শুরু করে ১৯৯৪ সালে।]]></description>
+      <pubDate>Mon, 06 Oct 2025 20:09:16 GMT</pubDate>
+      <guid isPermaLink="false">3770514c4bdb69b8188695373df7d7b6</guid>
     </item>
     <item>
       <title>‘ইনস্টাগ্রামের মতো ফিড’ আসছে জেমিনির নতুন হোমস্ক্রিনে</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[জাতীয় সংসদ নির্বাচন সামনে রেখে বাংলাদেশ পুলিশে সহকারী উপপরিদর্শক (এএসআই-নিরস্ত্র) পদে বড় পরিসরে নিয়োগে সম্মতি দিয়ে স্বরাষ্ট্র মন্ত্রণালয়কে চিঠি দেয়া হয়েছে।]]></description>
       <pubDate>Mon, 06 Oct 2025 20:08:48 GMT</pubDate>
       <guid isPermaLink="false">03417e2a642e483f84338a71bc9a4711</guid>
-    </item>
-    <item>
-      <title>সবার জন্য পরিবেশবান্ধব আবাসন নিশ্চিত করতে হবে</title>
-      <link>https://bonikbarta.com/bangladesh/XVCBGzMINvpmprmU/</link>
-      <description><![CDATA[পরিবেশ, বন ও জলবায়ু পরিবর্তন মন্ত্রণালয়ের উপদেষ্টা সৈয়দা রিজওয়ানা হাসান বলেছেন, ‘সবার জন্য দুর্যোগ সহনশীল, পরিবেশবান্ধব ও বিকেন্দ্রীকৃত আবাসন ব্যবস্থা গড়ে তুলতে হবে।’]]></description>
-      <pubDate>Mon, 06 Oct 2025 20:08:48 GMT</pubDate>
-      <guid isPermaLink="false">c8ed68df0ecd57e1298a79566923ddec</guid>
     </item>
   </channel>
 </rss>
