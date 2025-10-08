@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 08 Oct 2025 11:19:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 11:39:41 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>টেকসই ভবিষ্যৎ নির্মাণে সিটি ব্যাংকের প্রথম ইএসজি প্রতিবেদন প্রকাশ</title>
+      <link>https://bonikbarta.com/economy/4I2k4WxBwtAivAOt/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Wed, 08 Oct 2025 11:28:54 GMT</pubDate>
+      <guid isPermaLink="false">8a558834720f25f22333d43f4aa36a24</guid>
+    </item>
     <item>
       <title>চাঁদপুরে ইলিশের প্রজনন মৌসুমে ১৮ জেলেকে আটক</title>
       <link>https://bonikbarta.com/bangladesh/YGUFKGSrjS4TQ9uW/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">0a3ad2c9f103691b077d22f2fdaa6f12</guid>
     </item>
     <item>
-      <title>টেকনাফে ১৭১ রোহিঙ্গা আটক, ক্যাম্প মাঝিদের হাতে হস্তান্তর</title>
-      <link>https://bonikbarta.com/bangladesh/hJXAvGs98IriXZWT/</link>
-      <description><![CDATA[প্রশাসনের পক্ষ থেকে বারবার বৈঠক, মাইকিং ও মিটিংয়ের মাধ্যমে রোহিঙ্গাদের ক্যাম্পের বাইরে যেতে নিষেধ করা হয়। তবু কেউ ডাক্তার দেখাতে, কেউ দিনমজুরির কাজ করতে বা মাছ ধরতে বের হন।]]></description>
-      <pubDate>Wed, 08 Oct 2025 04:10:48 GMT</pubDate>
-      <guid isPermaLink="false">7ccaf4da90b2aa3bfb6a5fedbe89abe4</guid>
+      <title>গাজায় যুদ্ধ সমাপ্তির 'নিশ্চয়তা' চায় হামাস, মিসরে দ্বিতীয় দিনের আলোচনা শেষ</title>
+      <link>https://bonikbarta.com/international/rzwdsyToWB1XpMLl/</link>
+      <description><![CDATA[বন্দিমুক্তি ও সেনা প্রত্যাহার পরস্পর-নির্ভর ধাপে সম্পন্ন করার বিষয়ে আলোচনা চলছে। শেষ বন্দি মুক্তির সঙ্গে শেষ সেনা প্রত্যাহার একযোগে ঘটবে—এটাই হামাসের প্রস্তাব।]]></description>
+      <pubDate>Wed, 08 Oct 2025 04:02:21 GMT</pubDate>
+      <guid isPermaLink="false">a88f510c8f276de66dcfbd3e963dc322</guid>
     </item>
     <item>
       <title>স্মার্টফোন ব্যবহারে ২ ঘণ্টার সময়সীমা: কেমন অভিজ্ঞতা হলো জাপানের তরুণদের</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[নানা কারণে বিক্রি হয় বিখ্যাত শিল্পীদের চিত্রকর্ম। এবার ঋণ পরিশোধের জন্য বিক্রি হচ্ছে বিখ্যাত ফরাসি চিত্রকর ক্লদ মনেঁর চিত্রকর্ম ‘নিম্ফিয়াস’ (১৯১৪-১৭)।]]></description>
       <pubDate>Tue, 07 Oct 2025 20:50:45 GMT</pubDate>
       <guid isPermaLink="false">b7762dd1a571b855064850182f729e85</guid>
-    </item>
-    <item>
-      <title>যাযাবরি শিল্প প্রদর্শনী রেখে দুবাইয়ে থিতু হচ্ছেন তৈমুর</title>
-      <link>https://bonikbarta.com/SbnBjrXN/265/ueHHvKoolEc6b4bo/</link>
-      <description><![CDATA[লন্ডনের শিল্পাঙ্গনে তৈমুর গ্রাহনে পরিচিত নাম। তিনি একজন যাযাবর শিল্প ব্যবসায়ী হিসেবে পরিচিত।]]></description>
-      <pubDate>Tue, 07 Oct 2025 20:50:45 GMT</pubDate>
-      <guid isPermaLink="false">614d29cede412ceac9ea00e5eeecaae2</guid>
     </item>
   </channel>
 </rss>
