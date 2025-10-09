@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 09 Oct 2025 10:26:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 10:45:42 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>দলীয় প্রতীক ইস্যুতে নির্বাচন কমিশনের সঙ্গে এনসিপির বৈঠক</title>
+      <link>https://bonikbarta.com/bangladesh/gy2kv6V2jfrkS68E/</link>
+      <description><![CDATA[বৈঠকে এনসিপি শাপলা প্রতীক নিয়ে নিজেদের দলীয় যুক্তি ও প্রাসঙ্গিক তথ্য তুলে ধরবে।]]></description>
+      <pubDate>Thu, 09 Oct 2025 10:41:25 GMT</pubDate>
+      <guid isPermaLink="false">254dc99e6e384c53ea3341b477386577</guid>
+    </item>
     <item>
       <title>ব্যাংক ঋণের সুদহার এক অংকে নামিয়ে আনার দাবি</title>
       <link>https://bonikbarta.com/bangladesh/I4lkmmFXyPVbq0cW/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">7279b81433ab379e81fd4c4605240eb5</guid>
     </item>
     <item>
-      <title>মৎস্য ঘেরে বিষ প্রয়োগ</title>
-      <link>https://bonikbarta.com/bangladesh/lwAwVrXA2eS0sOJt/</link>
-      <description><![CDATA[বাগেরহাটের রামপালে একটি মৎস্য ঘেরে বিষ প্রয়োগের ঘটনা ঘটেছে।]]></description>
-      <pubDate>Wed, 08 Oct 2025 21:20:21 GMT</pubDate>
-      <guid isPermaLink="false">c3042fc0aad2b7c3c9e83616eed27352</guid>
+      <title>মাগুরা ও বাগেরহাটে সড়ক দুর্ঘটনায় নিহত ৩</title>
+      <link>https://bonikbarta.com/bangladesh/qJq5kmuC8HF9RBZT/</link>
+      <description><![CDATA[মাগুরায় মোটরসাইকেল ও শ্যালো ইঞ্জিনচালিত গাড়ির সংঘর্ষে দুজন নিহত হয়েছেন।]]></description>
+      <pubDate>Wed, 08 Oct 2025 21:19:00 GMT</pubDate>
+      <guid isPermaLink="false">7ec02bb4477e8be4f9605b64b7fa23da</guid>
     </item>
     <item>
       <title>ডিজিটাল প্লাটফর্মে ভুল তথ্য ও প্রতারণার ঝুঁকিতে বিনিয়োগকারীরা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[বার্জার পেইন্টস বাংলাদেশ লিমিটেড ও বিল্ডিং টেকনোলজি অ্যান্ড আইডিয়াস লিমিটেডের (বিটিআই) মধ্যে একটি অংশীদারত্ব চুক্তি স্বাক্ষর হয়েছে।]]></description>
       <pubDate>Wed, 08 Oct 2025 20:27:00 GMT</pubDate>
       <guid isPermaLink="false">600fecf449dee7bb0f13c549f42118e8</guid>
-    </item>
-    <item>
-      <title>ঢাকা ব্যাংকের উদ্যোগে সিলেটে এএমএল অ্যান্ড সিএফটি-বিষয়ক লিড ব্যাংক কর্মশালা</title>
-      <link>https://bonikbarta.com/economy/840WOfP4cSPf9Q4R/</link>
-      <description><![CDATA[লিড ব্যাংক হিসেবে ঢাকা ব্যাংকের উদ্যোগে সিলেটে মানি লন্ডারিং ও সন্ত্রাসে অর্থায়ন প্রতিরোধ-বিষয়ক (এএমএল অ্যান্ড সিএফটি) দিনব্যাপী এক কর্মশালা অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Wed, 08 Oct 2025 20:25:25 GMT</pubDate>
-      <guid isPermaLink="false">eedf3eb98661e90f10afe4f2ea03abe0</guid>
     </item>
   </channel>
 </rss>
