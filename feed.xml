@@ -6,14 +6,21 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 09 Oct 2025 05:42:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 06:36:22 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <item>
-      <title>বলিভিয়ায় গেরিলা নেতা চে গুয়েভারাকে হত্যা</title>
+      <title>গুম সংক্রান্ত তদন্ত কমিশনের ইউটিউব চ্যানেলে তথ্যচিত্র প্রকাশ</title>
+      <link>https://bonikbarta.com/bangladesh/jRO5kK1p7kLthEzg/</link>
+      <description><![CDATA[একইসঙ্গে গুম হওয়া ব্যক্তিদের জন্য ‘ডিসঅ্যাপিয়ারেন্স সার্টিফিকেট’ ইস্যুর সুপারিশ এবং সংশ্লিষ্ট গুরুত্বপূর্ণ আইনের সংশোধনসহ আইনশৃঙ্খলা রক্ষাকারী বাহিনীগুলোর বিষয়ে নীতিগত পরামর্শ দিয়েছে কমিশন।]]></description>
+      <pubDate>Thu, 09 Oct 2025 06:26:31 GMT</pubDate>
+      <guid isPermaLink="false">7ff5ecdd9f42b95e268f9d6875eed912</guid>
+    </item>
+    <item>
+      <title>বিপ্লবী চে গুয়েভারাকে হত্যা</title>
       <link>https://bonikbarta.com/feature/ultTvzJDeeSD0qbF/</link>
       <description><![CDATA[No description available]]></description>
-      <pubDate>Thu, 09 Oct 2025 05:40:04 GMT</pubDate>
-      <guid isPermaLink="false">0408084e4dfa6a36fcfbd2b3df020a24</guid>
+      <pubDate>Thu, 09 Oct 2025 05:40:00 GMT</pubDate>
+      <guid isPermaLink="false">a3012ba467928516b4f0b4f21fa7e8e1</guid>
     </item>
     <item>
       <title>চ্যাটজিপিটিতে মিলল সূত্র, লস অ্যাঞ্জেলেসের দাবানলের ঘটনায় অভিযুক্ত গ্রেফতার</title>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">e701291dce8f36f904da36553509aa3c</guid>
     </item>
     <item>
-      <title>প্রেম, প্রতারণা আর প্রতিবাদের গল্পে ‘মন খারাপের দিনে’</title>
-      <link>https://bonikbarta.com/talkies/EJinosMYseqAzUd9/</link>
-      <description><![CDATA[ছোটপর্দার জনপ্রিয় দুই মুখ আরশ খান ও সামিরা খান মাহি।]]></description>
-      <pubDate>Wed, 08 Oct 2025 20:53:51 GMT</pubDate>
-      <guid isPermaLink="false">1c12355346fc92eee9acf8b45cef54c2</guid>
+      <title>‘ভালোবাসার মরশুম’-এ থাকছেন না তিশা</title>
+      <link>https://bonikbarta.com/talkies/zjetGJ95ks5DkXOw/</link>
+      <description><![CDATA[অভিনেত্রী তানজিন তিশার কলকাতার সিনেমায় অভিষেকের খবরটা কয়েক মাস আগেই বেশ আলোচনায় ছিল।]]></description>
+      <pubDate>Wed, 08 Oct 2025 20:50:15 GMT</pubDate>
+      <guid isPermaLink="false">a8edf66809572f39c58d106e71186540</guid>
     </item>
     <item>
       <title>‘বাস্তবতা থেকে গল্প তৈরি হয় তবে গল্পকে পূর্ণতা দেয় কল্পনা’</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[জনপ্রিয় হিউম্যানয়েড রোবট ‘পেপার’-এর পর আরো বিস্তৃত ও উচ্চাভিলাষী পরিকল্পনা বাস্তবায়নের পথে এগোচ্ছে জাপানের রোবোটিকস খাতের প্রতিষ্ঠান সফটব্যাংক গ্রুপ।]]></description>
       <pubDate>Wed, 08 Oct 2025 20:19:18 GMT</pubDate>
       <guid isPermaLink="false">b57d266653ae8a38ba18eea1301b35ba</guid>
-    </item>
-    <item>
-      <title>প্রতিযোগিতা নয়, সহযোগিতার ভিত্তিতে ব্যবসা সম্প্রসারণ করছে সিলিকন ভ্যালি জায়ান্টরা</title>
-      <link>https://bonikbarta.com/scitech/zbI5m1jtYxlMLmEQ/</link>
-      <description><![CDATA[ওপেনএআইকে কয়েক বছরের জন্য এআই চিপ সরবরাহ করতে নতুন এক চুক্তিতে পৌঁছেছে এএমডি।]]></description>
-      <pubDate>Wed, 08 Oct 2025 20:19:18 GMT</pubDate>
-      <guid isPermaLink="false">0a0f03bed815664da0e0eb24ff9bf739</guid>
     </item>
   </channel>
 </rss>
