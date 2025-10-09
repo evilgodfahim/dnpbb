@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 09 Oct 2025 09:43:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 10:26:52 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ব্যাংক ঋণের সুদহার এক অংকে নামিয়ে আনার দাবি</title>
+      <link>https://bonikbarta.com/bangladesh/I4lkmmFXyPVbq0cW/</link>
+      <description><![CDATA[বাংলাদেশ ব্যাংকের গভর্নর ড. আহসান এইচ মনসুরের সঙ্গে এফবিসিসিআই, বিজিএমইএ, বিকেএমইএ, বিটিএমএসহ বিভিন্ন সংগঠনের ১৪ সদস্যের একটি প্রতিনিধিদল সাক্ষাৎ করে এ দাবি জানান। বৈঠকে বাংলাদেশ ব্যাংকের ডেপুটি গভর্নর, সংশ্লিষ্ট বিভাগের নির্বাহী পরিচালকসহ অন্য কর্মকর্তারা ছিলেন।]]></description>
+      <pubDate>Thu, 09 Oct 2025 10:22:06 GMT</pubDate>
+      <guid isPermaLink="false">8f936137b7b7b89ec6688049fb5186fc</guid>
+    </item>
     <item>
       <title>আলোকচিত্রী শহিদুল আলম ইসরায়েলের কেৎজিয়েত কারাগারে: দৃক</title>
       <link>https://bonikbarta.com/bangladesh/cIgHewDwtv1CGLCM/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">c3042fc0aad2b7c3c9e83616eed27352</guid>
     </item>
     <item>
-      <title>মাগুরা ও বাগেরহাটে সড়ক দুর্ঘটনায় নিহত ৩</title>
-      <link>https://bonikbarta.com/bangladesh/qJq5kmuC8HF9RBZT/</link>
-      <description><![CDATA[মাগুরায় মোটরসাইকেল ও শ্যালো ইঞ্জিনচালিত গাড়ির সংঘর্ষে দুজন নিহত হয়েছেন।]]></description>
+      <title>ডিজিটাল প্লাটফর্মে ভুল তথ্য ও প্রতারণার ঝুঁকিতে বিনিয়োগকারীরা</title>
+      <link>https://bonikbarta.com/economy/KWdqcvDeYkyHNlm2/</link>
+      <description><![CDATA[উন্নত প্রযুক্তি ও ডিজিটাল লেনদেন দেশের পুঁজিবাজারে বিনিয়োগকে সহজ করেছে।]]></description>
       <pubDate>Wed, 08 Oct 2025 21:19:00 GMT</pubDate>
-      <guid isPermaLink="false">7ec02bb4477e8be4f9605b64b7fa23da</guid>
+      <guid isPermaLink="false">ed994293349634b67db604d41724cf99</guid>
     </item>
     <item>
       <title>বাংলাদেশে ৫ খাতে বিনিয়োগে আগ্রহী সৌদি ব্যবসায়ীরা</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[লিড ব্যাংক হিসেবে ঢাকা ব্যাংকের উদ্যোগে সিলেটে মানি লন্ডারিং ও সন্ত্রাসে অর্থায়ন প্রতিরোধ-বিষয়ক (এএমএল অ্যান্ড সিএফটি) দিনব্যাপী এক কর্মশালা অনুষ্ঠিত হয়েছে।]]></description>
       <pubDate>Wed, 08 Oct 2025 20:25:25 GMT</pubDate>
       <guid isPermaLink="false">eedf3eb98661e90f10afe4f2ea03abe0</guid>
-    </item>
-    <item>
-      <title>বারভিডার সঙ্গে নলেজ শেয়ারিং ও রিকগনিশন ইভেন্ট করল ট্রাস্ট ব্যাংক</title>
-      <link>https://bonikbarta.com/economy/fcntKDiD2UJnNXbX/</link>
-      <description><![CDATA[বাংলাদেশ রিকন্ডিশন্ড ভেহিকলস ইমপোর্টার্স অ্যান্ড ডিলারস অ্যাসোসিয়েশনের (বারবিডা) সঙ্গে যৌথভাবে নলেজ শেয়ারিং ও রিকগনিশন ইভেন্টের আয়োজন করে ট্রাস্ট ব্যাংক পিএলসি।]]></description>
-      <pubDate>Wed, 08 Oct 2025 20:22:41 GMT</pubDate>
-      <guid isPermaLink="false">851e7ca56e2534e32899651298402b43</guid>
     </item>
   </channel>
 </rss>
