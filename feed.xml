@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 10 Oct 2025 03:48:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 04:28:07 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>শহিদুল আলমকে তুরস্কের সহায়তায় মুক্ত করার চেষ্টা চলছে</title>
+      <link>https://bonikbarta.com/bangladesh/JrvzeA7lxSfIYpNL/</link>
+      <description><![CDATA[ইসরায়েলের জলসীমা থেকে গ্লোবাল সুমুদ ফ্লোটিলা নৌযান আটকের ঘটনায় বিশ্বের বিভিন্ন দেশে বিক্ষোভ শুরু হয়েছে।]]></description>
+      <pubDate>Fri, 10 Oct 2025 04:01:04 GMT</pubDate>
+      <guid isPermaLink="false">511ef05e44c3e611e7fbb693e797ba0f</guid>
+    </item>
     <item>
       <title>ফিলিপাইনে ৭ দশমিক ৬ মাত্রার শক্তিশালী ভূমিকম্প, সুনামি সতর্কতা জারি</title>
       <link>https://bonikbarta.com/international/bNFCTRQMDf9Ui58a/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">29f386427ca7fdfee357ea9edbef4f37</guid>
     </item>
     <item>
-      <title>৬০০ গ্রেড রিবারের ব্যয়-সাশ্রয়ী ব্যবহার ও কাস্টমাইজড সমাধান-বিষয়ক সেমিনার</title>
-      <link>https://bonikbarta.com/economy/4peuaDOCURqKeXDl/</link>
-      <description><![CDATA[বাংলাদেশ সেতু কর্তৃপক্ষের (বিবিএ) কারিগরি অনুবিভাগের উদ্যোগে ‘৬০০ গ্রেড রিবারের ব্যয়-সাশ্রয়ী ব্যবহার ও কাস্টমাইজড সমাধান’ শীর্ষক একটি সেমিনার অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Thu, 09 Oct 2025 20:36:12 GMT</pubDate>
-      <guid isPermaLink="false">ecf955b82de1ce70e26209b2b512d9cc</guid>
+      <title>উপায় ও বিএফআইইউর যৌথ উদ্যোগে এএমএল ও সিএফটি-বিষয়ক কর্মশালা</title>
+      <link>https://bonikbarta.com/economy/gR0Eu9OCoFFzSy2e/</link>
+      <description><![CDATA[ইউনাইটেড কমার্শিয়াল ব্যাংক পিএলসির (ইউসিবি) সহযোগী প্রতিষ্ঠান ইউসিবি ফিনটেক কোম্পানি লিমিটেডের ডিজিটাল আর্থিক পরিষেবা ‘উপায়’-এর উদ্যোগে এএমএল ও সিএফটি-বিষয়ক কর্মশালা অনুষ্ঠিত হয়েছে।]]></description>
+      <pubDate>Thu, 09 Oct 2025 20:35:02 GMT</pubDate>
+      <guid isPermaLink="false">78174c3716b15036786174798be5a11f</guid>
     </item>
     <item>
       <title>প্রাইম ব্যাংক ও এশিয়ানেটের মধ্যে চুক্তি স্বাক্ষর</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[সৌদি আরবের রিয়াদের পশ্চিমে মরু উদ্যানসদৃশ উপত্যকা ওয়াদি সাফারের অবস্থান।]]></description>
       <pubDate>Thu, 09 Oct 2025 20:08:50 GMT</pubDate>
       <guid isPermaLink="false">08f1bbd58d81ae7c5dc4af922eb6142f</guid>
-    </item>
-    <item>
-      <title>ইভির চাহিদা কমলেও নির্মাতারা আশাবাদী</title>
-      <link>https://bonikbarta.com/economy/XKOqMlTPNwQSd4I0/</link>
-      <description><![CDATA[ট্রাম্প প্রশাসন গত মাসে ফেডারেল কর রেয়াত সুবিধা বাতিল করায় যুক্তরাষ্ট্রের বাজারে ইভির চাহিদা হঠাৎই কমে গেছে।]]></description>
-      <pubDate>Thu, 09 Oct 2025 20:08:50 GMT</pubDate>
-      <guid isPermaLink="false">ec0445a30b9154d35d4bc91d70aac09e</guid>
     </item>
   </channel>
 </rss>
