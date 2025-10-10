@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 10 Oct 2025 05:23:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 05:42:00 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>হামাস-ইসরায়েলের চুক্তি অনুমোদন করেছে নেতানিয়াহু সরকার</title>
+      <link>https://bonikbarta.com/international/bZgzqbhBs7VjVsyp/</link>
+      <description><![CDATA[চুক্তিতে অগ্রগতির ঘোষণার পর ইসরায়েল ও ফিলিস্তিনজুড়ে আনন্দের বন্যা বয়ে যায়। দুই বছরের রক্তক্ষয়ী সংঘর্ষে ৬৭ হাজারেরও বেশি ফিলিস্তিনি নিহত হয়েছেন, আর এখন এই চুক্তির মাধ্যমে অবশিষ্ট জিম্মিদের মুক্তি সম্ভব হবে বলে আশা করা হচ্ছে।]]></description>
+      <pubDate>Fri, 10 Oct 2025 05:24:51 GMT</pubDate>
+      <guid isPermaLink="false">685349034ee4ea3b8ac6bfad533e6e2f</guid>
+    </item>
     <item>
       <title>আগারগাঁওয়ের ভাইরাল ‘কেক পট্টি’ বন্ধের নির্দেশ</title>
       <link>https://bonikbarta.com/bangladesh/yr6EJuqeCzqGnqNA/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">9315408a6599fa896cd74dd9f73d7daf</guid>
     </item>
     <item>
-      <title>ডিজিটাল সলিউশন আরো সহজলভ্য করতে যৌথভাবে কাজ করবে গ্রামীণফোন ও সুমাস টেক</title>
-      <link>https://bonikbarta.com/economy/jSx4ayVWI2Ifc9Kd/</link>
-      <description><![CDATA[সুমাস টেক লিমিটেডের সঙ্গে একটি কৌশলগত অংশীদারত্ব স্থাপন করেছে গ্রামীণফোন।]]></description>
-      <pubDate>Thu, 09 Oct 2025 20:38:41 GMT</pubDate>
-      <guid isPermaLink="false">696d20b371b4df628cc5867b3fc61e3c</guid>
+      <title>সুবিধাবঞ্চিত শিশুদের শিক্ষা সম্প্রসারণে অনুদান দিল মধুমতি ব্যাংক</title>
+      <link>https://bonikbarta.com/economy/Uh5MeOOZGKyiVe9p/</link>
+      <description><![CDATA[মধুমতি ব্যাংক পিএলসি সিএসআর কর্মসূচির আওতায় সামাজিক উন্নয়ন ও সুবিধাবঞ্চিত শিশুদের শিক্ষা সম্প্রসারণে ‘আমাদের পাঠশালা’ নামক একটি প্রতিষ্ঠানকে ৩ লাখ টাকা অনুদান হিসেবে দিয়েছে।]]></description>
+      <pubDate>Thu, 09 Oct 2025 20:37:35 GMT</pubDate>
+      <guid isPermaLink="false">29f386427ca7fdfee357ea9edbef4f37</guid>
     </item>
     <item>
       <title>৬০০ গ্রেড রিবারের ব্যয়-সাশ্রয়ী ব্যবহার ও কাস্টমাইজড সমাধান-বিষয়ক সেমিনার</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[বীমা খাতে তালিকাভুক্ত জনতা ইন্স্যুরেন্স পিএলসির ক্যাটাগরি বিদ্যমান ‘‌এ’ থেকে ‘‌জেড’-এ অবনমিত হয়েছে।]]></description>
       <pubDate>Thu, 09 Oct 2025 20:08:50 GMT</pubDate>
       <guid isPermaLink="false">b1c87b032d6280a2182b805f83c93a94</guid>
-    </item>
-    <item>
-      <title>মেয়াদোত্তীর্ণ ভিসা ও মাস্টারকার্ড চালু থাকবে রাশিয়ায়</title>
-      <link>https://bonikbarta.com/economy/OQ98OEoHyInknebW/</link>
-      <description><![CDATA[মেয়াদোত্তীর্ণ ভিসা ও মাস্টারকার্ড রাশিয়ায় নিরবচ্ছিন্নভাবে কার্যকর থাকবে।]]></description>
-      <pubDate>Thu, 09 Oct 2025 20:08:50 GMT</pubDate>
-      <guid isPermaLink="false">08dac4f1323c36b7d9f590c260e15d0a</guid>
     </item>
   </channel>
 </rss>
