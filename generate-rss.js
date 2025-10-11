@@ -11,9 +11,7 @@ const apiURLs = [
 ];
 
 const baseURL = "https://bonikbarta.com";
-
-// Change these two if you host the feed elsewhere (e.g., GitHub Pages)
-const siteURL = "https://bonikbarta.com"; 
+const siteURL = "https://bonikbarta.com";
 const feedURL = "https://bonikbarta.com/feed.xml";
 
 async function fetchAll() {
@@ -30,8 +28,23 @@ async function fetchAll() {
       console.error("Failed to load from", url, err);
     }
   }
+
+  // Sort by latest publish date
   allItems.sort((a, b) => new Date(b.first_published_at) - new Date(a.first_published_at));
-  return allItems;
+
+  // ✅ Remove duplicates by link (url_path)
+  const seenLinks = new Set();
+  const uniqueItems = [];
+  for (const item of allItems) {
+    const fullLink = (item.url_path || "").replace(/^\/home/, "");
+    const normalizedLink = baseURL + fullLink;
+    if (!seenLinks.has(normalizedLink)) {
+      seenLinks.add(normalizedLink);
+      uniqueItems.push(item);
+    }
+  }
+
+  return uniqueItems;
 }
 
 function generateGUID(item) {
@@ -85,7 +98,7 @@ async function main() {
     const items = await fetchAll();
     const rssContent = generateRSS(items.slice(0, 50));
     fs.writeFileSync('feed.xml', rssContent, { encoding: 'utf8' });
-    console.log('✅ RSS feed generated successfully with ' + items.length + ' articles.');
+    console.log('✅ RSS feed generated successfully with ' + items.length + ' unique links.');
   } catch (error) {
     console.error('❌ Error generating RSS:', error);
   }
