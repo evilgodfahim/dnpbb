@@ -9,7 +9,12 @@ const apiURLs = [
   "https://bonikbarta.com/api/post-lists/33?root_path=00000000010000000001",
   "https://bonikbarta.com/api/post-lists/34?root_path=00000000010000000001"
 ];
+
 const baseURL = "https://bonikbarta.com";
+
+// Change these two if you host the feed elsewhere (e.g., GitHub Pages)
+const siteURL = "https://bonikbarta.com"; 
+const feedURL = "https://bonikbarta.com/feed.xml";
 
 async function fetchAll() {
   let allItems = [];
@@ -25,12 +30,12 @@ async function fetchAll() {
       console.error("Failed to load from", url, err);
     }
   }
-  allItems.sort((a,b)=> new Date(b.first_published_at) - new Date(a.first_published_at));
+  allItems.sort((a, b) => new Date(b.first_published_at) - new Date(a.first_published_at));
   return allItems;
 }
 
 function generateGUID(item) {
-  const str = (item.title||'')+(item.excerpt||'')+(item.first_published_at||'');
+  const str = (item.title || '') + (item.excerpt || '') + (item.first_published_at || '');
   return crypto.createHash('md5').update(str).digest('hex');
 }
 
@@ -41,28 +46,34 @@ function generateRSS(items) {
     '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n' +
     '  <channel>\n' +
     '    <title>Bonikbarta Combined Feed</title>\n' +
-    '    <link>https://harmonious-froyo-665879.netlify.app/</link>\n' +
-    '    <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>\n' +
+    `    <link>${siteURL}</link>\n` +
+    `    <atom:link href="${feedURL}" rel="self" type="application/rss+xml"/>\n` +
     '    <description>Latest articles from Bonikbarta</description>\n' +
     '    <language>bn</language>\n' +
-    '    <lastBuildDate>' + nowUTC + '</lastBuildDate>\n' +
+    `    <lastBuildDate>${nowUTC}</lastBuildDate>\n` +
     '    <generator>GitHub Actions RSS Generator</generator>\n';
 
   items.forEach(item => {
-    const fullLink = (item.url_path || "/").replace(/^\/home/,"");
+    const fullLink = (item.url_path || "/").replace(/^\/home/, "");
     const articleUrl = baseURL + fullLink;
-    const pubDate = item.first_published_at ? new Date(item.first_published_at).toUTCString() : nowUTC;
-    const title = (item.title || "No title").replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    const pubDate = item.first_published_at
+      ? new Date(item.first_published_at).toUTCString()
+      : nowUTC;
+    const title = (item.title || "No title")
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;');
     const description = item.excerpt || item.summary || "No description available";
     const guid = generateGUID(item);
 
-    rss += '    <item>\n' +
-           '      <title>' + title + '</title>\n' +
-           '      <link>' + articleUrl + '</link>\n' +
-           '      <description><![CDATA[' + description + ']]></description>\n' +
-           '      <pubDate>' + pubDate + '</pubDate>\n' +
-           '      <guid isPermaLink="false">' + guid + '</guid>\n' +
-           '    </item>\n';
+    rss +=
+      '    <item>\n' +
+      `      <title>${title}</title>\n` +
+      `      <link>${articleUrl}</link>\n` +
+      `      <description><![CDATA[${description}]]></description>\n` +
+      `      <pubDate>${pubDate}</pubDate>\n` +
+      `      <guid isPermaLink="false">${guid}</guid>\n` +
+      '    </item>\n';
   });
 
   rss += '  </channel>\n</rss>';
@@ -72,11 +83,11 @@ function generateRSS(items) {
 async function main() {
   try {
     const items = await fetchAll();
-    const rssContent = generateRSS(items.slice(0,50));
+    const rssContent = generateRSS(items.slice(0, 50));
     fs.writeFileSync('feed.xml', rssContent, { encoding: 'utf8' });
-    console.log('RSS feed generated with ' + items.length + ' articles');
+    console.log('✅ RSS feed generated successfully with ' + items.length + ' articles.');
   } catch (error) {
-    console.error('Error generating RSS:', error);
+    console.error('❌ Error generating RSS:', error);
   }
 }
 
