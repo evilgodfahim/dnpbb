@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 11 Oct 2025 09:38:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 10:22:13 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>প্রিজাইডিং অফিসারই হবেন তার কেন্দ্রের ‘চিফ ইলেকশন অফিসার’: সিইসি</title>
+      <link>https://bonikbarta.com/bangladesh/dfWZHxX5jI4iw5Qw/</link>
+      <description><![CDATA[নির্বাচনী কর্মকর্তাদের উদ্দেশ্যে সিইসি বলেন, প্রয়োজনে ভোটকেন্দ্র স্থগিত করুন, আইন প্রয়োগ করুন। তবে নিরপেক্ষতা বজায় রেখে সাহসের সঙ্গে দায়িত্ব পালন করবেন।]]></description>
+      <pubDate>Sat, 11 Oct 2025 10:08:00 GMT</pubDate>
+      <guid isPermaLink="false">11f21e7d894c87628f1d393f4a386340</guid>
+    </item>
     <item>
       <title>নোবেল শান্তি পুরস্কারের দেশ নরওয়ে যেভাবে গাজা যুদ্ধ থেকে মুনাফা লুটছে</title>
       <link>https://bonikbarta.com/international/BJZfvZTkHTlVv30r/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">2b30b288d79d0f3bf2953c7d52afca9f</guid>
     </item>
     <item>
-      <title>ব্যাংক একীভূতকরণ উদ্যোগকে ‘টেস্ট কেস’ হিসেবে দেখা যেতে পারে</title>
-      <link>https://bonikbarta.com/editorial/cfNFy00Y7FRQyU29/</link>
-      <description><![CDATA[বিগত সরকারের আমলে ব্যাংক খাতের বড় চ্যালেঞ্জ ছিল সুশাসনের অভাব। সেই পরিস্থিতি থেকে ব্যাংক খাতের আশু পুনরুদ্ধার খুব জরুরি ছিল।]]></description>
-      <pubDate>Fri, 10 Oct 2025 22:00:00 GMT</pubDate>
-      <guid isPermaLink="false">2d65e288b3d76787dc6b0ad23fbf80e7</guid>
+      <title>রাষ্ট্রায়ত্ত ৬ চিনিকল বন্ধ রেখেই শুরু হচ্ছে আখ মাড়াই মৌসুম</title>
+      <link>https://bonikbarta.com/economy/Uasmdv4f1ccsFJ7F/</link>
+      <description><![CDATA[রাষ্ট্রায়ত্ত ১৫টি চিনিকলের মধ্যে ছয়টিতে প্রায় পাঁচ বছর ধরে উৎপাদন বন্ধ রয়েছে।]]></description>
+      <pubDate>Fri, 10 Oct 2025 21:48:00 GMT</pubDate>
+      <guid isPermaLink="false">b648a9a64eff81152f231577ac180c9c</guid>
     </item>
     <item>
       <title>সবচেয়ে বেশি শিল্পপ্রতিষ্ঠান ও এনজিওদের, একেবারেই কম গণমাধ্যমের</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[ব্যাংকবহির্ভূত আর্থিক প্রতিষ্ঠান (এনবিএফআই) পিপলস লিজিং অ্যান্ড ফাইন্যান্সিয়াল সার্ভিসেস লিমিটেডের শেয়ারদর গত সপ্তাহে ১৫ দশমিক ৩৮ শতাংশ কমেছে।]]></description>
       <pubDate>Fri, 10 Oct 2025 20:49:08 GMT</pubDate>
       <guid isPermaLink="false">d612f0cad046182a5ccbd87daf083cea</guid>
-    </item>
-    <item>
-      <title>কারণ ছাড়াই বাড়ছে ন্যাশনাল ফিডের শেয়ারদর</title>
-      <link>https://bonikbarta.com/economy/yhFvwtCI3cHZzoCn/</link>
-      <description><![CDATA[সম্প্রতি ন্যাশনাল ফিড মিল লিমিটেডের শেয়ারদর ও লেনদেন অস্বাভাবিক হারে বাড়ছে।]]></description>
-      <pubDate>Fri, 10 Oct 2025 20:49:08 GMT</pubDate>
-      <guid isPermaLink="false">29e95d256e86a3647c49d488ec34a569</guid>
     </item>
   </channel>
 </rss>
