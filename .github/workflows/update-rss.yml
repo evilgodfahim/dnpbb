@@ -20,10 +20,6 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Install dependencies
-        run: |
-          npm install
-
       - name: Generate RSS Feed
         run: node generate-rss.js
 
