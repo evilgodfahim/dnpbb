@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 11 Oct 2025 01:46:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 02:57:01 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>চার দিন পরই ফ্রান্সের প্রধানমন্ত্রী পদে ফিরলেন লেকর্নু</title>
+      <link>https://bonikbarta.com/international/o9gvU91xo06MgxNQ/</link>
+      <description><![CDATA[‘কর্তব্যের খাতিরে’ ফের এ ভূমিকা গ্রহণ করেছেন লেকর্নু। তিনি দ্রুত নতুন মন্ত্রিসভা গঠন করে আগামী সপ্তাহের বাজেটের ওপর মনোনিবেশ করবেন। সেখানে সরকারের আর্থিক অবস্থার উন্নতি সাধনই হবে তার প্রধান অগ্রাধিকার।]]></description>
+      <pubDate>Sat, 11 Oct 2025 02:42:08 GMT</pubDate>
+      <guid isPermaLink="false">11f075b5fcc209c30432db27cc789c31</guid>
+    </item>
     <item>
       <title>প্রায় আড়াই শতাংশ পয়েন্ট হারিয়েছে সূচক</title>
       <link>https://bonikbarta.com/economy/TENwSy1vWwn9bXYJ/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">d7bde3292fafa6663be85a470b88a655</guid>
     </item>
     <item>
-      <title>স্থানীয় ইভির মধ্যে সর্বোচ্চ রেঞ্জের গাড়ি আনল টয়োটা</title>
-      <link>https://bonikbarta.com/economy/ZkQBQ1OW44BxPVuQ/</link>
-      <description><![CDATA[নকশায় আংশিক পরিমার্জন এনে জাপানে বিদ্যুচ্চালিত গাড়ি (ইভি) বিজেড৪এক্সের নতুন সংস্করণ উন্মোচন করেছে টয়োটা মোটর।]]></description>
+      <title>পূর্বাভাস ছাড়িয়েছে পেপসিকোর মুনাফা</title>
+      <link>https://bonikbarta.com/economy/1Nsez7P9mjHuOUOT/</link>
+      <description><![CDATA[আন্তর্জাতিক বাজারে বিক্রি বাড়ায় চলতি বছরের তৃতীয় প্রান্তিকে (জুলাই-সেপ্টেম্বর) বিশ্লেষকদের পূর্বাভাস ছাড়িছে গেছে পেপসিকোর আয় ও মুনাফা।]]></description>
       <pubDate>Fri, 10 Oct 2025 20:49:07 GMT</pubDate>
-      <guid isPermaLink="false">e62350a8a1414c26ac899959cd956257</guid>
+      <guid isPermaLink="false">c226b420bde5107b0f5cfd3194693871</guid>
     </item>
     <item>
       <title>মার্কিন জাহাজে অতিরিক্ত বন্দর ফি আরোপ চীনের</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[মেঘনা ব্যাংক পিএলসিতে উপব্যবস্থাপনা পরিচালক (ডিএমডি) হিসেবে সম্প্রতি যোগ দিয়েছেন মোমতাজুল করিম এন আহমেদ।]]></description>
       <pubDate>Fri, 10 Oct 2025 20:48:59 GMT</pubDate>
       <guid isPermaLink="false">72fdd430170eb88af33b1eb3976d6f8e</guid>
-    </item>
-    <item>
-      <title>নওয়াপাড়া নৌবন্দর দিয়ে পণ্য আমদানি বেড়ে দ্বিগুণ</title>
-      <link>https://bonikbarta.com/economy/JITjW4WLkbyqkvnM/</link>
-      <description><![CDATA[যশোরের অভয়নগর উপজেলার নওয়াপাড়া নৌবন্দর দিয়ে বিগত ২০২৪-২৫ অর্থবছরে ১৫ লাখ ১১ হাজার ৮৪৩ টন পণ্য আমদানি করা হয়েছে।]]></description>
-      <pubDate>Fri, 10 Oct 2025 20:48:59 GMT</pubDate>
-      <guid isPermaLink="false">a3ec425f6b76b729eb80d38079afd427</guid>
     </item>
   </channel>
 </rss>
