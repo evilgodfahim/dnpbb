@@ -2,7 +2,11 @@
 const fs = require('fs');
 
 const apiURLs = [
-  "https://bonikbarta.com/api/post-filters/73?root_path=00000000010000000001"
+  "https://bonikbarta.com/api/post-filters/73?root_path=00000000010000000001",
+  "https://bonikbarta.com/api/post-lists/35?root_path=00000000010000000001",
+  "https://bonikbarta.com/api/post-lists/36?root_path=00000000010000000001",
+  "https://bonikbarta.com/api/post-lists/33?root_path=00000000010000000001",
+  "https://bonikbarta.com/api/post-lists/34?root_path=00000000010000000001"
 ];
 const baseURL = "https://bonikbarta.com";
 
