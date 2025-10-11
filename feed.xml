@@ -6,8 +6,15 @@
     <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 11 Oct 2025 04:26:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 04:42:21 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>‘বাংলাদেশে এলপিজি: অর্থনীতি, পরিবেশ ও নিরাপত্তা’ শীর্ষক পলিসি কনক্লেভ শুরু</title>
+      <link>https://bonikbarta.com/bangladesh/0LVyguOKUh47nlUj/</link>
+      <description><![CDATA[কনক্লেভে এলপিজি খাতের ভবিষ্যৎ নীতিমালা প্রণয়ন, নিরাপত্তা মানদণ্ড, বাজার কাঠামো, পরিবেশগত টেকসইতা ও বিনিয়োগ সম্ভাবনা নিয়ে আলোচনা হওয়ার কথা রয়েছে।]]></description>
+      <pubDate>Sat, 11 Oct 2025 04:27:18 GMT</pubDate>
+      <guid isPermaLink="false">d5eb6a59d7439e5f35965b3230f8a164</guid>
+    </item>
     <item>
       <title>গোলের বন্যা আটকালেও আর্জেন্টিনার জয় থামাতে পারল না ভেনেজুয়েলা</title>
       <link>https://bonikbarta.com/sports/aPRpHKlngLhMntOA/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">29e95d256e86a3647c49d488ec34a569</guid>
     </item>
     <item>
-      <title>সিভিও পেট্রোকেমিক্যালের ১০৮ কোটি টাকার শেয়ার লেনদেন</title>
-      <link>https://bonikbarta.com/economy/7FiHwq2ObfuQv1Gp/</link>
-      <description><![CDATA[সিভিও পেট্রোকেমিক্যাল রিফাইনারি পিএলসির গত সপ্তাহের পাঁচ কার্যদিবসে মোট ১০৭ কোটি ৫৩ লাখ টাকার শেয়ার লেনদেন হয়েছে।]]></description>
-      <pubDate>Fri, 10 Oct 2025 20:49:08 GMT</pubDate>
-      <guid isPermaLink="false">236aaa5c6e5d18f68d7335e748b52bb8</guid>
+      <title>২০ শতাংশ নগদ লভ্যাংশ দেবে এপেক্স স্পিনিং</title>
+      <link>https://bonikbarta.com/economy/k6SDiMn4iwHsIxLt/</link>
+      <description><![CDATA[বস্ত্র খাতের কোম্পানি এপেক্স স্পিনিং অ্যান্ড নিটিং মিলস লিমিটেড সর্বশেষ সমাপ্ত ২০২৪-২৫ হিসাব বছরে বিনিয়োগকারীদের জন্য ২০ শতাংশ নগদ লভ্যাংশ ঘোষণা করেছে।]]></description>
+      <pubDate>Fri, 10 Oct 2025 20:49:07 GMT</pubDate>
+      <guid isPermaLink="false">5ac14ea3551379ab7132972e561a2d6f</guid>
     </item>
     <item>
       <title>দুই কোম্পানির পর্ষদ সভা আজ</title>
@@ -350,13 +357,6 @@
       <description><![CDATA[ইসলামী ব্যাংক ট্রেনিং অ্যান্ড রিসার্চ একাডেমির (আইবিটিআরএ) উদ্যোগে ‘ইফেক্টিভ অডিটিং: টুলস অ্যান্ড টেকনিকস’ শীর্ষক দিনব্যাপী এক কর্মশালা অনুষ্ঠিত হয়েছে।]]></description>
       <pubDate>Fri, 10 Oct 2025 20:48:59 GMT</pubDate>
       <guid isPermaLink="false">a0133646a05414a86ec694deb411b1d9</guid>
-    </item>
-    <item>
-      <title>খুলনায় আইএফআইসি ব্যাংকের ব্যবসায়িক সভা অনুষ্ঠিত</title>
-      <link>https://bonikbarta.com/economy/0opgnVuFa7oRaDAr/</link>
-      <description><![CDATA[আইএফআইসি ব্যাংক পিএলসির উদ্যোগে খুলনায় ‘ম্যানেজার্স মিট’ শীর্ষক ব্যবসায়িক সভা অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Fri, 10 Oct 2025 20:48:59 GMT</pubDate>
-      <guid isPermaLink="false">95d2de8aaa69a894465d8f941a770a7a</guid>
     </item>
   </channel>
 </rss>
