@@ -2,7 +2,7 @@ name: Update RSS Feed and HTML
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # every 30 minutes
+    - cron: '0 * * * *' # every 30 minutes
   workflow_dispatch:
 
 jobs:
