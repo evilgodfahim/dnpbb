@@ -1,8 +1,467 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel>
-<title>Bonikbarta Combined Feed</title>
-<link>https://bonikbarta.com</link>
-<description>Combined</description>
-<language>bn</language>
-<lastBuildDate>Wed, 12 Nov 2025 08:17:02 GMT</lastBuildDate>
-</channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bonikbarta Print Edition Feed</title>
+    <link>https://harmonious-froyo-665879.netlify.app/</link>
+    <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Latest articles from Bonikbarta Print Edition</description>
+    <language>bn</language>
+    <lastBuildDate>Wed, 12 Nov 2025 08:39:40 GMT</lastBuildDate>
+    <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>রেলের সেবায় উন্নতি নেই, কমছে না লোকসান</title>
+      <link>https://bonikbarta.com/bangladesh/2j7oSSCqmkQABTl2/</link>
+      <description><![CDATA[বাংলাদেশ রেলওয়ে পরিচালনায় বর্তমানে বছরে ৪ হাজার কোটি টাকার বেশি খরচ হচ্ছে সরকারের। পরিচালন ব্যয়ের একটি বড় অংশ যায় পরিষ্কার-পরিচ্ছন্নতা, অনবোর্ড পরিষেবা, ইঞ্জিন-কোচ মেরামত ও রক্ষণাবেক্ষণ এবং যন্ত্রাংশ সংগ্রহের পেছনে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 22:24:00 GMT</pubDate>
+      <guid isPermaLink="false">4af9762df928dad8b0f1286c4280c16e</guid>
+    </item>
+    <item>
+      <title>এনভয় টেক্সটাইলসের নিট মুনাফা বেড়েছে প্রায় ৫০%</title>
+      <link>https://bonikbarta.com/economy/69SNxxReSCB5Frws/</link>
+      <description><![CDATA[বস্ত্র খাতে তালিকাভুক্ত এনভয় টেক্সটাইলস লিমিটেড চলতি ২০২৫-২৫ হিসাব বছরের প্রথম প্রান্তিকে (জুলাই-সেপ্টেম্বর) নিট মুনাফা বেড়েছে ৪৯ দশমকি ৬৬ শতাংশ।]]></description>
+      <pubDate>Tue, 11 Nov 2025 22:22:00 GMT</pubDate>
+      <guid isPermaLink="false">ba4ab9a5c086269ce52a0c3c40f80f41</guid>
+    </item>
+    <item>
+      <title>বিএনসিসিকে শক্তিশালী করার আহ্বান প্রধান উপদেষ্টার</title>
+      <link>https://bonikbarta.com/bangladesh/huMNRWSFJlaPJgiy/</link>
+      <description><![CDATA[প্রধান উপদেষ্টা ড. মুহাম্মদ ইউনূস দেশের তরুণ প্রজন্মকে নেতৃত্ব, শৃঙ্খলা ও জাতীয় উন্নয়নে সম্পৃক্ত করার দীর্ঘমেয়াদি পরিকল্পনার অংশ হিসেবে বাংলাদেশ ন্যাশনাল ক্যাডেট কোরের (বিএনসিসি) কার্যক্রমের গুণগত মান ও অন্তর্ভুক্তি বাড়ানোর আহ্বান জানিয়েছেন।]]></description>
+      <pubDate>Tue, 11 Nov 2025 22:22:00 GMT</pubDate>
+      <guid isPermaLink="false">745810a68b9aeb8f2793e50e37c6d010</guid>
+    </item>
+    <item>
+      <title>জিনবিদ্যায় অগ্রপথিক ছিলেন জেমস ওয়াটসন</title>
+      <link>https://bonikbarta.com/editorial/q8OlrMIixek8jNa9/</link>
+      <description><![CDATA[আধুনিক জীববিজ্ঞানের এক কিংবদন্তি ব্যক্তিত্ব ড. জেমস ডিউই ওয়াটসন। ১৯৫৩ সালে ফ্রান্সিস ক্রিকের সঙ্গে যৌথভাবে ডিএনএ অণুর ডাবল হেলিক্স কাঠামো আবিষ্কার করে তিনি বিজ্ঞানের ইতিহাসে এক নতুন দিগন্ত উন্মোচন করেন।]]></description>
+      <pubDate>Tue, 11 Nov 2025 22:00:00 GMT</pubDate>
+      <guid isPermaLink="false">de1acd27991069d34e93bac80992692a</guid>
+    </item>
+    <item>
+      <title>এশিয়া প্যাসিফিকে সর্বনিম্ন লেনদেনের স্টক এক্সচেঞ্জ সিএসই</title>
+      <link>https://bonikbarta.com/bangladesh/HOXvvTy804PrXz8R/</link>
+      <description><![CDATA[দেশের বাণিজ্যিক রাজধানী চট্টগ্রামের পুঁজিবাজার হিসেবে অর্থনীতিতে গুরুত্বপূর্ণ অবদান রাখার সুযোগ ও সম্ভাবনা ছিল চট্টগ্রাম স্টক এক্সচেঞ্জের (সিএসই)। অথচ দেশের পুঁজিবাজারে ক্রমেই অবস্থান হারাচ্ছে সিএসই।]]></description>
+      <pubDate>Tue, 11 Nov 2025 22:00:00 GMT</pubDate>
+      <guid isPermaLink="false">db469ac26f05b1d798ff79b0fea9566e</guid>
+    </item>
+    <item>
+      <title>পঞ্চগড়ে গ্রাম আদালত সক্রিয়করণে প্রশিক্ষণ</title>
+      <link>https://bonikbarta.com/bangladesh/GxYqeaLUYo5BC1wy/</link>
+      <description><![CDATA[পঞ্চগড়ে গ্রাম আদালত সক্রিয়করণে প্রশিক্ষণ কর্মশালা অনুষ্ঠিত হয়েছে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 21:12:29 GMT</pubDate>
+      <guid isPermaLink="false">f12f6346a706db317f26fdc6433d63e6</guid>
+    </item>
+    <item>
+      <title>অস্ত্র তৈরির সরঞ্জাম জব্দ</title>
+      <link>https://bonikbarta.com/bangladesh/fpRUVDzCm9b869V6/</link>
+      <description><![CDATA[মুন্সিগঞ্জ সদর উপজেলার পূর্ব শীলমন্দি এলাকায় দেশীয় অস্ত্র তৈরির কারখানার সন্ধান পেয়েছে সেনাবাহিনী ও পুলিশ।]]></description>
+      <pubDate>Tue, 11 Nov 2025 21:11:17 GMT</pubDate>
+      <guid isPermaLink="false">2b4d6a413564248098bfec17bbfd4872</guid>
+    </item>
+    <item>
+      <title>বিক্ষোভ মিছিল</title>
+      <link>https://bonikbarta.com/bangladesh/kfFCZwWxR0XrHdIp/</link>
+      <description><![CDATA[চুয়াডাঙ্গার দর্শনা কেরু অ্যান্ড কোম্পানি শ্রমিক ও কর্মচারী ইউনিয়নের নির্বাচন দাবিতে বিক্ষোভ মিছিল করেছেন শ্রমিক-কর্মচারীরা।]]></description>
+      <pubDate>Tue, 11 Nov 2025 21:10:13 GMT</pubDate>
+      <guid isPermaLink="false">408945e7a45d4359db042c7cfb7535fa</guid>
+    </item>
+    <item>
+      <title>কলমবিরতি</title>
+      <link>https://bonikbarta.com/bangladesh/FL4kmXGbdjxQuO5i/</link>
+      <description><![CDATA[শেরপুরের নকলায় কৃষি কর্মকর্তাকে মারধরের ঘটনায় জড়িতদের গ্রেফতারের দাবিতে কলমবিরতি পালন করছেন কৃষি কর্মকর্তারা।]]></description>
+      <pubDate>Tue, 11 Nov 2025 21:09:19 GMT</pubDate>
+      <guid isPermaLink="false">fd283ec856cb5f8803e73105a15be393</guid>
+    </item>
+    <item>
+      <title>সার-বীজ বিতরণ</title>
+      <link>https://bonikbarta.com/bangladesh/7wKYTiIwOe8mM4kW/</link>
+      <description><![CDATA[রাজবাড়ীতে ৩০০ কৃষকের মাঝে শীতকালীন পেঁয়াজবীজ ও সার বিতরণ করা হয়েছে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 21:08:25 GMT</pubDate>
+      <guid isPermaLink="false">34deec443b0d557f8990d106ba1d5e19</guid>
+    </item>
+    <item>
+      <title>যাবজ্জীবন</title>
+      <link>https://bonikbarta.com/bangladesh/48byv3tNHAdC26Gy/</link>
+      <description><![CDATA[ব্রাহ্মণবাড়িয়ার আশুগঞ্জে ব্যবসায়ী মো. সালাম খান হত্যা মামলায় এক আসামির যাবজ্জীবন কারাদণ্ড দিয়েছেন আদালত।]]></description>
+      <pubDate>Tue, 11 Nov 2025 21:07:23 GMT</pubDate>
+      <guid isPermaLink="false">ea028f9e5d6fe2357cdca021b8a044b0</guid>
+    </item>
+    <item>
+      <title>ময়মনসিংহে দাঁড়িয়ে থাকা বাসে অগ্নিসংযোগ, ঘুমন্ত চালকের মৃত্যু</title>
+      <link>https://bonikbarta.com/bangladesh/GYKatyr3yJRLUVin/</link>
+      <description><![CDATA[ময়মনসিংহের ফুলবাড়িয়ায় আলম এশিয়া পরিবহনের একটি বাসে অগ্নিসংযোগের ঘটনা ঘটেছে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 21:06:24 GMT</pubDate>
+      <guid isPermaLink="false">005f9dc04d7f49e2055900b5053e8667</guid>
+    </item>
+    <item>
+      <title>গাইবান্ধায় ফাঁকা পড়ে আছে গুচ্ছগ্রামের বেশির ভাগ ঘর</title>
+      <link>https://bonikbarta.com/bangladesh/vdHACvjuDj7AuKDn/</link>
+      <description><![CDATA[ভূমি ও গৃহহীনদের জন্য গাইবান্ধায় করতোয়া নদীর তীরে ১১০টি ঘর নির্মাণ করে সরকার।]]></description>
+      <pubDate>Tue, 11 Nov 2025 21:04:18 GMT</pubDate>
+      <guid isPermaLink="false">da5e9df1cb0061cb88545e86ca6c1942</guid>
+    </item>
+    <item>
+      <title>ফেনীতে সুপেয় পানির সংকট নিরসনে স্থাপন করা শোধনাগার চালু হয়নি দুই বছরেও</title>
+      <link>https://bonikbarta.com/bangladesh/M3G6nF7zv2ji4hLa/</link>
+      <description><![CDATA[জলবায়ু পরিবর্তন, কৃষিকাজে ভূগর্ভস্থ পানির অধিক ব্যবহারের কারণে পানির স্তর নিচে নেমে যাচ্ছে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 21:01:55 GMT</pubDate>
+      <guid isPermaLink="false">3bc0b295c160edadc7622b48d6899efb</guid>
+    </item>
+    <item>
+      <title>মালদ্বীপে কেবলস বাজারজাতের অনুমতি পেল ওয়ালটন</title>
+      <link>https://bonikbarta.com/economy/RkiEn6BIizoYZIV6/</link>
+      <description><![CDATA[মালদ্বীপে কেবলস বাজারজাতের অনুমতি পেয়েছে বাংলাদেশের সুপারব্র্যান্ড ও টেক জায়ান্ট ওয়ালটন।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:58:30 GMT</pubDate>
+      <guid isPermaLink="false">cd19a004db92965e67d341df86cdc666</guid>
+    </item>
+    <item>
+      <title>এমএফএসের অপব্যবহার রোধে সাতক্ষীরায় কর্মশালা করেছে বিকাশ</title>
+      <link>https://bonikbarta.com/economy/V4jYXBCJntkULRyv/</link>
+      <description><![CDATA[বিকাশের উদ্যোগে সম্প্রতি সাতক্ষীরায় ‘মোবাইল ফাইন্যান্সিয়াল সার্ভিসের (এমএফএস) অপব্যবহার রোধ’ শীর্ষক একটি কর্মশালা অনুষ্ঠিত হয়েছে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:57:07 GMT</pubDate>
+      <guid isPermaLink="false">4a2db647d11b2e96a37db48ea37bee8a</guid>
+    </item>
+    <item>
+      <title>শাহ্জালাল ইসলামী ব্যাংক ও বেস্ট ওয়েস্টার্ন প্লাস বে হিলসের মধ্যে এমওইউ স্বাক্ষর</title>
+      <link>https://bonikbarta.com/economy/xhnV1YJiJS9PRjum/</link>
+      <description><![CDATA[শাহ্জালাল ইসলামী ব্যাংক পিএলসি ও বেস্ট ওয়েস্টার্ন প্লাস বে হিলস হোটেলের মধ্যে একটি সমঝোতা স্মারক (এমওইউ) স্বাক্ষর হয়েছে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:55:06 GMT</pubDate>
+      <guid isPermaLink="false">693e387397520ff0de2703426a8d4153</guid>
+    </item>
+    <item>
+      <title>ইসলামী ব্যাংক ও ইসলামী বিশ্ববিদ্যালয়ের মধ্যে অনলাইন পেমেন্ট সেবা চুক্তি</title>
+      <link>https://bonikbarta.com/economy/pW00ql4MxlxTYp6V/</link>
+      <description><![CDATA[ইসলামী ব্যাংক বাংলাদেশ ও ইসলামী বিশ্ববিদ্যালয়, কুষ্টিয়ার মধ্যে একটি সমঝোতা স্মারক (এমওইউ) স্বাক্ষর হয়েছে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:53:20 GMT</pubDate>
+      <guid isPermaLink="false">e0c91fd56f92784ffa3998f3ed8035fb</guid>
+    </item>
+    <item>
+      <title>এনসিসি ব্যাংক ও যুব উন্নয়ন অধিদপ্তরের মধ্যে এমওইউ স্বাক্ষর</title>
+      <link>https://bonikbarta.com/economy/ueMoMXmPtebFFs6B/</link>
+      <description><![CDATA[এনসিসি ব্যাংক ও যুব উন্নয়ন অধিদপ্তরের মধ্যে একটি সমঝোতা স্মারক (এমওইউ) স্বাক্ষর হয়েছে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:51:26 GMT</pubDate>
+      <guid isPermaLink="false">f3f78ac5ecc38b4d049ab111e94a42a8</guid>
+    </item>
+    <item>
+      <title>সাউথইস্ট ব্যাংকের উদ্যোগে চট্টগ্রামে স্কুল ব্যাংকিং সচেতনতা-বিষয়ক কর্মসূচি</title>
+      <link>https://bonikbarta.com/economy/nnfXVmva7nh3e7GE/</link>
+      <description><![CDATA[সাউথইস্ট ব্যাংক পিএলসির উদ্যোগে সম্প্রতি চট্টগ্রামে স্কুল ব্যাংকিং সচেতনতা ও সম্পৃক্ততা-বিষয়ক কর্মসূচি অনুষ্ঠিত হয়েছে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:50:05 GMT</pubDate>
+      <guid isPermaLink="false">f1600218aba266c480a2e72aab6a16c0</guid>
+    </item>
+    <item>
+      <title>ডেলটা লাইফ ইন্স্যুরেন্সের ৪০তম প্রতিষ্ঠাবার্ষিকী উদযাপন</title>
+      <link>https://bonikbarta.com/economy/tVrXMwiT1iLQKfqK/</link>
+      <description><![CDATA[দেশজুড়ে নানা অনুষ্ঠানমালার মধ্য দিয়ে ৪০তম প্রতিষ্ঠাবার্ষিকী উদযাপন করছে ডেলটা লাইফ ইন্স্যুরেন্স কোম্পানি লিমিটেড।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:48:54 GMT</pubDate>
+      <guid isPermaLink="false">bc253e86ba5ac4e9a5b821a040906e86</guid>
+    </item>
+    <item>
+      <title>প্রাইম ব্যাংকের ক্যাশ ম্যানেজমেন্ট সেবা নেবে এসএমসি এন্টারপ্রাইজ</title>
+      <link>https://bonikbarta.com/economy/QB872KIaVr6kdVS5/</link>
+      <description><![CDATA[প্রাইম ব্যাংক পিএলসির কাছ থেকে ক্যাশ ম্যানেজমেন্ট সেবা গ্রহণ করবে এসএমসি এন্টারপ্রাইজ লিমিটেড।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:47:34 GMT</pubDate>
+      <guid isPermaLink="false">66d956c21828a1e7c4e18179c8cbda68</guid>
+    </item>
+    <item>
+      <title>এমটিবির শাখা ব্যবস্থাপক ও বামেলকো সম্মেলন অনুষ্ঠিত</title>
+      <link>https://bonikbarta.com/economy/QQCjnYKvfEMBbsHv/</link>
+      <description><![CDATA[মিউচুয়াল ট্রাস্ট ব্যাংক পিএলসির (এমটিবি) ‘শাখা ব্যবস্থাপক (বিএম) এবং শাখা মানি লন্ডারিং প্রতিরোধ পরিপালন কর্মকর্তা (বামেলকো) সম্মেলন’ সম্প্রতি অনুষ্ঠিত হয়েছে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:46:02 GMT</pubDate>
+      <guid isPermaLink="false">8c4c86f9a21c59b56393c70c61b20122</guid>
+    </item>
+    <item>
+      <title>পূবালী ব্যাংকের সহযোগিতায় রংপুরে ক্যাশলেস বাংলাদেশ উদ্যোগ-বিষয়ক সেমিনার</title>
+      <link>https://bonikbarta.com/economy/MVGlbFx27Qm3Si2H/</link>
+      <description><![CDATA[বাংলাদেশ ব্যাংকের উদ্যোগে ও লিড ব্যাংক হিসেবে পূবালী ব্যাংক পিএলসির সহযোগিতায় রংপুরে ‘ক্যাশলেস বাংলাদেশ উদ্যোগ’ কার্যক্রম সম্প্রসারণ-বিষয়ক একটি সেমিনার অনুষ্ঠিত হয়েছে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:44:28 GMT</pubDate>
+      <guid isPermaLink="false">06759e9ae8ca619ec1273ad86ddc016a</guid>
+    </item>
+    <item>
+      <title>তৃতীয় প্রান্তিকে প্রায় ৩৮৫ কোটি টাকার বীমা দাবি নিষ্পত্তি</title>
+      <link>https://bonikbarta.com/economy/hi5H6ji32gGpTRO6/</link>
+      <description><![CDATA[চলতি বছরের তৃতীয় প্রান্তিক (জানুয়ারি-সেপ্টেম্বর) শেষে সর্বমোট ৩৮৪ কোটি ৭৬ লাখ টাকার বীমা দাবি নিষ্পত্তি করেছে গার্ডিয়ান লাইফ ইন্স্যুরেন্স লিমিটেড।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:42:55 GMT</pubDate>
+      <guid isPermaLink="false">b64267f62bdf43bfdef6c0bb0c9fb5a7</guid>
+    </item>
+    <item>
+      <title>সোলার পাওয়ার প্রজেক্ট অব দ্য ইয়ার সম্মাননা পেল ইডকল</title>
+      <link>https://bonikbarta.com/economy/MMjqMyqlNBKkz1HN/</link>
+      <description><![CDATA[এশিয়ান পাওয়ার অ্যাওয়ার্ড ২০২৫-এ ‘সোলার পাওয়ার প্রজেক্ট অব দ্য ইয়ার-বাংলাদেশ’ শীর্ষক সম্মাননা পেয়েছে ইনফ্রাস্ট্রাকচার ডেভেলপমেন্ট কোম্পানি লিমিটেড (ইডকল)।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:39:16 GMT</pubDate>
+      <guid isPermaLink="false">0540e88e88cec40aaa76e3f732886562</guid>
+    </item>
+    <item>
+      <title>পোশাক শিল্পের প্রতিযোগিতা সক্ষমতা বৃদ্ধির ওপর গুরুত্বারোপ</title>
+      <link>https://bonikbarta.com/economy/lX1fnXl2gQbhug6q/</link>
+      <description><![CDATA[বাংলাদেশ তৈরি পোশাক প্রস্তুত ও রফতানিকারক সমিতির (বিজিএমইএ) সভাপতি মাহমুদ হাসানের সঙ্গে সাক্ষাৎ করেছে জার্মানিভিত্তিক আন্তর্জাতিক টেস্টিং ও সার্টিফিকেশন প্রতিষ্ঠান হোহেনস্টাইন গ্রুপের একটি প্রতিনিধি দল।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:36:25 GMT</pubDate>
+      <guid isPermaLink="false">f15fb35e2dbac1d9aaa3a6b8cca08e38</guid>
+    </item>
+    <item>
+      <title>প্রক্রিয়াজাত খাদ্যপণ্য রফতানি আয়ের ৬০ শতাংশ আসে পাঁচ দেশ থেকে</title>
+      <link>https://bonikbarta.com/economy/ZxD1qAUnXub4ioNR/</link>
+      <description><![CDATA[দেশে বর্তমানে প্রক্রিয়াজাত খাদ্যপণ্যের বাজার ৪ দশমিক ৮ বিলিয়ন ডলারের।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:32:49 GMT</pubDate>
+      <guid isPermaLink="false">a8dc2f4671a0a4edb3fbfb4d3c48f2b2</guid>
+    </item>
+    <item>
+      <title>মালয়েশিয়ায় পাম অয়েলের মজুদ বেড়েছে</title>
+      <link>https://bonikbarta.com/economy/22KLMdJ4m64yEjCC/</link>
+      <description><![CDATA[মালয়েশিয়ায় অক্টোবরের শেষে পাম অয়েলের মজুদ আগের মাসের তুলনায় ৪ দশমিক ৪৪ শতাংশ বেড়েছে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:25:57 GMT</pubDate>
+      <guid isPermaLink="false">603eb2c5fdd3f6f14b71c13b64d193cb</guid>
+    </item>
+    <item>
+      <title>সরবরাহ বাড়ার সম্ভাবনায় বিশ্ববাজারে কমেছে জ্বালানি তেলের দাম</title>
+      <link>https://bonikbarta.com/economy/IBWdjeFZCdhqmiQ0/</link>
+      <description><![CDATA[রাশিয়ার জ্বালানি তেল কোম্পানি রোসনেফট ও লুকঅয়েলের ওপর যুক্তরাষ্ট্রের নিষেধাজ্ঞার কারণে জ্বালানি তেলের বাজারে সরবরাহ নিয়ে উদ্বেগ তৈরি হয়েছিল।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:23:38 GMT</pubDate>
+      <guid isPermaLink="false">83d67ed9e921e9b6403b396c0e5a1385</guid>
+    </item>
+    <item>
+      <title>নতুন পরিচয়ে সৃজিত মুখার্জি</title>
+      <link>https://bonikbarta.com/talkies/nTc8zG5D2CfjTGW9/</link>
+      <description><![CDATA[ওপার বাংলার জনপ্রিয় পরিচালক সৃজিত মুখার্জি এবার আসছেন নতুন ভূমিকায়।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:42 GMT</pubDate>
+      <guid isPermaLink="false">ac0a50c389c367ebd81c53d282724ee3</guid>
+    </item>
+    <item>
+      <title>ধর্মেন্দ্র সুস্থ আছেন</title>
+      <link>https://bonikbarta.com/talkies/HEQlZPOBJh6Df5nK/</link>
+      <description><![CDATA[গত সোমবার দিনভর আলোচনায় ছিল ধর্মেন্দ্রর স্বাস্থ্যগত অবস্থা। তিনি ভেন্টিলেটরে আছেন এমন খবরও প্রকাশ হয়েছিল।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:42 GMT</pubDate>
+      <guid isPermaLink="false">009ac946f4c944ad7cfbac083d12294d</guid>
+    </item>
+    <item>
+      <title>নাটককে গুরুত্ব দিচ্ছেন নাজনীন নীহা</title>
+      <link>https://bonikbarta.com/talkies/ywFqcdGDqI2LjSU7/</link>
+      <description><![CDATA[অভিনেত্রী ও মডেল নাজনীন নীহা। অল্প সময়ে নিজেকে প্রমাণ করতে পেরেছেন তিনি।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:42 GMT</pubDate>
+      <guid isPermaLink="false">e3380a5e1d67ab18b579c756e3600636</guid>
+    </item>
+    <item>
+      <title>স্কয়ার ফার্মার পর্ষদ সভা আজ</title>
+      <link>https://bonikbarta.com/economy/2ZDQvBJaix3ctLrZ/</link>
+      <description><![CDATA[পুঁজিবাজারে তালিকাভুক্ত স্কয়ার ফার্মাসিউটিক্যালস পিএলসির পর্ষদ সভা আজ বেলা ৩টায় অনুষ্ঠিত হবে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:42 GMT</pubDate>
+      <guid isPermaLink="false">5f423c5f254ba4d7718812173ed53b11</guid>
+    </item>
+    <item>
+      <title>ঋণকে শেয়ারে রূপান্তরে ইজিএম করবে ড্যাফোডিল কম্পিউটারস</title>
+      <link>https://bonikbarta.com/economy/n2FLicsJ8y5GkcLm/</link>
+      <description><![CDATA[তালিকাভুক্ত ড্যাফোডিল কম্পিউটারস পিএলসির পর্ষদ ড্যাফোডিল গ্রুপ কনসার্নের থেকে নেয়া ৪৯ কোটি ৩ লাখ ৫০ হাজার টাকার ঋণকে ইকুইটি শেয়ারে রূপান্তরের অনুমোদন দিয়েছে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:42 GMT</pubDate>
+      <guid isPermaLink="false">f2384ce3daf25d534a8c5c12bc8255df</guid>
+    </item>
+    <item>
+      <title>এমজেএল বাংলাদেশের আয় কমেছে ২১ শতাংশ</title>
+      <link>https://bonikbarta.com/economy/TO6GbsA2HJmxKpXo/</link>
+      <description><![CDATA[জ্বালানি খাতে তালিকাভুক্ত এমজেএল বাংলাদেশ পিএলসির চলতি ২০২৫-২৬ হিসাব বছরের প্রথম প্রান্তিকে (জুলাই-সেপ্টেম্বর) আয় কমেছে ২০ দশমিক ৫৪ শতাংশ।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:42 GMT</pubDate>
+      <guid isPermaLink="false">784f15ed30760d9f126a7f953d507ee8</guid>
+    </item>
+    <item>
+      <title>চায়না ইন্টারন্যাশনাল ইমপোর্ট এক্সপোয় ৮,৩৪৯ কোটি ডলারের চুক্তি</title>
+      <link>https://bonikbarta.com/economy/EiDS1vE8IvBZYwtm/</link>
+      <description><![CDATA[চায়না ইন্টারন্যাশনাল ইমপোর্ট এক্সপোর (সিআইআইই) অষ্টম আসর শেষ হয়েছে গত সোমবার।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:42 GMT</pubDate>
+      <guid isPermaLink="false">4974e6708e4e4997bc87d74215c2739b</guid>
+    </item>
+    <item>
+      <title>প্রায় আড়াই কোটি ডলারে সাবেক ইতালীয় দূতাবাস কিনলেন জ্যাক মার স্ত্রী</title>
+      <link>https://bonikbarta.com/economy/7Fzb75UZd36QHHu9/</link>
+      <description><![CDATA[আলিবাবার প্রতিষ্ঠাতা বিলিয়নেয়ার জ্যাক মার পারিবারিক সম্পত্তির আন্তর্জাতিক পোর্টফোলিও আরো সমৃদ্ধ হলো।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:42 GMT</pubDate>
+      <guid isPermaLink="false">26ef2fb5fad83be31db4a8d762204441</guid>
+    </item>
+    <item>
+      <title>ইউরোপের ব্যবসা খাতে মার্কিন শুল্কের প্রভাব বৃদ্ধির আশঙ্কা</title>
+      <link>https://bonikbarta.com/economy/Lg3zocPkkR3gTBdx/</link>
+      <description><![CDATA[আগাম প্রস্তুতির কারণে চলতি বছর মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ঘোষিত শুল্কনীতির প্রভাব সামলে নিতে পেরেছে ইউরোপের ব্যবসা খাত।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:42 GMT</pubDate>
+      <guid isPermaLink="false">c52d2078ca664d21e5ab9c231b45e402</guid>
+    </item>
+    <item>
+      <title>শুল্কনীতিবিরোধী রায়ে মার্কিন অর্থনীতিতে বিপর্যয় নামতে পারে</title>
+      <link>https://bonikbarta.com/economy/lGq5sqzR8lTColsK/</link>
+      <description><![CDATA[সুপ্রিম কোর্ট যদি শুল্কনীতির বিরুদ্ধে রায় দেন, তবে মার্কিন অর্থনৈতিক ও জাতীয় নিরাপত্তা বিপর্যয়ের মুখে পড়বে বলে মন্তব্য করেছেন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:42 GMT</pubDate>
+      <guid isPermaLink="false">baf87423f9943cfaf6a3d6709e0dd0f4</guid>
+    </item>
+    <item>
+      <title>৩৫ কোটি ডলারে চীনে ব্যবসার হিস্যা বিক্রি করছে বার্গার কিং</title>
+      <link>https://bonikbarta.com/economy/UIaMvJSfElFyJmvO/</link>
+      <description><![CDATA[ফাস্টফুড চেইন বার্গার কিংয়ের চীনা ব্যবসার বেশির ভাগ মালিকানা বিক্রি করছে যুক্তরাষ্ট্রভিত্তিক প্যারেন্ট কোম্পানি রেস্টুরেন্ট ব্র্যান্ডস ইন্টারন্যাশনাল (আরবিআই)।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:42 GMT</pubDate>
+      <guid isPermaLink="false">fc00e84f00ba2d92f3bd38c28989d2e6</guid>
+    </item>
+    <item>
+      <title>চীনকে ছাড়িয়ে আফ্রিকার খনিজ সম্পদে শীর্ষ বিনিয়োগকারী যুক্তরাষ্ট্র</title>
+      <link>https://bonikbarta.com/economy/CNqkV1Uf4KcrvarI/</link>
+      <description><![CDATA[দীর্ঘদিন ধরেই বৈশ্বিক খনিজ ও ধাতব বাজারে আধিপত্য ধরে রেখেছে চীন।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:41 GMT</pubDate>
+      <guid isPermaLink="false">a1cdc109405f7cc2dad95495d230038b</guid>
+    </item>
+    <item>
+      <title>এশিয়ার শেয়ারবাজারে বেশির ভাগ সূচকে পতন</title>
+      <link>https://bonikbarta.com/economy/fr9ag6KLWu7wYZwl/</link>
+      <description><![CDATA[মার্কিন সরকারের শাটডাউন অবসানের সম্ভাবনা ও ওয়াল স্ট্রিটে শক্তিশালী পুনরুদ্ধার সত্ত্বেও এশিয়ার বাজারে গতকাল বেশির ভাগ সূচক ছিল নিম্নমুখী।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:41 GMT</pubDate>
+      <guid isPermaLink="false">64cc54441d7f5c60ff12fee5421fd34f</guid>
+    </item>
+    <item>
+      <title>ডেঙ্গুতে একদিনে তিনজনের মৃত্যু</title>
+      <link>https://bonikbarta.com/bangladesh/a4rm83vlxcRole05/</link>
+      <description><![CDATA[দেশে একদিনে ডেঙ্গু আক্রান্ত হয়ে আরো তিনজনের মৃত্যু হয়েছে। এ সময়ে হাসপাতালে ভর্তি হয়েছে ৯১২ জন। গতকাল স্বাস্থ্য অধিদপ্তরের হেলথ ইমার্জেন্সি অপারেশন সেন্টার ও কন্ট্রোল রুম থেকে পাঠানো সংবাদ বিজ্ঞপ্তিতে এসব তথ্য জানানো হয়।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:41 GMT</pubDate>
+      <guid isPermaLink="false">f6861d8044cd279a89a0fa6f26dc1aa5</guid>
+    </item>
+    <item>
+      <title>হারানো সময়কে ফিরে দেখা</title>
+      <link>https://bonikbarta.com/SbnBjrXN/265/NBQzyNaC8KvFf7a5/</link>
+      <description><![CDATA[ঢাকার লালমাটিয়ার কলা কেন্দ্রের গ্যালারিতে যেন সময় থেমে গেছে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:26 GMT</pubDate>
+      <guid isPermaLink="false">84ab8e316afe19135dc9cdc387ecb5d4</guid>
+    </item>
+    <item>
+      <title>ইরান ছেড়ে ক্রেতারা ঝুঁকছেন ভারতের দিকে</title>
+      <link>https://bonikbarta.com/SbnBjrXN/265/ax9YyWug7YXrXg6V/</link>
+      <description><![CDATA[ইসলামী শিল্পের ইতিহাসে এখন পর্যন্ত সর্বোচ্চ মূল্যে বিক্রি হয়েছে একটি গালিচা।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:26 GMT</pubDate>
+      <guid isPermaLink="false">f7c0a74a3a73e64dc6a607bd32b35a71</guid>
+    </item>
+    <item>
+      <title>ছাপচিত্র: লোকজ রীতি থেকে আধুনিক ধারায়</title>
+      <link>https://bonikbarta.com/SbnBjrXN/265/fJbcGMW4oNfUyeTY/</link>
+      <description><![CDATA[ছাপচিত্র হলো একটি চিত্র বা নকশা যা কোনো ব্লক, প্লেট বা স্ক্রিন ব্যবহার করে কাগজ কিংবা অন্য পৃষ্ঠায় ছাপানো হয়।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:26 GMT</pubDate>
+      <guid isPermaLink="false">de6da43b39a76b0c72516fc1a4840d0c</guid>
+    </item>
+    <item>
+      <title>দিল্লির পর ইসলামাবাদে বিস্ফোরণ, নিহত ১২</title>
+      <link>https://bonikbarta.com/international/X4v2d66nSLUxIG92/</link>
+      <description><![CDATA[পাকিস্তানের রাজধানী ইসলামাবাদের একটি আদালত ভবনের বাইরে আত্মঘাতী বিস্ফোরণে অন্তত ১২ জন নিহত ও দুই ডজনেরও বেশি মানুষ আহত হয়েছেন। এছাড়া দক্ষিণ ওয়াজিরিস্তানে একটি ক্যাডেট কলেজে হামলার ঘটনায় তিনজন নিহত হয়েছেন।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:26 GMT</pubDate>
+      <guid isPermaLink="false">05b9390a7d4c3b6849ddabbd551096a4</guid>
+    </item>
+    <item>
+      <title>দেশের সব বিমানবন্দরে বাড়তি সতর্কতার নির্দেশ</title>
+      <link>https://bonikbarta.com/bangladesh/yWoeKJFB4f3vfBuA/</link>
+      <description><![CDATA[দেশের সামগ্রিক নিরাপত্তা পরিস্থিতি বিবেচনায় হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরসহ দেশের সব বিমানবন্দরে নিরাপত্তা ও নজরদারি বাড়াতে চিঠি দিয়েছে নিয়ন্ত্রক সংস্থা বেসামরিক বিমান চলাচল কর্তৃপক্ষ (বেবিচক)।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:26 GMT</pubDate>
+      <guid isPermaLink="false">10c8e5c966c530561a31179051b54fa9</guid>
+    </item>
+    <item>
+      <title>জুলাই সনদের আইনি ভিত্তি ছাড়া নির্বাচন নয়</title>
+      <link>https://bonikbarta.com/bangladesh/tmKQ70pfxENtOmOB/</link>
+      <description><![CDATA[জুলাই সনদের আইনি ভিত্তি ছাড়া জাতীয় নির্বাচন অনুষ্ঠানের কোনো সম্ভাবনা নেই বলে মন্তব্য করেছেন বাংলাদেশ জামায়াতে ইসলামীর আমির শফিকুর রহমান। গতকাল রাজধানীর পল্টন মোড়ে জামায়াতসহ যুগপৎ আন্দোলনের শরিক আটটি রাজনৈতিক দলের সমাবেশে তিনি এ কথা বলেন।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:26 GMT</pubDate>
+      <guid isPermaLink="false">4366d2a4e6ca390db6c566ca3ddb9565</guid>
+    </item>
+    <item>
+      <title>জুলাই সনদের বাইরে গিয়ে সিদ্ধান্ত ঘোষণা করলে দায় সরকারের —বিএনপি</title>
+      <link>https://bonikbarta.com/bangladesh/clexd4eIZm7rOILB/</link>
+      <description><![CDATA[বাংলাদেশ জাতীয়তাবাদী দল বিএনপি বলেছে, জুলাই জাতীয় সনদের বাইরে গিয়ে সরকার কোনো সিদ্ধান্ত ঘোষণা করলে তার সব দায়দায়িত্ব সরকারের ওপরই বর্তাবে। সনদে স্বাক্ষরকারী কোনো রাজনৈতিক দলের পক্ষে তখন সেই সিদ্ধান্ত মান্য করার বাধ্যবাধকতা থাকবে না।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:26 GMT</pubDate>
+      <guid isPermaLink="false">f3f86c401e29266ece01f47290878876</guid>
+    </item>
+    <item>
+      <title>অনুমোদনের আট বছর পরও রূপান্তরিত হয়নি বিশেষায়িত শিশু হাসপাতালে</title>
+      <link>https://bonikbarta.com/bangladesh/tibN99wSxVYpxLWh/</link>
+      <description><![CDATA[সিলেটের শহীদ শামসুদ্দিন আহমদ হাসপাতালকে ১০০ শয্যাবিশিষ্ট বিশেষায়িত শিশু হাসপাতালে রূপান্তরে ২০১৭ সালের ১৪ সেপ্টেম্বর প্রশাসনিক অনুমোদন দেয়া হয়। কিন্তু এরপর আট বছর পার হয়ে গেলেও তা কার্যকর হয়নি।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:26 GMT</pubDate>
+      <guid isPermaLink="false">939d1ea591637584138b441d63732fb4</guid>
+    </item>
+    <item>
+      <title>মৌসুমের শুরুতেই আমদানির পরিকল্পনা, দাম না পাওয়ার শঙ্কায় চাষী</title>
+      <link>https://bonikbarta.com/bangladesh/Ap83MYT1jYR3J5Ob/</link>
+      <description><![CDATA[দেশে লবণের মোট চাহিদার সিংহভাগই পূরণ হয় দেশীয় উৎপাদন থেকে। কক্সবাজার ও চট্টগ্রামে প্রতি বছর কয়েক লাখ টন লবণ উৎপাদিত হয়, যা দেশের লবণের চাহিদা মেটাতে গুরুত্বপূর্ণ ভূমিকা রাখে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:26 GMT</pubDate>
+      <guid isPermaLink="false">d485d62f89f32d4a8e464c6b4c2b980f</guid>
+    </item>
+    <item>
+      <title>রাজনৈতিক দলগুলোর সঙ্গে ইসির নির্বাচনী সংলাপ শুরু কাল</title>
+      <link>https://bonikbarta.com/bangladesh/aM2gq3McCW6hwLgP/</link>
+      <description><![CDATA[আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনকে সামনে রেখে আগামীকাল থেকে নিবন্ধিত রাজনৈতিক দলগুলোর সঙ্গে সংলাপে বসবে নির্বাচন কমিশন (ইসি)। গতকাল বিকালে সাংবাদিকদের সঙ্গে আলাপকালে ইসির জ্যেষ্ঠ সচিব আখতার আহমেদ এসব কথা জানান।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:26 GMT</pubDate>
+      <guid isPermaLink="false">11d720973cef517b106406921ad6c13c</guid>
+    </item>
+    <item>
+      <title>সশস্ত্র বাহিনীর ম্যাজিস্ট্রেসি ক্ষমতা বাড়ল ছাব্বিশের ২৮ ফেব্রুয়ারি পর্যন্ত</title>
+      <link>https://bonikbarta.com/bangladesh/WU5b2j1EBeBxn3sr/</link>
+      <description><![CDATA[সেনা, নৌ ও বিমান বাহিনীর কর্মকর্তাদের ম্যাজিস্ট্রেসি ক্ষমতা ১২ নভেম্বর (আজ) থেকে ২০২৬ সালের ২৮ ফেব্রুয়ারি পর্যন্ত বাড়িয়েছে সরকার। গতকাল জনপ্রশাসন মন্ত্রণালয়ের এক প্রজ্ঞাপনে এ তথ্য জানানো হয়।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:26 GMT</pubDate>
+      <guid isPermaLink="false">b005de485393daae1fd50481add680a9</guid>
+    </item>
+    <item>
+      <title>তিন-চারদিনের মধ্যেই জুলাই সনদ বাস্তবায়নের বিষয়ে জানা যাবে —আসিফ নজরুল</title>
+      <link>https://bonikbarta.com/bangladesh/rrlv5UYq0TSwMNd1/</link>
+      <description><![CDATA[আগামী তিন-চারদিনের মধ্যেই জুলাই সনদ বাস্তবায়নের বিষয়ে পরিষ্কারভাবে জানা যাবে বলে জানিয়েছেন আইন, বিচার ও সংসদ বিষয়ক উপদেষ্টা ড. আসিফ নজরুল।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:26 GMT</pubDate>
+      <guid isPermaLink="false">77826e12c5fec01e931ba188a39140e9</guid>
+    </item>
+    <item>
+      <title>আইইউবির আন্তর্জাতিক সম্মেলন শুক্রবার শুরু</title>
+      <link>https://bonikbarta.com/bangladesh/L3x2hB3XgTf8ZdSF/</link>
+      <description><![CDATA[ইনডিপেনডেন্ট ইউনিভার্সিটি, বাংলাদেশের (আইইউবি) স্কুল অব বিজনেস অ্যান্ড অন্ট্রাপ্রেনিউরশিপের (এসবিই) আয়োজনে ১৪ ও ১৫ নভেম্বর হোটেল ওয়েস্টিনে বসছে ‘ইন্টারন্যাশনাল কনফারেন্স অন ইকোনমিকস, বিজনেস অ্যান্ড টেকনোলজি ম্যানেজমেন্ট (আইসিইবিটিএম ২০২৫)’ শীর্ষক আন্তর্জাতিক সম্মেলন।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:26 GMT</pubDate>
+      <guid isPermaLink="false">e39f995e8946e0d0b36e7f3fe55ce9e0</guid>
+    </item>
+    <item>
+      <title>রাস্তার পাশে পরিবহন জ্বালানি বিক্রি কয়েক দিন বন্ধ রাখা হবে</title>
+      <link>https://bonikbarta.com/bangladesh/Ea873Crh2fesPx0l/</link>
+      <description><![CDATA[স্বরাষ্ট্র উপদেষ্টা লেফটেন্যান্ট জেনারেল (অব.) মো. জাহাঙ্গীর আলম চৌধুরী বলেছেন, ‘রাস্তার পাশে পরিবহন জ্বালানি বিক্রি কয়েক দিনের জন্য বন্ধ রাখা হবে, কারণ দুর্বৃত্তরা অগ্নিসংযোগ বা অন্যান্য কাজে এসব তেল ব্যবহার করতে পারে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:26 GMT</pubDate>
+      <guid isPermaLink="false">221c8caea853e1df886d4c9c9494bac3</guid>
+    </item>
+    <item>
+      <title>খাদ্যনিরাপত্তা নিশ্চিতে কৃষিজমি আইনগতভাবে সংরক্ষণ জরুরি</title>
+      <link>https://bonikbarta.com/bangladesh/ispi4Elmovh1KAQM/</link>
+      <description><![CDATA[ভূমি উপদেষ্টা আলী ইমাম মজুমদার বলেছেন, ‘কৃষিজমি আমাদের অস্তিত্বের ভিত্তি। এ জমি হারালে খাদ্যনিরাপত্তা, পরিবেশের ভারসাম্য ও কৃষিভিত্তিক সংস্কৃতি হুমকির মুখে পড়বে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:25 GMT</pubDate>
+      <guid isPermaLink="false">f784ccd930a9a9ef7917a512f44edb51</guid>
+    </item>
+    <item>
+      <title>১৩ নভেম্বর নিরাপত্তা আরো বাড়বে —ডিএমপি কমিশনার</title>
+      <link>https://bonikbarta.com/bangladesh/Ubb6Wn1X7fBsWBJ7/</link>
+      <description><![CDATA[কার্যক্রম নিষিদ্ধ আওয়ামী লীগের ‘লকডাউন’ কর্মসূচি ঠেকাতে রাজধানীতে নিরাপত্তা জোরদার করা হয়েছে বলে জানিয়েছেন ঢাকা মহানগর পুলিশের (ডিএমপি) কমিশনার শেখ মো. সাজ্জাত আলী।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:25 GMT</pubDate>
+      <guid isPermaLink="false">09a736c7a4868853982fb6d711bbfca3</guid>
+    </item>
+    <item>
+      <title>৪৯তম বিসিএসে ৬৬৮ জনকে নিয়োগের সুপারিশ</title>
+      <link>https://bonikbarta.com/bangladesh/GZzwNN15HKz1lX8z/</link>
+      <description><![CDATA[৪৯তম বিসিএস (বিশেষ) পরীক্ষার চূড়ান্ত ফলাফল প্রকাশ করা করেছে বাংলাদেশ সরকারি কর্ম কমিশন (পিএসসি)। এতে শিক্ষা ক্যাডারের ৬৮৩ পদের বিপরীতে ৬৬৮ জনকে নিয়োগের সুপারিশ করা হয়েছে।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:25 GMT</pubDate>
+      <guid isPermaLink="false">15ad946b9f701f9f18e0a04a3f5c9d96</guid>
+    </item>
+    <item>
+      <title>আর্মি সার্ভিস কোরের ৪৪তম বার্ষিক অধিনায়ক সম্মেলন অনুষ্ঠিত</title>
+      <link>https://bonikbarta.com/bangladesh/x9TkQesVTYKSDhbe/</link>
+      <description><![CDATA[আর্মি সার্ভিস কোরের ‘৪৪তম বার্ষিক অধিনায়ক সম্মেলন ২০২৫’ গতকাল খুলনা জেলার জাহানাবাদ সেনানিবাসের এএসসি সেন্টার অ্যান্ড স্কুলে (এএসসিসিঅ্যান্ডএস) অনুষ্ঠিত হয়।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:25 GMT</pubDate>
+      <guid isPermaLink="false">1906be352c3842db89e952a0ff0b430c</guid>
+    </item>
+    <item>
+      <title>ফেব্রুয়ারিতেই বইমেলা চান লেখক-প্রকাশকরা</title>
+      <link>https://bonikbarta.com/bangladesh/ucDkt9N925xoU0z4/</link>
+      <description><![CDATA[ফেব্রুয়ারিতে অমর একুশে বইমেলা আয়োজন নিয়ে সরকারের বিভ্রান্তিকর অবস্থানে উদ্বেগ প্রকাশ করেছেন লেখক, প্রকাশক ও সংস্কৃতিকর্মীরা।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:22:25 GMT</pubDate>
+      <guid isPermaLink="false">f82bad609afb970002062466a752c437</guid>
+    </item>
+    <item>
+      <title>বাংলাদেশের জনশক্তির আন্তর্জাতিক কর্মসংস্থানের এটাই বড় সংকট</title>
+      <link>https://bonikbarta.com/editorial/uMO36GfZZTGAwFTx/</link>
+      <description><![CDATA[বাংলাদেশীদের একটি বড় অংশই উন্নত জীবনের আশায় জীবনের ঝুঁকি নিয়ে অবৈধভাবে স্থল ও সমুদ্রপথে ইউরোপের বিভিন্ন দেশে যাচ্ছে। অবৈধভাবে মানব পাচারকারীদের হাত ধরে বিদেশে পাড়ি দিতে গিয়ে কেউ কেউ জীবন ও হারাচ্ছেন।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">8b1a693af0597988fc521db79d96fd50</guid>
+    </item>
+    <item>
+      <title>রেমিট্যান্স বাড়লেও নেই কোনো উৎপাদনমুখী উদ্যোগ</title>
+      <link>https://bonikbarta.com/editorial/SIyRzlFy9nPQdmui/</link>
+      <description><![CDATA[প্রবাসীদের ঘাম ঝরানো কষ্টার্জিত রেমিট্যান্স প্রবাহ ধারাবাহিকভাবে বেড়েই চলেছে। দেশের অর্থনীতি যখন নানা চাপে বিপর্যস্ত, তখন রেমিট্যান্সের এ ঊর্ধ্বমুখী প্রবাহ নিয়ে এসেছে এক স্বস্তির বার্তা। আর এ কৃতিত্বের হিরো প্রবাসীরাই।]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">855ae5ba057eb5983e383944483e4153</guid>
+    </item>
+  </channel>
+</rss>
