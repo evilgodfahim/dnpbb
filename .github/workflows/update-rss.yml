@@ -2,7 +2,7 @@ name: Update RSS Feed and HTML
 
 on:
   schedule:
-    - cron: '0 * * * *' # every 30 minutes
+    - cron: '0 * * * *' # every hour
   workflow_dispatch:
 
 jobs:
@@ -12,28 +12,37 @@ jobs:
       contents: write
 
     steps:
+      # 1. Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 2. Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '18'
 
+      # 3. Generate RSS Feed
       - name: Generate RSS Feed
-        run: node generate-rss.js
+        run: node generate-rss.js || exit 1
 
+      # 4. Generate PolitePol HTML
       - name: Generate PolitePol HTML
-        run: node generate-plain-index.js
+        run: node generate-plain-index.js || exit 1
 
-      - name: Commit and push changes
+      # 5. Configure Git
+      - name: Configure Git
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+
+      # 6. Commit RSS and HTML if changed
+      - name: Add, commit, and push RSS & HTML
+        run: |
           git add feed.xml index-plain.html
-          if git diff --staged --quiet; then
+          bash -c 'if git diff --staged --quiet; then
             echo "✅ No changes to commit"
           else
-            git commit -m "🔄 Update RSS feed and HTML - $(date)"
+            git commit -m "🔄 Update RSS feed and HTML - $(date +%Y-%m-%d\ %H:%M:%S)"
             git push
-          fi
+          fi'
