@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Bonikbarta Combined Feed</title>
-    <link>https://bonikbarta.com</link>
-    <atom:link href="https://bonikbarta.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>Latest articles from Bonikbarta</description>
-    <language>bn</language>
-    <lastBuildDate>Wed, 12 Nov 2025 07:54:38 GMT</lastBuildDate>
-    <generator>Robust RSS Generator</generator>
-  </channel>
-</rss>
+<rss version="2.0"><channel>
+<title>Bonikbarta Combined Feed</title>
+<link>https://bonikbarta.com</link>
+<description>Combined</description>
+<language>bn</language>
+<lastBuildDate>Wed, 12 Nov 2025 08:08:45 GMT</lastBuildDate>
+</channel></rss>
