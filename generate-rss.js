@@ -1,306 +1,199 @@
-/**
- * robust-rss-generator.js
- *
- * - Fetches print-edition pages robustly (retries, timeouts, HTML detection, concurrency).
- * - Handles multiple JSON shapes and deep nesting to find article lists.
- * - Filters only published/live articles, dedupes, sorts by first_published_at.
- * - Generates feed.xml (RSS 2.0).
- *
- * Usage: node robust-rss-generator.js
- */
+// generate-rss-with-date-debug.js
+// Fetch print-edition endpoints with &date=YYYY-MM-DD; if empty, retry without date and with previous day.
+// Produces feed.xml and debug_report.json
 
 const fs = require('fs');
 const crypto = require('crypto');
-const { URL } = require('url');
-const fetch = global.fetch || require('node-fetch'); // Node 18 has fetch; fallback to node-fetch if needed
+const fetch = global.fetch || require('node-fetch');
 
-// CONFIG
 const baseURL = 'https://bonikbarta.com';
 const rootPath = '00000000010000000001';
 const pages = Array.from({ length: 18 }, (_, i) => i + 3); // 3..20
 const concurrency = 4;
-const timeoutMs = 12_000;
+const timeoutMs = 12000;
 const maxRetries = 3;
-const userAgent = 'Mozilla/5.0 (RSS Generator)';
+const UA = 'Mozilla/5.0 (RSS Generator)';
 
-// === utils ===
-function getBDDate() {
-  // returns YYYY-MM-DD for Asia/Dhaka timezone reliably
-  return new Date().toLocaleDateString('en-CA', { timeZone: 'Asia/Dhaka' });
+function md5(s){ return crypto.createHash('md5').update(String(s)).digest('hex'); }
+function xmlEscape(s=''){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
+function toRfc822(d){ try { return new Date(d).toUTCString(); } catch { return new Date().toUTCString(); } }
+
+// BD date YYYY-MM-DD
+function getBDDate(offsetDays = 0){
+  const opts = { timeZone: 'Asia/Dhaka', year: 'numeric', month: '2-digit', day: '2-digit' };
+  const parts = new Date().toLocaleDateString('en-CA', Object.assign({ timeZone: 'Asia/Dhaka' }));
+  // parts is already YYYY-MM-DD in en-CA; apply offset if needed
+  if (offsetDays === 0) return parts;
+  const dt = new Date(parts + 'T00:00:00');
+  dt.setDate(dt.getDate() + offsetDays);
+  return dt.toISOString().slice(0,10);
 }
 
-function safeJSONParse(text) {
-  try {
-    return JSON.parse(text);
-  } catch (e) {
-    // try quick fix: replace single newlines between object properties -> not reliable, return null
-    return null;
-  }
-}
-
-function isHtmlResponse(text, headers) {
-  if (!text) return false;
+function isHtml(text, headers){
+  if(!text) return false;
   const ct = headers && (headers.get ? headers.get('content-type') : headers['content-type']);
-  if (ct && /text\/html|application\/html/.test(ct)) return true;
+  if(ct && /html/.test(ct)) return true;
   const t = text.trim();
   return t.startsWith('<') || t.startsWith('<!DOCTYPE') || t.startsWith('<html');
 }
 
-function md5Hex(str) {
-  return crypto.createHash('md5').update(String(str)).digest('hex');
+function safeParse(text){
+  try { return JSON.parse(text); } catch { return null; }
 }
 
-function toRfc822(date) {
-  try {
-    return new Date(date).toUTCString();
-  } catch {
-    return new Date().toUTCString();
+function findArticles(json){
+  if(!json) return [];
+  if (Array.isArray(json.posts)) return json.posts;
+  if (Array.isArray(json.items)) return json.items;
+  if (json.content){
+    if (Array.isArray(json.content.items)) return json.content.items;
+    if (Array.isArray(json.content.posts)) return json.content.posts;
+    if (Array.isArray(json.content.sections)) return json.content.sections.flatMap(s => Array.isArray(s.items) ? s.items : []);
   }
-}
-
-function xmlEscape(str = '') {
-  return String(str)
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&#39;');
-}
-
-// deep-scan for arrays that look like articles
-function findArticleArrays(obj, depth = 0, maxDepth = 4) {
-  const results = [];
-  if (!obj || typeof obj !== 'object' || depth > maxDepth) return results;
-
-  if (Array.isArray(obj)) {
-    const arr = obj;
-    // heuristics: array of objects with id or title or url_path or first_published_at suggests articles
-    const matches = arr.every(it => it && typeof it === 'object' && ('id' in it || 'title' in it || 'url_path' in it || 'first_published_at' in it));
-    if (matches) return [arr];
-    // otherwise scan elements
-    for (const el of arr) {
-      results.push(...findArticleArrays(el, depth + 1, maxDepth));
+  // shallow search
+  const arrays = [];
+  (function walk(o, depth=0){
+    if(!o || typeof o !== 'object' || depth>4) return;
+    if (Array.isArray(o)){
+      if (o.length && o.every(it => it && typeof it === 'object' && ('id' in it || 'title' in it || 'url_path' in it || 'first_published_at' in it))){
+        arrays.push(o);
+        return;
+      }
+      for(const e of o) walk(e, depth+1);
+      return;
     }
-    return results;
-  }
-
-  for (const k of Object.keys(obj)) {
-    const val = obj[k];
-    if (Array.isArray(val)) {
-      const arr = val;
-      const matches = arr.every(it => it && typeof it === 'object' && ('id' in it || 'title' in it || 'url_path' in it || 'first_published_at' in it));
-      if (matches) results.push(arr);
-      else results.push(...findArticleArrays(val, depth + 1, maxDepth));
-    } else if (val && typeof val === 'object') {
-      results.push(...findArticleArrays(val, depth + 1, maxDepth));
-    }
-  }
-  return results;
+    for(const k of Object.keys(o)) walk(o[k], depth+1);
+  })(json);
+  if(arrays.length) arrays.sort((a,b)=>b.length-a.length);
+  return arrays[0] || [];
 }
 
-function normalizeArticle(item) {
-  const urlPath = item.url_path || item.path || item.slug || '';
-  let full = urlPath;
-  if (!full.startsWith('http')) {
-    try {
-      full = new URL(urlPath, baseURL).toString();
-    } catch {
-      full = baseURL + (urlPath.startsWith('/') ? urlPath : '/' + urlPath);
-    }
-  }
-  const pub = item.first_published_at || item.published_at || item.published || null;
-  const title = item.title || item.sub_title || item.slug || 'No title';
-  const summary = item.summary || item.excerpt || item.description || '';
+function normalize(item){
+  const path = item.url_path || item.path || item.slug || '';
+  const url = path.startsWith('http') ? path : baseURL + (path.startsWith('/') ? path : '/' + path);
   return {
-    id: item.id || md5Hex(title + full + (pub || '')),
-    title: title,
-    summary: summary,
-    url: full,
-    first_published_at: pub,
+    id: item.id || md5(item.title + url + (item.first_published_at||'')),
+    title: item.title || item.sub_title || 'No title',
+    summary: item.summary || item.excerpt || item.description || '',
+    url,
+    first_published_at: item.first_published_at || item.published_at || null,
     live: (typeof item.live === 'boolean') ? item.live : true,
     raw: item
   };
 }
 
-// === network with retries and timeout ===
-async function fetchWithRetries(url, opts = {}, retries = maxRetries) {
-  let attempt = 0;
-  let lastErr = null;
-  while (attempt < retries) {
-    attempt++;
+async function fetchWithRetry(url, retries = maxRetries){
+  let last = null;
+  for(let attempt=1; attempt<=retries; attempt++){
     const ac = new AbortController();
-    const id = setTimeout(() => ac.abort(), timeoutMs);
-    try {
-      const res = await fetch(url, {
-        method: 'GET',
-        headers: Object.assign({ 'User-Agent': userAgent, Accept: 'application/json, text/*;q=0.2' }, opts.headers || {}),
-        signal: ac.signal,
-      });
+    const id = setTimeout(()=>ac.abort(), timeoutMs);
+    try{
+      const res = await fetch(url, { method: 'GET', headers: { 'User-Agent': UA, Accept: 'application/json,text/*;q=0.2' }, signal: ac.signal });
       clearTimeout(id);
-
-      const text = await res.text().catch(() => '');
-      if (isHtmlResponse(text, res.headers)) {
-        lastErr = new Error(`HTML response (status ${res.status})`);
-        // include snippet for debugging
-        lastErr.snippet = text.slice(0, 400);
-        if (res.status >= 500) {
-          // server error -> retry
-          throw lastErr;
-        } else {
-          // non-500 (404/403) - treat as final (no retry)
-          throw lastErr;
-        }
-      }
-
-      // try parse
-      const json = safeJSONParse(text) || (() => { try { return JSON.parse(text); } catch(e){ return null; } })();
-      if (!json) {
-        const e = new Error(`Invalid JSON from ${url}`);
-        e.snippet = text.slice(0, 400);
+      const text = await res.text().catch(()=> '');
+      if (isHtml(text, res.headers)) {
+        const e = new Error(`HTML response status=${res.status}`);
+        e.snippet = text.slice(0,400);
         throw e;
       }
-
-      return { ok: true, data: json };
-
-    } catch (err) {
+      const json = safeParse(text) || (()=>{ try { return JSON.parse(text); } catch { return null; } })();
+      if(!json) { const e = new Error('Invalid JSON'); e.snippet = text.slice(0,400); throw e; }
+      return { ok: true, status: res.status, json, rawSnippet: String(text).slice(0,800) };
+    } catch(err){
       clearTimeout(id);
-      lastErr = err;
-      const isAbort = err.name === 'AbortError' || /timeout/i.test(err.message);
-      const isNetwork = err.type === 'system' || /network|ECONNRESET|ECONNREFUSED|ENOTFOUND/i.test(err.message);
-      // retry for network, 5xx or timeout; do not retry for 4xx or HTML non-500
-      const shouldRetry = isAbort || isNetwork || /HTML response|status 5/.test(String(err.message)) || (err && err.message && /status 5/i.test(err.message));
-      if (!shouldRetry || attempt >= retries) break;
-      const backoff = 500 * Math.pow(2, attempt - 1);
-      await new Promise(r => setTimeout(r, backoff));
+      last = err;
+      const shouldRetry = /timeout|AbortError|ECONNRESET|ECONNREFUSED|ENOTFOUND|network/i.test(String(err.message)) || String(err.message).includes('status=5') || String(err.message).includes('HTML response');
+      if(!shouldRetry || attempt === retries) break;
+      await new Promise(r => setTimeout(r, 300 * Math.pow(2, attempt)));
     }
   }
-  return { ok: false, error: lastErr };
+  return { ok:false, error: last };
 }
 
-// chunked concurrency executor
-async function fetchAllUrls(urls, concurrency = 4) {
-  const results = [];
-  for (let i = 0; i < urls.length; i += concurrency) {
-    const slice = urls.slice(i, i + concurrency);
-    const promises = slice.map(async (url) => {
-      const res = await fetchWithRetries(url);
-      return { url, ...res };
-    });
-    const chunk = await Promise.all(promises);
-    results.push(...chunk);
+async function fetchAll(urls, concurrency = 4){
+  const out = [];
+  for(let i=0;i<urls.length;i+=concurrency){
+    const batch = urls.slice(i, i+concurrency).map(u => fetchWithRetry(u).then(r => ({ url: u, ...r })));
+    const results = await Promise.all(batch);
+    out.push(...results);
   }
-  return results;
+  return out;
 }
 
-// extract items from one API JSON response robustly
-function extractItemsFromJson(json) {
-  if (!json) return [];
-  // common direct shapes
-  if (Array.isArray(json.posts)) return json.posts;
-  if (Array.isArray(json.items)) return json.items;
-  if (json.content) {
-    if (Array.isArray(json.content.items)) return json.content.items;
-    if (Array.isArray(json.content.posts)) return json.content.posts;
-    if (Array.isArray(json.content.sections)) {
-      return json.content.sections.flatMap(sec => Array.isArray(sec.items) ? sec.items : []);
-    }
+function generateRSS(items){
+  const now = new Date().toUTCString();
+  let rss = '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel>\n';
+  rss += `<title>Bonikbarta Combined Feed</title>\n<link>${xmlEscape(baseURL)}</link>\n<description>Combined</description>\n<language>bn</language>\n<lastBuildDate>${now}</lastBuildDate>\n`;
+  for(const it of items){
+    const pub = it.first_published_at ? toRfc822(it.first_published_at.replace(' ', 'T')) : now;
+    rss += `<item>\n<title>${xmlEscape(it.title)}</title>\n<link>${xmlEscape(it.url)}</link>\n<description><![CDATA[${it.summary||''}]]></description>\n<pubDate>${pub}</pubDate>\n<guid isPermaLink="false">${md5(it.id+'|'+it.url)}</guid>\n</item>\n`;
   }
-  // generic deep-scan heuristics
-  const arrays = findArticleArrays(json, 0, 4);
-  if (arrays.length) {
-    // prefer first reasonably sized array
-    arrays.sort((a, b) => b.length - a.length);
-    return arrays[0];
-  }
-  return [];
-}
-
-// === RSS generation ===
-function generateRSS(items) {
-  const nowUTC = new Date().toUTCString();
-  let rss = '<?xml version="1.0" encoding="UTF-8"?>\n' +
-    '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n' +
-    '  <channel>\n' +
-    '    <title>Bonikbarta Combined Feed</title>\n' +
-    `    <link>${xmlEscape(baseURL)}</link>\n` +
-    '    <atom:link href="' + xmlEscape(baseURL + '/feed.xml') + '" rel="self" type="application/rss+xml"/>\n' +
-    '    <description>Latest articles from Bonikbarta</description>\n' +
-    '    <language>bn</language>\n' +
-    '    <lastBuildDate>' + nowUTC + '</lastBuildDate>\n' +
-    '    <generator>Robust RSS Generator</generator>\n';
-
-  for (const it of items) {
-    const pubDate = it.first_published_at ? toRfc822(it.first_published_at.replace(' ', 'T')) : nowUTC;
-    const title = xmlEscape(it.title);
-    const link = xmlEscape(it.url);
-    const desc = it.summary || '';
-    const guid = md5Hex((it.id || '') + '|' + it.url + '|' + (it.first_published_at || ''));
-    rss += '    <item>\n' +
-      '      <title>' + title + '</title>\n' +
-      '      <link>' + link + '</link>\n' +
-      '      <description><![CDATA[' + desc + ']]></description>\n' +
-      '      <pubDate>' + pubDate + '</pubDate>\n' +
-      '      <guid isPermaLink="false">' + guid + '</guid>\n' +
-      '    </item>\n';
-  }
-
-  rss += '  </channel>\n</rss>';
+  rss += '</channel></rss>';
   return rss;
 }
 
-// === main ===
-(async function main() {
-  const date = getBDDate();
-  const apiURLs = pages.map(p => `${baseURL}/api/print-edition-page/${p}?root_path=${rootPath}&date=${date}`);
+(async function main(){
+  const date = getBDDate(0);
+  const prevDate = getBDDate(-1);
+  const withDateURLs = pages.map(p => `${baseURL}/api/print-edition-page/${p}?root_path=${rootPath}&date=${date}`);
+  const withoutDateURLs = pages.map(p => `${baseURL}/api/print-edition-page/${p}?root_path=${rootPath}`);
+  const prevDateURLs = pages.map(p => `${baseURL}/api/print-edition-page/${p}?root_path=${rootPath}&date=${prevDate}`);
 
-  console.log(`Fetching ${apiURLs.length} endpoints for date ${date} with concurrency ${concurrency}...`);
+  // first try with date
+  const fetchedWithDate = await fetchAll(withDateURLs, concurrency);
 
-  const fetched = await fetchAllUrls(apiURLs, concurrency);
+  // build debug entries and decide fallback fetches
+  const debug = [];
+  const allRaw = [];
 
-  let allItems = [];
-  for (const res of fetched) {
-    if (!res.ok) {
-      console.error(`[WARN] Failed ${res.url}:`, res.error && (res.error.message || res.error));
-      if (res.error && res.error.snippet) {
-        console.error('  snippet:', res.error.snippet.replace(/\n/g, '\\n').slice(0, 360));
+  for (let i = 0; i < fetchedWithDate.length; i++){
+    const item = fetchedWithDate[i];
+    const page = pages[i];
+    const entry = { page, url_with_date: item.url, ok: !!item.ok, status: item.status || null, postsFound: 0, liveFound:0, sample: [], rawSnippet: item.rawSnippet || null, fallback: null, fallbackResult: null, error: item.error ? String(item.error.message || item.error) : null };
+    if(item.ok){
+      const rawItems = findArticles(item.json);
+      entry.postsFound = rawItems.length;
+      const normalized = rawItems.map(normalize);
+      entry.liveFound = normalized.filter(x=>x.live).length;
+      entry.sample = normalized.slice(0,3).map(s => ({ id: s.id, title: s.title, live: s.live, url: s.url, first_published_at: s.first_published_at }));
+      allRaw.push(...normalized);
+    }
+    // if no posts found, try without date then prev date
+    if(entry.postsFound === 0){
+      // try without date
+      const noDateRes = await fetchWithRetry(withoutDateURLs[i]);
+      entry.fallback = 'without_date';
+      if(noDateRes.ok){
+        const raws = findArticles(noDateRes.json).map(normalize);
+        entry.fallbackResult = { ok: true, postsFound: raws.length, liveFound: raws.filter(x=>x.live).length, sample: raws.slice(0,3).map(s=>({id:s.id,title:s.title,live:s.live,url:s.url,first_published_at:s.first_published_at})) };
+        allRaw.push(...raws);
+      } else {
+        // try prev date
+        const prevRes = await fetchWithRetry(prevDateURLs[i]);
+        entry.fallback = 'prev_date';
+        if(prevRes.ok){
+          const raws = findArticles(prevRes.json).map(normalize);
+          entry.fallbackResult = { ok: true, postsFound: raws.length, liveFound: raws.filter(x=>x.live).length, sample: raws.slice(0,3).map(s=>({id:s.id,title:s.title,live:s.live,url:s.url,first_published_at:s.first_published_at})) };
+          allRaw.push(...raws);
+        } else {
+          entry.fallbackResult = { ok: false, error: String(prevRes.error || noDateRes.error || 'no response') };
+        }
       }
-      continue;
     }
-    try {
-      const json = res.data;
-      const rawItems = extractItemsFromJson(json) || [];
-      const normalized = rawItems.map(normalizeArticle);
-      allItems.push(...normalized);
-    } catch (e) {
-      console.error(`[WARN] extraction failed for ${res.url}:`, e && e.message);
-    }
+    debug.push(entry);
   }
 
-  // filter only live/published items, remove duplicates (by id or url), sort desc by date
+  // dedupe & filter live
   const byKey = new Map();
-  for (const it of allItems) {
-    if (!it) continue;
-    if (it.live === false) continue; // skip unpublished
-    const key = it.id || it.url || md5Hex(it.title + (it.first_published_at || ''));
-    if (!byKey.has(key)) byKey.set(key, it);
-    else {
-      // keep the one with pub date or longer summary
-      const existing = byKey.get(key);
-      if (!existing.first_published_at && it.first_published_at) byKey.set(key, it);
-      else if ((it.summary || '').length > (existing.summary || '').length) byKey.set(key, it);
-    }
+  for(const it of allRaw){
+    if(it.live === false) continue;
+    const key = it.id || it.url || md5(it.title + (it.first_published_at||''));
+    if(!byKey.has(key)) byKey.set(key, it);
   }
+  const final = Array.from(byKey.values()).sort((a,b)=> (b.first_published_at ? new Date(b.first_published_at.replace(' ','T')) : 0) - (a.first_published_at ? new Date(a.first_published_at.replace(' ','T')) : 0));
 
-  const final = Array.from(byKey.values()).sort((a, b) => {
-    const da = a.first_published_at ? new Date(a.first_published_at.replace(' ', 'T')) : new Date(0);
-    const db = b.first_published_at ? new Date(b.first_published_at.replace(' ', 'T')) : new Date(0);
-    return db - da;
-  });
+  fs.writeFileSync('feed.xml', generateRSS(final), 'utf8');
+  fs.writeFileSync('debug_report.json', JSON.stringify({ dateChecked: new Date().toISOString(), dateParamUsed: date, pages, results: debug, totalRawFetched: allRaw.length, includedInFeed: final.length }, null, 2), 'utf8');
 
-  const rssContent = generateRSS(final);
-  fs.writeFileSync('feed.xml', rssContent, { encoding: 'utf8' });
-  console.log(`RSS feed generated with ${final.length} articles (saved to feed.xml).`);
-})().catch(err => {
-  console.error('Fatal error:', err && err.stack ? err.stack : err);
-  process.exitCode = 1;
-});
+  console.log(`done. raw fetched: ${allRaw.length}. included: ${final.length}. files: feed.xml, debug_report.json`);
+})();
