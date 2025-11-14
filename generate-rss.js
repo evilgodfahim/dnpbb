@@ -2,145 +2,144 @@ const fs = require("fs");
 const crypto = require("crypto");
 const { chromium } = require("playwright");
 
-// Pages 3–20
-const pages = Array.from({ length: 18 }, (_, i) => i + 3);
+// Base URL
+const BASE = "https://bonikbarta.com";
+
+// Pages to fetch (API pages)
+const PAGES = Array.from({ length: 18 }, (_, i) => i + 3);
+
+// Root path (constant in API)
+const ROOT_PATH = "00000000010000000001";
 
 // Bangladesh date (UTC+6)
 function getBDDate() {
   const now = new Date();
-  const bd = new Date(now.getTime() + 6 * 60 * 60 * 1000);
-  return bd.toISOString().split("T")[0];
+  return new Date(now.getTime() + 6 * 3600 * 1000)
+    .toISOString()
+    .split("T")[0];
 }
 
-// Hash generator
+// Hash for deduplication
 function hash(str) {
-  return crypto.createHash("sha256").update(str).digest("hex");
+  return crypto.createHash("md5").update(str).digest("hex");
 }
 
-// Launch browser with robust anti-detection settings
-async function launchBrowser() {
-  return chromium.launch({
-    headless: true,
-    args: [
-      "--disable-blink-features=AutomationControlled",
-      "--no-sandbox",
-      "--disable-dev-shm-usage",
-      "--disable-gpu"
-    ]
-  });
+// Load previous GUIDs
+function loadSeen() {
+  if (!fs.existsSync("seen.json")) return {};
+  return JSON.parse(fs.readFileSync("seen.json", "utf8"));
 }
 
-// Fetch JSON using browser execution, bypassing Cloudflare
-async function browserJSON(page, url) {
-  try {
-    const raw = await page.evaluate(async (fetchUrl) => {
-      const res = await fetch(fetchUrl, {
-        method: "GET",
-        headers: {
-          "Accept": "application/json, text/plain, */*",
-          "User-Agent": navigator.userAgent
-        }
-      });
-      return await res.text();
-    }, url);
-
-    try {
-      return JSON.parse(raw);
-    } catch (err) {
-      console.log("NON-JSON RESPONSE RECEIVED <<<");
-      console.log(raw.substring(0, 300));
-      console.log("<<< END NON-JSON");
-      return null;
-    }
-  } catch (err) {
-    console.log("REQUEST FAILED:", url);
-    console.log(err);
-    return null;
-  }
+// Save seen GUIDs
+function saveSeen(seen) {
+  fs.writeFileSync("seen.json", JSON.stringify(seen, null, 2));
 }
 
-// Fetch all print-edition pages robustly
-async function fetchAll() {
-  const browser = await launchBrowser();
-  const context = await browser.newContext({
-    userAgent:
-      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127 Safari/537.36",
-    viewport: { width: 1366, height: 768 }
-  });
+// Convert API post to RSS item
+function postToRSSItem(post) {
+  const title = post.title || "No title";
+  const link = BASE + (post.url_path || "/");
+  const description = post.summary || post.sub_title || "No description";
+  const pubDate = post.first_published_at
+    ? new Date(post.first_published_at).toUTCString()
+    : new Date().toUTCString();
+  const guid = hash(title + description + post.first_published_at);
 
-  const page = await context.newPage();
-
-  const date = getBDDate();
-  const root = "00000000010000000001";
-
-  const collected = [];
-
-  for (const p of pages) {
-    const url = `https://bonikbarta.com/api/print-edition-page/${p}?root_path=${root}&date=${date}`;
-
-    console.log("Fetching:", url);
-
-    const json = await browserJSON(page, url);
-
-    if (!json || !json.data || !Array.isArray(json.data.print_edition_page_items)) {
-      continue;
-    }
-
-    json.data.print_edition_page_items.forEach((x) => {
-      const link = "https://bonikbarta.com" + (x.url || "");
-
-      collected.push({
-        title: x.title || "No title",
-        link,
-        description: x.sub_title || "",
-        pubDate: x.created_at || new Date().toISOString(),
-        guid: hash(link)
-      });
-    });
-  }
-
-  await browser.close();
-  return collected;
+  return { title, link, description, pubDate, guid };
 }
 
-// Build RSS
+// Generate RSS XML
 function generateRSS(items) {
   const header = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>Bonik Barta Print Edition</title>
-<link>https://bonikbarta.com/</link>
-<description>Daily print edition auto-extracted feed</description>
-<lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+  <title>Bonikbarta Combined Feed</title>
+  <link>${BASE}</link>
+  <description>Latest articles from Bonikbarta</description>
+  <language>bn</language>
+  <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+  <generator>GitHub Actions RSS Generator</generator>
 `;
 
   const body = items
     .map(
-      (item) => `
-<item>
-<title><![CDATA[${item.title}]]></title>
-<link>${item.link}</link>
-<description><![CDATA[${item.description}]]></description>
-<pubDate>${new Date(item.pubDate).toUTCString()}</pubDate>
-<guid>${item.guid}</guid>
-</item>`
+      (i) => `
+  <item>
+    <title><![CDATA[${i.title}]]></title>
+    <link>${i.link}</link>
+    <description><![CDATA[${i.description}]]></description>
+    <pubDate>${i.pubDate}</pubDate>
+    <guid isPermaLink="false">${i.guid}</guid>
+  </item>`
     )
     .join("");
 
-  return header + body + `
+  const footer = `
 </channel>
 </rss>`;
+
+  return header + body + footer;
 }
 
-// MAIN
-async function main() {
-  const items = await fetchAll();
-  console.log("TOTAL ITEMS:", items.length);
+// Fetch JSON via Playwright to bypass Cloudflare
+async function fetchJSON(page, url) {
+  try {
+    const text = await page.evaluate(async (u) => {
+      const r = await fetch(u, { headers: { Accept: "application/json" } });
+      return await r.text();
+    }, url);
 
-  const rss = generateRSS(items.slice(0, 500));
-  fs.writeFileSync("feed.xml", rss, "utf8");
+    try {
+      return JSON.parse(text);
+    } catch (err) {
+      console.log("NON-JSON RESPONSE:", url);
+      console.log(text.substring(0, 300));
+      return null;
+    }
+  } catch (err) {
+    console.log("REQUEST FAILED:", url, err);
+    return null;
+  }
+}
 
+// Main function
+(async () => {
+  const browser = await chromium.launch({ headless: true });
+  const context = await browser.newContext({
+    userAgent:
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/127 Safari/537.36",
+  });
+  const page = await context.newPage();
+
+  const seen = loadSeen();
+  const today = getBDDate();
+  const collected = [];
+
+  for (const p of PAGES) {
+    const url = `${BASE}/api/print-edition-page/${p}?root_path=${ROOT_PATH}&date=${today}`;
+    console.log("Fetching:", url);
+
+    const data = await fetchJSON(page, url);
+    if (!data || !Array.isArray(data.posts)) continue;
+
+    for (const post of data.posts) {
+      const rssItem = postToRSSItem(post);
+      if (!seen[rssItem.guid]) {
+        collected.push(rssItem);
+      }
+      seen[rssItem.guid] = today;
+    }
+  }
+
+  await browser.close();
+
+  saveSeen(seen);
+
+  collected.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+  const xml = generateRSS(collected.slice(0, 500));
+  fs.writeFileSync("feed.xml", xml, "utf8");
+
+  console.log("TOTAL ITEMS:", collected.length);
   console.log("feed.xml updated.");
-}
-
-main();
+})();
