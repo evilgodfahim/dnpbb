@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Bonikbarta Print Edition Feed</title>
-    <link>https://harmonious-froyo-665879.netlify.app/</link>
-    <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>Latest articles from Bonikbarta Print Edition</description>
-    <language>bn</language>
-    <lastBuildDate>Fri, 14 Nov 2025 04:15:32 GMT</lastBuildDate>
-    <generator>GitHub Actions RSS Generator</generator>
-  </channel>
+<rss version="2.0">
+<channel>
+<title>Bonik Barta Print Edition</title>
+<link>https://bonikbarta.com</link>
+<description>Daily print edition auto-extracted feed</description>
+<lastBuildDate>Fri, 14 Nov 2025 04:49:36 GMT</lastBuildDate>
+
+</channel>
 </rss>
