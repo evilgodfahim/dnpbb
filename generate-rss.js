@@ -1,6 +1,5 @@
 const fs = require('fs');
 const crypto = require('crypto');
-const fetch = require('node-fetch');
 
 // Base URL
 const baseURL = "https://bonikbarta.com";
@@ -8,19 +7,19 @@ const baseURL = "https://bonikbarta.com";
 // Pages 3–20
 const pages = Array.from({ length: 18 }, (_, i) => i + 3);
 
-// Get today's date in BD (UTC+6)
+// Bangladesh date (UTC+6)
 function getBDDate() {
   const now = new Date();
-  const bdTime = new Date(now.getTime() + 6 * 60 * 60 * 1000);
-  return bdTime.toISOString().split('T')[0];
+  const bd = new Date(now.getTime() + 6 * 60 * 60 * 1000);
+  return bd.toISOString().split("T")[0];
 }
 
 // Hash generator
 function hash(str) {
-  return crypto.createHash('sha256').update(str).digest('hex');
+  return crypto.createHash("sha256").update(str).digest("hex");
 }
 
-// Fetch JSON safely
+// Fetch JSON — prints raw body if not JSON
 async function fetchJSON(url) {
   try {
     const res = await fetch(url, {
@@ -46,12 +45,12 @@ async function fetchJSON(url) {
   }
 }
 
-// Fetch all pages
+// Fetch all print-edition pages
 async function fetchAll() {
   const date = getBDDate();
   const root = "00000000010000000001";
 
-  const all = [];
+  const collected = [];
 
   for (const page of pages) {
     const url = `${baseURL}/api/print-edition-page/${page}?root_path=${root}&date=${date}`;
@@ -69,13 +68,13 @@ async function fetchAll() {
       guid: hash(baseURL + (x.url || ""))
     }));
 
-    all.push(...items);
+    collected.push(...items);
   }
 
-  return all;
+  return collected;
 }
 
-// Generate RSS XML
+// Build RSS XML
 function generateRSS(items) {
   const header = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
@@ -93,20 +92,22 @@ function generateRSS(items) {
 <description><![CDATA[${item.description}]]></description>
 <pubDate>${new Date(item.pubDate).toUTCString()}</pubDate>
 <guid>${item.guid}</guid>
-</item>`).join('\n');
+</item>
+`).join("");
 
-  return header + body + `\n</channel>\n</rss>`;
+  return header + body + `
+</channel>
+</rss>`;
 }
 
 // MAIN
 async function main() {
   const items = await fetchAll();
-
   console.log(`TOTAL ITEMS FETCHED: ${items.length}`);
 
-  const final = generateRSS(items.slice(0, 500));
+  const rss = generateRSS(items.slice(0, 500));
 
-  fs.writeFileSync('feed.xml', final, 'utf8');
+  fs.writeFileSync("feed.xml", rss, "utf8");
 
   console.log("feed.xml updated.");
 }
