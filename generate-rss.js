@@ -38,7 +38,12 @@ function saveSeen(seen) {
 // Convert API post to RSS item
 function postToRSSItem(post) {
   const title = post.title || "No title";
-  const link = BASE + (post.url_path || "/");
+  
+  // Clean up the URL path - remove /home/ prefix if it exists
+  let urlPath = post.url_path || "/";
+  urlPath = urlPath.replace(/^\/home\//, '/');
+  
+  const link = BASE + urlPath;
   const description = post.summary || post.sub_title || "No description";
   const pubDate = post.first_published_at
     ? new Date(post.first_published_at).toUTCString()
