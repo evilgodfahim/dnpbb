@@ -2,7 +2,7 @@ name: generate-rss
 
 on:
   schedule:
-    - cron: "0 * * * *"   # runs every 30 minutes
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v3
 
       - name: Setup Node
@@ -18,24 +18,26 @@ jobs:
         with:
           node-version: "18"
 
-      - name: Install Playwright Browsers
-        uses: microsoft/playwright-github-action@v1
-
-      - name: Install dependencies
+      - name: Install Node dependencies
         run: |
           npm install playwright
 
-      - name: Run RSS generator
+      - name: Install Playwright Browsers (manual noble-safe method)
+        run: |
+          npx playwright install --with-deps chromium
+
+      - name: Run generator
         run: node generate-rss.js
 
-      - name: Commit & Push feed.xml
+      - name: Commit feed.xml
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+
           git add feed.xml
-          
+
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No changes."
           else
             git commit -m "Update feed.xml"
             git push
