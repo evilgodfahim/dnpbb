@@ -1,48 +1,42 @@
-name: Update RSS Feed and HTML
+name: generate-rss
 
 on:
   schedule:
-    - cron: '0 * * * *' # every hour
+    - cron: "0 * * * *"   # runs every 30 minutes
   workflow_dispatch:
 
 jobs:
-  update-feed:
+  run:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      # 1. Checkout repository
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      # 2. Setup Node.js
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Setup Node
+        uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: "18"
 
-      # 3. Generate RSS Feed
-      - name: Generate RSS Feed
-        run: node generate-rss.js || exit 1
+      - name: Install Playwright Browsers
+        uses: microsoft/playwright-github-action@v1
 
-      # 4. Generate PolitePol HTML
-      - name: Generate PolitePol HTML
-        run: node generate-plain-index.js || exit 1
-
-      # 5. Configure Git
-      - name: Configure Git
+      - name: Install dependencies
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          npm install playwright
 
-      # 6. Commit RSS and HTML if changed
-      - name: Add, commit, and push RSS & HTML
+      - name: Run RSS generator
+        run: node generate-rss.js
+
+      - name: Commit & Push feed.xml
         run: |
-          git add feed.xml index-plain.html
-          bash -c 'if git diff --staged --quiet; then
-            echo "✅ No changes to commit"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add feed.xml
+          
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
           else
-            git commit -m "🔄 Update RSS feed and HTML - $(date +%Y-%m-%d\ %H:%M:%S)"
+            git commit -m "Update feed.xml"
             git push
-          fi'
+          fi
