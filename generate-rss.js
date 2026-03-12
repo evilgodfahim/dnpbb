@@ -73,7 +73,6 @@ function pruneSeen(seen) {
 
   const cutoffMs = todayDate.getTime() - SEEN_RETENTION_DAYS * 24 * 3600 * 1000;
 
-  // Helper to prune a map of key -> ymd
   function pruneMap(map) {
     if (!map) return {};
     for (const k of Object.keys(map)) {
@@ -94,6 +93,37 @@ function pruneSeen(seen) {
 function saveSeen(seen) {
   pruneSeen(seen);
   fs.writeFileSync("seen.json", JSON.stringify(seen, null, 2));
+}
+
+// Load existing RSS items from feed.xml
+function loadExistingItems() {
+  if (!fs.existsSync("feed.xml")) return [];
+  try {
+    const xml = fs.readFileSync("feed.xml", "utf8");
+    const items = [];
+    const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+    let match;
+    while ((match = itemRegex.exec(xml)) !== null) {
+      const block = match[1];
+      const get = (tag) => {
+        const m = block.match(
+          new RegExp(`<${tag}(?:[^>]*)>(?:<!\\[CDATA\\[)?([\\s\\S]*?)(?:\\]\\]>)?<\\/${tag}>`)
+        );
+        return m ? m[1].trim() : "";
+      };
+      items.push({
+        title: get("title"),
+        link: get("link"),
+        description: get("description"),
+        pubDate: get("pubDate"),
+        guid: get("guid"),
+      });
+    }
+    return items;
+  } catch (err) {
+    console.log("Failed to parse feed.xml, starting fresh.", err);
+    return [];
+  }
 }
 
 // Convert API post to RSS item
@@ -178,8 +208,7 @@ async function fetchJSON(page, url) {
   });
   const page = await context.newPage();
 
-  const seen = loadSeen(); // { guids: {...}, links: {...} }
-  // prune immediately in case file has old entries
+  const seen = loadSeen();
   pruneSeen(seen);
 
   const today = getBDDate();
@@ -197,7 +226,6 @@ async function fetchJSON(page, url) {
       const guid = rssItem.guid;
       const link = rssItem.link;
 
-      // Deduplicate by guid OR by link
       const seenByGuid = Boolean(seen.guids && seen.guids[guid]);
       const seenByLink = Boolean(seen.links && seen.links[link]);
 
@@ -205,7 +233,6 @@ async function fetchJSON(page, url) {
         collected.push(rssItem);
       }
 
-      // Mark both guid and link as seen with today's BD date
       seen.guids = seen.guids || {};
       seen.links = seen.links || {};
       seen.guids[guid] = today;
@@ -215,14 +242,28 @@ async function fetchJSON(page, url) {
 
   await browser.close();
 
-  // Save seen after processing; saveSeen will prune old entries before writing
   saveSeen(seen);
+
+  // Load existing feed and merge, deduplicating by guid and link
+  const existingItems = loadExistingItems();
+
+  const seenGuids = new Set(collected.map((i) => i.guid));
+  const seenLinks = new Set(collected.map((i) => i.link));
+
+  for (const item of existingItems) {
+    if (!seenGuids.has(item.guid) && !seenLinks.has(item.link)) {
+      collected.push(item);
+      seenGuids.add(item.guid);
+      seenLinks.add(item.link);
+    }
+  }
 
   collected.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
   const xml = generateRSS(collected.slice(0, 500));
   fs.writeFileSync("feed.xml", xml, "utf8");
 
-  console.log("TOTAL ITEMS:", collected.length);
+  console.log("NEW ITEMS:", collected.filter((i) => !existingItems.find((e) => e.guid === i.guid)).length);
+  console.log("TOTAL ITEMS IN FEED:", Math.min(collected.length, 500));
   console.log("feed.xml updated.");
 })();
